@@ -1,0 +1,1327 @@
+{
+  "item_class": "Helmet",
+  "prefixes": [
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "ArmourBreakEffect",
+      "text": "(15—24)% increased effect of Fully Broken Armour"
+    },
+    {
+      "name": "Vorana's",
+      "level": 65,
+      "family": "ArmourBreakEffect",
+      "text": "(25—39)% increased effect of Fully Broken Armour"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "ArmourBreakEffect",
+      "text": "(40—60)% increased effect of Fully Broken Armour"
+    },
+    {
+      "name": "Will-o-wisp's",
+      "level": 1,
+      "family": "BaseLocalDefences",
+      "text": "+(6—10) to Evasion Rating+(5—8) to maximum Energy Shield"
+    },
+    {
+      "name": "Nymph's",
+      "level": 16,
+      "family": "BaseLocalDefences",
+      "text": "+(11—41) to Evasion Rating+(9—15) to maximum Energy Shield"
+    },
+    {
+      "name": "Sylph's",
+      "level": 33,
+      "family": "BaseLocalDefences",
+      "text": "+(42—64) to Evasion Rating+(16—21) to maximum Energy Shield"
+    },
+    {
+      "name": "Cherub's",
+      "level": 46,
+      "family": "BaseLocalDefences",
+      "text": "+(65—78) to Evasion Rating+(22—25) to maximum Energy Shield"
+    },
+    {
+      "name": "Spirit's",
+      "level": 54,
+      "family": "BaseLocalDefences",
+      "text": "+(79—94) to Evasion Rating+(26—29) to maximum Energy Shield"
+    },
+    {
+      "name": "Poet's",
+      "level": 8,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(6—13)% increased Evasion and Energy Shield+(7—10) to maximum Life"
+    },
+    {
+      "name": "Musician's",
+      "level": 16,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(14—20)% increased Evasion and Energy Shield+(11—19) to maximum Life"
+    },
+    {
+      "name": "Troubadour's",
+      "level": 33,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(21—26)% increased Evasion and Energy Shield+(20—25) to maximum Life"
+    },
+    {
+      "name": "Bard's",
+      "level": 46,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(27—32)% increased Evasion and Energy Shield+(26—32) to maximum Life"
+    },
+    {
+      "name": "Minstrel's",
+      "level": 60,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(33—38)% increased Evasion and Energy Shield+(33—41) to maximum Life"
+    },
+    {
+      "name": "Maestro's",
+      "level": 78,
+      "family": "BaseLocalDefencesAndLife",
+      "text": "(39—42)% increased Evasion and Energy Shield+(42—49) to maximum Life"
+    },
+    {
+      "name": "Vulture's",
+      "level": 8,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(6—13)% increased Evasion and Energy Shield+(6—8) to maximum Mana"
+    },
+    {
+      "name": "Kingfisher's",
+      "level": 16,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(14—20)% increased Evasion and Energy Shield+(9—16) to maximum Mana"
+    },
+    {
+      "name": "Owl's",
+      "level": 33,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(21—26)% increased Evasion and Energy Shield+(17—20) to maximum Mana"
+    },
+    {
+      "name": "Hawk's",
+      "level": 46,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(27—32)% increased Evasion and Energy Shield+(21—26) to maximum Mana"
+    },
+    {
+      "name": "Eagle's",
+      "level": 60,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(33—38)% increased Evasion and Energy Shield+(27—32) to maximum Mana"
+    },
+    {
+      "name": "Falcon's",
+      "level": 78,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(39—42)% increased Evasion and Energy Shield+(33—39) to maximum Mana"
+    },
+    {
+      "name": "Shadowy",
+      "level": 2,
+      "family": "DefencesPercent",
+      "text": "(15—26)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Ethereal",
+      "level": 16,
+      "family": "DefencesPercent",
+      "text": "(27—42)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Lesser Essence of Enhancement",
+      "level": 16,
+      "family": "DefencesPercent",
+      "text": "(27—42)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Unworldly",
+      "level": 33,
+      "family": "DefencesPercent",
+      "text": "(43—55)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Ephemeral",
+      "level": 46,
+      "family": "DefencesPercent",
+      "text": "(56—67)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Essence of Enhancement",
+      "level": 46,
+      "family": "DefencesPercent",
+      "text": "(56—67)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Evanescent",
+      "level": 54,
+      "family": "DefencesPercent",
+      "text": "(68—79)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Greater Essence of Enhancement",
+      "level": 54,
+      "family": "DefencesPercent",
+      "text": "(68—79)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Unreal",
+      "level": 60,
+      "family": "DefencesPercent",
+      "text": "(80—91)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Illusory",
+      "level": 65,
+      "family": "DefencesPercent",
+      "text": "(92—100)% increased Evasion and Energy Shield"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "GloryGeneration",
+      "text": "(20—49)% increased Glory generation"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "GloryGeneration",
+      "text": "(50—85)% increased Glory generation"
+    },
+    {
+      "name": "Precise",
+      "level": 1,
+      "family": "IncreasedAccuracy",
+      "text": "+(11—32) to Accuracy Rating"
+    },
+    {
+      "name": "Reliable",
+      "level": 11,
+      "family": "IncreasedAccuracy",
+      "text": "+(33—60) to Accuracy Rating"
+    },
+    {
+      "name": "Focused",
+      "level": 18,
+      "family": "IncreasedAccuracy",
+      "text": "+(61—84) to Accuracy Rating"
+    },
+    {
+      "name": "Deliberate",
+      "level": 26,
+      "family": "IncreasedAccuracy",
+      "text": "+(85—123) to Accuracy Rating"
+    },
+    {
+      "name": "Consistent",
+      "level": 36,
+      "family": "IncreasedAccuracy",
+      "text": "+(124—167) to Accuracy Rating"
+    },
+    {
+      "name": "Steady",
+      "level": 48,
+      "family": "IncreasedAccuracy",
+      "text": "+(168—236) to Accuracy Rating"
+    },
+    {
+      "name": "Hunter's",
+      "level": 58,
+      "family": "IncreasedAccuracy",
+      "text": "+(237—346) to Accuracy Rating"
+    },
+    {
+      "name": "Ranger's",
+      "level": 67,
+      "family": "IncreasedAccuracy",
+      "text": "+(347—450) to Accuracy Rating"
+    },
+    {
+      "name": "Amazon's",
+      "level": 76,
+      "family": "IncreasedAccuracy",
+      "text": "+(451—550) to Accuracy Rating"
+    },
+    {
+      "name": "Hale",
+      "level": 1,
+      "family": "IncreasedLife",
+      "text": "+(10—19) to maximum Life"
+    },
+    {
+      "name": "Healthy",
+      "level": 6,
+      "family": "IncreasedLife",
+      "text": "+(20—29) to maximum Life"
+    },
+    {
+      "name": "Sanguine",
+      "level": 16,
+      "family": "IncreasedLife",
+      "text": "+(30—39) to maximum Life"
+    },
+    {
+      "name": "Lesser Essence of the Body",
+      "level": 16,
+      "family": "IncreasedLife",
+      "text": "+(30—39) to maximum Life"
+    },
+    {
+      "name": "Stalwart",
+      "level": 24,
+      "family": "IncreasedLife",
+      "text": "+(40—59) to maximum Life"
+    },
+    {
+      "name": "Stout",
+      "level": 33,
+      "family": "IncreasedLife",
+      "text": "+(60—69) to maximum Life"
+    },
+    {
+      "name": "Robust",
+      "level": 38,
+      "family": "IncreasedLife",
+      "text": "+(70—84) to maximum Life"
+    },
+    {
+      "name": "Rotund",
+      "level": 46,
+      "family": "IncreasedLife",
+      "text": "+(85—99) to maximum Life"
+    },
+    {
+      "name": "Essence of the Body",
+      "level": 46,
+      "family": "IncreasedLife",
+      "text": "+(85—99) to maximum Life"
+    },
+    {
+      "name": "Virile",
+      "level": 54,
+      "family": "IncreasedLife",
+      "text": "+(100—119) to maximum Life"
+    },
+    {
+      "name": "Greater Essence of the Body",
+      "level": 54,
+      "family": "IncreasedLife",
+      "text": "+(100—119) to maximum Life"
+    },
+    {
+      "name": "Athlete's",
+      "level": 60,
+      "family": "IncreasedLife",
+      "text": "+(120—149) to maximum Life"
+    },
+    {
+      "name": "Fecund",
+      "level": 65,
+      "family": "IncreasedLife",
+      "text": "+(150—174) to maximum Life"
+    },
+    {
+      "name": "Beryl",
+      "level": 1,
+      "family": "IncreasedMana",
+      "text": "+(10—14) to maximum Mana"
+    },
+    {
+      "name": "Cobalt",
+      "level": 6,
+      "family": "IncreasedMana",
+      "text": "+(15—24) to maximum Mana"
+    },
+    {
+      "name": "Azure",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Lesser Essence of the Mind",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Teal",
+      "level": 25,
+      "family": "IncreasedMana",
+      "text": "+(35—54) to maximum Mana"
+    },
+    {
+      "name": "Cerulean",
+      "level": 33,
+      "family": "IncreasedMana",
+      "text": "+(55—64) to maximum Mana"
+    },
+    {
+      "name": "Aqua",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Essence of the Mind",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Opalescent",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Greater Essence of the Mind",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Gentian",
+      "level": 54,
+      "family": "IncreasedMana",
+      "text": "+(90—104) to maximum Mana"
+    },
+    {
+      "name": "Chalybeous",
+      "level": 60,
+      "family": "IncreasedMana",
+      "text": "+(105—124) to maximum Mana"
+    },
+    {
+      "name": "Mazarine",
+      "level": 65,
+      "family": "IncreasedMana",
+      "text": "+(125—149) to maximum Mana"
+    },
+    {
+      "name": "Magpie's",
+      "level": 10,
+      "family": "ItemFoundRarityIncreasePrefix",
+      "text": "(8—11)% increased Rarity of Items found"
+    },
+    {
+      "name": "Collector's",
+      "level": 29,
+      "family": "ItemFoundRarityIncreasePrefix",
+      "text": "(12—15)% increased Rarity of Items found"
+    },
+    {
+      "name": "Hoarder's",
+      "level": 47,
+      "family": "ItemFoundRarityIncreasePrefix",
+      "text": "(16—19)% increased Rarity of Items found"
+    },
+    {
+      "name": "Sovereign Alloy",
+      "level": 25,
+      "family": "LocalRunicWardPercent",
+      "text": "(24—30)% increased Runic Ward"
+    },
+    {
+      "name": "Expansive Alloy",
+      "level": 25,
+      "family": "ManaCostEfficiency",
+      "text": "(18—29)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "MaximumRage",
+      "text": "+(4—7) to Maximum Rage"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "MaximumRage",
+      "text": "+(8—12) to Maximum Rage"
+    },
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "RageCost",
+      "text": "(20—34)% increased Rage Cost Efficiency"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "RageCost",
+      "text": "(35—60)% increased Rage Cost Efficiency"
+    },
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "WarcryDamage",
+      "text": "(20—34)% increased Damage with Warcries"
+    },
+    {
+      "name": "Vorana's",
+      "level": 65,
+      "family": "WarcryDamage",
+      "text": "(35—49)% increased Damage with Warcries"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "WarcryDamage",
+      "text": "(50—75)% increased Damage with Warcries"
+    },
+    {
+      "name": "Vorana's",
+      "level": 45,
+      "family": "WarcryPower",
+      "text": "(20—34)% increased total Power counted by Warcries"
+    },
+    {
+      "name": "Vorana's",
+      "level": 75,
+      "family": "WarcryPower",
+      "text": "(35—55)% increased total Power counted by Warcries"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "AdditionalComboChance",
+      "text": "(20—39)% chance to build an additional Combo on Hit"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "AdditionalComboChance",
+      "text": "(40—60)% chance to build an additional Combo on Hit"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ArcaneSurgeEffect",
+      "text": "(20—30)% increased effect of Arcane Surge on you"
+    },
+    {
+      "name": "Cyclonic Alloy",
+      "level": 45,
+      "family": "ArchonDuration",
+      "text": "(35—42)% increased Archon Buff duration"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "AreaOfEffect",
+      "text": "Warcry Skills have (15—29)% increased Area of Effect"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "AreaOfEffect",
+      "text": "Warcry Skills have (30—50)% increased Area of Effect"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "ArmourBreakDuration",
+      "text": "(50—99)% increased Armour Break Duration"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "ArmourBreakDuration",
+      "text": "(100—150)% increased Armour Break Duration"
+    },
+    {
+      "name": "of the Lost",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "Lesser Essence of Ruin",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "of Banishment",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "Essence of Ruin",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "of Eviction",
+      "level": 44,
+      "family": "ChaosResistance",
+      "text": "+(12—15)% to Chaos Resistance"
+    },
+    {
+      "name": "of Expulsion",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "Greater Essence of Ruin",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "of Exile",
+      "level": 68,
+      "family": "ChaosResistance",
+      "text": "+(20—23)% to Chaos Resistance"
+    },
+    {
+      "name": "of Bameth",
+      "level": 81,
+      "family": "ChaosResistance",
+      "text": "+(24—27)% to Chaos Resistance"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ColdAndChaosDamageResistance",
+      "text": "+(13—17)% to Cold and Chaos Resistances"
+    },
+    {
+      "name": "Perfect Essence of Thawing",
+      "level": 72,
+      "family": "ColdDamageTakenRecoupedAsLife",
+      "text": "(26—30)% of Cold Damage taken Recouped as Life"
+    },
+    {
+      "name": "of the Seal",
+      "level": 1,
+      "family": "ColdResistance",
+      "text": "+(6—10)% to Cold Resistance"
+    },
+    {
+      "name": "of the Penguin",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "Lesser Essence of Thawing",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "of the Narwhal",
+      "level": 26,
+      "family": "ColdResistance",
+      "text": "+(16—20)% to Cold Resistance"
+    },
+    {
+      "name": "of the Yeti",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "Essence of Thawing",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "of the Walrus",
+      "level": 50,
+      "family": "ColdResistance",
+      "text": "+(26—30)% to Cold Resistance"
+    },
+    {
+      "name": "of the Polar Bear",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "Greater Essence of Thawing",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "of the Ice",
+      "level": 71,
+      "family": "ColdResistance",
+      "text": "+(36—40)% to Cold Resistance"
+    },
+    {
+      "name": "of Haast",
+      "level": 82,
+      "family": "ColdResistance",
+      "text": "+(41—45)% to Cold Resistance"
+    },
+    {
+      "name": "of Menace",
+      "level": 5,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(10—14)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Havoc",
+      "level": 20,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(15—19)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Disaster",
+      "level": 30,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(20—24)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Calamity",
+      "level": 44,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(25—29)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Ruin",
+      "level": 58,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(30—34)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(13—20)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of the Mongoose",
+      "level": 1,
+      "family": "Dexterity",
+      "text": "+(5—8) to Dexterity"
+    },
+    {
+      "name": "of the Lynx",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Dexterity"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Fox",
+      "level": 22,
+      "family": "Dexterity",
+      "text": "+(13—16) to Dexterity"
+    },
+    {
+      "name": "of the Falcon",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Dexterity"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Panther",
+      "level": 44,
+      "family": "Dexterity",
+      "text": "+(21—24) to Dexterity"
+    },
+    {
+      "name": "of the Leopard",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Dexterity"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "Dexterity",
+      "text": "+(9—15) to Dexterity and Intelligence"
+    },
+    {
+      "name": "of the Jaguar",
+      "level": 66,
+      "family": "Dexterity",
+      "text": "+(28—30) to Dexterity"
+    },
+    {
+      "name": "of the Phantom",
+      "level": 74,
+      "family": "Dexterity",
+      "text": "+(31—33) to Dexterity"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ElementalDamageTakenRecoupedAsEnergyShield",
+      "text": "(10—20)% of Elemental Damage taken Recouped as Energy Shield"
+    },
+    {
+      "name": "of Buffering",
+      "level": 48,
+      "family": "EnergyShieldRegeneration",
+      "text": "(16—19)% increased Energy Shield Recharge Rate"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "of Deflecting",
+      "level": 1,
+      "family": "EvasionAppliesToDeflection",
+      "text": "Gain Deflection Rating equal to (8—11)% of Evasion Rating"
+    },
+    {
+      "name": "of Bending",
+      "level": 16,
+      "family": "EvasionAppliesToDeflection",
+      "text": "Gain Deflection Rating equal to (12—14)% of Evasion Rating"
+    },
+    {
+      "name": "of Curvation",
+      "level": 36,
+      "family": "EvasionAppliesToDeflection",
+      "text": "Gain Deflection Rating equal to (15—17)% of Evasion Rating"
+    },
+    {
+      "name": "of Diversion",
+      "level": 48,
+      "family": "EvasionAppliesToDeflection",
+      "text": "Gain Deflection Rating equal to (18—20)% of Evasion Rating"
+    },
+    {
+      "name": "of Flexure",
+      "level": 66,
+      "family": "EvasionAppliesToDeflection",
+      "text": "Gain Deflection Rating equal to (21—23)% of Evasion Rating"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "FireAndChaosDamageResistance",
+      "text": "+(13—17)% to Fire and Chaos Resistances"
+    },
+    {
+      "name": "of the Whelpling",
+      "level": 1,
+      "family": "FireResistance",
+      "text": "+(6—10)% to Fire Resistance"
+    },
+    {
+      "name": "of the Salamander",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "Lesser Essence of Insulation",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "of the Drake",
+      "level": 24,
+      "family": "FireResistance",
+      "text": "+(16—20)% to Fire Resistance"
+    },
+    {
+      "name": "of the Kiln",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "Essence of Insulation",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "of the Furnace",
+      "level": 48,
+      "family": "FireResistance",
+      "text": "+(26—30)% to Fire Resistance"
+    },
+    {
+      "name": "of the Volcano",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "Greater Essence of Insulation",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "of Magma",
+      "level": 71,
+      "family": "FireResistance",
+      "text": "+(36—40)% to Fire Resistance"
+    },
+    {
+      "name": "of Tzteosh",
+      "level": 82,
+      "family": "FireResistance",
+      "text": "+(41—45)% to Fire Resistance"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "GainRage",
+      "text": "Gain (4—5) Rage when Hit by an Enemy"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "GainRage",
+      "text": "Gain (6—10) Rage when Hit by an Enemy"
+    },
+    {
+      "name": "of the Taskmaster",
+      "level": 5,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Minion Skills"
+    },
+    {
+      "name": "Essence of Hysteria",
+      "level": 5,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Despot",
+      "level": 41,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Pupil",
+      "level": 1,
+      "family": "Intelligence",
+      "text": "+(5—8) to Intelligence"
+    },
+    {
+      "name": "of the Student",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Intelligence"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Prodigy",
+      "level": 22,
+      "family": "Intelligence",
+      "text": "+(13—16) to Intelligence"
+    },
+    {
+      "name": "of the Augur",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Philosopher",
+      "level": 44,
+      "family": "Intelligence",
+      "text": "+(21—24) to Intelligence"
+    },
+    {
+      "name": "of the Sage",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Savant",
+      "level": 66,
+      "family": "Intelligence",
+      "text": "+(28—30) to Intelligence"
+    },
+    {
+      "name": "of the Virtuoso",
+      "level": 74,
+      "family": "Intelligence",
+      "text": "+(31—33) to Intelligence"
+    },
+    {
+      "name": "of the Genius",
+      "level": 81,
+      "family": "Intelligence",
+      "text": "+(34—36) to Intelligence"
+    },
+    {
+      "name": "of Plunder",
+      "level": 3,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(6—10)% increased Rarity of Items found"
+    },
+    {
+      "name": "Lesser Essence of Opulence",
+      "level": 3,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(6—10)% increased Rarity of Items found"
+    },
+    {
+      "name": "of Raiding",
+      "level": 24,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(11—14)% increased Rarity of Items found"
+    },
+    {
+      "name": "Essence of Opulence",
+      "level": 24,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(11—14)% increased Rarity of Items found"
+    },
+    {
+      "name": "of Archaeology",
+      "level": 40,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(15—18)% increased Rarity of Items found"
+    },
+    {
+      "name": "Greater Essence of Opulence",
+      "level": 40,
+      "family": "ItemFoundRarityIncrease",
+      "text": "(15—18)% increased Rarity of Items found"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "LifeCostEfficiency",
+      "text": "(8—12)% increased Life Cost Efficiency"
+    },
+    {
+      "name": "of the Newt",
+      "level": 1,
+      "family": "LifeRegeneration",
+      "text": "(1—2) Life Regeneration per second"
+    },
+    {
+      "name": "of the Lizard",
+      "level": 5,
+      "family": "LifeRegeneration",
+      "text": "(2.1—3) Life Regeneration per second"
+    },
+    {
+      "name": "of the Flatworm",
+      "level": 11,
+      "family": "LifeRegeneration",
+      "text": "(3.1—4) Life Regeneration per second"
+    },
+    {
+      "name": "of the Starfish",
+      "level": 17,
+      "family": "LifeRegeneration",
+      "text": "(4.1—6) Life Regeneration per second"
+    },
+    {
+      "name": "of the Hydra",
+      "level": 26,
+      "family": "LifeRegeneration",
+      "text": "(6.1—9) Life Regeneration per second"
+    },
+    {
+      "name": "of the Troll",
+      "level": 35,
+      "family": "LifeRegeneration",
+      "text": "(9.1—13) Life Regeneration per second"
+    },
+    {
+      "name": "of Convalescence",
+      "level": 47,
+      "family": "LifeRegeneration",
+      "text": "(13.1—18) Life Regeneration per second"
+    },
+    {
+      "name": "of Recuperation",
+      "level": 58,
+      "family": "LifeRegeneration",
+      "text": "(18.1—23) Life Regeneration per second"
+    },
+    {
+      "name": "of Shining",
+      "level": 8,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(10—20) to Accuracy Rating5% increased Light Radius"
+    },
+    {
+      "name": "of Light",
+      "level": 15,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(21—40) to Accuracy Rating10% increased Light Radius"
+    },
+    {
+      "name": "of Radiance",
+      "level": 30,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(41—60) to Accuracy Rating15% increased Light Radius"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "LightningAndChaosDamageResistance",
+      "text": "+(13—17)% to Lightning and Chaos Resistances"
+    },
+    {
+      "name": "of the Cloud",
+      "level": 1,
+      "family": "LightningResistance",
+      "text": "+(6—10)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Squall",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "Lesser Essence of Grounding",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Storm",
+      "level": 25,
+      "family": "LightningResistance",
+      "text": "+(16—20)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Thunderhead",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "Essence of Grounding",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Tempest",
+      "level": 49,
+      "family": "LightningResistance",
+      "text": "+(26—30)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Maelstrom",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "Greater Essence of Grounding",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Lightning",
+      "level": 71,
+      "family": "LightningResistance",
+      "text": "+(36—40)% to Lightning Resistance"
+    },
+    {
+      "name": "of Ephij",
+      "level": 82,
+      "family": "LightningResistance",
+      "text": "+(41—45)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Worthy",
+      "level": 24,
+      "family": "LocalAttributeRequirements",
+      "text": "15% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Apt",
+      "level": 32,
+      "family": "LocalAttributeRequirements",
+      "text": "20% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Talented",
+      "level": 40,
+      "family": "LocalAttributeRequirements",
+      "text": "25% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Skilled",
+      "level": 52,
+      "family": "LocalAttributeRequirements",
+      "text": "30% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Proficient",
+      "level": 60,
+      "family": "LocalAttributeRequirements",
+      "text": "35% reduced Attribute Requirements"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ManaCostEfficiency",
+      "text": "(6—10)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "MarkDamage",
+      "text": "Enemies you Mark take (4—8)% increased Damage"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "PresenceRadius",
+      "text": "(25—35)% increased Presence Area of Effect"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "RageLossDelay",
+      "text": "Inherent Rage loss starts 1 second later"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "RageLossDelay",
+      "text": "Inherent Rage loss starts (3—5) seconds later"
+    },
+    {
+      "name": "Mystic Alloy",
+      "level": 45,
+      "family": "SpellAreaOfEffect",
+      "text": "Spell Skills have (10—15)% increased Area of Effect"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "SpiritReservationEfficiency",
+      "text": "(4—8)% increased Spirit Reservation Efficiency of Skills"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Intelligence"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Dexterity"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "WarcryCooldownSpeed",
+      "text": "(23—36)% increased Warcry Cooldown Recovery Rate"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "WarcryCooldownSpeed",
+      "text": "(37—50)% increased Warcry Cooldown Recovery Rate"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "WarcryLifeRecovery",
+      "text": "Recover (2—3)% of maximum Life when you use a Warcry"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "WarcryLifeRecovery",
+      "text": "Recover (4—5)% of maximum Life when you use a Warcry"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 45,
+      "family": "WarcrySpeed",
+      "text": "(23—36)% increased Warcry Speed"
+    },
+    {
+      "name": "of the Berserker",
+      "level": 75,
+      "family": "WarcrySpeed",
+      "text": "(37—50)% increased Warcry Speed"
+    }
+  ]
+}

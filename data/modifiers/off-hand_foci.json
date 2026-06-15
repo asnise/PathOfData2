@@ -1,0 +1,1201 @@
+{
+  "item_class": "Focus",
+  "prefixes": [
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "AdditionalSpellTotem",
+      "text": "Spell Skills have +1 to maximum number of Summoned Totems"
+    },
+    {
+      "name": "Shining",
+      "level": 1,
+      "family": "BaseLocalDefences",
+      "text": "+(10—17) to maximum Energy Shield"
+    },
+    {
+      "name": "Glimmering",
+      "level": 8,
+      "family": "BaseLocalDefences",
+      "text": "+(18—24) to maximum Energy Shield"
+    },
+    {
+      "name": "Glittering",
+      "level": 16,
+      "family": "BaseLocalDefences",
+      "text": "+(25—30) to maximum Energy Shield"
+    },
+    {
+      "name": "Glowing",
+      "level": 25,
+      "family": "BaseLocalDefences",
+      "text": "+(31—35) to maximum Energy Shield"
+    },
+    {
+      "name": "Radiating",
+      "level": 33,
+      "family": "BaseLocalDefences",
+      "text": "+(36—41) to maximum Energy Shield"
+    },
+    {
+      "name": "Pulsing",
+      "level": 46,
+      "family": "BaseLocalDefences",
+      "text": "+(42—47) to maximum Energy Shield"
+    },
+    {
+      "name": "Blazing",
+      "level": 54,
+      "family": "BaseLocalDefences",
+      "text": "+(48—60) to maximum Energy Shield"
+    },
+    {
+      "name": "Dazzling",
+      "level": 60,
+      "family": "BaseLocalDefences",
+      "text": "+(61—73) to maximum Energy Shield"
+    },
+    {
+      "name": "Scintillating",
+      "level": 65,
+      "family": "BaseLocalDefences",
+      "text": "+(74—80) to maximum Energy Shield"
+    },
+    {
+      "name": "Incandescent",
+      "level": 70,
+      "family": "BaseLocalDefences",
+      "text": "+(81—90) to maximum Energy Shield"
+    },
+    {
+      "name": "Imbued",
+      "level": 8,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(6—13)% increased Energy Shield+(6—8) to maximum Mana"
+    },
+    {
+      "name": "Serene",
+      "level": 16,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(14—20)% increased Energy Shield+(9—16) to maximum Mana"
+    },
+    {
+      "name": "Sacred",
+      "level": 33,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(21—26)% increased Energy Shield+(17—20) to maximum Mana"
+    },
+    {
+      "name": "Celestial",
+      "level": 46,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(27—32)% increased Energy Shield+(21—26) to maximum Mana"
+    },
+    {
+      "name": "Heavenly",
+      "level": 60,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(33—38)% increased Energy Shield+(27—32) to maximum Mana"
+    },
+    {
+      "name": "Angel's",
+      "level": 78,
+      "family": "BaseLocalDefencesAndMana",
+      "text": "(39—42)% increased Energy Shield+(33—39) to maximum Mana"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "CurseEffectiveness",
+      "text": "(8—16)% increased Curse Magnitudes"
+    },
+    {
+      "name": "Protective",
+      "level": 2,
+      "family": "DefencesPercent",
+      "text": "(15—26)% increased Energy Shield"
+    },
+    {
+      "name": "Strong-Willed",
+      "level": 16,
+      "family": "DefencesPercent",
+      "text": "(27—42)% increased Energy Shield"
+    },
+    {
+      "name": "Lesser Essence of Enhancement",
+      "level": 16,
+      "family": "DefencesPercent",
+      "text": "(27—42)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Resolute",
+      "level": 33,
+      "family": "DefencesPercent",
+      "text": "(43—55)% increased Energy Shield"
+    },
+    {
+      "name": "Fearless",
+      "level": 46,
+      "family": "DefencesPercent",
+      "text": "(56—67)% increased Energy Shield"
+    },
+    {
+      "name": "Essence of Enhancement",
+      "level": 46,
+      "family": "DefencesPercent",
+      "text": "(56—67)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Dauntless",
+      "level": 54,
+      "family": "DefencesPercent",
+      "text": "(68—79)% increased Energy Shield"
+    },
+    {
+      "name": "Greater Essence of Enhancement",
+      "level": 54,
+      "family": "DefencesPercent",
+      "text": "(68—79)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Indomitable",
+      "level": 60,
+      "family": "DefencesPercent",
+      "text": "(80—91)% increased Energy Shield"
+    },
+    {
+      "name": "Unassailable",
+      "level": 65,
+      "family": "DefencesPercent",
+      "text": "(92—100)% increased Energy Shield"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Lesser Essence of the Body",
+      "level": 16,
+      "family": "IncreasedLife",
+      "text": "+(30—39) to maximum Life"
+    },
+    {
+      "name": "Beryl",
+      "level": 1,
+      "family": "IncreasedMana",
+      "text": "+(10—14) to maximum Mana"
+    },
+    {
+      "name": "Cobalt",
+      "level": 6,
+      "family": "IncreasedMana",
+      "text": "+(15—24) to maximum Mana"
+    },
+    {
+      "name": "Azure",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Teal",
+      "level": 25,
+      "family": "IncreasedMana",
+      "text": "+(35—54) to maximum Mana"
+    },
+    {
+      "name": "Cerulean",
+      "level": 33,
+      "family": "IncreasedMana",
+      "text": "+(55—64) to maximum Mana"
+    },
+    {
+      "name": "Aqua",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Opalescent",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Gentian",
+      "level": 54,
+      "family": "IncreasedMana",
+      "text": "+(90—104) to maximum Mana"
+    },
+    {
+      "name": "Chalybeous",
+      "level": 60,
+      "family": "IncreasedMana",
+      "text": "+(105—124) to maximum Mana"
+    },
+    {
+      "name": "Mazarine",
+      "level": 65,
+      "family": "IncreasedMana",
+      "text": "+(125—149) to maximum Mana"
+    },
+    {
+      "name": "Blue",
+      "level": 70,
+      "family": "IncreasedMana",
+      "text": "+(150—164) to maximum Mana"
+    },
+    {
+      "name": "Sovereign Alloy",
+      "level": 25,
+      "family": "LocalRunicWardPercent",
+      "text": "(24—30)% increased Runic Ward"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "OfferingEffect",
+      "text": "Offering Skills have (12—20)% increased Buff effect"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "SpellAreaOfEffect",
+      "text": "Spell Skills have (10—20)% increased Area of Effect"
+    },
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "SpellDamage",
+      "text": "(61—79)% increased Spell Damage while wielding a Melee Weapon"
+    },
+    {
+      "name": "Apprentice's",
+      "level": 1,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(25—34)% increased Spell Damage"
+    },
+    {
+      "name": "Adept's",
+      "level": 8,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(35—44)% increased Spell Damage"
+    },
+    {
+      "name": "Lesser Essence of Sorcery",
+      "level": 8,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(35—44)% increased Spell Damage"
+    },
+    {
+      "name": "Scholar's",
+      "level": 16,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(45—54)% increased Spell Damage"
+    },
+    {
+      "name": "Professor's",
+      "level": 33,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(55—64)% increased Spell Damage"
+    },
+    {
+      "name": "Essence of Sorcery",
+      "level": 33,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(55—64)% increased Spell Damage"
+    },
+    {
+      "name": "Occultist's",
+      "level": 46,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(65—74)% increased Spell Damage"
+    },
+    {
+      "name": "Incanter's",
+      "level": 60,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(75—89)% increased Spell Damage"
+    },
+    {
+      "name": "Greater Essence of Sorcery",
+      "level": 60,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(75—89)% increased Spell Damage"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "Invocated Spells deal (61—79)% increased Damage"
+    },
+    {
+      "name": "Searing",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Fire Damage"
+    },
+    {
+      "name": "Bitter",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Cold Damage"
+    },
+    {
+      "name": "Charged",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Lightning Damage"
+    },
+    {
+      "name": "Impure",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Chaos Damage"
+    },
+    {
+      "name": "Punishing",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Sizzling",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Fire Damage"
+    },
+    {
+      "name": "Biting",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Cold Damage"
+    },
+    {
+      "name": "Hissing",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Lightning Damage"
+    },
+    {
+      "name": "Tainted",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Chaos Damage"
+    },
+    {
+      "name": "Unforgiving",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Blistering",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Fire Damage"
+    },
+    {
+      "name": "Alpine",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Cold Damage"
+    },
+    {
+      "name": "Bolting",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Lightning Damage"
+    },
+    {
+      "name": "Clouded",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Chaos Damage"
+    },
+    {
+      "name": "Vengeful",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Cauterising",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Fire Damage"
+    },
+    {
+      "name": "Snowy",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Cold Damage"
+    },
+    {
+      "name": "Coursing",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Lightning Damage"
+    },
+    {
+      "name": "Darkened",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Chaos Damage"
+    },
+    {
+      "name": "Sadistic",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Smoldering",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Fire Damage"
+    },
+    {
+      "name": "Hailing",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Cold Damage"
+    },
+    {
+      "name": "Striking",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Lightning Damage"
+    },
+    {
+      "name": "Malignant",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Chaos Damage"
+    },
+    {
+      "name": "Pitiless",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Magmatic",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Fire Damage"
+    },
+    {
+      "name": "Arctic",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Cold Damage"
+    },
+    {
+      "name": "Smiting",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Lightning Damage"
+    },
+    {
+      "name": "Vile",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Chaos Damage"
+    },
+    {
+      "name": "Agonising",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Spell Physical Damage"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ChanceToGainAnAdditionalInfusion",
+      "text": "(15—25)% chance when collecting an Elemental Infusion to gain anadditional Elemental Infusion of the same type"
+    },
+    {
+      "name": "of the Lost",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "Lesser Essence of Ruin",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "of Banishment",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "Essence of Ruin",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "of Eviction",
+      "level": 44,
+      "family": "ChaosResistance",
+      "text": "+(12—15)% to Chaos Resistance"
+    },
+    {
+      "name": "of Expulsion",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "Greater Essence of Ruin",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "of Exile",
+      "level": 68,
+      "family": "ChaosResistance",
+      "text": "+(20—23)% to Chaos Resistance"
+    },
+    {
+      "name": "of Bameth",
+      "level": 81,
+      "family": "ChaosResistance",
+      "text": "+(24—27)% to Chaos Resistance"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ColdAndChaosDamageResistance",
+      "text": "+(13—17)% to Cold and Chaos Resistances"
+    },
+    {
+      "name": "of the Seal",
+      "level": 1,
+      "family": "ColdResistance",
+      "text": "+(6—10)% to Cold Resistance"
+    },
+    {
+      "name": "of the Penguin",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "Lesser Essence of Thawing",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "of the Narwhal",
+      "level": 26,
+      "family": "ColdResistance",
+      "text": "+(16—20)% to Cold Resistance"
+    },
+    {
+      "name": "of the Yeti",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "Essence of Thawing",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "of the Walrus",
+      "level": 50,
+      "family": "ColdResistance",
+      "text": "+(26—30)% to Cold Resistance"
+    },
+    {
+      "name": "of the Polar Bear",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "Greater Essence of Thawing",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "of the Ice",
+      "level": 71,
+      "family": "ColdResistance",
+      "text": "+(36—40)% to Cold Resistance"
+    },
+    {
+      "name": "of Haast",
+      "level": 82,
+      "family": "ColdResistance",
+      "text": "+(41—45)% to Cold Resistance"
+    },
+    {
+      "name": "of Ire",
+      "level": 8,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(10—14)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Anger",
+      "level": 21,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(15—19)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Rage",
+      "level": 30,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(20—24)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Fury",
+      "level": 44,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(25—29)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Ferocity",
+      "level": 59,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(30—34)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "CurseDelay",
+      "text": "(10—20)% faster Curse Activation"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "Dexterity",
+      "text": "+(9—15) to Dexterity and Intelligence"
+    },
+    {
+      "name": "of Buffering",
+      "level": 48,
+      "family": "EnergyShieldRegeneration",
+      "text": "(16—19)% increased Energy Shield Recharge Rate"
+    },
+    {
+      "name": "of Ardour",
+      "level": 66,
+      "family": "EnergyShieldRegeneration",
+      "text": "(20—23)% increased Energy Shield Recharge Rate"
+    },
+    {
+      "name": "Essence of Hysteria",
+      "level": 66,
+      "family": "EnergyShieldRegeneration",
+      "text": "(20—23)% increased Energy Shield Recharge Rate"
+    },
+    {
+      "name": "of Suffusion",
+      "level": 81,
+      "family": "EnergyShieldRegeneration",
+      "text": "(24—27)% increased Energy Shield Recharge Rate"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Prismatic Alloy",
+      "level": 45,
+      "family": "ExposureEffect",
+      "text": "(40—50)% increased Exposure Effect"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "FireAndChaosDamageResistance",
+      "text": "+(13—17)% to Fire and Chaos Resistances"
+    },
+    {
+      "name": "of the Whelpling",
+      "level": 1,
+      "family": "FireResistance",
+      "text": "+(6—10)% to Fire Resistance"
+    },
+    {
+      "name": "of the Salamander",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "Lesser Essence of Insulation",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "of the Drake",
+      "level": 24,
+      "family": "FireResistance",
+      "text": "+(16—20)% to Fire Resistance"
+    },
+    {
+      "name": "of the Kiln",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "Essence of Insulation",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "of the Furnace",
+      "level": 48,
+      "family": "FireResistance",
+      "text": "+(26—30)% to Fire Resistance"
+    },
+    {
+      "name": "of the Volcano",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "Greater Essence of Insulation",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "of Magma",
+      "level": 71,
+      "family": "FireResistance",
+      "text": "+(36—40)% to Fire Resistance"
+    },
+    {
+      "name": "of Tzteosh",
+      "level": 82,
+      "family": "FireResistance",
+      "text": "+(41—45)% to Fire Resistance"
+    },
+    {
+      "name": "of the Mage",
+      "level": 10,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Spell Skills"
+    },
+    {
+      "name": "of the Enchanter",
+      "level": 41,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Spell Skills"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+(1—2) to Level of all Minion Skills"
+    },
+    {
+      "name": "of Talent",
+      "level": 1,
+      "family": "IncreasedCastSpeed",
+      "text": "(9—12)% increased Cast Speed"
+    },
+    {
+      "name": "of Nimbleness",
+      "level": 15,
+      "family": "IncreasedCastSpeed",
+      "text": "(13—16)% increased Cast Speed"
+    },
+    {
+      "name": "Lesser Essence of Alacrity",
+      "level": 15,
+      "family": "IncreasedCastSpeed",
+      "text": "(13—16)% increased Cast Speed"
+    },
+    {
+      "name": "of Expertise",
+      "level": 30,
+      "family": "IncreasedCastSpeed",
+      "text": "(17—20)% increased Cast Speed"
+    },
+    {
+      "name": "Essence of Alacrity",
+      "level": 30,
+      "family": "IncreasedCastSpeed",
+      "text": "(17—20)% increased Cast Speed"
+    },
+    {
+      "name": "of Sortilege",
+      "level": 45,
+      "family": "IncreasedCastSpeed",
+      "text": "(21—24)% increased Cast Speed"
+    },
+    {
+      "name": "of Legerdemain",
+      "level": 60,
+      "family": "IncreasedCastSpeed",
+      "text": "(25—28)% increased Cast Speed"
+    },
+    {
+      "name": "Greater Essence of Alacrity",
+      "level": 60,
+      "family": "IncreasedCastSpeed",
+      "text": "(25—28)% increased Cast Speed"
+    },
+    {
+      "name": "of Prestidigitation",
+      "level": 70,
+      "family": "IncreasedCastSpeed",
+      "text": "(29—32)% increased Cast Speed"
+    },
+    {
+      "name": "of the Pupil",
+      "level": 1,
+      "family": "Intelligence",
+      "text": "+(5—8) to Intelligence"
+    },
+    {
+      "name": "of the Student",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Intelligence"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Prodigy",
+      "level": 22,
+      "family": "Intelligence",
+      "text": "+(13—16) to Intelligence"
+    },
+    {
+      "name": "of the Augur",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Philosopher",
+      "level": 44,
+      "family": "Intelligence",
+      "text": "+(21—24) to Intelligence"
+    },
+    {
+      "name": "of the Sage",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Savant",
+      "level": 66,
+      "family": "Intelligence",
+      "text": "+(28—30) to Intelligence"
+    },
+    {
+      "name": "of the Virtuoso",
+      "level": 74,
+      "family": "Intelligence",
+      "text": "+(31—33) to Intelligence"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "LightningAndChaosDamageResistance",
+      "text": "+(13—17)% to Lightning and Chaos Resistances"
+    },
+    {
+      "name": "of the Cloud",
+      "level": 1,
+      "family": "LightningResistance",
+      "text": "+(6—10)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Squall",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "Lesser Essence of Grounding",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Storm",
+      "level": 25,
+      "family": "LightningResistance",
+      "text": "+(16—20)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Thunderhead",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "Essence of Grounding",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Tempest",
+      "level": 49,
+      "family": "LightningResistance",
+      "text": "+(26—30)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Maelstrom",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "Greater Essence of Grounding",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Lightning",
+      "level": 71,
+      "family": "LightningResistance",
+      "text": "+(36—40)% to Lightning Resistance"
+    },
+    {
+      "name": "of Ephij",
+      "level": 82,
+      "family": "LightningResistance",
+      "text": "+(41—45)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Worthy",
+      "level": 24,
+      "family": "LocalAttributeRequirements",
+      "text": "15% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Apt",
+      "level": 32,
+      "family": "LocalAttributeRequirements",
+      "text": "20% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Talented",
+      "level": 40,
+      "family": "LocalAttributeRequirements",
+      "text": "25% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Skilled",
+      "level": 52,
+      "family": "LocalAttributeRequirements",
+      "text": "30% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Proficient",
+      "level": 60,
+      "family": "LocalAttributeRequirements",
+      "text": "35% reduced Attribute Requirements"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ManaCostEfficiency",
+      "text": "(6—10)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "Perfect Essence of Alacrity",
+      "level": 72,
+      "family": "ManaCostEfficiency",
+      "text": "(18—20)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "of Excitement",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "(10—19)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Joy",
+      "level": 18,
+      "family": "ManaRegeneration",
+      "text": "(20—29)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Elation",
+      "level": 29,
+      "family": "ManaRegeneration",
+      "text": "(30—39)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Bliss",
+      "level": 42,
+      "family": "ManaRegeneration",
+      "text": "(40—49)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Euphoria",
+      "level": 55,
+      "family": "ManaRegeneration",
+      "text": "(50—59)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Nirvana",
+      "level": 79,
+      "family": "ManaRegeneration",
+      "text": "(60—69)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "SkillLifeCost",
+      "text": "(10—20)% of Spell Mana Cost Converted to Life Cost"
+    },
+    {
+      "name": "of Menace",
+      "level": 11,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(27—33)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Havoc",
+      "level": 21,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(34—39)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "Lesser Essence of Seeking",
+      "level": 21,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(34—39)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Disaster",
+      "level": 28,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(40—46)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "Essence of Seeking",
+      "level": 28,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(40—46)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Calamity",
+      "level": 41,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(47—53)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "Greater Essence of Seeking",
+      "level": 41,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(47—53)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Ruin",
+      "level": 59,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(54—59)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "SpellsFire2AdditionalProjectileChance",
+      "text": "(10—16)% chance for Spell Skills to fire 2 additional Projectiles"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Intelligence"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Dexterity"
+    },
+    {
+      "name": "Swift Alloy",
+      "level": 45,
+      "family": "SummonTotemCastSpeed",
+      "text": "(30—49)% increased Totem Placement speed"
+    }
+  ]
+}

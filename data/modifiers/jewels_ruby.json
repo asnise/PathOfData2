@@ -1,0 +1,589 @@
+{
+  "item_class": "Jewel",
+  "prefixes": [
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Warcry Buff Effect(5—10)% increased Damage with Warcries"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased Evasion Rating"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased maximum Energy Shield"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased Armour"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "15% increased chance to Poison(5—10)% increased Magnitude of Poison you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion RatingMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy ShieldMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased ArmourMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Lightning DamageDamage Penetrates (4—7)% Lightning Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(10—20)% increased Magnitude of Abyssal Wasting you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(8—15)% increased Presence Area of EffectAura Skills have (2—4)% increased Magnitudes"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "15% increased chance to inflict Bleeding(5—10)% increased Magnitude of Bleeding you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Chaos Damage(3—6)% increased Withered Magnitude"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Cold DamageDamage Penetrates (4—7)% Cold Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "Companions deal (5—10)% increased DamageCompanions have (5—10)% increased maximum Life"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Elemental Damage(4—8)% increased Magnitude of Ailments you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Exposure Effect"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Fire DamageDamage Penetrates (4—7)% Fire Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Global Physical DamageBreak (4—8)% increased Armour"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "Minions have (4—8)% increased maximum Lifeminion area of effect +% [3,6]"
+    },
+    {
+      "name": "Blasting",
+      "level": 1,
+      "family": "AreaOfEffect",
+      "text": "(4—6)% increased Area of Effect"
+    },
+    {
+      "name": "Shattering",
+      "level": 1,
+      "family": "ArmourBreak",
+      "text": "Break (5—15)% increased Armour"
+    },
+    {
+      "name": "Combat",
+      "level": 1,
+      "family": "AttackDamage",
+      "text": "(5—15)% increased Attack Damage"
+    },
+    {
+      "name": "Liquid Paranoia",
+      "level": 1,
+      "family": "AttackDamage",
+      "text": "(5—15)% increased Attack Damage"
+    },
+    {
+      "name": "Rallying",
+      "level": 1,
+      "family": "BannerArea",
+      "text": "Banner Skills have (6—16)% increased Area of Effect"
+    },
+    {
+      "name": "Bleeding",
+      "level": 1,
+      "family": "BleedChanceIncrease",
+      "text": "(3—7)% chance to inflict Bleeding on Hit"
+    },
+    {
+      "name": "Haemorrhaging",
+      "level": 1,
+      "family": "BleedingDamage",
+      "text": "(5—15)% increased Magnitude of Bleeding you inflict"
+    },
+    {
+      "name": "Bestial",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "(5—15)% increased Damage while Shapeshifted"
+    },
+    {
+      "name": "Overgrown",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "(5—15)% increased Damage with Plant Skills"
+    },
+    {
+      "name": "Exploiting",
+      "level": 1,
+      "family": "DamagevsArmourBrokenEnemies",
+      "text": "(15—25)% increased Damage against Enemies with Fully Broken Armour"
+    },
+    {
+      "name": "Prismatic",
+      "level": 1,
+      "family": "ElementalDamagePercent",
+      "text": "(5—15)% increased Elemental Damage"
+    },
+    {
+      "name": "Empowering",
+      "level": 1,
+      "family": "ExertedAttackDamage",
+      "text": "Empowered Attacks deal (10—20)% increased Damage"
+    },
+    {
+      "name": "Flaming",
+      "level": 1,
+      "family": "FireDamagePercentage",
+      "text": "(5—15)% increased Fire Damage"
+    },
+    {
+      "name": "Diluted Liquid Guilt",
+      "level": 1,
+      "family": "FireDamagePercentage",
+      "text": "(5—15)% increased Fire Damage"
+    },
+    {
+      "name": "Searing",
+      "level": 1,
+      "family": "FireResistancePenetration",
+      "text": "Damage Penetrates (5—10)% Fire Resistance"
+    },
+    {
+      "name": "Burning",
+      "level": 1,
+      "family": "IgniteEffect",
+      "text": "(5—15)% increased Ignite Magnitude"
+    },
+    {
+      "name": "Incise",
+      "level": 1,
+      "family": "IncisionChance",
+      "text": "(15—25)% chance for Attack Hits to apply Incision"
+    },
+    {
+      "name": "Protecting",
+      "level": 1,
+      "family": "IncreasedBlockChance",
+      "text": "(3—7)% increased Block chance"
+    },
+    {
+      "name": "Armoured",
+      "level": 1,
+      "family": "IncreasedPhysicalDamageReductionRatingPercent",
+      "text": "(10—20)% increased Armour"
+    },
+    {
+      "name": "Diluted Liquid Ire",
+      "level": 1,
+      "family": "IncreasedPhysicalDamageReductionRatingPercent",
+      "text": "(10—20)% increased Armour"
+    },
+    {
+      "name": "Carved",
+      "level": 1,
+      "family": "IncreasedTotemLife",
+      "text": "(10—20)% increased Totem Life"
+    },
+    {
+      "name": "Potent Liquid Ferocity",
+      "level": 1,
+      "family": "LocalPrefixSuffixEffect",
+      "text": "(40—60)% increased Effect of Suffixes"
+    },
+    {
+      "name": "Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Suffix Modifier allowed"
+    },
+    {
+      "name": "Angry",
+      "level": 1,
+      "family": "MaximumRage",
+      "text": "+(1—2) to Maximum Rage"
+    },
+    {
+      "name": "Concentrated Liquid Suffering",
+      "level": 1,
+      "family": "MaximumRage",
+      "text": "+(1—2) to Maximum Rage"
+    },
+    {
+      "name": "Clashing",
+      "level": 1,
+      "family": "MeleeDamage",
+      "text": "(5—15)% increased Melee Damage"
+    },
+    {
+      "name": "Companion",
+      "level": 1,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (5—8)% increased Area of Effect"
+    },
+    {
+      "name": "Fortuitous",
+      "level": 1,
+      "family": "MinionLife",
+      "text": "Minions have (5—15)% increased maximum Life"
+    },
+    {
+      "name": "Sharpened",
+      "level": 1,
+      "family": "PhysicalDamagePercent",
+      "text": "(5—15)% increased Global Physical Damage"
+    },
+    {
+      "name": "Diluted Liquid Greed",
+      "level": 1,
+      "family": "PhysicalDamagePercent",
+      "text": "(5—15)% increased Global Physical Damage"
+    },
+    {
+      "name": "Iconic",
+      "level": 1,
+      "family": "PresenceRadius",
+      "text": "(15—25)% increased Presence Area of Effect"
+    },
+    {
+      "name": "Shielding",
+      "level": 1,
+      "family": "ShieldArmourIncrease",
+      "text": "(18—32)% increased Armour, Evasion and Energy Shield from Equipped Shield"
+    },
+    {
+      "name": "Beating",
+      "level": 1,
+      "family": "SpecificWeaponDamage",
+      "text": "(6—16)% increased Damage with Maces"
+    },
+    {
+      "name": "Retaliating",
+      "level": 1,
+      "family": "Thorns",
+      "text": "(10—20)% increased Thorns damage"
+    },
+    {
+      "name": "Shaman's",
+      "level": 1,
+      "family": "TotemDamage",
+      "text": "(10—18)% increased Totem Damage"
+    },
+    {
+      "name": "Yelling",
+      "level": 1,
+      "family": "WarcryDamage",
+      "text": "(10—20)% increased Damage with Warcries"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Dexterity"
+    },
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Intelligence"
+    },
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Strength"
+    },
+    {
+      "name": "Resonating",
+      "level": 1,
+      "family": "ArmourBreakDuration",
+      "text": "(10—20)% increased Armour Break Duration"
+    },
+    {
+      "name": "of Inspiring",
+      "level": 1,
+      "family": "BannerDuration",
+      "text": "Banner Skills have (15—25)% increased Duration"
+    },
+    {
+      "name": "of Valour",
+      "level": 1,
+      "family": "BannerValourGained",
+      "text": "(15—20)% increased Glory generation for Banner Skills"
+    },
+    {
+      "name": "of Haemophilia",
+      "level": 1,
+      "family": "BleedDuration",
+      "text": "(5—10)% increased Bleeding Duration"
+    },
+    {
+      "name": "of Retribution",
+      "level": 1,
+      "family": "GainRage",
+      "text": "Gain (1—3) Rage when Hit by an Enemy"
+    },
+    {
+      "name": "of Ignition",
+      "level": 1,
+      "family": "IgniteChanceIncrease",
+      "text": "(10—20)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Withstanding",
+      "level": 1,
+      "family": "IncreasedStunThreshold",
+      "text": "(6—16)% increased Stun Threshold"
+    },
+    {
+      "name": "Potent Liquid Melancholy",
+      "level": 1,
+      "family": "JewelStatusOnHitWhileSocketed",
+      "text": "Debilitate Enemies on Hit while you have an Emerald and a Sapphire socketed in your tree"
+    },
+    {
+      "name": "of Fending",
+      "level": 1,
+      "family": "Knockback",
+      "text": "(5—15)% increased Knockback Distance"
+    },
+    {
+      "name": "of Sacrifice",
+      "level": 1,
+      "family": "LifeCost",
+      "text": "(4—6)% of Skill Mana Costs Converted to Life Costs"
+    },
+    {
+      "name": "Liquid Envy",
+      "level": 1,
+      "family": "LifeCost",
+      "text": "(4—6)% of Skill Mana Costs Converted to Life Costs"
+    },
+    {
+      "name": "of Frenzy",
+      "level": 1,
+      "family": "LifeLeech",
+      "text": "(5—15)% increased amount of Life Leeched"
+    },
+    {
+      "name": "of Regeneration",
+      "level": 1,
+      "family": "LifeRegenerationRate",
+      "text": "(5—10)% increased Life Regeneration rate"
+    },
+    {
+      "name": "Liquid Disgust",
+      "level": 1,
+      "family": "LifeRegenerationRate",
+      "text": "(5—10)% increased Life Regeneration rate"
+    },
+    {
+      "name": "Potent Liquid Ferocity",
+      "level": 1,
+      "family": "LocalPrefixSuffixEffect",
+      "text": "(40—60)% increased Effect of Prefixes"
+    },
+    {
+      "name": "of Thumping",
+      "level": 1,
+      "family": "MaceStun",
+      "text": "(15—25)% increased Stun Buildup with Maces"
+    },
+    {
+      "name": "Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Prefix Modifier allowed"
+    },
+    {
+      "name": "of the Phoenix",
+      "level": 1,
+      "family": "MaximumFireResist",
+      "text": "+1% to Maximum Fire Resistance"
+    },
+    {
+      "name": "Concentrated Liquid Isolation",
+      "level": 1,
+      "family": "MaximumFireResist",
+      "text": "+1% to Maximum Fire Resistance"
+    },
+    {
+      "name": "of Confidence",
+      "level": 1,
+      "family": "MinionPhysicalDamageReduction",
+      "text": "Minions have (6—16)% additional Physical Damage Reduction"
+    },
+    {
+      "name": "of Raging",
+      "level": 1,
+      "family": "RageOnHit",
+      "text": "Gain 1 Rage on Melee Hit"
+    },
+    {
+      "name": "Liquid Despair",
+      "level": 1,
+      "family": "RageOnHit",
+      "text": "Gain 1 Rage on Melee Hit"
+    },
+    {
+      "name": "of Lengthening",
+      "level": 1,
+      "family": "SkillEffectDuration",
+      "text": "(5—10)% increased Skill Effect Duration"
+    },
+    {
+      "name": "of the Wild",
+      "level": 1,
+      "family": "SpecificWeaponSpeed",
+      "text": "(2—4)% increased Skill Speed while Shapeshifted"
+    },
+    {
+      "name": "of Stunning",
+      "level": 1,
+      "family": "StunDamageIncrease",
+      "text": "(10—20)% increased Stun Buildup"
+    },
+    {
+      "name": "of Ancestry",
+      "level": 1,
+      "family": "SummonTotemCastSpeed",
+      "text": "(10—20)% increased Totem Placement speed"
+    },
+    {
+      "name": "of Rallying",
+      "level": 1,
+      "family": "WarcryCooldownSpeed",
+      "text": "(5—15)% increased Warcry Cooldown Recovery Rate"
+    },
+    {
+      "name": "of Lungs",
+      "level": 1,
+      "family": "WarcrySpeed",
+      "text": "(10—20)% increased Warcry Speed"
+    },
+    {
+      "name": "Concentrated Liquid Fear",
+      "level": 1,
+      "family": "WarcrySpeed",
+      "text": "(10—20)% increased Warcry Speed"
+    }
+  ]
+}

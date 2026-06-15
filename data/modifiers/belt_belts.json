@@ -1,0 +1,1723 @@
+{
+  "item_class": "Belt",
+  "prefixes": [
+    {
+      "name": "Unshackling",
+      "level": 1,
+      "family": "ArchonEffect",
+      "text": "(20—39)% increased effect of Archon Buffs on you"
+    },
+    {
+      "name": "Conservative",
+      "level": 8,
+      "family": "BeltCharmDuration",
+      "text": "(4—9)% increased Charm Effect Duration"
+    },
+    {
+      "name": "Transformative",
+      "level": 33,
+      "family": "BeltCharmDuration",
+      "text": "(10—15)% increased Charm Effect Duration"
+    },
+    {
+      "name": "Progressive",
+      "level": 46,
+      "family": "BeltCharmDuration",
+      "text": "(16—21)% increased Charm Effect Duration"
+    },
+    {
+      "name": "Innovative",
+      "level": 60,
+      "family": "BeltCharmDuration",
+      "text": "(22—27)% increased Charm Effect Duration"
+    },
+    {
+      "name": "Revolutionary",
+      "level": 75,
+      "family": "BeltCharmDuration",
+      "text": "(28—33)% increased Charm Effect Duration"
+    },
+    {
+      "name": "Restoring",
+      "level": 1,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(5—10)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Affecting",
+      "level": 5,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(5—10)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Stirring",
+      "level": 11,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(11—16)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Recovering",
+      "level": 16,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(11—16)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Heartening",
+      "level": 26,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(17—22)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Renewing",
+      "level": 33,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(17—22)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Exciting",
+      "level": 36,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(23—28)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Refreshing",
+      "level": 46,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(23—28)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Galvanizing",
+      "level": 54,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(29—34)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Rejuvenating",
+      "level": 60,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(29—34)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Inspiring",
+      "level": 63,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(35—40)% increased Flask Mana Recovery rate"
+    },
+    {
+      "name": "Regenerating",
+      "level": 75,
+      "family": "BeltFlaskRecoveryRate",
+      "text": "(35—40)% increased Flask Life Recovery rate"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "CharmChargesUsed",
+      "text": "(10—18)% chance for Charms you use to not consume Charges"
+    },
+    {
+      "name": "Glacial",
+      "level": 1,
+      "family": "ColdDamageIfColdInfusionCollectedLast8Seconds",
+      "text": "(41—59)% increased Cold Damage if you've collected a Cold Infusion in the last 8 seconds"
+    },
+    {
+      "name": "Imagninative",
+      "level": 12,
+      "family": "CooldownRecovery",
+      "text": "Spells have (2—4)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "Inventive",
+      "level": 28,
+      "family": "CooldownRecovery",
+      "text": "Spells have (6—10)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "Pioneering",
+      "level": 41,
+      "family": "CooldownRecovery",
+      "text": "Spells have (11—15)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "Trailblazing",
+      "level": 59,
+      "family": "CooldownRecovery",
+      "text": "Spells have (16—20)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "Ingenious",
+      "level": 74,
+      "family": "CooldownRecovery",
+      "text": "Spells have (21—25)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "Taxing",
+      "level": 23,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "(4—6)% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "Draining",
+      "level": 39,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "(7—9)% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "Exhausting",
+      "level": 52,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "(10—12)% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "Enervating",
+      "level": 77,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "(13—15)% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "Underling's",
+      "level": 1,
+      "family": "DamageRemovedFromMinion",
+      "text": "5% of Damage from Hits is taken from your Spectres' Life before you"
+    },
+    {
+      "name": "Sovereign Alloy",
+      "level": 65,
+      "family": "EnchantmentHeistArmour",
+      "text": "(20—30)% increased Explicit Resistance Modifier magnitudes"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Erupting",
+      "level": 1,
+      "family": "FireDamageIfFireInfusionCollectedLast8Seconds",
+      "text": "(41—59)% increased Fire Damage if you've collected a Fire Infusion in the last 8 seconds"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "FlaskChargeGeneration",
+      "text": "Charms gain (0.1—0.2) charges per Second"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "FlaskChargeGeneration",
+      "text": "Mana Flasks gain (0.1—0.2) charges per Second"
+    },
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "FlaskChargeGeneration",
+      "text": "Life Flasks gain (0.1—0.2) charges per Second"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "FlaskChargesUsed",
+      "text": "(10—15)% chance for Flasks you use to not consume Charges"
+    },
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "FlaskChargesUsed",
+      "text": "(10—18)% chance for Flasks you use to not consume Charges"
+    },
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "FlaskExtraLifeRegeneration",
+      "text": "(20—30)% increased Life Regeneration rate during Effect of any Life Flask"
+    },
+    {
+      "name": "Shining",
+      "level": 1,
+      "family": "IncreasedEnergyShield",
+      "text": "+(8—14) to maximum Energy Shield"
+    },
+    {
+      "name": "Glimmering",
+      "level": 11,
+      "family": "IncreasedEnergyShield",
+      "text": "+(15—20) to maximum Energy Shield"
+    },
+    {
+      "name": "Glittering",
+      "level": 16,
+      "family": "IncreasedEnergyShield",
+      "text": "+(21—24) to maximum Energy Shield"
+    },
+    {
+      "name": "Glowing",
+      "level": 25,
+      "family": "IncreasedEnergyShield",
+      "text": "+(25—33) to maximum Energy Shield"
+    },
+    {
+      "name": "Radiating",
+      "level": 33,
+      "family": "IncreasedEnergyShield",
+      "text": "+(34—41) to maximum Energy Shield"
+    },
+    {
+      "name": "Pulsing",
+      "level": 46,
+      "family": "IncreasedEnergyShield",
+      "text": "+(42—51) to maximum Energy Shield"
+    },
+    {
+      "name": "Blazing",
+      "level": 54,
+      "family": "IncreasedEnergyShield",
+      "text": "+(52—61) to maximum Energy Shield"
+    },
+    {
+      "name": "Dazzling",
+      "level": 65,
+      "family": "IncreasedEnergyShield",
+      "text": "+(62—70) to maximum Energy Shield"
+    },
+    {
+      "name": "Scintillating",
+      "level": 70,
+      "family": "IncreasedEnergyShield",
+      "text": "+(71—79) to maximum Energy Shield"
+    },
+    {
+      "name": "Incandescent",
+      "level": 80,
+      "family": "IncreasedEnergyShield",
+      "text": "+(80—89) to maximum Energy Shield"
+    },
+    {
+      "name": "Hale",
+      "level": 1,
+      "family": "IncreasedLife",
+      "text": "+(10—19) to maximum Life"
+    },
+    {
+      "name": "Healthy",
+      "level": 6,
+      "family": "IncreasedLife",
+      "text": "+(20—29) to maximum Life"
+    },
+    {
+      "name": "Sanguine",
+      "level": 16,
+      "family": "IncreasedLife",
+      "text": "+(30—39) to maximum Life"
+    },
+    {
+      "name": "Lesser Essence of the Body",
+      "level": 16,
+      "family": "IncreasedLife",
+      "text": "+(30—39) to maximum Life"
+    },
+    {
+      "name": "Stalwart",
+      "level": 24,
+      "family": "IncreasedLife",
+      "text": "+(40—59) to maximum Life"
+    },
+    {
+      "name": "Stout",
+      "level": 33,
+      "family": "IncreasedLife",
+      "text": "+(60—69) to maximum Life"
+    },
+    {
+      "name": "Robust",
+      "level": 38,
+      "family": "IncreasedLife",
+      "text": "+(70—84) to maximum Life"
+    },
+    {
+      "name": "Rotund",
+      "level": 46,
+      "family": "IncreasedLife",
+      "text": "+(85—99) to maximum Life"
+    },
+    {
+      "name": "Essence of the Body",
+      "level": 46,
+      "family": "IncreasedLife",
+      "text": "+(85—99) to maximum Life"
+    },
+    {
+      "name": "Virile",
+      "level": 54,
+      "family": "IncreasedLife",
+      "text": "+(100—119) to maximum Life"
+    },
+    {
+      "name": "Greater Essence of the Body",
+      "level": 54,
+      "family": "IncreasedLife",
+      "text": "+(100—119) to maximum Life"
+    },
+    {
+      "name": "Athlete's",
+      "level": 60,
+      "family": "IncreasedLife",
+      "text": "+(120—149) to maximum Life"
+    },
+    {
+      "name": "Fecund",
+      "level": 65,
+      "family": "IncreasedLife",
+      "text": "+(150—174) to maximum Life"
+    },
+    {
+      "name": "Beryl",
+      "level": 1,
+      "family": "IncreasedMana",
+      "text": "+(10—14) to maximum Mana"
+    },
+    {
+      "name": "Cobalt",
+      "level": 6,
+      "family": "IncreasedMana",
+      "text": "+(15—24) to maximum Mana"
+    },
+    {
+      "name": "Azure",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Lesser Essence of the Mind",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Teal",
+      "level": 25,
+      "family": "IncreasedMana",
+      "text": "+(35—54) to maximum Mana"
+    },
+    {
+      "name": "Cerulean",
+      "level": 33,
+      "family": "IncreasedMana",
+      "text": "+(55—64) to maximum Mana"
+    },
+    {
+      "name": "Aqua",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Essence of the Mind",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Opalescent",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Greater Essence of the Mind",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Gentian",
+      "level": 54,
+      "family": "IncreasedMana",
+      "text": "+(90—104) to maximum Mana"
+    },
+    {
+      "name": "Chalybeous",
+      "level": 60,
+      "family": "IncreasedMana",
+      "text": "+(105—124) to maximum Mana"
+    },
+    {
+      "name": "Lacquered",
+      "level": 1,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(12—22) to Armour"
+    },
+    {
+      "name": "Studded",
+      "level": 11,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(23—51) to Armour"
+    },
+    {
+      "name": "Ribbed",
+      "level": 16,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(52—68) to Armour"
+    },
+    {
+      "name": "Fortified",
+      "level": 25,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(69—107) to Armour"
+    },
+    {
+      "name": "Plated",
+      "level": 33,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(108—140) to Armour"
+    },
+    {
+      "name": "Carapaced",
+      "level": 46,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(141—186) to Armour"
+    },
+    {
+      "name": "Encased",
+      "level": 54,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(187—225) to Armour"
+    },
+    {
+      "name": "Enveloped",
+      "level": 65,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(226—267) to Armour"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "Gain (6—12)% of Maximum Mana as Armour"
+    },
+    {
+      "name": "Abating",
+      "level": 70,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(268—311) to Armour"
+    },
+    {
+      "name": "Unmoving",
+      "level": 80,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "+(312—351) to Armour"
+    },
+    {
+      "name": "Energising",
+      "level": 1,
+      "family": "LightningDamageIfLightningInfusionCollectedLast8Seconds",
+      "text": "(41—59)% increased Lightning Damage if you've collected a Lightning Infusion in the last 8 seconds"
+    },
+    {
+      "name": "Guide's",
+      "level": 18,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (13—20)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Lookout's",
+      "level": 35,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (21—28)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Watcher's",
+      "level": 44,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (29—36)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Sentry's",
+      "level": 52,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (37—44)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Shepherd's",
+      "level": 63,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (45—52)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Custodian's",
+      "level": 81,
+      "family": "MinionCommandSkillDamage",
+      "text": "Minions deal (53—61)% increased Damage with Command Skills"
+    },
+    {
+      "name": "Instructor's",
+      "level": 1,
+      "family": "MinionDamagePerDifferentCommandSkillUsedLast15Seconds",
+      "text": "(7—12)% increased Minion Damage per different Command Skill used in the past 15 seconds"
+    },
+    {
+      "name": "Bearing",
+      "level": 18,
+      "family": "MinionLife",
+      "text": "Minions have (7—10)% increased maximum Life"
+    },
+    {
+      "name": "Bracing",
+      "level": 29,
+      "family": "MinionLife",
+      "text": "Minions have (11—14)% increased maximum Life"
+    },
+    {
+      "name": "Toughening",
+      "level": 41,
+      "family": "MinionLife",
+      "text": "Minions have (15—18)% increased maximum Life"
+    },
+    {
+      "name": "Reinforcing",
+      "level": 52,
+      "family": "MinionLife",
+      "text": "Minions have (19—22)% increased maximum Life"
+    },
+    {
+      "name": "Bolstering",
+      "level": 67,
+      "family": "MinionLife",
+      "text": "Minions have (23—26)% increased maximum Life"
+    },
+    {
+      "name": "Fortifying",
+      "level": 75,
+      "family": "MinionLife",
+      "text": "Minions have (27—30)% increased maximum Life"
+    },
+    {
+      "name": "Stirring",
+      "level": 24,
+      "family": "MinionReviveSpeed",
+      "text": "Minions Revive (1—2)% faster"
+    },
+    {
+      "name": "Rousing",
+      "level": 45,
+      "family": "MinionReviveSpeed",
+      "text": "Minions Revive (3—5)% faster"
+    },
+    {
+      "name": "Waking",
+      "level": 63,
+      "family": "MinionReviveSpeed",
+      "text": "Minions Revive (7—9)% faster"
+    },
+    {
+      "name": "Restless",
+      "level": 76,
+      "family": "MinionReviveSpeed",
+      "text": "Minions Revive (10—12)% faster"
+    },
+    {
+      "name": "Monstrous",
+      "level": 1,
+      "family": "MinionsGiganticRevivedRecently",
+      "text": "Your Minions are Gigantic if they have Revived Recently"
+    },
+    {
+      "name": "Protective Alloy",
+      "level": 25,
+      "family": "RecoverRunicWardOnCharmUse",
+      "text": "Recover (32—45) Runic Ward when a Charm is used"
+    },
+    {
+      "name": "Activating",
+      "level": 12,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(20—25)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Stimulating",
+      "level": 26,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(26—31)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Awakening",
+      "level": 39,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(32—37)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Elevating",
+      "level": 53,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(38—43)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Energising",
+      "level": 67,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(44—49)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Exhilarating",
+      "level": 80,
+      "family": "SpellDamageDuringManaFlaskEffect",
+      "text": "(50—55)% increased Spell Damage during any Flask Effect"
+    },
+    {
+      "name": "Thorny",
+      "level": 1,
+      "family": "Thorns",
+      "text": "(1—2) to (3—4) Physical Thorns damage"
+    },
+    {
+      "name": "Spiny",
+      "level": 10,
+      "family": "Thorns",
+      "text": "(5—7) to (7—10) Physical Thorns damage"
+    },
+    {
+      "name": "Barbed",
+      "level": 19,
+      "family": "Thorns",
+      "text": "(11—16) to (17—23) Physical Thorns damage"
+    },
+    {
+      "name": "Pointed",
+      "level": 38,
+      "family": "Thorns",
+      "text": "(24—35) to (36—53) Physical Thorns damage"
+    },
+    {
+      "name": "Spiked",
+      "level": 48,
+      "family": "Thorns",
+      "text": "(40—60) to (61—92) Physical Thorns damage"
+    },
+    {
+      "name": "Edged",
+      "level": 63,
+      "family": "Thorns",
+      "text": "(64—97) to (98—145) Physical Thorns damage"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "Thorns",
+      "text": "2 to 4 Fire Thorns damage per 100 maximum Life"
+    },
+    {
+      "name": "Jagged",
+      "level": 74,
+      "family": "Thorns",
+      "text": "(101—151) to (152—220) Physical Thorns damage"
+    },
+    {
+      "name": "Runic Alloy",
+      "level": 13,
+      "family": "WardRegenerationRate",
+      "text": "(15—20)% increased Runic Ward Regeneration Rate"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Exertion",
+      "level": 1,
+      "family": "ArchonDuration",
+      "text": "(40—50)% increased Archon Buff duration"
+    },
+    {
+      "name": "of Unending",
+      "level": 1,
+      "family": "ArchonUndeathOnOfferingUse",
+      "text": "(35—50)% to gain Archon of Undeath when you create an Offering"
+    },
+    {
+      "name": "of Plenty",
+      "level": 2,
+      "family": "BeltCharmChargesGained",
+      "text": "(5—10)% increased Charm Charges gained"
+    },
+    {
+      "name": "of Surplus",
+      "level": 16,
+      "family": "BeltCharmChargesGained",
+      "text": "(11—16)% increased Charm Charges gained"
+    },
+    {
+      "name": "of Fertility",
+      "level": 32,
+      "family": "BeltCharmChargesGained",
+      "text": "(17—22)% increased Charm Charges gained"
+    },
+    {
+      "name": "of Bounty",
+      "level": 48,
+      "family": "BeltCharmChargesGained",
+      "text": "(23—28)% increased Charm Charges gained"
+    },
+    {
+      "name": "of the Harvest",
+      "level": 70,
+      "family": "BeltCharmChargesGained",
+      "text": "(29—34)% increased Charm Charges gained"
+    },
+    {
+      "name": "of Abundance",
+      "level": 81,
+      "family": "BeltCharmChargesGained",
+      "text": "(35—40)% increased Charm Charges gained"
+    },
+    {
+      "name": "of Austerity",
+      "level": 3,
+      "family": "BeltCharmChargesUsed",
+      "text": "(8—10)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Frugality",
+      "level": 18,
+      "family": "BeltCharmChargesUsed",
+      "text": "(11—13)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Temperance",
+      "level": 33,
+      "family": "BeltCharmChargesUsed",
+      "text": "(14—16)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Restraint",
+      "level": 50,
+      "family": "BeltCharmChargesUsed",
+      "text": "(17—19)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Economy",
+      "level": 72,
+      "family": "BeltCharmChargesUsed",
+      "text": "(20—22)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Scarcity",
+      "level": 81,
+      "family": "BeltCharmChargesUsed",
+      "text": "(23—25)% reduced Charm Charges used"
+    },
+    {
+      "name": "of Refilling",
+      "level": 2,
+      "family": "BeltFlaskChargesGained",
+      "text": "(5—10)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Restocking",
+      "level": 16,
+      "family": "BeltFlaskChargesGained",
+      "text": "(11—16)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Replenishing",
+      "level": 32,
+      "family": "BeltFlaskChargesGained",
+      "text": "(17—22)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Pouring",
+      "level": 48,
+      "family": "BeltFlaskChargesGained",
+      "text": "(23—28)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Brimming",
+      "level": 70,
+      "family": "BeltFlaskChargesGained",
+      "text": "(29—34)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Overflowing",
+      "level": 81,
+      "family": "BeltFlaskChargesGained",
+      "text": "(35—40)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Sipping",
+      "level": 3,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(8—10)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Imbibing",
+      "level": 18,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(11—13)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Relishing",
+      "level": 33,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(14—16)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Savouring",
+      "level": 50,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(17—19)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Reveling",
+      "level": 72,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(20—22)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Nourishing",
+      "level": 81,
+      "family": "BeltFlaskChargesUsed",
+      "text": "(23—25)% reduced Flask Charges used"
+    },
+    {
+      "name": "of Hurrying",
+      "level": 22,
+      "family": "CastSpeedDuringManaFlaskEffect",
+      "text": "(8—10)% increased Cast Speed during any Flask Effect"
+    },
+    {
+      "name": "of Quickening",
+      "level": 41,
+      "family": "CastSpeedDuringManaFlaskEffect",
+      "text": "(11—13)% increased Cast Speed during any Flask Effect"
+    },
+    {
+      "name": "of Hastening",
+      "level": 59,
+      "family": "CastSpeedDuringManaFlaskEffect",
+      "text": "(14—16)% increased Cast Speed during any Flask Effect"
+    },
+    {
+      "name": "of Accelerating",
+      "level": 76,
+      "family": "CastSpeedDuringManaFlaskEffect",
+      "text": "(17—19)% increased Cast Speed during any Flask Effect"
+    },
+    {
+      "name": "of Reverberation",
+      "level": 1,
+      "family": "ChanceToNotConsumeInfusionIfLostArchonPast6Seconds",
+      "text": "Skills have (40—50)% chance to not remove Elemental Infusions but still count as consuming them if you've lost an Archon Buff in the past 6 seconds"
+    },
+    {
+      "name": "of the Lost",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "Lesser Essence of Ruin",
+      "level": 16,
+      "family": "ChaosResistance",
+      "text": "+(4—7)% to Chaos Resistance"
+    },
+    {
+      "name": "of Banishment",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "Essence of Ruin",
+      "level": 30,
+      "family": "ChaosResistance",
+      "text": "+(8—11)% to Chaos Resistance"
+    },
+    {
+      "name": "of Eviction",
+      "level": 44,
+      "family": "ChaosResistance",
+      "text": "+(12—15)% to Chaos Resistance"
+    },
+    {
+      "name": "of Expulsion",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "Greater Essence of Ruin",
+      "level": 56,
+      "family": "ChaosResistance",
+      "text": "+(16—19)% to Chaos Resistance"
+    },
+    {
+      "name": "of Exile",
+      "level": 68,
+      "family": "ChaosResistance",
+      "text": "+(20—23)% to Chaos Resistance"
+    },
+    {
+      "name": "of Bameth",
+      "level": 81,
+      "family": "ChaosResistance",
+      "text": "+(24—27)% to Chaos Resistance"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ColdAndChaosDamageResistance",
+      "text": "+(13—17)% to Cold and Chaos Resistances"
+    },
+    {
+      "name": "of the Seal",
+      "level": 1,
+      "family": "ColdResistance",
+      "text": "+(6—10)% to Cold Resistance"
+    },
+    {
+      "name": "of the Penguin",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "Lesser Essence of Thawing",
+      "level": 14,
+      "family": "ColdResistance",
+      "text": "+(11—15)% to Cold Resistance"
+    },
+    {
+      "name": "of the Narwhal",
+      "level": 26,
+      "family": "ColdResistance",
+      "text": "+(16—20)% to Cold Resistance"
+    },
+    {
+      "name": "of the Yeti",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "Essence of Thawing",
+      "level": 38,
+      "family": "ColdResistance",
+      "text": "+(21—25)% to Cold Resistance"
+    },
+    {
+      "name": "of the Walrus",
+      "level": 50,
+      "family": "ColdResistance",
+      "text": "+(26—30)% to Cold Resistance"
+    },
+    {
+      "name": "of the Polar Bear",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "Greater Essence of Thawing",
+      "level": 60,
+      "family": "ColdResistance",
+      "text": "+(31—35)% to Cold Resistance"
+    },
+    {
+      "name": "of the Ice",
+      "level": 71,
+      "family": "ColdResistance",
+      "text": "+(36—40)% to Cold Resistance"
+    },
+    {
+      "name": "of Haast",
+      "level": 82,
+      "family": "ColdResistance",
+      "text": "+(41—45)% to Cold Resistance"
+    },
+    {
+      "name": "Essence of Insanity",
+      "level": 1,
+      "family": "CorruptionIntertactions",
+      "text": "On Corruption, Item gains two Enchantments"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "Dexterity",
+      "text": "+(9—15) to Dexterity and Intelligence"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "FireAndChaosDamageResistance",
+      "text": "+(13—17)% to Fire and Chaos Resistances"
+    },
+    {
+      "name": "Perfect Essence of Insulation",
+      "level": 72,
+      "family": "FireDamageTakenRecoupedAsLife",
+      "text": "(26—30)% of Fire Damage taken Recouped as Life"
+    },
+    {
+      "name": "of the Whelpling",
+      "level": 1,
+      "family": "FireResistance",
+      "text": "+(6—10)% to Fire Resistance"
+    },
+    {
+      "name": "of the Salamander",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "Lesser Essence of Insulation",
+      "level": 12,
+      "family": "FireResistance",
+      "text": "+(11—15)% to Fire Resistance"
+    },
+    {
+      "name": "of the Drake",
+      "level": 24,
+      "family": "FireResistance",
+      "text": "+(16—20)% to Fire Resistance"
+    },
+    {
+      "name": "of the Kiln",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "Essence of Insulation",
+      "level": 36,
+      "family": "FireResistance",
+      "text": "+(21—25)% to Fire Resistance"
+    },
+    {
+      "name": "of the Furnace",
+      "level": 48,
+      "family": "FireResistance",
+      "text": "+(26—30)% to Fire Resistance"
+    },
+    {
+      "name": "of the Volcano",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "Greater Essence of Insulation",
+      "level": 60,
+      "family": "FireResistance",
+      "text": "+(31—35)% to Fire Resistance"
+    },
+    {
+      "name": "of Magma",
+      "level": 71,
+      "family": "FireResistance",
+      "text": "+(36—40)% to Fire Resistance"
+    },
+    {
+      "name": "of Tzteosh",
+      "level": 82,
+      "family": "FireResistance",
+      "text": "+(41—45)% to Fire Resistance"
+    },
+    {
+      "name": "Swift Alloy",
+      "level": 45,
+      "family": "FlaskChargeGeneration",
+      "text": "Flasks gain (0.75—1) charges per Second"
+    },
+    {
+      "name": "of the Taskmaster",
+      "level": 36,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Despot",
+      "level": 64,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Minion Skills"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Newt",
+      "level": 1,
+      "family": "LifeRegeneration",
+      "text": "(1—2) Life Regeneration per second"
+    },
+    {
+      "name": "of the Lizard",
+      "level": 5,
+      "family": "LifeRegeneration",
+      "text": "(2.1—3) Life Regeneration per second"
+    },
+    {
+      "name": "of the Flatworm",
+      "level": 11,
+      "family": "LifeRegeneration",
+      "text": "(3.1—4) Life Regeneration per second"
+    },
+    {
+      "name": "of the Starfish",
+      "level": 17,
+      "family": "LifeRegeneration",
+      "text": "(4.1—6) Life Regeneration per second"
+    },
+    {
+      "name": "of the Hydra",
+      "level": 26,
+      "family": "LifeRegeneration",
+      "text": "(6.1—9) Life Regeneration per second"
+    },
+    {
+      "name": "of the Troll",
+      "level": 35,
+      "family": "LifeRegeneration",
+      "text": "(9.1—13) Life Regeneration per second"
+    },
+    {
+      "name": "of Convalescence",
+      "level": 47,
+      "family": "LifeRegeneration",
+      "text": "(13.1—18) Life Regeneration per second"
+    },
+    {
+      "name": "of Recuperation",
+      "level": 58,
+      "family": "LifeRegeneration",
+      "text": "(18.1—23) Life Regeneration per second"
+    },
+    {
+      "name": "of Resurgence",
+      "level": 68,
+      "family": "LifeRegeneration",
+      "text": "(23.1—29) Life Regeneration per second"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "LightningAndChaosDamageResistance",
+      "text": "+(13—17)% to Lightning and Chaos Resistances"
+    },
+    {
+      "name": "of the Cloud",
+      "level": 1,
+      "family": "LightningResistance",
+      "text": "+(6—10)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Squall",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "Lesser Essence of Grounding",
+      "level": 13,
+      "family": "LightningResistance",
+      "text": "+(11—15)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Storm",
+      "level": 25,
+      "family": "LightningResistance",
+      "text": "+(16—20)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Thunderhead",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "Essence of Grounding",
+      "level": 37,
+      "family": "LightningResistance",
+      "text": "+(21—25)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Tempest",
+      "level": 49,
+      "family": "LightningResistance",
+      "text": "+(26—30)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Maelstrom",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "Greater Essence of Grounding",
+      "level": 60,
+      "family": "LightningResistance",
+      "text": "+(31—35)% to Lightning Resistance"
+    },
+    {
+      "name": "of the Lightning",
+      "level": 71,
+      "family": "LightningResistance",
+      "text": "+(36—40)% to Lightning Resistance"
+    },
+    {
+      "name": "of Ephij",
+      "level": 82,
+      "family": "LightningResistance",
+      "text": "+(41—45)% to Lightning Resistance"
+    },
+    {
+      "name": "of Excitement",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "(10—19)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Joy",
+      "level": 18,
+      "family": "ManaRegeneration",
+      "text": "(20—29)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Elation",
+      "level": 29,
+      "family": "ManaRegeneration",
+      "text": "(30—39)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Bliss",
+      "level": 42,
+      "family": "ManaRegeneration",
+      "text": "(40—49)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Euphoria",
+      "level": 55,
+      "family": "ManaRegeneration",
+      "text": "(50—59)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ManaRegeneration",
+      "text": "(30—40)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Nirvana",
+      "level": 79,
+      "family": "ManaRegeneration",
+      "text": "(60—69)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Scattering",
+      "level": 1,
+      "family": "MinionAdditionalProjectileChance",
+      "text": "Minions have +(50—100)% Surpassing chance to fire an additional Projectile"
+    },
+    {
+      "name": "of Scurrying",
+      "level": 23,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (5—8)% increased Area of Effect"
+    },
+    {
+      "name": "of Bustling",
+      "level": 36,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (9—12)% increased Area of Effect"
+    },
+    {
+      "name": "of Trampling",
+      "level": 49,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (13—16)% increased Area of Effect"
+    },
+    {
+      "name": "of Storming",
+      "level": 61,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (17—20)% increased Area of Effect"
+    },
+    {
+      "name": "of Stampeding",
+      "level": 73,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (21—24)% increased Area of Effect"
+    },
+    {
+      "name": "of Binding",
+      "level": 1,
+      "family": "MinionDuration",
+      "text": "(35—49)% increased Minion Duration"
+    },
+    {
+      "name": "of Clutching",
+      "level": 16,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (20—25)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Grasping",
+      "level": 34,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (26—31)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Gripping",
+      "level": 48,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (32—37)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Snaring",
+      "level": 56,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (38—43)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Grappling",
+      "level": 65,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (44—49)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Seizing",
+      "level": 74,
+      "family": "MinionImmobilisationBuildup",
+      "text": "Minions have (50—55)% increased Immobilisation buildup"
+    },
+    {
+      "name": "of Ravaging",
+      "level": 1,
+      "family": "MinionMeleeSplash",
+      "text": "Minions' Strikes have Melee Splash"
+    },
+    {
+      "name": "of Persuasion",
+      "level": 27,
+      "family": "MinionMovementSpeed",
+      "text": "Minions have (5—7)% increased Movement Speed"
+    },
+    {
+      "name": "of Pressure",
+      "level": 48,
+      "family": "MinionMovementSpeed",
+      "text": "Minions have (8—10)% increased Movement Speed"
+    },
+    {
+      "name": "of Coercion",
+      "level": 68,
+      "family": "MinionMovementSpeed",
+      "text": "Minions have (11—13)% increased Movement Speed"
+    },
+    {
+      "name": "of Compulsion",
+      "level": 77,
+      "family": "MinionMovementSpeed",
+      "text": "Minions have (14—16)% increased Movement Speed"
+    },
+    {
+      "name": "of Coherence",
+      "level": 1,
+      "family": "MinionReservationEfficiency",
+      "text": "(7—10)% increased Reservation Efficiency of Minion Skills"
+    },
+    {
+      "name": "of Tradition",
+      "level": 15,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (6—15)% increased Duration"
+    },
+    {
+      "name": "of Observance",
+      "level": 29,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (16—25)% increased Duration"
+    },
+    {
+      "name": "of the Rite",
+      "level": 47,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (26—35)% increased Duration"
+    },
+    {
+      "name": "of Ceremony",
+      "level": 68,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (36—45)% increased Duration"
+    },
+    {
+      "name": "of Liturgy",
+      "level": 79,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (46—55)% increased Duration"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ReducedAilmentDuration",
+      "text": "(20—30)% reduced Duration of Bleeding on You"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "ReducedAilmentDuration",
+      "text": "(20—30)% reduced Poison Duration on you"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "ReducedSelfIgniteDuration",
+      "text": "(20—30)% reduced Ignite Duration on you"
+    },
+    {
+      "name": "of Accumulation",
+      "level": 24,
+      "family": "RemnantGrantEffectTwiceChance",
+      "text": "(4—6)% chance for Remnants you pick up to count as picking up an additional Remnant"
+    },
+    {
+      "name": "of Proliferation",
+      "level": 37,
+      "family": "RemnantGrantEffectTwiceChance",
+      "text": "(7—9)% chance for Remnants you pick up to count as picking up an additional Remnant"
+    },
+    {
+      "name": "of Expansion",
+      "level": 49,
+      "family": "RemnantGrantEffectTwiceChance",
+      "text": "(10—12)% chance for Remnants you pick up to count as picking up an additional Remnant"
+    },
+    {
+      "name": "of Magnification",
+      "level": 61,
+      "family": "RemnantGrantEffectTwiceChance",
+      "text": "(13—14)% chance for Remnants you pick up to count as picking up an additional Remnant"
+    },
+    {
+      "name": "of Multiplication",
+      "level": 73,
+      "family": "RemnantGrantEffectTwiceChance",
+      "text": "(15—16)% chance for Remnants you pick up to count as picking up an additional Remnant"
+    },
+    {
+      "name": "of Expectation",
+      "level": 1,
+      "family": "SealGainFrequency",
+      "text": "Sealed Skills have (21—35)% increased Seal gain frequency"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "SlowEffect",
+      "text": "(17—25)% reduced Slowing Potency of Debuffs on You if you've used a Charm Recently"
+    },
+    {
+      "name": "of Imbuing",
+      "level": 1,
+      "family": "SpellElementalAilmentMagnitude",
+      "text": "(30—40)% increased Magnitude of Elemental Ailments you inflict with Spells"
+    },
+    {
+      "name": "of the Brute",
+      "level": 1,
+      "family": "Strength",
+      "text": "+(5—8) to Strength"
+    },
+    {
+      "name": "of the Wrestler",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Bear",
+      "level": 22,
+      "family": "Strength",
+      "text": "+(13—16) to Strength"
+    },
+    {
+      "name": "of the Lion",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Gorilla",
+      "level": 44,
+      "family": "Strength",
+      "text": "+(21—24) to Strength"
+    },
+    {
+      "name": "of the Goliath",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Intelligence"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "Strength",
+      "text": "+(9—15) to Strength and Dexterity"
+    },
+    {
+      "name": "of the Leviathan",
+      "level": 66,
+      "family": "Strength",
+      "text": "+(28—30) to Strength"
+    },
+    {
+      "name": "of the Titan",
+      "level": 74,
+      "family": "Strength",
+      "text": "+(31—33) to Strength"
+    },
+    {
+      "name": "of the Gods",
+      "level": 81,
+      "family": "Strength",
+      "text": "+(34—36) to Strength"
+    },
+    {
+      "name": "of Thick Skin",
+      "level": 1,
+      "family": "StunThreshold",
+      "text": "+(6—11) to Stun Threshold"
+    },
+    {
+      "name": "of Reinforced Skin",
+      "level": 8,
+      "family": "StunThreshold",
+      "text": "+(12—29) to Stun Threshold"
+    },
+    {
+      "name": "of Stone Skin",
+      "level": 15,
+      "family": "StunThreshold",
+      "text": "+(30—49) to Stun Threshold"
+    },
+    {
+      "name": "of Iron Skin",
+      "level": 22,
+      "family": "StunThreshold",
+      "text": "+(50—72) to Stun Threshold"
+    },
+    {
+      "name": "of Steel Skin",
+      "level": 29,
+      "family": "StunThreshold",
+      "text": "+(73—97) to Stun Threshold"
+    },
+    {
+      "name": "of Granite Skin",
+      "level": 36,
+      "family": "StunThreshold",
+      "text": "+(98—124) to Stun Threshold"
+    },
+    {
+      "name": "of Platinum Skin",
+      "level": 45,
+      "family": "StunThreshold",
+      "text": "+(125—163) to Stun Threshold"
+    },
+    {
+      "name": "of Adamantite Skin",
+      "level": 54,
+      "family": "StunThreshold",
+      "text": "+(164—206) to Stun Threshold"
+    },
+    {
+      "name": "of Corundum Skin",
+      "level": 63,
+      "family": "StunThreshold",
+      "text": "+(207—253) to Stun Threshold"
+    },
+    {
+      "name": "of Obsidian Skin",
+      "level": 72,
+      "family": "StunThreshold",
+      "text": "+(254—304) to Stun Threshold"
+    },
+    {
+      "name": "Essence of Hysteria",
+      "level": 72,
+      "family": "StunThreshold",
+      "text": "+(254—304) to Stun Threshold"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "Thorns",
+      "text": "+(2—4)% to Thorns Critical Hit Chance"
+    }
+  ]
+}

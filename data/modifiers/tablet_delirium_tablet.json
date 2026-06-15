@@ -1,0 +1,205 @@
+{
+  "item_class": "TowerAugmentation",
+  "prefixes": [
+    {
+      "name": "Azmeri's",
+      "level": 1,
+      "family": "MapAdditionalAzmeriWisp",
+      "text": "% increased Quantity of Waystones found in MapMap contains 1 additional Azmeri Spirits"
+    },
+    {
+      "name": "Treasurer's",
+      "level": 1,
+      "family": "MapAdditionalChests",
+      "text": "Map contains (2—3) additional Rare Chests"
+    },
+    {
+      "name": "Crystallised",
+      "level": 1,
+      "family": "MapAdditionalEssence",
+      "text": "Map contains 1 additional Essences% increased Quantity of Waystones found in Map"
+    },
+    {
+      "name": "Exiled",
+      "level": 1,
+      "family": "MapAdditionalExile",
+      "text": "% increased Quantity of Waystones found in MapMap is inhabited by 1 additional Rogue Exiles"
+    },
+    {
+      "name": "Summoner's",
+      "level": 1,
+      "family": "MapAdditionalStoneCircle",
+      "text": "Map contains 1 additional Summoning Circles"
+    },
+    {
+      "name": "Bountiful",
+      "level": 1,
+      "family": "MapDroppedGoldIncrease",
+      "text": "(25—35)% increased Gold found in Map"
+    },
+    {
+      "name": "Collector's",
+      "level": 1,
+      "family": "MapDroppedItemRarityIncrease",
+      "text": "(8—12)% increased Rarity of Items found in Map"
+    },
+    {
+      "name": "Elevated",
+      "level": 1,
+      "family": "MapExperienceGainIncrease",
+      "text": "(12—18)% increased Experience gain in Map"
+    },
+    {
+      "name": "Teeming",
+      "level": 1,
+      "family": "MapMagicPackIncrease",
+      "text": "Map has (30—40)% increased Magic Monsters"
+    },
+    {
+      "name": "Challenger's",
+      "level": 1,
+      "family": "MapMonsterEffectiveness",
+      "text": "Monsters have (10—15)% increased Effectiveness"
+    },
+    {
+      "name": "Abounding",
+      "level": 1,
+      "family": "MapMonsterRarityIncrease",
+      "text": "Map has (15—20)% increased Monster Rarity"
+    },
+    {
+      "name": "Breeding",
+      "level": 1,
+      "family": "MapPackSizeIncrease",
+      "text": "(5—7)% increased Pack Size in Map"
+    },
+    {
+      "name": "Brimming",
+      "level": 1,
+      "family": "MapRarePackIncrease",
+      "text": "Map has (25—35)% increased number of Rare Monsters"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Shattering",
+      "level": 1,
+      "family": "DeliriumAdditionalShardsChance",
+      "text": "Delirium Fog in Map spawns (12—26)% increased MirrorShards"
+    },
+    {
+      "name": "of Phobia",
+      "level": 1,
+      "family": "DeliriumBossChance",
+      "text": "Delirium Encounters in Map are (15—30)% more likely to spawn Unique Bosses"
+    },
+    {
+      "name": "of Madness",
+      "level": 1,
+      "family": "DeliriumDifficultyIncrease",
+      "text": "Delirium in Map increases (15—30)% faster with distance from the mirror"
+    },
+    {
+      "name": "of Mirrors",
+      "level": 1,
+      "family": "DeliriumDoodadsIncrease",
+      "text": "Delirium Fog in Map spawns (15—30)% increased Fracturing Mirrors"
+    },
+    {
+      "name": "of Eternity",
+      "level": 1,
+      "family": "DeliriumFogDissipationDelay",
+      "text": "Delirium Fog in Map lasts (6—12) additional seconds before dissipating"
+    },
+    {
+      "name": "of the Unending",
+      "level": 1,
+      "family": "DeliriumFogPersistence",
+      "text": "Delirium Fog in Map dissipates (20—30)% slower"
+    },
+    {
+      "name": "of the Simulacrum",
+      "level": 1,
+      "family": "DeliriumMonsterSplinterIncrease",
+      "text": "(15—30)% increased Stack size of Simulacrum Splinters found in Map"
+    },
+    {
+      "name": "of Persecution",
+      "level": 1,
+      "family": "DeliriumPackSizeIncrease",
+      "text": "Delirium Monsters in Map have (15—30)% increased Pack Size"
+    },
+    {
+      "name": "of Freeze Time",
+      "level": 1,
+      "family": "DeliriumRareMonsterPause",
+      "text": "Slaying Rare Monsters in Map pauses the Delirium Mirror Timer for (3—5) seconds"
+    },
+    {
+      "name": "of the Essence",
+      "level": 1,
+      "family": "MapAdditionalEssence",
+      "text": "Map has (70—100)% increased chance to contain Essences"
+    },
+    {
+      "name": "of the Exile",
+      "level": 1,
+      "family": "MapAdditionalExile",
+      "text": "Map has (70—100)% increased chance to contain Rogue Exiles"
+    },
+    {
+      "name": "of Undertaking",
+      "level": 1,
+      "family": "MapAdditionalModifier",
+      "text": "Map has (1—2) additional random Modifiers"
+    },
+    {
+      "name": "of Shrines",
+      "level": 1,
+      "family": "MapAdditionalShrine",
+      "text": "Map has (70—100)% increased chance to contain Shrines"
+    },
+    {
+      "name": "of the Devoted",
+      "level": 1,
+      "family": "MapAdditionalShrine",
+      "text": "% reduced Pack Size in Map% increased Quantity of Waystones found in MapMap contains 1 additional Shrines"
+    },
+    {
+      "name": "of Spirits",
+      "level": 1,
+      "family": "MapAdditionalSpirit",
+      "text": "Map has (70—100)% increased chance to contain Azmeri Spirits"
+    },
+    {
+      "name": "of the Summoning",
+      "level": 1,
+      "family": "MapAdditionalStoneCircle",
+      "text": "Map has (70—100)% increased chance to contain a Summoning Circle"
+    },
+    {
+      "name": "of Strongboxes",
+      "level": 1,
+      "family": "MapAdditionalStrongbox",
+      "text": "Map has (70—100)% increased chance to contain Strongboxes"
+    },
+    {
+      "name": "of the Antiquarian",
+      "level": 1,
+      "family": "MapAdditionalStrongbox",
+      "text": "% reduced Pack Size in Map% increased Quantity of Waystones found in MapMap contains 1 additional Strongboxes"
+    },
+    {
+      "name": "of Contest",
+      "level": 1,
+      "family": "MapAdditionalUniqueMonsterModifier",
+      "text": "Unique Monsters have 1 additional Rare Modifier"
+    },
+    {
+      "name": "of the Cartographer",
+      "level": 1,
+      "family": "MapDroppedMapsIncrease",
+      "text": "(30—40)% increased Quantity of Waystones found in Map"
+    }
+  ]
+}

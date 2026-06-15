@@ -1,0 +1,313 @@
+{
+  "item_class": "Flasks Charms",
+  "prefixes": [
+    {
+      "name": "Herbal",
+      "level": 1,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (8—12) Life when Used"
+    },
+    {
+      "name": "Drizzling",
+      "level": 1,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (16—24) Mana when Used"
+    },
+    {
+      "name": "Sunny",
+      "level": 10,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (44—66) Guard"
+    },
+    {
+      "name": "Floral",
+      "level": 14,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (35—52) Life when Used"
+    },
+    {
+      "name": "Soaked",
+      "level": 14,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (33—50) Mana when Used"
+    },
+    {
+      "name": "Dawnlit",
+      "level": 21,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (85—128) Guard"
+    },
+    {
+      "name": "Blooming",
+      "level": 26,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (63—92) Life when Used"
+    },
+    {
+      "name": "Mistbound",
+      "level": 26,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (55—75) Mana when Used"
+    },
+    {
+      "name": "Sprouting",
+      "level": 36,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (96—130) Life when Used"
+    },
+    {
+      "name": "Tidebound",
+      "level": 36,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (80—110) Mana when Used"
+    },
+    {
+      "name": "Bright",
+      "level": 36,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (148—200) Guard"
+    },
+    {
+      "name": "Petaled",
+      "level": 47,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (134—180) Life when Used"
+    },
+    {
+      "name": "Aqueous",
+      "level": 47,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (115—145) Mana when Used"
+    },
+    {
+      "name": "Vibrant",
+      "level": 48,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (205—260) Guard"
+    },
+    {
+      "name": "Botanic",
+      "level": 58,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (185—230) Life when Used"
+    },
+    {
+      "name": "Flooded",
+      "level": 58,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (150—180) Mana when Used"
+    },
+    {
+      "name": "Lustrous",
+      "level": 60,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (265—350) Guard"
+    },
+    {
+      "name": "Natural",
+      "level": 67,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (235—280) Life when Used"
+    },
+    {
+      "name": "Oceanic",
+      "level": 67,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (185—225) Mana when Used"
+    },
+    {
+      "name": "Sunburst",
+      "level": 75,
+      "family": "FlaskRecoveryAmount",
+      "text": "Also grants (355—500) Guard"
+    },
+    {
+      "name": "Evergreen",
+      "level": 76,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (285—350) Life when Used"
+    },
+    {
+      "name": "Raindancer's",
+      "level": 76,
+      "family": "FlaskRecoveryAmount",
+      "text": "Recover (230—300) Mana when Used"
+    },
+    {
+      "name": "Investigator's",
+      "level": 1,
+      "family": "FlaskRecoverySpeed",
+      "text": "(16—20)% increased Duration"
+    },
+    {
+      "name": "Analyst's",
+      "level": 20,
+      "family": "FlaskRecoverySpeed",
+      "text": "(21—25)% increased Duration"
+    },
+    {
+      "name": "Examiner's",
+      "level": 42,
+      "family": "FlaskRecoverySpeed",
+      "text": "(26—30)% increased Duration"
+    },
+    {
+      "name": "Clinician's",
+      "level": 61,
+      "family": "FlaskRecoverySpeed",
+      "text": "(31—35)% increased Duration"
+    },
+    {
+      "name": "Experimenter's",
+      "level": 78,
+      "family": "FlaskRecoverySpeed",
+      "text": "(36—40)% increased Duration"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of the Apprentice",
+      "level": 1,
+      "family": "FlaskChargesUsed",
+      "text": "(15—17)% reduced Charges per use"
+    },
+    {
+      "name": "of the Practitioner",
+      "level": 14,
+      "family": "FlaskChargesUsed",
+      "text": "(18—20)% reduced Charges per use"
+    },
+    {
+      "name": "of the Mixologist",
+      "level": 34,
+      "family": "FlaskChargesUsed",
+      "text": "(21—23)% reduced Charges per use"
+    },
+    {
+      "name": "of the Distiller",
+      "level": 49,
+      "family": "FlaskChargesUsed",
+      "text": "(24—26)% reduced Charges per use"
+    },
+    {
+      "name": "of the Brewer",
+      "level": 64,
+      "family": "FlaskChargesUsed",
+      "text": "(27—29)% reduced Charges per use"
+    },
+    {
+      "name": "of the Chemist",
+      "level": 83,
+      "family": "FlaskChargesUsed",
+      "text": "(30—32)% reduced Charges per use"
+    },
+    {
+      "name": "of the Foliage",
+      "level": 8,
+      "family": "FlaskGainCharge",
+      "text": "Gains 0.15 Charges per Second"
+    },
+    {
+      "name": "of the Verdant",
+      "level": 26,
+      "family": "FlaskGainCharge",
+      "text": "Gains 0.2 Charges per Second"
+    },
+    {
+      "name": "of the Sylvan",
+      "level": 45,
+      "family": "FlaskGainCharge",
+      "text": "Gains 0.25 Charges per Second"
+    },
+    {
+      "name": "of the Wide",
+      "level": 1,
+      "family": "FlaskNumCharges",
+      "text": "(23—30)% increased Charges"
+    },
+    {
+      "name": "of the Copious",
+      "level": 12,
+      "family": "FlaskNumCharges",
+      "text": "(31—38)% increased Charges"
+    },
+    {
+      "name": "of the Plentiful",
+      "level": 32,
+      "family": "FlaskNumCharges",
+      "text": "(39—46)% increased Charges"
+    },
+    {
+      "name": "of the Bountiful",
+      "level": 47,
+      "family": "FlaskNumCharges",
+      "text": "(47—54)% increased Charges"
+    },
+    {
+      "name": "of the Abundant",
+      "level": 62,
+      "family": "FlaskNumCharges",
+      "text": "(55—62)% increased Charges"
+    },
+    {
+      "name": "of the Ample",
+      "level": 81,
+      "family": "FlaskNumCharges",
+      "text": "(63—70)% increased Charges"
+    },
+    {
+      "name": "of the Constant",
+      "level": 1,
+      "family": "FlaskRechargeRate",
+      "text": "(23—30)% increased Charges gained"
+    },
+    {
+      "name": "of the Medic",
+      "level": 8,
+      "family": "FlaskRechargeRate",
+      "text": "(21—25)% Chance to gain a Charge when you kill an enemy"
+    },
+    {
+      "name": "of the Continuous",
+      "level": 13,
+      "family": "FlaskRechargeRate",
+      "text": "(31—38)% increased Charges gained"
+    },
+    {
+      "name": "of the Doctor",
+      "level": 26,
+      "family": "FlaskRechargeRate",
+      "text": "(26—30)% Chance to gain a Charge when you kill an enemy"
+    },
+    {
+      "name": "of the Endless",
+      "level": 33,
+      "family": "FlaskRechargeRate",
+      "text": "(39—46)% increased Charges gained"
+    },
+    {
+      "name": "of the Surgeon",
+      "level": 45,
+      "family": "FlaskRechargeRate",
+      "text": "(31—35)% Chance to gain a Charge when you kill an enemy"
+    },
+    {
+      "name": "of the Bottomless",
+      "level": 48,
+      "family": "FlaskRechargeRate",
+      "text": "(47—54)% increased Charges gained"
+    },
+    {
+      "name": "of the Perpetual",
+      "level": 63,
+      "family": "FlaskRechargeRate",
+      "text": "(55—62)% increased Charges gained"
+    },
+    {
+      "name": "of the Eternal",
+      "level": 82,
+      "family": "FlaskRechargeRate",
+      "text": "(63—70)% increased Charges gained"
+    }
+  ]
+}

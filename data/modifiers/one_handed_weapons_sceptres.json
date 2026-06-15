@@ -1,0 +1,1087 @@
+{
+  "item_class": "Sceptre",
+  "prefixes": [
+    {
+      "name": "Coercive",
+      "level": 1,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (25—34)% increased Damage"
+    },
+    {
+      "name": "Agitative",
+      "level": 8,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (35—44)% increased Damage"
+    },
+    {
+      "name": "Lesser Essence of Command",
+      "level": 8,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (35—44)% increased Damage"
+    },
+    {
+      "name": "Instigative",
+      "level": 16,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (45—54)% increased Damage"
+    },
+    {
+      "name": "Provocative",
+      "level": 33,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (55—64)% increased Damage"
+    },
+    {
+      "name": "Essence of Command",
+      "level": 33,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (55—64)% increased Damage"
+    },
+    {
+      "name": "Persuasive",
+      "level": 46,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (65—74)% increased Damage"
+    },
+    {
+      "name": "Motivating",
+      "level": 60,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (75—89)% increased Damage"
+    },
+    {
+      "name": "Greater Essence of Command",
+      "level": 60,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (75—89)% increased Damage"
+    },
+    {
+      "name": "Inspirational",
+      "level": 70,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (90—104)% increased Damage"
+    },
+    {
+      "name": "Empowering",
+      "level": 82,
+      "family": "AllDamage",
+      "text": "Allies in your Presence deal (105—119)% increased Damage"
+    },
+    {
+      "name": "Frosted",
+      "level": 1,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (1—2) to (3—4) added Attack Cold Damage"
+    },
+    {
+      "name": "Chilled",
+      "level": 8,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (3—4) to (5—8) added Attack Cold Damage"
+    },
+    {
+      "name": "Icy",
+      "level": 16,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (5—6) to (9—11) added Attack Cold Damage"
+    },
+    {
+      "name": "Frigid",
+      "level": 33,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (7—8) to (12—14) added Attack Cold Damage"
+    },
+    {
+      "name": "Freezing",
+      "level": 46,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (9—10) to (15—17) added Attack Cold Damage"
+    },
+    {
+      "name": "Frozen",
+      "level": 54,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (11—13) to (18—21) added Attack Cold Damage"
+    },
+    {
+      "name": "Glaciated",
+      "level": 60,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (14—15) to (22—24) added Attack Cold Damage"
+    },
+    {
+      "name": "Polar",
+      "level": 65,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (16—20) to (25—31) added Attack Cold Damage"
+    },
+    {
+      "name": "Entombing",
+      "level": 75,
+      "family": "ColdDamage",
+      "text": "Allies in your Presence deal (21—24) to (32—37) added Attack Cold Damage"
+    },
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "CriticalModifierEffect",
+      "text": "(20—30)% increased Explicit Critical Modifier magnitudes"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Heated",
+      "level": 1,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (1—2) to (3—4) added Attack Fire Damage"
+    },
+    {
+      "name": "Smouldering",
+      "level": 8,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (3—5) to (6—9) added Attack Fire Damage"
+    },
+    {
+      "name": "Smoking",
+      "level": 16,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (6—8) to (10—13) added Attack Fire Damage"
+    },
+    {
+      "name": "Burning",
+      "level": 33,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (9—11) to (14—17) added Attack Fire Damage"
+    },
+    {
+      "name": "Flaming",
+      "level": 46,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (12—13) to (18—20) added Attack Fire Damage"
+    },
+    {
+      "name": "Scorching",
+      "level": 54,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (14—16) to (21—26) added Attack Fire Damage"
+    },
+    {
+      "name": "Incinerating",
+      "level": 60,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (17—19) to (27—30) added Attack Fire Damage"
+    },
+    {
+      "name": "Blasting",
+      "level": 65,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (20—24) to (31—38) added Attack Fire Damage"
+    },
+    {
+      "name": "Cremating",
+      "level": 75,
+      "family": "FireDamage",
+      "text": "Allies in your Presence deal (25—29) to (39—45) added Attack Fire Damage"
+    },
+    {
+      "name": "Beryl",
+      "level": 1,
+      "family": "IncreasedMana",
+      "text": "+(10—14) to maximum Mana"
+    },
+    {
+      "name": "Cobalt",
+      "level": 6,
+      "family": "IncreasedMana",
+      "text": "+(15—24) to maximum Mana"
+    },
+    {
+      "name": "Azure",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Teal",
+      "level": 25,
+      "family": "IncreasedMana",
+      "text": "+(35—54) to maximum Mana"
+    },
+    {
+      "name": "Cerulean",
+      "level": 33,
+      "family": "IncreasedMana",
+      "text": "+(55—64) to maximum Mana"
+    },
+    {
+      "name": "Aqua",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Opalescent",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Gentian",
+      "level": 54,
+      "family": "IncreasedMana",
+      "text": "+(90—104) to maximum Mana"
+    },
+    {
+      "name": "Chalybeous",
+      "level": 60,
+      "family": "IncreasedMana",
+      "text": "+(105—124) to maximum Mana"
+    },
+    {
+      "name": "Mazarine",
+      "level": 65,
+      "family": "IncreasedMana",
+      "text": "+(125—149) to maximum Mana"
+    },
+    {
+      "name": "Blue",
+      "level": 70,
+      "family": "IncreasedMana",
+      "text": "+(150—164) to maximum Mana"
+    },
+    {
+      "name": "Humming",
+      "level": 1,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal 1 to (5—7) added Attack Lightning Damage"
+    },
+    {
+      "name": "Buzzing",
+      "level": 8,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal 1 to (10—15) added Attack Lightning Damage"
+    },
+    {
+      "name": "Snapping",
+      "level": 16,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal 1 to (16—22) added Attack Lightning Damage"
+    },
+    {
+      "name": "Crackling",
+      "level": 33,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal 1 to (23—27) added Attack Lightning Damage"
+    },
+    {
+      "name": "Sparking",
+      "level": 46,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal 1 to (28—32) added Attack Lightning Damage"
+    },
+    {
+      "name": "Arcing",
+      "level": 54,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal (1—2) to (33—40) added Attack Lightning Damage"
+    },
+    {
+      "name": "Shocking",
+      "level": 60,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal (1—2) to (41—47) added Attack Lightning Damage"
+    },
+    {
+      "name": "Discharging",
+      "level": 65,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal (1—3) to (48—59) added Attack Lightning Damage"
+    },
+    {
+      "name": "Electrocuting",
+      "level": 75,
+      "family": "LightningDamage",
+      "text": "Allies in your Presence deal (1—4) to (60—71) added Attack Lightning Damage"
+    },
+    {
+      "name": "Advisor's",
+      "level": 2,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(10—14)% increased Spirit+(17—20) to maximum Mana"
+    },
+    {
+      "name": "Counselor's",
+      "level": 11,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(15—18)% increased Spirit+(21—24) to maximum Mana"
+    },
+    {
+      "name": "Emissary's",
+      "level": 26,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(19—22)% increased Spirit+(25—28) to maximum Mana"
+    },
+    {
+      "name": "Minister's",
+      "level": 36,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(23—26)% increased Spirit+(29—33) to maximum Mana"
+    },
+    {
+      "name": "Envoy's",
+      "level": 48,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(27—30)% increased Spirit+(34—37) to maximum Mana"
+    },
+    {
+      "name": "Diplomat's",
+      "level": 58,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(31—34)% increased Spirit+(38—41) to maximum Mana"
+    },
+    {
+      "name": "Chancellor's",
+      "level": 70,
+      "family": "LocalIncreasedSpiritAndMana",
+      "text": "(35—38)% increased Spirit+(42—45) to maximum Mana"
+    },
+    {
+      "name": "Lord's",
+      "level": 1,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(20—26)% increased Spirit"
+    },
+    {
+      "name": "Baron's",
+      "level": 8,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(27—32)% increased Spirit"
+    },
+    {
+      "name": "Viscount's",
+      "level": 16,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(33—38)% increased Spirit"
+    },
+    {
+      "name": "Marquess'",
+      "level": 33,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(39—44)% increased Spirit"
+    },
+    {
+      "name": "Count's",
+      "level": 46,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(45—50)% increased Spirit"
+    },
+    {
+      "name": "Duke's",
+      "level": 60,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(51—55)% increased Spirit"
+    },
+    {
+      "name": "Prince's",
+      "level": 75,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(56—60)% increased Spirit"
+    },
+    {
+      "name": "King's",
+      "level": 82,
+      "family": "LocalIncreasedSpiritPercent",
+      "text": "(61—65)% increased Spirit"
+    },
+    {
+      "name": "Adaptive Alloy",
+      "level": 25,
+      "family": "MinionGainPuppetMasterOnCommand",
+      "text": "(30—50)% Surpassing Chance to gain a Puppet Master stack whenever you use a Command Skill"
+    },
+    {
+      "name": "Glinting",
+      "level": 1,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (1—2) to (3—4) added Attack Physical Damage"
+    },
+    {
+      "name": "Burnished",
+      "level": 8,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (2—3) to (4—6) added Attack Physical Damage"
+    },
+    {
+      "name": "Polished",
+      "level": 16,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (2—4) to (5—8) added Attack Physical Damage"
+    },
+    {
+      "name": "Honed",
+      "level": 33,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (4—6) to (8—11) added Attack Physical Damage"
+    },
+    {
+      "name": "Gleaming",
+      "level": 46,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (5—7) to (9—13) added Attack Physical Damage"
+    },
+    {
+      "name": "Annealed",
+      "level": 54,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (6—10) to (12—17) added Attack Physical Damage"
+    },
+    {
+      "name": "Razor-sharp",
+      "level": 60,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (7—11) to (14—20) added Attack Physical Damage"
+    },
+    {
+      "name": "Tempered",
+      "level": 65,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (10—15) to (18—26) added Attack Physical Damage"
+    },
+    {
+      "name": "Flaring",
+      "level": 75,
+      "family": "PhysicalDamage",
+      "text": "Allies in your Presence deal (12—19) to (22—32) added Attack Physical Damage"
+    },
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "SpeedModifierEffect",
+      "text": "(25—30)% increased Explicit Speed Modifier magnitudes"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Adjustment",
+      "level": 12,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(3—5)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Acclimatisation",
+      "level": 26,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(6—8)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Adaptation",
+      "level": 40,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(9—11)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Evolution",
+      "level": 54,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(12—14)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Progression",
+      "level": 68,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(15—16)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Metamorphosis",
+      "level": 80,
+      "family": "AllResistances",
+      "text": "Allies in your Presence have +(17—18)% to all Elemental Resistances"
+    },
+    {
+      "name": "Perfect Essence of Command",
+      "level": 72,
+      "family": "AuraEffect",
+      "text": "Aura Skills have (15—20)% increased Magnitudes"
+    },
+    {
+      "name": "Protective Alloy",
+      "level": 25,
+      "family": "BaseRunicWard",
+      "text": "+(51—74) to maximum Runic Ward"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ChaosModifierEffect",
+      "text": "(15—20)% increased Explicit Chaos Modifier magnitudes"
+    },
+    {
+      "name": "of Menace",
+      "level": 11,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (10—14)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Havoc",
+      "level": 21,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (15—19)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Disaster",
+      "level": 28,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (20—24)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Calamity",
+      "level": 41,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (25—29)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Ruin",
+      "level": 59,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (30—34)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 76,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Allies in your Presence have (35—38)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Ire",
+      "level": 8,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (10—14)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Anger",
+      "level": 21,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (15—19)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Rage",
+      "level": 30,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (20—24)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Fury",
+      "level": 44,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (25—29)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Ferocity",
+      "level": 59,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (30—34)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Destruction",
+      "level": 73,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Allies in your Presence have (35—39)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Mystic Alloy",
+      "level": 45,
+      "family": "ElementalInfusion",
+      "text": "+1 to maximum number of Elemental Infusions"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Fire Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Lightning Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Cold Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Elemental Damage Modifier magnitudes"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "of the Taskmaster",
+      "level": 2,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Despot",
+      "level": 25,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Overseer",
+      "level": 55,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+3 to Level of all Minion Skills"
+    },
+    {
+      "name": "of the Slavedriver",
+      "level": 78,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+4 to Level of all Minion Skills"
+    },
+    {
+      "name": "of Skill",
+      "level": 5,
+      "family": "IncreasedAttackSpeed",
+      "text": "Allies in your Presence have (5—7)% increased Attack Speed"
+    },
+    {
+      "name": "of Ease",
+      "level": 20,
+      "family": "IncreasedAttackSpeed",
+      "text": "Allies in your Presence have (8—10)% increased Attack Speed"
+    },
+    {
+      "name": "of Mastery",
+      "level": 35,
+      "family": "IncreasedAttackSpeed",
+      "text": "Allies in your Presence have (11—13)% increased Attack Speed"
+    },
+    {
+      "name": "of Renown",
+      "level": 55,
+      "family": "IncreasedAttackSpeed",
+      "text": "Allies in your Presence have (14—16)% increased Attack Speed"
+    },
+    {
+      "name": "of Talent",
+      "level": 6,
+      "family": "IncreasedCastSpeed",
+      "text": "Allies in your Presence have (5—8)% increased Cast Speed"
+    },
+    {
+      "name": "of Nimbleness",
+      "level": 21,
+      "family": "IncreasedCastSpeed",
+      "text": "Allies in your Presence have (9—12)% increased Cast Speed"
+    },
+    {
+      "name": "of Expertise",
+      "level": 36,
+      "family": "IncreasedCastSpeed",
+      "text": "Allies in your Presence have (13—16)% increased Cast Speed"
+    },
+    {
+      "name": "of Sortilege",
+      "level": 56,
+      "family": "IncreasedCastSpeed",
+      "text": "Allies in your Presence have (17—20)% increased Cast Speed"
+    },
+    {
+      "name": "of the Pupil",
+      "level": 1,
+      "family": "Intelligence",
+      "text": "+(5—8) to Intelligence"
+    },
+    {
+      "name": "of the Student",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Intelligence"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Prodigy",
+      "level": 22,
+      "family": "Intelligence",
+      "text": "+(13—16) to Intelligence"
+    },
+    {
+      "name": "of the Augur",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Philosopher",
+      "level": 44,
+      "family": "Intelligence",
+      "text": "+(21—24) to Intelligence"
+    },
+    {
+      "name": "of the Sage",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Savant",
+      "level": 66,
+      "family": "Intelligence",
+      "text": "+(28—30) to Intelligence"
+    },
+    {
+      "name": "of the Virtuoso",
+      "level": 74,
+      "family": "Intelligence",
+      "text": "+(31—33) to Intelligence"
+    },
+    {
+      "name": "of the Newt",
+      "level": 1,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (1—2) Life per second"
+    },
+    {
+      "name": "of the Lizard",
+      "level": 5,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (2.1—3) Life per second"
+    },
+    {
+      "name": "of the Flatworm",
+      "level": 11,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (3.1—4) Life per second"
+    },
+    {
+      "name": "of the Starfish",
+      "level": 17,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (4.1—6) Life per second"
+    },
+    {
+      "name": "of the Hydra",
+      "level": 26,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (6.1—9) Life per second"
+    },
+    {
+      "name": "of the Troll",
+      "level": 35,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (9.1—13) Life per second"
+    },
+    {
+      "name": "of Convalescence",
+      "level": 47,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (13.1—18) Life per second"
+    },
+    {
+      "name": "of Recuperation",
+      "level": 58,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (18.1—23) Life per second"
+    },
+    {
+      "name": "of Resurgence",
+      "level": 68,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (23.1—29) Life per second"
+    },
+    {
+      "name": "of Immortality",
+      "level": 75,
+      "family": "LifeRegeneration",
+      "text": "Allies in your Presence Regenerate (29.1—33) Life per second"
+    },
+    {
+      "name": "of Warmth",
+      "level": 8,
+      "family": "LightRadiusAndManaRegeneration",
+      "text": "(8—12)% increased Mana Regeneration Rate5% increased Light Radius"
+    },
+    {
+      "name": "of Kindling",
+      "level": 15,
+      "family": "LightRadiusAndManaRegeneration",
+      "text": "(13—17)% increased Mana Regeneration Rate10% increased Light Radius"
+    },
+    {
+      "name": "of the Hearth",
+      "level": 30,
+      "family": "LightRadiusAndManaRegeneration",
+      "text": "(18—22)% increased Mana Regeneration Rate15% increased Light Radius"
+    },
+    {
+      "name": "of the Worthy",
+      "level": 24,
+      "family": "LocalAttributeRequirements",
+      "text": "15% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Apt",
+      "level": 32,
+      "family": "LocalAttributeRequirements",
+      "text": "20% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Talented",
+      "level": 40,
+      "family": "LocalAttributeRequirements",
+      "text": "25% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Skilled",
+      "level": 52,
+      "family": "LocalAttributeRequirements",
+      "text": "30% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Proficient",
+      "level": 60,
+      "family": "LocalAttributeRequirements",
+      "text": "35% reduced Attribute Requirements"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ManaModifierEffect",
+      "text": "(25—30)% increased Explicit Mana Modifier magnitudes"
+    },
+    {
+      "name": "of Excitement",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "(10—19)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Joy",
+      "level": 18,
+      "family": "ManaRegeneration",
+      "text": "(20—29)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Elation",
+      "level": 29,
+      "family": "ManaRegeneration",
+      "text": "(30—39)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Bliss",
+      "level": 42,
+      "family": "ManaRegeneration",
+      "text": "(40—49)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Euphoria",
+      "level": 55,
+      "family": "ManaRegeneration",
+      "text": "(50—59)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Nirvana",
+      "level": 79,
+      "family": "ManaRegeneration",
+      "text": "(60—69)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "The Runebinder's Alloy",
+      "level": 65,
+      "family": "MaximumPuppeteerStacks",
+      "text": "+(4—5) maximum stacks of Puppet Master"
+    },
+    {
+      "name": "Prismatic Alloy",
+      "level": 45,
+      "family": "MinionDamagingAilments",
+      "text": "Minions have (40—49)% increased Magnitude of Damaging Ailments"
+    },
+    {
+      "name": "of the Mentor",
+      "level": 2,
+      "family": "MinionLife",
+      "text": "Minions have (21—25)% increased maximum Life"
+    },
+    {
+      "name": "of the Tutor",
+      "level": 16,
+      "family": "MinionLife",
+      "text": "Minions have (26—30)% increased maximum Life"
+    },
+    {
+      "name": "of the Director",
+      "level": 32,
+      "family": "MinionLife",
+      "text": "Minions have (31—35)% increased maximum Life"
+    },
+    {
+      "name": "of the Headmaster",
+      "level": 48,
+      "family": "MinionLife",
+      "text": "Minions have (36—40)% increased maximum Life"
+    },
+    {
+      "name": "of the Administrator",
+      "level": 64,
+      "family": "MinionLife",
+      "text": "Minions have (41—45)% increased maximum Life"
+    },
+    {
+      "name": "of the Rector",
+      "level": 80,
+      "family": "MinionLife",
+      "text": "Minions have (46—50)% increased maximum Life"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "PhysicalModifierEffect",
+      "text": "(10—15)% increased Explicit Physical Modifier magnitudes"
+    },
+    {
+      "name": "of Direction",
+      "level": 23,
+      "family": "PresenceRadius",
+      "text": "(36—45)% increased Presence Area of Effect"
+    },
+    {
+      "name": "of Outreach",
+      "level": 40,
+      "family": "PresenceRadius",
+      "text": "(46—55)% increased Presence Area of Effect"
+    },
+    {
+      "name": "of Guidance",
+      "level": 56,
+      "family": "PresenceRadius",
+      "text": "(56—65)% increased Presence Area of Effect"
+    },
+    {
+      "name": "of Influence",
+      "level": 72,
+      "family": "PresenceRadius",
+      "text": "(66—80)% increased Presence Area of Effect"
+    },
+    {
+      "name": "Sovereign Alloy",
+      "level": 65,
+      "family": "SoulCore",
+      "text": "(20—30)% increased effect of Socketed Augment Items"
+    },
+    {
+      "name": "of the Brute",
+      "level": 1,
+      "family": "Strength",
+      "text": "+(5—8) to Strength"
+    },
+    {
+      "name": "of the Wrestler",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Bear",
+      "level": 22,
+      "family": "Strength",
+      "text": "+(13—16) to Strength"
+    },
+    {
+      "name": "of the Lion",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Gorilla",
+      "level": 44,
+      "family": "Strength",
+      "text": "+(21—24) to Strength"
+    },
+    {
+      "name": "of the Goliath",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Leviathan",
+      "level": 66,
+      "family": "Strength",
+      "text": "+(28—30) to Strength"
+    },
+    {
+      "name": "of the Titan",
+      "level": 74,
+      "family": "Strength",
+      "text": "+(31—33) to Strength"
+    }
+  ]
+}

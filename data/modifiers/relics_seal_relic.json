@@ -1,0 +1,349 @@
+{
+  "item_class": "Relic",
+  "prefixes": [
+    {
+      "name": "Reinforced",
+      "level": 1,
+      "family": "SanctumDefences",
+      "text": "(20—29)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Layered",
+      "level": 50,
+      "family": "SanctumDefences",
+      "text": "(30—39)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Thickened",
+      "level": 65,
+      "family": "SanctumDefences",
+      "text": "(40—49)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Girded",
+      "level": 75,
+      "family": "SanctumDefences",
+      "text": "(50—70)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Honourable",
+      "level": 1,
+      "family": "SanctumMaximumHonour",
+      "text": "(9—12)% increased maximum Honour"
+    },
+    {
+      "name": "Moral",
+      "level": 40,
+      "family": "SanctumMaximumHonour",
+      "text": "(13—16)% increased maximum Honour"
+    },
+    {
+      "name": "Principled",
+      "level": 55,
+      "family": "SanctumMaximumHonour",
+      "text": "(17—20)% increased maximum Honour"
+    },
+    {
+      "name": "Respected",
+      "level": 67,
+      "family": "SanctumMaximumHonour",
+      "text": "(21—24)% increased maximum Honour"
+    },
+    {
+      "name": "Venerable",
+      "level": 76,
+      "family": "SanctumMaximumHonour",
+      "text": "(25—30)% increased maximum Honour"
+    },
+    {
+      "name": "Steadfast",
+      "level": 1,
+      "family": "SanctumMaximumLife",
+      "text": "(5—8)% increased maximum Life"
+    },
+    {
+      "name": "Enduring",
+      "level": 40,
+      "family": "SanctumMaximumLife",
+      "text": "(9—12)% increased maximum Life"
+    },
+    {
+      "name": "Adamant",
+      "level": 55,
+      "family": "SanctumMaximumLife",
+      "text": "(13—16)% increased maximum Life"
+    },
+    {
+      "name": "Ardent",
+      "level": 67,
+      "family": "SanctumMaximumLife",
+      "text": "(17—20)% increased maximum Life"
+    },
+    {
+      "name": "Resolute",
+      "level": 76,
+      "family": "SanctumMaximumLife",
+      "text": "(21—25)% increased maximum Life"
+    },
+    {
+      "name": "Nimble",
+      "level": 1,
+      "family": "SanctumMovementSpeed",
+      "text": "(3—4)% increased Movement Speed"
+    },
+    {
+      "name": "Swift",
+      "level": 55,
+      "family": "SanctumMovementSpeed",
+      "text": "(5—6)% increased Movement Speed"
+    },
+    {
+      "name": "Hasted",
+      "level": 78,
+      "family": "SanctumMovementSpeed",
+      "text": "(7—10)% increased Movement Speed"
+    },
+    {
+      "name": "Revitalising",
+      "level": 1,
+      "family": "SanctumResolveRecovery",
+      "text": "(6—10)% increased Honour restored"
+    },
+    {
+      "name": "Galvanising",
+      "level": 50,
+      "family": "SanctumResolveRecovery",
+      "text": "(11—15)% increased Honour restored"
+    },
+    {
+      "name": "Enlivening",
+      "level": 70,
+      "family": "SanctumResolveRecovery",
+      "text": "(16—20)% increased Honour restored"
+    },
+    {
+      "name": "Emboldening",
+      "level": 75,
+      "family": "SanctumResolveRecovery",
+      "text": "(21—24)% increased Honour restored"
+    },
+    {
+      "name": "Brightening",
+      "level": 80,
+      "family": "SanctumResolveRecovery",
+      "text": "(25—29)% increased Honour restored"
+    },
+    {
+      "name": "Commoner's",
+      "level": 1,
+      "family": "SanctumStartingGold",
+      "text": "Gain (30—39) Sacred Water at the start of the Trial"
+    },
+    {
+      "name": "Dekhara's",
+      "level": 40,
+      "family": "SanctumStartingGold",
+      "text": "Gain (40—49) Sacred Water at the start of the Trial"
+    },
+    {
+      "name": "Djinn's",
+      "level": 55,
+      "family": "SanctumStartingGold",
+      "text": "Gain (50—59) Sacred Water at the start of the Trial"
+    },
+    {
+      "name": "Sekhema's",
+      "level": 67,
+      "family": "SanctumStartingGold",
+      "text": "Gain (40—49) Sacred Water at the start of the Trial"
+    },
+    {
+      "name": "Divinity's",
+      "level": 76,
+      "family": "SanctumStartingGold",
+      "text": "Gain (50—59) Sacred Water at the start of the Trial"
+    },
+    {
+      "name": "Acrobatic",
+      "level": 1,
+      "family": "SanctumTrapDamage",
+      "text": "Traps deal (5—7)% reduced Damage"
+    },
+    {
+      "name": "Limber",
+      "level": 78,
+      "family": "SanctumTrapDamage",
+      "text": "Traps deal (8—10)% reduced Damage"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Lunging",
+      "level": 1,
+      "family": "SanctumDodgeRollDistance",
+      "text": "+(0.3—0.4) metres to Dodge Roll distance"
+    },
+    {
+      "name": "of Eluding",
+      "level": 70,
+      "family": "SanctumDodgeRollDistance",
+      "text": "+(0.5—0.7) metres to Dodge Roll distance"
+    },
+    {
+      "name": "of Flowing",
+      "level": 1,
+      "family": "SanctumFountainDoubleGoldChance",
+      "text": "Fountains have (5—6)% chance to grant double Sacred Water"
+    },
+    {
+      "name": "of Brimming",
+      "level": 35,
+      "family": "SanctumFountainDoubleGoldChance",
+      "text": "Fountains have (7—8)% chance to grant double Sacred Water"
+    },
+    {
+      "name": "of Overflowing",
+      "level": 54,
+      "family": "SanctumFountainDoubleGoldChance",
+      "text": "Fountains have (9—10)% chance to grant double Sacred Water"
+    },
+    {
+      "name": "of Abundance",
+      "level": 70,
+      "family": "SanctumFountainDoubleGoldChance",
+      "text": "Fountains have (11—15)% chance to grant double Sacred Water"
+    },
+    {
+      "name": "of Worth",
+      "level": 1,
+      "family": "SanctumHonourResistance",
+      "text": "+(8—10)% to Honour Resistance"
+    },
+    {
+      "name": "of Deserving",
+      "level": 40,
+      "family": "SanctumHonourResistance",
+      "text": "+(11—13)% to Honour Resistance"
+    },
+    {
+      "name": "of Justification",
+      "level": 55,
+      "family": "SanctumHonourResistance",
+      "text": "+(14—16)% to Honour Resistance"
+    },
+    {
+      "name": "of Entitlement",
+      "level": 67,
+      "family": "SanctumHonourResistance",
+      "text": "+(17—19)% to Honour Resistance"
+    },
+    {
+      "name": "of Merit",
+      "level": 76,
+      "family": "SanctumHonourResistance",
+      "text": "+(20—22)% to Honour Resistance"
+    },
+    {
+      "name": "of Access",
+      "level": 1,
+      "family": "SanctumKeyDropChance",
+      "text": "(6—10)% increased quantity of Keys dropped by Monsters"
+    },
+    {
+      "name": "of Admission",
+      "level": 50,
+      "family": "SanctumKeyDropChance",
+      "text": "(11—15)% increased quantity of Keys dropped by Monsters"
+    },
+    {
+      "name": "of Entry",
+      "level": 65,
+      "family": "SanctumKeyDropChance",
+      "text": "(16—20)% increased quantity of Keys dropped by Monsters"
+    },
+    {
+      "name": "of Entrance",
+      "level": 75,
+      "family": "SanctumKeyDropChance",
+      "text": "(21—25)% increased quantity of Keys dropped by Monsters"
+    },
+    {
+      "name": "of Dampening",
+      "level": 1,
+      "family": "SanctumMonstersDoubleGoldChance",
+      "text": "Monsters have (5—6)% chance to drop double Sacred Water"
+    },
+    {
+      "name": "of Soaking",
+      "level": 35,
+      "family": "SanctumMonstersDoubleGoldChance",
+      "text": "Monsters have (7—8)% chance to drop double Sacred Water"
+    },
+    {
+      "name": "of Drenching",
+      "level": 54,
+      "family": "SanctumMonstersDoubleGoldChance",
+      "text": "Monsters have (9—10)% chance to drop double Sacred Water"
+    },
+    {
+      "name": "of Saturating",
+      "level": 70,
+      "family": "SanctumMonstersDoubleGoldChance",
+      "text": "Monsters have (11—15)% chance to drop double Sacred Water"
+    },
+    {
+      "name": "of Stoutness",
+      "level": 1,
+      "family": "SanctumReducedCritDamage",
+      "text": "Hits against you have (12—15)% reduced Critical Damage Bonus"
+    },
+    {
+      "name": "of Tenacity",
+      "level": 55,
+      "family": "SanctumReducedCritDamage",
+      "text": "Hits against you have (16—19)% reduced Critical Damage Bonus"
+    },
+    {
+      "name": "of Unwavering",
+      "level": 76,
+      "family": "SanctumReducedCritDamage",
+      "text": "Hits against you have (20—25)% reduced Critical Damage Bonus"
+    },
+    {
+      "name": "of Discovery",
+      "level": 1,
+      "family": "SanctumRelicQuantity",
+      "text": "(6—10)% increased quantity of Relics dropped by Monsters"
+    },
+    {
+      "name": "of Learning",
+      "level": 50,
+      "family": "SanctumRelicQuantity",
+      "text": "(11—15)% increased quantity of Relics dropped by Monsters"
+    },
+    {
+      "name": "of Investigation",
+      "level": 80,
+      "family": "SanctumRelicQuantity",
+      "text": "(16—20)% increased quantity of Relics dropped by Monsters"
+    },
+    {
+      "name": "of Unyielding",
+      "level": 1,
+      "family": "SanctumSlowResistance",
+      "text": "(8—11)% reduced Slowing Potency of Debuffs on You"
+    },
+    {
+      "name": "of Unrelenting",
+      "level": 55,
+      "family": "SanctumSlowResistance",
+      "text": "(12—15)% reduced Slowing Potency of Debuffs on You"
+    },
+    {
+      "name": "of the Pathfinder",
+      "level": 76,
+      "family": "SanctumSlowResistance",
+      "text": "(16—20)% reduced Slowing Potency of Debuffs on You"
+    }
+  ]
+}

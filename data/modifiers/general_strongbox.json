@@ -1,0 +1,919 @@
+{
+  "item_class": "General Strongbox",
+  "prefixes": [
+    {
+      "name": "Predator's",
+      "level": 1,
+      "family": "ChestCamoflage",
+      "text": "Guarded by camoflaged Monsters"
+    },
+    {
+      "name": "Frigid",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "Casts Ice Novachest play warning sound [1]"
+    },
+    {
+      "name": "Scorched",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "(10—20)% more Rarity of Contained ItemsSummons Volatile Cragschest play warning sound [1]"
+    },
+    {
+      "name": "Vibrating",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "(10—20)% more Rarity of Contained ItemsCasts Lightning Stormschest play warning sound [1]"
+    },
+    {
+      "name": "Chaotic",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "(10—20)% more Rarity of Contained ItemsCasts Chaos Barrageschest play warning sound [1]"
+    },
+    {
+      "name": "Unstable",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "Explodeschest play warning sound [1]"
+    },
+    {
+      "name": "Frosted",
+      "level": 1,
+      "family": "ChestDelayedSkill",
+      "text": "Cursed by Winter Hagschest play warning sound [1]"
+    },
+    {
+      "name": "Putrifying",
+      "level": 4,
+      "family": "ChestDelayedSkill",
+      "text": "Detonates nearby corpseschest play warning sound [1]"
+    },
+    {
+      "name": "Contaminated",
+      "level": 8,
+      "family": "ChestDelayedSkill",
+      "text": "Spreads Caustic Groundchest play warning sound [1]"
+    },
+    {
+      "name": "Scorched",
+      "level": 10,
+      "family": "ChestDelayedSkill",
+      "text": "Casts Firestormchest play warning sound [1]"
+    },
+    {
+      "name": "Incandescent",
+      "level": 1,
+      "family": "ChestInstantSkill",
+      "text": "Ignites you when activated"
+    },
+    {
+      "name": "Arctic",
+      "level": 8,
+      "family": "ChestInstantSkill",
+      "text": "(10—20)% more Rarity of Contained ItemsFreezes you when activated"
+    },
+    {
+      "name": "Whispering",
+      "level": 15,
+      "family": "ChestInstantSkill",
+      "text": "Casts a random Hex Curse Spell when activated"
+    },
+    {
+      "name": "Crowded",
+      "level": 1,
+      "family": "ChestMonsters",
+      "text": "Guarded by (4—8) packs of Monsterschest delay drops until daemons finish [1]"
+    },
+    {
+      "name": "Intimidating",
+      "level": 10,
+      "family": "ChestMonsters",
+      "text": "Guarded by (2—4) packs of Magic Monsterschest delay drops until daemons finish [1]"
+    },
+    {
+      "name": "Menacing",
+      "level": 35,
+      "family": "ChestMonsters",
+      "text": "Guarded by (1—2) packs of Rare Monsterschest delay drops until daemons finish [1]"
+    },
+    {
+      "name": "Reaper's",
+      "level": 1,
+      "family": "ChestReviveMonsters",
+      "text": "Revives nearby dead Monsters with Onslaught"
+    },
+    {
+      "name": "Ossified",
+      "level": 2,
+      "family": "ChestSkeletons",
+      "text": "Summons Skeletonschest delay drops until daemons finish [1]"
+    },
+    {
+      "name": "Rallying",
+      "level": 35,
+      "family": "ChestSpawnContinuousMonsters",
+      "text": "Guarded by a stream of Monsters"
+    },
+    {
+      "name": "Contested",
+      "level": 12,
+      "family": "ChestSpawnRogueExile",
+      "text": "Guarded by 1 Rogue Exiles"
+    },
+    {
+      "name": "Marauder's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will require Strength"
+    },
+    {
+      "name": "Ranger's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will require Dexterity"
+    },
+    {
+      "name": "Witch's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will require Intelligence"
+    },
+    {
+      "name": "Duelist's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will only require Strength or Dexterity"
+    },
+    {
+      "name": "Shadow's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will only require Dexterity or Intelligence"
+    },
+    {
+      "name": "Templar's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique Armour and Weapons will only require Strength or Intelligence"
+    },
+    {
+      "name": "Spellslinger's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Wands"
+    },
+    {
+      "name": "Sorcerer's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Staves"
+    },
+    {
+      "name": "Lich's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Sceptres"
+    },
+    {
+      "name": "Disciple's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Foci"
+    },
+    {
+      "name": "Necromancer's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Amulets"
+    },
+    {
+      "name": "Ritualist's",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained non-Unique items are always Rings"
+    },
+    {
+      "name": "Royal",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Magic and Rare items are always Jewels"
+    },
+    {
+      "name": "Chaos",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Chaos Orbs have a 10% chance to be upgraded"
+    },
+    {
+      "name": "Transmutation",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Orbs of Transmutation have a 10% chance to be upgraded"
+    },
+    {
+      "name": "Augmentation",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Orbs of Augmentation have a 10% chance to be upgraded"
+    },
+    {
+      "name": "Exalted",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Exalted Orbs have a 10% chance to be upgraded"
+    },
+    {
+      "name": "Regal",
+      "level": 1,
+      "family": "DropReplacementModifier",
+      "text": "Contained Regal Orbs have a 10% chance to be upgraded"
+    },
+    {
+      "name": "Breach",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Breach Precursor Tablets"
+    },
+    {
+      "name": "Expedition",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Expedition Precursor Tablets"
+    },
+    {
+      "name": "Delirium",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Delirium Precursor Tablets"
+    },
+    {
+      "name": "Ritual",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Ritual Precursor Tablets"
+    },
+    {
+      "name": "Abyss",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Abyss Precursor Tablets"
+    },
+    {
+      "name": "Atziri's Temple",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Atziri's Temple Precursor Tablets"
+    },
+    {
+      "name": "Irradiated",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Irradiated Precursor Tablets"
+    },
+    {
+      "name": "Overseer's",
+      "level": 1,
+      "family": "DropsAdditionalTowerAugment",
+      "text": "Contains 1 additional Overseer Precursor Tablets"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterMinionsTakeLifeInstead1",
+      "level": 1,
+      "family": "MonsterMinionsTakeLifeInstead",
+      "text": "strongbox construct has monsterminionstakelifeinstead1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterCorpseExploder1",
+      "level": 1,
+      "family": "MonsterModDetonateCorpses",
+      "text": "strongbox construct has monstercorpseexploder1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFlamewaller1",
+      "level": 1,
+      "family": "MonsterModFlamewaller",
+      "text": "strongbox construct has monsterflamewaller1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterPeriodicEnrage1",
+      "level": 1,
+      "family": "MonsterModFrenzied",
+      "text": "strongbox construct has monsterperiodicenrage1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterPeriodicEnrage2",
+      "level": 1,
+      "family": "MonsterModFrenzied",
+      "text": "strongbox construct has monsterperiodicenrage2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterBurningGroundOnDeath1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monsterburninggroundondeath1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterChilledGroundOnDeath1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monsterchilledgroundondeath1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterShockedGroundOnDeath1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monstershockedgroundondeath1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLightningMirage1",
+      "level": 1,
+      "family": "MonsterModLightningMirage",
+      "text": "strongbox construct has monsterlightningmirage1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLightningMirage2",
+      "level": 1,
+      "family": "MonsterModLightningMirage",
+      "text": "strongbox construct has monsterlightningmirage2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterMagmaBarrier1",
+      "level": 1,
+      "family": "MonsterModMagmaBarrier",
+      "text": "strongbox construct has monstermagmabarrier1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFlameBeacons1",
+      "level": 1,
+      "family": "MonsterModMinionBeacon",
+      "text": "strongbox construct has monsterflamebeacons1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFrostBeacons1",
+      "level": 1,
+      "family": "MonsterModMinionBeacon",
+      "text": "strongbox construct has monsterfrostbeacons1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLightningBeacons1",
+      "level": 1,
+      "family": "MonsterModMinionBeacon",
+      "text": "strongbox construct has monsterlightningbeacons1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterRevivesMinions1",
+      "level": 1,
+      "family": "MonsterModRevivesMinions",
+      "text": "strongbox construct has monsterrevivesminions1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterShroudWalker1",
+      "level": 1,
+      "family": "MonsterModShroudWalker",
+      "text": "strongbox construct has monstershroudwalker1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterShroudWalker2",
+      "level": 1,
+      "family": "MonsterModShroudWalker",
+      "text": "strongbox construct has monstershroudwalker2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterPhysicalDamageAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterphysicaldamageaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterIncreasedSpeedAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterincreasedspeedaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterEnergyShieldAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterenergyshieldaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterResistanceAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterresistanceaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterTemporalAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monstertemporalaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterHinderAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterhinderaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterPreventRecoveryAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterpreventrecoveryaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterImmuneAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterimmuneaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterImmuneAura2",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterimmuneaura2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterManaSiphonAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monstermanasiphonaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterManaSiphonAura2",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monstermanasiphonaura2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterHealingNova1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterhealingnova1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFlaskRemovalAura1",
+      "level": 1,
+      "family": "MonsterModSpecialAura",
+      "text": "strongbox construct has monsterflaskremovalaura1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLightningStorms1",
+      "level": 1,
+      "family": "MonsterModStormHerald",
+      "text": "strongbox construct has monsterlightningstorms1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterStrongerMinions1",
+      "level": 1,
+      "family": "MonsterModStrongerMinions",
+      "text": "strongbox construct has monsterstrongerminions1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterProximalTangibility1",
+      "level": 1,
+      "family": "MonsterProximalTangibility",
+      "text": "strongbox construct has monsterproximaltangibility1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterVolatilePlants1",
+      "level": 1,
+      "family": "MonsterVolatilePlants",
+      "text": "strongbox construct has monstervolatileplants1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterVolatilePlants2",
+      "level": 1,
+      "family": "MonsterVolatilePlants",
+      "text": "strongbox construct has monstervolatileplants2 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterVolatileRocks1",
+      "level": 1,
+      "family": "MonsterVolatileRocks",
+      "text": "strongbox construct has monstervolatilerocks1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterVolatileRocks2",
+      "level": 1,
+      "family": "MonsterVolatileRocks",
+      "text": "strongbox construct has monstervolatilerocks2 [1]"
+    },
+    {
+      "name": "Exploiter's",
+      "level": 1,
+      "family": "StrongboxRareMonstersHaveAilmentMod",
+      "text": "Guarding Rare Monsters have an additional Ailment Modifier"
+    },
+    {
+      "name": "Savage",
+      "level": 1,
+      "family": "StrongboxRareMonstersHaveDamageAsExtraMod",
+      "text": "Guarding Rare Monsters have an additional Extra Damage Modifier"
+    },
+    {
+      "name": "Protected",
+      "level": 1,
+      "family": "StrongboxRareMonstersHaveDefensiveMod",
+      "text": "Guarding Rare Monsters have an additional Defensive Modifier"
+    },
+    {
+      "name": "Walker's",
+      "level": 1,
+      "family": "StrongboxRareMonstersHaveElementalGroundEffectMod",
+      "text": "Guarding Rare Monsters have an additional Elemental Area Modifier"
+    },
+    {
+      "name": "StrongboxVaseMonsterMod1",
+      "level": 1,
+      "family": "StrongboxVaseMod",
+      "text": "vase monster add mod armour [1]"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "StrongboxConstructHas_MonsterAdditionalProjectiles1",
+      "level": 1,
+      "family": "AdditionalProjectiles",
+      "text": "strongbox construct has monsteradditionalprojectiles1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterArmourPenetration1",
+      "level": 1,
+      "family": "ArmourPenetration",
+      "text": "strongbox construct has monsterarmourpenetration1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterAlwaysBleed1",
+      "level": 1,
+      "family": "BleedChanceIncrease",
+      "text": "strongbox construct has monsteralwaysbleed1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterDamageGainedAsChaos1",
+      "level": 1,
+      "family": "ChaosDamage",
+      "text": "strongbox construct has monsterdamagegainedaschaos1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterChaosResistance1",
+      "level": 1,
+      "family": "ChaosResistance",
+      "text": "strongbox construct has monsterchaosresistance1 [1]"
+    },
+    {
+      "name": "of the Exceptional",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains an additional Exceptional Item"
+    },
+    {
+      "name": "of the Exceptional Warrior",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains an additional Exceptional Martial Weapon"
+    },
+    {
+      "name": "of the Exceptional Mage",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains an additional Exceptional Caster Weapon"
+    },
+    {
+      "name": "of the Exceptional Armourer",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains an additional Exceptional Armour Item"
+    },
+    {
+      "name": "of the Greater Exceptional",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains (2—3) additional Exceptional Items"
+    },
+    {
+      "name": "of the Greater Exceptional Warrior",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains (2—3) additional Exceptional Martial Weapons"
+    },
+    {
+      "name": "of the Greater Exceptional Mage",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains (2—3) additional Exceptional Caster Weapons"
+    },
+    {
+      "name": "of the Greater Exceptional Armourer",
+      "level": 75,
+      "family": "ChestAdditionalExceptionalItems",
+      "text": "Contains (2—3) additional Exceptional Armour Items"
+    },
+    {
+      "name": "of Runic Power",
+      "level": 5,
+      "family": "ChestAdditionalRunes",
+      "text": "Contains (1—2) additional Rune"
+    },
+    {
+      "name": "of Greater Runic Power",
+      "level": 5,
+      "family": "ChestAdditionalRunes",
+      "text": "Contains (5—7) additional Runes"
+    },
+    {
+      "name": "of the Barya",
+      "level": 24,
+      "family": "ChestAdditionalSanctumKey",
+      "text": "Contains 1 additional Djinn Barya"
+    },
+    {
+      "name": "of the Greater Barya",
+      "level": 24,
+      "family": "ChestAdditionalSanctumKey",
+      "text": "Contains 3 additional Djinn Baryas"
+    },
+    {
+      "name": "of Inscription",
+      "level": 65,
+      "family": "ChestAdditionalSpecialTowerAugment",
+      "text": "Contains 1 additional Unusual Tablet"
+    },
+    {
+      "name": "of Greater Inscription",
+      "level": 65,
+      "family": "ChestAdditionalSpecialTowerAugment",
+      "text": "Contains 3 additional Unusual Tablets"
+    },
+    {
+      "name": "of the Trials",
+      "level": 39,
+      "family": "ChestAdditionalUltimatumKey",
+      "text": "Contains 1 additional Inscribed Ultimatum"
+    },
+    {
+      "name": "of the Greater Trials",
+      "level": 39,
+      "family": "ChestAdditionalUltimatumKey",
+      "text": "Contains 3 additional Inscribed Ultimatums"
+    },
+    {
+      "name": "of Singularity",
+      "level": 1,
+      "family": "ChestDropUnique",
+      "text": "Contains an additional Unique Item"
+    },
+    {
+      "name": "of Greater Singularity",
+      "level": 1,
+      "family": "ChestDropUnique",
+      "text": "Contains (3—5) additional Unique Items"
+    },
+    {
+      "name": "of Wisdom",
+      "level": 1,
+      "family": "ChestDropsIdentified",
+      "text": "Contains Identified Items"
+    },
+    {
+      "name": "of Greater Wisdom",
+      "level": 1,
+      "family": "ChestDropsIdentified",
+      "text": "Contains Identified Items"
+    },
+    {
+      "name": "of Ascendance",
+      "level": 1,
+      "family": "ChestItemLevel",
+      "text": "+1 Chest level"
+    },
+    {
+      "name": "of Greater Ascendance",
+      "level": 1,
+      "family": "ChestItemLevel",
+      "text": "+2 Chest level"
+    },
+    {
+      "name": "of Quality",
+      "level": 1,
+      "family": "ChestItemQuality",
+      "text": "Contained Items have (5—15)% Quality"
+    },
+    {
+      "name": "of Greater Quality",
+      "level": 1,
+      "family": "ChestItemQuality",
+      "text": "Contained Items have (15—20)% Quality"
+    },
+    {
+      "name": "of Treasures",
+      "level": 1,
+      "family": "ChestItemRarity",
+      "text": "(50—100)% more Rarity of Contained Items"
+    },
+    {
+      "name": "of Greater Treasures",
+      "level": 1,
+      "family": "ChestItemRarity",
+      "text": "(150—250)% more Rarity of Contained Items"
+    },
+    {
+      "name": "of Complexity",
+      "level": 1,
+      "family": "ChestItemSockets",
+      "text": "Contained Items have an additional Socket"
+    },
+    {
+      "name": "of Monstrous Bounty",
+      "level": 1,
+      "family": "ChestQuantityAndMonsterEffectiveness",
+      "text": "(15—30)% more Quantity of Contained Items(15—30)% increased Effectiveness of Strongbox Monsters"
+    },
+    {
+      "name": "of Monstrous Bounty",
+      "level": 1,
+      "family": "ChestQuantityAndMonsterEffectiveness",
+      "text": "(25—50)% more Quantity of Contained Items(25—50)% increased Effectiveness of Strongbox Monsters"
+    },
+    {
+      "name": "of Monstrous Treasures",
+      "level": 1,
+      "family": "ChestRarityAndMonsterRarity",
+      "text": "(40—60)% more Rarity of Contained Items(40—60)% increased Rarity of Items Dropped from Strongbox Monsters"
+    },
+    {
+      "name": "of Monstrous Treasures",
+      "level": 1,
+      "family": "ChestRarityAndMonsterRarity",
+      "text": "(60—100)% more Rarity of Contained Items(60—100)% increased Rarity of Items Dropped from Strongbox Monsters"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterDamageGainedAsCold1",
+      "level": 1,
+      "family": "ColdDamage",
+      "text": "strongbox construct has monsterdamagegainedascold1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterColdResistance1",
+      "level": 1,
+      "family": "ColdResistance",
+      "text": "strongbox construct has monstercoldresistance1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterCriticalStrikeChance1",
+      "level": 1,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "strongbox construct has monstercriticalstrikechance1 [1]"
+    },
+    {
+      "name": "of Greater Complexity",
+      "level": 1,
+      "family": "DroppedItemsModified",
+      "text": "Contained Items have maximum Sockets"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterDamageGainedAsFire1",
+      "level": 1,
+      "family": "FireDamage",
+      "text": "strongbox construct has monsterdamagegainedasfire1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFireResistance1",
+      "level": 1,
+      "family": "FireResistance",
+      "text": "strongbox construct has monsterfireresistance1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterFreezeDamageIncrease1",
+      "level": 1,
+      "family": "FreezeDamageIncrease",
+      "text": "strongbox construct has monsterfreezedamageincrease1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterIgniteChanceIncrease1",
+      "level": 1,
+      "family": "IgniteChanceIncrease",
+      "text": "strongbox construct has monsterignitechanceincrease1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterIncreasedAccuracy1",
+      "level": 1,
+      "family": "IncreasedAccuracyPercent",
+      "text": "strongbox construct has monsterincreasedaccuracy1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterExtraEnergyShield1",
+      "level": 1,
+      "family": "IncreasedEnergyShield",
+      "text": "strongbox construct has monsterextraenergyshield1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterExtraEvasion1",
+      "level": 1,
+      "family": "IncreasedEvasionRating",
+      "text": "strongbox construct has monsterextraevasion1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterExtraArmour1",
+      "level": 1,
+      "family": "IncreasedPhysicalDamageReductionRating",
+      "text": "strongbox construct has monsterextraarmour1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterIncreasedSpeed1",
+      "level": 1,
+      "family": "IncreasedSpeed",
+      "text": "strongbox construct has monsterincreasedspeed1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLifeRegenerationRatePercentage1",
+      "level": 1,
+      "family": "LifeRegenerationRatePercentage",
+      "text": "strongbox construct has monsterliferegenerationratepercentage1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterLightningResistance1",
+      "level": 1,
+      "family": "LightningDamage",
+      "text": "strongbox construct has monsterlightningresistance1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterDamageGainedAsLightning1",
+      "level": 1,
+      "family": "LightningDamage",
+      "text": "strongbox construct has monsterdamagegainedaslightning1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterAreaOfEffect1",
+      "level": 1,
+      "family": "MonsterModAreaOfEffect",
+      "text": "strongbox construct has monsterareaofeffect1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterBurningGroundTrail1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monsterburninggroundtrail1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterChilledGroundTrail1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monsterchilledgroundtrail1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterShockedGroundTrail1",
+      "level": 1,
+      "family": "MonsterModGroundEffect",
+      "text": "strongbox construct has monstershockedgroundtrail1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterModReducedCritMulti1",
+      "level": 1,
+      "family": "MonsterModNoExtraDamageFromCrits",
+      "text": "strongbox construct has monstermodreducedcritmulti1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterStunResilience1",
+      "level": 1,
+      "family": "MonsterModStunResilience",
+      "text": "strongbox construct has monsterstunresilience1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterAlwaysPoison1",
+      "level": 1,
+      "family": "PoisonChanceIncrease",
+      "text": "strongbox construct has monsteralwayspoison1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterShockChanceIncrease1",
+      "level": 1,
+      "family": "ShockChanceIncrease",
+      "text": "strongbox construct has monstershockchanceincrease1 [1]"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterImmuneToSlow1",
+      "level": 1,
+      "family": "SlowPotency",
+      "text": "strongbox construct has monsterimmunetoslow1 [1]"
+    },
+    {
+      "name": "of Bounty",
+      "level": 1,
+      "family": "StrongboxItemQuantityMultiplicative",
+      "text": "(25—50)% more Quantity of Contained Items"
+    },
+    {
+      "name": "of Greater Bounty",
+      "level": 1,
+      "family": "StrongboxItemQuantityMultiplicative",
+      "text": "(100—150)% more Quantity of Contained Items"
+    },
+    {
+      "name": "StrongboxConstructHas_MonsterStunDamageIncrease1",
+      "level": 1,
+      "family": "StunDamageIncrease",
+      "text": "strongbox construct has monsterstundamageincrease1 [1]"
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "item_class": "One Hand Sword",
+  "prefixes": [
+    {
+      "name": "Frosted",
+      "level": 1,
+      "family": "ColdDamage",
+      "text": "Adds (1—2) to (3—4) Cold Damage"
+    },
+    {
+      "name": "Chilled",
+      "level": 8,
+      "family": "ColdDamage",
+      "text": "Adds (3—5) to (6—9) Cold Damage"
+    },
+    {
+      "name": "Lesser Essence of Ice",
+      "level": 8,
+      "family": "ColdDamage",
+      "text": "Adds (3—5) to (6—9) Cold Damage"
+    },
+    {
+      "name": "Icy",
+      "level": 16,
+      "family": "ColdDamage",
+      "text": "Adds (6—9) to (10—16) Cold Damage"
+    },
+    {
+      "name": "Frigid",
+      "level": 33,
+      "family": "ColdDamage",
+      "text": "Adds (11—15) to (17—24) Cold Damage"
+    },
+    {
+      "name": "Freezing",
+      "level": 46,
+      "family": "ColdDamage",
+      "text": "Adds (17—20) to (26—32) Cold Damage"
+    },
+    {
+      "name": "Essence of Ice",
+      "level": 46,
+      "family": "ColdDamage",
+      "text": "Adds (17—20) to (26—32) Cold Damage"
+    },
+    {
+      "name": "Frozen",
+      "level": 54,
+      "family": "ColdDamage",
+      "text": "Adds (22—29) to (34—44) Cold Damage"
+    },
+    {
+      "name": "Glaciated",
+      "level": 60,
+      "family": "ColdDamage",
+      "text": "Adds (31—38) to (47—59) Cold Damage"
+    },
+    {
+      "name": "Greater Essence of Ice",
+      "level": 60,
+      "family": "ColdDamage",
+      "text": "Adds (31—38) to (47—59) Cold Damage"
+    },
+    {
+      "name": "Polar",
+      "level": 65,
+      "family": "ColdDamage",
+      "text": "Adds (40—53) to (62—80) Cold Damage"
+    },
+    {
+      "name": "Entombing",
+      "level": 75,
+      "family": "ColdDamage",
+      "text": "Adds (55—69) to (83—106) Cold Damage"
+    },
+    {
+      "name": "Crystalising",
+      "level": 81,
+      "family": "ColdDamage",
+      "text": "Adds (72—81) to (110—123) Cold Damage"
+    },
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "CriticalModifierEffect",
+      "text": "(20—30)% increased Explicit Critical Modifier magnitudes"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Heated",
+      "level": 1,
+      "family": "FireDamage",
+      "text": "Adds (1—2) to (3—5) Fire Damage"
+    },
+    {
+      "name": "Smouldering",
+      "level": 8,
+      "family": "FireDamage",
+      "text": "Adds (4—6) to (7—10) Fire Damage"
+    },
+    {
+      "name": "Lesser Essence of Flames",
+      "level": 8,
+      "family": "FireDamage",
+      "text": "Adds (4—6) to (7—10) Fire Damage"
+    },
+    {
+      "name": "Smoking",
+      "level": 16,
+      "family": "FireDamage",
+      "text": "Adds (7—11) to (13—19) Fire Damage"
+    },
+    {
+      "name": "Burning",
+      "level": 33,
+      "family": "FireDamage",
+      "text": "Adds (13—19) to (21—29) Fire Damage"
+    },
+    {
+      "name": "Flaming",
+      "level": 46,
+      "family": "FireDamage",
+      "text": "Adds (20—24) to (32—37) Fire Damage"
+    },
+    {
+      "name": "Essence of Flames",
+      "level": 46,
+      "family": "FireDamage",
+      "text": "Adds (20—24) to (32—37) Fire Damage"
+    },
+    {
+      "name": "Scorching",
+      "level": 54,
+      "family": "FireDamage",
+      "text": "Adds (25—33) to (38—54) Fire Damage"
+    },
+    {
+      "name": "Incinerating",
+      "level": 60,
+      "family": "FireDamage",
+      "text": "Adds (35—44) to (56—71) Fire Damage"
+    },
+    {
+      "name": "Greater Essence of Flames",
+      "level": 60,
+      "family": "FireDamage",
+      "text": "Adds (35—44) to (56—71) Fire Damage"
+    },
+    {
+      "name": "Blasting",
+      "level": 65,
+      "family": "FireDamage",
+      "text": "Adds (47—59) to (74—97) Fire Damage"
+    },
+    {
+      "name": "Cremating",
+      "level": 75,
+      "family": "FireDamage",
+      "text": "Adds (62—85) to (101—129) Fire Damage"
+    },
+    {
+      "name": "Carbonising",
+      "level": 81,
+      "family": "FireDamage",
+      "text": "Adds (88—101) to (133—154) Fire Damage"
+    },
+    {
+      "name": "Precise",
+      "level": 8,
+      "family": "IncreasedAccuracy",
+      "text": "+(11—32) to Accuracy Rating"
+    },
+    {
+      "name": "Reliable",
+      "level": 13,
+      "family": "IncreasedAccuracy",
+      "text": "+(33—60) to Accuracy Rating"
+    },
+    {
+      "name": "Focused",
+      "level": 18,
+      "family": "IncreasedAccuracy",
+      "text": "+(61—84) to Accuracy Rating"
+    },
+    {
+      "name": "Lesser Essence of Battle",
+      "level": 18,
+      "family": "IncreasedAccuracy",
+      "text": "+(61—84) to Accuracy Rating"
+    },
+    {
+      "name": "Deliberate",
+      "level": 26,
+      "family": "IncreasedAccuracy",
+      "text": "+(85—123) to Accuracy Rating"
+    },
+    {
+      "name": "Consistent",
+      "level": 36,
+      "family": "IncreasedAccuracy",
+      "text": "+(124—167) to Accuracy Rating"
+    },
+    {
+      "name": "Essence of Battle",
+      "level": 36,
+      "family": "IncreasedAccuracy",
+      "text": "+(124—167) to Accuracy Rating"
+    },
+    {
+      "name": "Steady",
+      "level": 48,
+      "family": "IncreasedAccuracy",
+      "text": "+(168—236) to Accuracy Rating"
+    },
+    {
+      "name": "Hunter's",
+      "level": 58,
+      "family": "IncreasedAccuracy",
+      "text": "+(237—346) to Accuracy Rating"
+    },
+    {
+      "name": "Greater Essence of Battle",
+      "level": 58,
+      "family": "IncreasedAccuracy",
+      "text": "+(237—346) to Accuracy Rating"
+    },
+    {
+      "name": "Celestial Alloy",
+      "level": 65,
+      "family": "IncreasedAccuracy",
+      "text": "+(327—427) to Accuracy Rating(5—8)% increased Attack Speed"
+    },
+    {
+      "name": "Ranger's",
+      "level": 67,
+      "family": "IncreasedAccuracy",
+      "text": "+(347—450) to Accuracy Rating"
+    },
+    {
+      "name": "Amazon's",
+      "level": 76,
+      "family": "IncreasedAccuracy",
+      "text": "+(451—550) to Accuracy Rating"
+    },
+    {
+      "name": "Catalysing",
+      "level": 4,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(19—35)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Infusing",
+      "level": 16,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(36—52)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Empowering",
+      "level": 33,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(53—62)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Unleashed",
+      "level": 46,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(63—72)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Overpowering",
+      "level": 60,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(73—86)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Devastating",
+      "level": 81,
+      "family": "IncreasedWeaponElementalDamagePercent",
+      "text": "(87—100)% increased Elemental Damage with Attacks"
+    },
+    {
+      "name": "Humming",
+      "level": 1,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (4—6) Lightning Damage"
+    },
+    {
+      "name": "Buzzing",
+      "level": 8,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (13—19) Lightning Damage"
+    },
+    {
+      "name": "Lesser Essence of Electricity",
+      "level": 8,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (13—19) Lightning Damage"
+    },
+    {
+      "name": "Snapping",
+      "level": 16,
+      "family": "LightningDamage",
+      "text": "Adds (1—2) to (20—30) Lightning Damage"
+    },
+    {
+      "name": "Crackling",
+      "level": 33,
+      "family": "LightningDamage",
+      "text": "Adds (1—2) to (36—52) Lightning Damage"
+    },
+    {
+      "name": "Sparking",
+      "level": 46,
+      "family": "LightningDamage",
+      "text": "Adds (1—3) to (55—60) Lightning Damage"
+    },
+    {
+      "name": "Essence of Electricity",
+      "level": 46,
+      "family": "LightningDamage",
+      "text": "Adds (1—3) to (55—60) Lightning Damage"
+    },
+    {
+      "name": "Arcing",
+      "level": 54,
+      "family": "LightningDamage",
+      "text": "Adds (1—4) to (63—82) Lightning Damage"
+    },
+    {
+      "name": "Shocking",
+      "level": 60,
+      "family": "LightningDamage",
+      "text": "Adds (1—6) to (85—107) Lightning Damage"
+    },
+    {
+      "name": "Greater Essence of Electricity",
+      "level": 60,
+      "family": "LightningDamage",
+      "text": "Adds (1—6) to (85—107) Lightning Damage"
+    },
+    {
+      "name": "Discharging",
+      "level": 65,
+      "family": "LightningDamage",
+      "text": "Adds (1—8) to (111—152) Lightning Damage"
+    },
+    {
+      "name": "Electrocuting",
+      "level": 75,
+      "family": "LightningDamage",
+      "text": "Adds (1—10) to (157—196) Lightning Damage"
+    },
+    {
+      "name": "Vapourising",
+      "level": 81,
+      "family": "LightningDamage",
+      "text": "Adds (1—12) to (202—234) Lightning Damage"
+    },
+    {
+      "name": "Squire's",
+      "level": 8,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(15—19)% increased Physical Damage+(16—20) to Accuracy Rating"
+    },
+    {
+      "name": "Journeyman's",
+      "level": 14,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(20—24)% increased Physical Damage+(21—46) to Accuracy Rating"
+    },
+    {
+      "name": "Reaver's",
+      "level": 23,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(25—34)% increased Physical Damage+(47—72) to Accuracy Rating"
+    },
+    {
+      "name": "Mercenary's",
+      "level": 38,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(35—44)% increased Physical Damage+(73—97) to Accuracy Rating"
+    },
+    {
+      "name": "Champion's",
+      "level": 54,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(45—54)% increased Physical Damage+(98—123) to Accuracy Rating"
+    },
+    {
+      "name": "Conqueror's",
+      "level": 65,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(55—64)% increased Physical Damage+(124—149) to Accuracy Rating"
+    },
+    {
+      "name": "Emperor's",
+      "level": 70,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(65—74)% increased Physical Damage+(150—174) to Accuracy Rating"
+    },
+    {
+      "name": "Dictator's",
+      "level": 81,
+      "family": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+      "text": "(75—79)% increased Physical Damage+(175—200) to Accuracy Rating"
+    },
+    {
+      "name": "Heavy",
+      "level": 1,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(40—49)% increased Physical Damage"
+    },
+    {
+      "name": "Serrated",
+      "level": 8,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(50—64)% increased Physical Damage"
+    },
+    {
+      "name": "Wicked",
+      "level": 16,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(65—84)% increased Physical Damage"
+    },
+    {
+      "name": "Vicious",
+      "level": 33,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(85—109)% increased Physical Damage"
+    },
+    {
+      "name": "Bloodthirsty",
+      "level": 46,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(110—134)% increased Physical Damage"
+    },
+    {
+      "name": "Cruel",
+      "level": 60,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(135—154)% increased Physical Damage"
+    },
+    {
+      "name": "Tyrannical",
+      "level": 75,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(155—169)% increased Physical Damage"
+    },
+    {
+      "name": "Merciless",
+      "level": 82,
+      "family": "LocalPhysicalDamagePercent",
+      "text": "(170—179)% increased Physical Damage"
+    },
+    {
+      "name": "Perfect Essence of Abrasion",
+      "level": 72,
+      "family": "MartialWeaponGainedDamage",
+      "text": "Gain (15—20)% of Damage as Extra Physical Damage"
+    },
+    {
+      "name": "Perfect Essence of Flames",
+      "level": 72,
+      "family": "MartialWeaponGainedDamage",
+      "text": "Gain (15—20)% of Damage as Extra Fire Damage"
+    },
+    {
+      "name": "Perfect Essence of Ice",
+      "level": 72,
+      "family": "MartialWeaponGainedDamage",
+      "text": "Gain (15—20)% of Damage as Extra Cold Damage"
+    },
+    {
+      "name": "Perfect Essence of Electricity",
+      "level": 72,
+      "family": "MartialWeaponGainedDamage",
+      "text": "Gain (15—20)% of Damage as Extra Lightning Damage"
+    },
+    {
+      "name": "Glinting",
+      "level": 1,
+      "family": "PhysicalDamage",
+      "text": "Adds (1—2) to (4—5) Physical Damage"
+    },
+    {
+      "name": "Burnished",
+      "level": 8,
+      "family": "PhysicalDamage",
+      "text": "Adds (4—6) to (7—11) Physical Damage"
+    },
+    {
+      "name": "Lesser Essence of Abrasion",
+      "level": 8,
+      "family": "PhysicalDamage",
+      "text": "Adds (4—6) to (7—11) Physical Damage"
+    },
+    {
+      "name": "Polished",
+      "level": 16,
+      "family": "PhysicalDamage",
+      "text": "Adds (6—9) to (11—16) Physical Damage"
+    },
+    {
+      "name": "Honed",
+      "level": 33,
+      "family": "PhysicalDamage",
+      "text": "Adds (8—12) to (14—21) Physical Damage"
+    },
+    {
+      "name": "Gleaming",
+      "level": 46,
+      "family": "PhysicalDamage",
+      "text": "Adds (10—15) to (18—26) Physical Damage"
+    },
+    {
+      "name": "Essence of Abrasion",
+      "level": 46,
+      "family": "PhysicalDamage",
+      "text": "Adds (10—15) to (18—26) Physical Damage"
+    },
+    {
+      "name": "Annealed",
+      "level": 54,
+      "family": "PhysicalDamage",
+      "text": "Adds (13—20) to (23—35) Physical Damage"
+    },
+    {
+      "name": "Razor-sharp",
+      "level": 60,
+      "family": "PhysicalDamage",
+      "text": "Adds (16—24) to (28—42) Physical Damage"
+    },
+    {
+      "name": "Greater Essence of Abrasion",
+      "level": 60,
+      "family": "PhysicalDamage",
+      "text": "Adds (16—24) to (28—42) Physical Damage"
+    },
+    {
+      "name": "Tempered",
+      "level": 65,
+      "family": "PhysicalDamage",
+      "text": "Adds (21—31) to (36—53) Physical Damage"
+    },
+    {
+      "name": "Flaring",
+      "level": 75,
+      "family": "PhysicalDamage",
+      "text": "Adds (26—39) to (44—66) Physical Damage"
+    },
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "SpeedModifierEffect",
+      "text": "(25—30)% increased Explicit Speed Modifier magnitudes"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "Prismatic Alloy",
+      "level": 45,
+      "family": "AilmentEffect",
+      "text": "(20—30)% increased Magnitude of Ailments you inflict"
+    },
+    {
+      "name": "Protective Alloy",
+      "level": 25,
+      "family": "BaseRunicWard",
+      "text": "+(51—74) to maximum Runic Ward"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ChaosModifierEffect",
+      "text": "(15—20)% increased Explicit Chaos Modifier magnitudes"
+    },
+    {
+      "name": "of Menace",
+      "level": 1,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(1.01—1.5)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Havoc",
+      "level": 20,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(1.51—2.1)% to Critical Hit Chance"
+    },
+    {
+      "name": "Lesser Essence of Seeking",
+      "level": 20,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(1.51—2.1)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Disaster",
+      "level": 30,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(2.11—2.7)% to Critical Hit Chance"
+    },
+    {
+      "name": "Essence of Seeking",
+      "level": 30,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(2.11—2.7)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Calamity",
+      "level": 44,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(3.11—3.8)% to Critical Hit Chance"
+    },
+    {
+      "name": "Greater Essence of Seeking",
+      "level": 44,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(3.11—3.8)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Ruin",
+      "level": 59,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(3.81—4.4)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 73,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "+(4.41—5)% to Critical Hit Chance"
+    },
+    {
+      "name": "of Ire",
+      "level": 8,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(10—11)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of Anger",
+      "level": 21,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(12—13)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of Rage",
+      "level": 30,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(14—16)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of Fury",
+      "level": 44,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(17—19)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of Ferocity",
+      "level": 59,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(20—22)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of Destruction",
+      "level": 73,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(23—25)% to Critical Damage Bonus"
+    },
+    {
+      "name": "of the Mongoose",
+      "level": 1,
+      "family": "Dexterity",
+      "text": "+(5—8) to Dexterity"
+    },
+    {
+      "name": "of the Lynx",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Dexterity"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Fox",
+      "level": 22,
+      "family": "Dexterity",
+      "text": "+(13—16) to Dexterity"
+    },
+    {
+      "name": "of the Falcon",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Dexterity"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Panther",
+      "level": 44,
+      "family": "Dexterity",
+      "text": "+(21—24) to Dexterity"
+    },
+    {
+      "name": "of the Leopard",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Dexterity"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Jaguar",
+      "level": 66,
+      "family": "Dexterity",
+      "text": "+(28—30) to Dexterity"
+    },
+    {
+      "name": "of the Phantom",
+      "level": 74,
+      "family": "Dexterity",
+      "text": "+(31—33) to Dexterity"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Fire Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Lightning Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Cold Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Elemental Damage Modifier magnitudes"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "of Dueling",
+      "level": 18,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Melee Skills"
+    },
+    {
+      "name": "of Conflict",
+      "level": 36,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Melee Skills"
+    },
+    {
+      "name": "of Battle",
+      "level": 55,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+3 to Level of all Melee Skills"
+    },
+    {
+      "name": "Perfect Essence of Battle",
+      "level": 72,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Attack Skills"
+    },
+    {
+      "name": "of War",
+      "level": 81,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+4 to Level of all Melee Skills"
+    },
+    {
+      "name": "of Skill",
+      "level": 1,
+      "family": "IncreasedAttackSpeed",
+      "text": "(5—7)% increased Attack Speed"
+    },
+    {
+      "name": "of Ease",
+      "level": 11,
+      "family": "IncreasedAttackSpeed",
+      "text": "(8—10)% increased Attack Speed"
+    },
+    {
+      "name": "of Mastery",
+      "level": 22,
+      "family": "IncreasedAttackSpeed",
+      "text": "(11—13)% increased Attack Speed"
+    },
+    {
+      "name": "Lesser Essence of Haste",
+      "level": 22,
+      "family": "IncreasedAttackSpeed",
+      "text": "(11—13)% increased Attack Speed"
+    },
+    {
+      "name": "of Renown",
+      "level": 30,
+      "family": "IncreasedAttackSpeed",
+      "text": "(14—16)% increased Attack Speed"
+    },
+    {
+      "name": "of Acclaim",
+      "level": 37,
+      "family": "IncreasedAttackSpeed",
+      "text": "(17—19)% increased Attack Speed"
+    },
+    {
+      "name": "Essence of Haste",
+      "level": 37,
+      "family": "IncreasedAttackSpeed",
+      "text": "(17—19)% increased Attack Speed"
+    },
+    {
+      "name": "of Fame",
+      "level": 45,
+      "family": "IncreasedAttackSpeed",
+      "text": "(20—22)% increased Attack Speed"
+    },
+    {
+      "name": "of Infamy",
+      "level": 60,
+      "family": "IncreasedAttackSpeed",
+      "text": "(23—25)% increased Attack Speed"
+    },
+    {
+      "name": "Greater Essence of Haste",
+      "level": 60,
+      "family": "IncreasedAttackSpeed",
+      "text": "(23—25)% increased Attack Speed"
+    },
+    {
+      "name": "of Celebration",
+      "level": 77,
+      "family": "IncreasedAttackSpeed",
+      "text": "(26—28)% increased Attack Speed"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Rejuvenation",
+      "level": 8,
+      "family": "LifeGainPerTarget",
+      "text": "Grants 2 Life per Enemy Hit"
+    },
+    {
+      "name": "of Restoration",
+      "level": 20,
+      "family": "LifeGainPerTarget",
+      "text": "Grants 3 Life per Enemy Hit"
+    },
+    {
+      "name": "of Regrowth",
+      "level": 30,
+      "family": "LifeGainPerTarget",
+      "text": "Grants 4 Life per Enemy Hit"
+    },
+    {
+      "name": "of Nourishment",
+      "level": 40,
+      "family": "LifeGainPerTarget",
+      "text": "Grants 5 Life per Enemy Hit"
+    },
+    {
+      "name": "of Success",
+      "level": 1,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (4—6) Life per enemy killed"
+    },
+    {
+      "name": "of Victory",
+      "level": 11,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (7—9) Life per enemy killed"
+    },
+    {
+      "name": "of Triumph",
+      "level": 22,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (10—18) Life per enemy killed"
+    },
+    {
+      "name": "of Conquest",
+      "level": 33,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (19—28) Life per enemy killed"
+    },
+    {
+      "name": "of Vanquishing",
+      "level": 44,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (29—40) Life per enemy killed"
+    },
+    {
+      "name": "of Valour",
+      "level": 55,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (41—53) Life per enemy killed"
+    },
+    {
+      "name": "of Glory",
+      "level": 66,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (54—68) Life per enemy killed"
+    },
+    {
+      "name": "of Legend",
+      "level": 77,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (69—84) Life per enemy killed"
+    },
+    {
+      "name": "of the Locust",
+      "level": 21,
+      "family": "LifeLeech",
+      "text": "Leeches (6—6.9)% of Physical Damage as Life"
+    },
+    {
+      "name": "of the Remora",
+      "level": 38,
+      "family": "LifeLeech",
+      "text": "Leeches (7—7.9)% of Physical Damage as Life"
+    },
+    {
+      "name": "of the Lamprey",
+      "level": 54,
+      "family": "LifeLeech",
+      "text": "Leeches (8—8.9)% of Physical Damage as Life"
+    },
+    {
+      "name": "of the Vampire",
+      "level": 65,
+      "family": "LifeLeech",
+      "text": "Leeches (9—9.9)% of Physical Damage as Life"
+    },
+    {
+      "name": "of Shining",
+      "level": 8,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(10—20) to Accuracy Rating5% increased Light Radius"
+    },
+    {
+      "name": "of Light",
+      "level": 15,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(21—40) to Accuracy Rating10% increased Light Radius"
+    },
+    {
+      "name": "of Radiance",
+      "level": 30,
+      "family": "LightRadiusAndAccuracy",
+      "text": "+(41—60) to Accuracy Rating15% increased Light Radius"
+    },
+    {
+      "name": "of the Worthy",
+      "level": 24,
+      "family": "LocalAttributeRequirements",
+      "text": "15% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Apt",
+      "level": 32,
+      "family": "LocalAttributeRequirements",
+      "text": "20% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Talented",
+      "level": 40,
+      "family": "LocalAttributeRequirements",
+      "text": "25% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Skilled",
+      "level": 52,
+      "family": "LocalAttributeRequirements",
+      "text": "30% reduced Attribute Requirements"
+    },
+    {
+      "name": "of the Proficient",
+      "level": 60,
+      "family": "LocalAttributeRequirements",
+      "text": "35% reduced Attribute Requirements"
+    },
+    {
+      "name": "of Absorption",
+      "level": 1,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (2—3) Mana per enemy killed"
+    },
+    {
+      "name": "of Osmosis",
+      "level": 12,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (4—5) Mana per enemy killed"
+    },
+    {
+      "name": "of Infusion",
+      "level": 23,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (6—9) Mana per enemy killed"
+    },
+    {
+      "name": "of Enveloping",
+      "level": 34,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (10—14) Mana per enemy killed"
+    },
+    {
+      "name": "of Consumption",
+      "level": 45,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (15—20) Mana per enemy killed"
+    },
+    {
+      "name": "of Siphoning",
+      "level": 56,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (21—27) Mana per enemy killed"
+    },
+    {
+      "name": "of Devouring",
+      "level": 67,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (28—35) Mana per enemy killed"
+    },
+    {
+      "name": "of Assimilation",
+      "level": 78,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (36—45) Mana per enemy killed"
+    },
+    {
+      "name": "of the Parched",
+      "level": 21,
+      "family": "ManaLeech",
+      "text": "Leeches (5—5.9)% of Physical Damage as Mana"
+    },
+    {
+      "name": "of the Arid",
+      "level": 38,
+      "family": "ManaLeech",
+      "text": "Leeches (6—6.9)% of Physical Damage as Mana"
+    },
+    {
+      "name": "of the Drought",
+      "level": 54,
+      "family": "ManaLeech",
+      "text": "Leeches (7—7.9)% of Physical Damage as Mana"
+    },
+    {
+      "name": "of the Desperate",
+      "level": 65,
+      "family": "ManaLeech",
+      "text": "Leeches (8—8.9)% of Physical Damage as Mana"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ManaModifierEffect",
+      "text": "(25—30)% increased Explicit Mana Modifier magnitudes"
+    },
+    {
+      "name": "Perfect Essence of Haste",
+      "level": 72,
+      "family": "Onslaught",
+      "text": "(20—25)% chance to gain Onslaught on Killing Hits with this Weapon"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "PhysicalModifierEffect",
+      "text": "(10—15)% increased Explicit Physical Modifier magnitudes"
+    },
+    {
+      "name": "Sovereign Alloy",
+      "level": 65,
+      "family": "SoulCore",
+      "text": "(20—30)% increased effect of Socketed Augment Items"
+    },
+    {
+      "name": "of the Brute",
+      "level": 1,
+      "family": "Strength",
+      "text": "+(5—8) to Strength"
+    },
+    {
+      "name": "of the Wrestler",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Bear",
+      "level": 22,
+      "family": "Strength",
+      "text": "+(13—16) to Strength"
+    },
+    {
+      "name": "of the Lion",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Gorilla",
+      "level": 44,
+      "family": "Strength",
+      "text": "+(21—24) to Strength"
+    },
+    {
+      "name": "of the Goliath",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Transcendent Alloy",
+      "level": 65,
+      "family": "Strength",
+      "text": "(15—20)% increased Physical Damage+(7—10) to all Attributes"
+    },
+    {
+      "name": "of the Leviathan",
+      "level": 66,
+      "family": "Strength",
+      "text": "+(28—30) to Strength"
+    },
+    {
+      "name": "of the Titan",
+      "level": 74,
+      "family": "Strength",
+      "text": "+(31—33) to Strength"
+    },
+    {
+      "name": "of the Pugilist",
+      "level": 5,
+      "family": "StunDamageIncrease",
+      "text": "Causes (21—30)% increased Stun Buildup"
+    },
+    {
+      "name": "of the Brawler",
+      "level": 20,
+      "family": "StunDamageIncrease",
+      "text": "Causes (31—40)% increased Stun Buildup"
+    },
+    {
+      "name": "of the Boxer",
+      "level": 30,
+      "family": "StunDamageIncrease",
+      "text": "Causes (41—50)% increased Stun Buildup"
+    },
+    {
+      "name": "of the Combatant",
+      "level": 44,
+      "family": "StunDamageIncrease",
+      "text": "Causes (51—60)% increased Stun Buildup"
+    },
+    {
+      "name": "of the Gladiator",
+      "level": 58,
+      "family": "StunDamageIncrease",
+      "text": "Causes (61—70)% increased Stun Buildup"
+    },
+    {
+      "name": "of the Champion",
+      "level": 74,
+      "family": "StunDamageIncrease",
+      "text": "Causes (71—80)% increased Stun Buildup"
+    },
+    {
+      "name": "of Impact",
+      "level": 5,
+      "family": "StunDurationIncreasePercent",
+      "text": "(11—13)% increased Stun Duration"
+    },
+    {
+      "name": "of Dazing",
+      "level": 18,
+      "family": "StunDurationIncreasePercent",
+      "text": "(14—16)% increased Stun Duration"
+    },
+    {
+      "name": "of Stunning",
+      "level": 30,
+      "family": "StunDurationIncreasePercent",
+      "text": "(17—19)% increased Stun Duration"
+    },
+    {
+      "name": "of Slamming",
+      "level": 44,
+      "family": "StunDurationIncreasePercent",
+      "text": "(20—22)% increased Stun Duration"
+    },
+    {
+      "name": "of Staggering",
+      "level": 58,
+      "family": "StunDurationIncreasePercent",
+      "text": "(23—26)% increased Stun Duration"
+    },
+    {
+      "name": "of the Concussion",
+      "level": 71,
+      "family": "StunDurationIncreasePercent",
+      "text": "(27—30)% increased Stun Duration"
+    }
+  ]
+}

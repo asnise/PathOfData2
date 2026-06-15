@@ -1,0 +1,193 @@
+{
+  "item_class": "TowerAugmentation",
+  "prefixes": [
+    {
+      "name": "Azmeri's",
+      "level": 1,
+      "family": "MapAdditionalAzmeriWisp",
+      "text": "% increased Quantity of Waystones found in MapMap contains 1 additional Azmeri Spirits"
+    },
+    {
+      "name": "Treasurer's",
+      "level": 1,
+      "family": "MapAdditionalChests",
+      "text": "Map contains (2—3) additional Rare Chests"
+    },
+    {
+      "name": "Crystallised",
+      "level": 1,
+      "family": "MapAdditionalEssence",
+      "text": "Map contains 1 additional Essences% increased Quantity of Waystones found in Map"
+    },
+    {
+      "name": "Exiled",
+      "level": 1,
+      "family": "MapAdditionalExile",
+      "text": "% increased Quantity of Waystones found in MapMap is inhabited by 1 additional Rogue Exiles"
+    },
+    {
+      "name": "Summoner's",
+      "level": 1,
+      "family": "MapAdditionalStoneCircle",
+      "text": "Map contains 1 additional Summoning Circles"
+    },
+    {
+      "name": "Bountiful",
+      "level": 1,
+      "family": "MapDroppedGoldIncrease",
+      "text": "(25—35)% increased Gold found in Map"
+    },
+    {
+      "name": "Collector's",
+      "level": 1,
+      "family": "MapDroppedItemRarityIncrease",
+      "text": "(8—12)% increased Rarity of Items found in Map"
+    },
+    {
+      "name": "Elevated",
+      "level": 1,
+      "family": "MapExperienceGainIncrease",
+      "text": "(12—18)% increased Experience gain in Map"
+    },
+    {
+      "name": "Teeming",
+      "level": 1,
+      "family": "MapMagicPackIncrease",
+      "text": "Map has (30—40)% increased Magic Monsters"
+    },
+    {
+      "name": "Challenger's",
+      "level": 1,
+      "family": "MapMonsterEffectiveness",
+      "text": "Monsters have (10—15)% increased Effectiveness"
+    },
+    {
+      "name": "Abounding",
+      "level": 1,
+      "family": "MapMonsterRarityIncrease",
+      "text": "Map has (15—20)% increased Monster Rarity"
+    },
+    {
+      "name": "Breeding",
+      "level": 1,
+      "family": "MapPackSizeIncrease",
+      "text": "(5—7)% increased Pack Size in Map"
+    },
+    {
+      "name": "Brimming",
+      "level": 1,
+      "family": "MapRarePackIncrease",
+      "text": "Map has (25—35)% increased number of Rare Monsters"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of the Invasion",
+      "level": 1,
+      "family": "BreachAdditionalRares",
+      "text": "Unstable Breaches in Map spawn an additional Rare Monster when Stabilised"
+    },
+    {
+      "name": "of the Commander",
+      "level": 1,
+      "family": "BreachBossChance",
+      "text": "Unstable Breaches in Map have (20—50)% increased chance to contain Vruun, Marshal of Xesht"
+    },
+    {
+      "name": "of the Flow",
+      "level": 1,
+      "family": "BreachHivebloodQuantity",
+      "text": "(30—60)% increased Quantity of Hiveblood found in Map"
+    },
+    {
+      "name": "of the Horde",
+      "level": 1,
+      "family": "BreachMonsterQuantity",
+      "text": "Breaches in Map have (5—15)% increased Pack Size"
+    },
+    {
+      "name": "of the Hand",
+      "level": 1,
+      "family": "BreachRareMonsterPotency",
+      "text": "(5—20)% increased Effectiveness of Rare Breach Monsters in Map"
+    },
+    {
+      "name": "of the Flesh",
+      "level": 1,
+      "family": "BreachWombgiftLevelChance",
+      "text": "Wombgifts have (10—30)% chance to drop one Level higher in Map"
+    },
+    {
+      "name": "of the Form",
+      "level": 1,
+      "family": "BreachWombgiftQuantity",
+      "text": "(30—60)% increased Quantity of Wombgifts found in Map"
+    },
+    {
+      "name": "of the Essence",
+      "level": 1,
+      "family": "MapAdditionalEssence",
+      "text": "Map has (70—100)% increased chance to contain Essences"
+    },
+    {
+      "name": "of the Exile",
+      "level": 1,
+      "family": "MapAdditionalExile",
+      "text": "Map has (70—100)% increased chance to contain Rogue Exiles"
+    },
+    {
+      "name": "of Undertaking",
+      "level": 1,
+      "family": "MapAdditionalModifier",
+      "text": "Map has (1—2) additional random Modifiers"
+    },
+    {
+      "name": "of Shrines",
+      "level": 1,
+      "family": "MapAdditionalShrine",
+      "text": "Map has (70—100)% increased chance to contain Shrines"
+    },
+    {
+      "name": "of the Devoted",
+      "level": 1,
+      "family": "MapAdditionalShrine",
+      "text": "% reduced Pack Size in Map% increased Quantity of Waystones found in MapMap contains 1 additional Shrines"
+    },
+    {
+      "name": "of Spirits",
+      "level": 1,
+      "family": "MapAdditionalSpirit",
+      "text": "Map has (70—100)% increased chance to contain Azmeri Spirits"
+    },
+    {
+      "name": "of the Summoning",
+      "level": 1,
+      "family": "MapAdditionalStoneCircle",
+      "text": "Map has (70—100)% increased chance to contain a Summoning Circle"
+    },
+    {
+      "name": "of Strongboxes",
+      "level": 1,
+      "family": "MapAdditionalStrongbox",
+      "text": "Map has (70—100)% increased chance to contain Strongboxes"
+    },
+    {
+      "name": "of the Antiquarian",
+      "level": 1,
+      "family": "MapAdditionalStrongbox",
+      "text": "% reduced Pack Size in Map% increased Quantity of Waystones found in MapMap contains 1 additional Strongboxes"
+    },
+    {
+      "name": "of Contest",
+      "level": 1,
+      "family": "MapAdditionalUniqueMonsterModifier",
+      "text": "Unique Monsters have 1 additional Rare Modifier"
+    },
+    {
+      "name": "of the Cartographer",
+      "level": 1,
+      "family": "MapDroppedMapsIncrease",
+      "text": "(30—40)% increased Quantity of Waystones found in Map"
+    }
+  ]
+}

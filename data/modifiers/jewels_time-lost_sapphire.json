@@ -1,0 +1,523 @@
+{
+  "item_class": "Jewel",
+  "prefixes": [
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant 1% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant 1% of Damage taken Recouped as Life"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant 1% of Damage taken Recouped as Mana"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant (2—3)% increased Global Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant 1% increased maximum Life"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant 1% increased maximum Mana"
+    },
+    {
+      "name": "Acrimonious",
+      "level": 1,
+      "family": "AilmentEffect",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased Magnitude of Ailments you inflict"
+    },
+    {
+      "name": "Necromantic",
+      "level": 1,
+      "family": "AllDamage",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased Damage if you have Consumed a Corpse Recently"
+    },
+    {
+      "name": "Blasting",
+      "level": 1,
+      "family": "AreaOfEffect",
+      "text": "Notable Passive Skills in Radius also grant (2—3)% increased Area of Effect"
+    },
+    {
+      "name": "Ancient Concentrated Liquid Suffering",
+      "level": 1,
+      "family": "AreaOfEffect",
+      "text": "Notable Passive Skills in Radius also grant (2—3)% increased Area of Effect"
+    },
+    {
+      "name": "Chilling",
+      "level": 1,
+      "family": "ColdDamagePercentage",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Cold Damage"
+    },
+    {
+      "name": "Ancient Diluted Liquid Guilt",
+      "level": 1,
+      "family": "ColdDamagePercentage",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Cold Damage"
+    },
+    {
+      "name": "Numbing",
+      "level": 1,
+      "family": "ColdResistancePenetration",
+      "text": "Small Passive Skills in Radius also grant Damage Penetrates (1—2)% Cold Resistance"
+    },
+    {
+      "name": "Rancorous",
+      "level": 1,
+      "family": "CriticalAilmentEffect",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"
+    },
+    {
+      "name": "Expanding",
+      "level": 1,
+      "family": "CurseAreaOfEffect",
+      "text": "Notable Passive Skills in Radius also grant (3—6)% increased Area of Effect of Curses"
+    },
+    {
+      "name": "Hexing",
+      "level": 1,
+      "family": "CurseEffectiveness",
+      "text": "Notable Passive Skills in Radius also grant 1% increased Curse Magnitudes"
+    },
+    {
+      "name": "Bestial",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Damage while Shapeshifted"
+    },
+    {
+      "name": "Overgrown",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Damage with Plant Skills"
+    },
+    {
+      "name": "Triggered",
+      "level": 1,
+      "family": "DamageWithTriggeredSpells",
+      "text": "Small Passive Skills in Radius also grant Triggered Spells deal (2—3)% increased Spell Damage"
+    },
+    {
+      "name": "Prismatic",
+      "level": 1,
+      "family": "ElementalDamagePercent",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Elemental Damage"
+    },
+    {
+      "name": "Serene",
+      "level": 1,
+      "family": "EnergyShieldDelay",
+      "text": "Notable Passive Skills in Radius also grant (5—7)% faster start of Energy Shield Recharge"
+    },
+    {
+      "name": "Shimmering",
+      "level": 1,
+      "family": "EnergyShieldPercent",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased maximum Energy Shield"
+    },
+    {
+      "name": "Ancient Diluted Liquid Ire",
+      "level": 1,
+      "family": "EnergyShieldPercent",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased maximum Energy Shield"
+    },
+    {
+      "name": "Focusing",
+      "level": 1,
+      "family": "FocusEnergyShield",
+      "text": "Notable Passive Skills in Radius also grant (15—25)% increased Energy Shield from Equipped Focus"
+    },
+    {
+      "name": "Burning",
+      "level": 1,
+      "family": "IgniteEffect",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased Ignite Magnitude"
+    },
+    {
+      "name": "Chaotic",
+      "level": 1,
+      "family": "IncreasedChaosDamage",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Chaos Damage"
+    },
+    {
+      "name": "Ancient Diluted Liquid Greed",
+      "level": 1,
+      "family": "IncreasedChaosDamage",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Chaos Damage"
+    },
+    {
+      "name": "Greater",
+      "level": 1,
+      "family": "JewelRadiusLargerRadius",
+      "text": "Upgrades Radius to Mediumlocal jewel effect base radius [150]"
+    },
+    {
+      "name": "Grand",
+      "level": 1,
+      "family": "JewelRadiusLargerRadius",
+      "text": "Upgrades Radius to Largelocal jewel effect base radius [300]"
+    },
+    {
+      "name": "Ancient Potent Liquid Melancholy",
+      "level": 1,
+      "family": "JewelRadiusLargerRadius",
+      "text": "Upgrades Radius to Very Largelocal jewel effect base radius [500]"
+    },
+    {
+      "name": "Ancient Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Suffix Modifier allowed"
+    },
+    {
+      "name": "Authoritative",
+      "level": 1,
+      "family": "MinionDamage",
+      "text": "Small Passive Skills in Radius also grant Minions deal (1—2)% increased Damage"
+    },
+    {
+      "name": "Sacrificial",
+      "level": 1,
+      "family": "OfferingLife",
+      "text": "Small Passive Skills in Radius also grant Offerings have (2—3)% increased Maximum Life"
+    },
+    {
+      "name": "Iconic",
+      "level": 1,
+      "family": "PresenceRadius",
+      "text": "Notable Passive Skills in Radius also grant (8—12)% increased Presence Area of Effect"
+    },
+    {
+      "name": "Jolting",
+      "level": 1,
+      "family": "ShockEffect",
+      "text": "Notable Passive Skills in Radius also grant (5—7)% increased Magnitude of Shock you inflict"
+    },
+    {
+      "name": "Ancient Concentrated Liquid Isolation",
+      "level": 1,
+      "family": "TransformIncreasedDamageInRadius",
+      "text": "Increases and Reductions to Fire and Lightning Damage in Radius are transformed to apply to Cold Damage"
+    },
+    {
+      "name": "Mystic",
+      "level": 1,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Spell Damage"
+    },
+    {
+      "name": "Ancient Liquid Envy",
+      "level": 1,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Spell Damage"
+    },
+    {
+      "name": "Withering",
+      "level": 1,
+      "family": "WitheredEffect",
+      "text": "Notable Passive Skills in Radius also grant (3—5)% increased Withered Magnitude"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant Charms gain 0.1 charges per Second"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant Life Flasks gain 0.1 charges per Second"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant (2—3)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant Mana Flasks gain 0.1 charges per Second"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant Hits have (3—5)% reduced Critical Hit Chance against you"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssRadiusJewelMod",
+      "text": "Notable Passive Skills in Radius also grant Regenerate (0.03—0.07)% of maximum Life per second"
+    },
+    {
+      "name": "of Ailing",
+      "level": 1,
+      "family": "AilmentChance",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased chance to inflict Ailments"
+    },
+    {
+      "name": "of Inuring",
+      "level": 1,
+      "family": "AilmentThresholdfromEnergyShield",
+      "text": "Small Passive Skills in Radius also grant Gain additional Ailment Threshold equal to (1—2)% of maximum Energy Shield"
+    },
+    {
+      "name": "of Continuation",
+      "level": 1,
+      "family": "BaseCurseDuration",
+      "text": "Small Passive Skills in Radius also grant (2—4)% increased Curse Duration"
+    },
+    {
+      "name": "Ancient Potent Liquid Ferocity",
+      "level": 1,
+      "family": "ColdResistance",
+      "text": "Notable Passive Skills in Radius also grant +(5—7)% to Cold Resistance"
+    },
+    {
+      "name": "of Annihilation",
+      "level": 1,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Potency",
+      "level": 1,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Mind",
+      "level": 1,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "Notable Passive Skills in Radius also grant 1% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "of Infusion",
+      "level": 1,
+      "family": "DamageTakenGainedAsLife",
+      "text": "Notable Passive Skills in Radius also grant 1% of Damage taken Recouped as Life"
+    },
+    {
+      "name": "of Suffusion",
+      "level": 1,
+      "family": "DamagingAilmentDuration",
+      "text": "Notable Passive Skills in Radius also grant (3—5)% increased Duration of Damaging Ailments on Enemies"
+    },
+    {
+      "name": "of Diminishing",
+      "level": 1,
+      "family": "DebuffTime",
+      "text": "Notable Passive Skills in Radius also grant Debuffs on you expire (3—5)% faster"
+    },
+    {
+      "name": "of Generation",
+      "level": 1,
+      "family": "Energy",
+      "text": "Notable Passive Skills in Radius also grant Meta Skills gain (2—4)% increased Energy"
+    },
+    {
+      "name": "of Decrepifying",
+      "level": 1,
+      "family": "FasterAilmentDamage",
+      "text": "Notable Passive Skills in Radius also grant Damaging Ailments deal damage (2—3)% faster"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 1,
+      "family": "FormCritMultiplier",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "Ancient Concentrated Liquid Fear",
+      "level": 1,
+      "family": "FormCritMultiplier",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Freezing",
+      "level": 1,
+      "family": "FreezeDamageIncrease",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Freeze Buildup"
+    },
+    {
+      "name": "of Snowbreathing",
+      "level": 1,
+      "family": "FreezeThreshold",
+      "text": "Small Passive Skills in Radius also grant (2—4)% increased Freeze Threshold"
+    },
+    {
+      "name": "of Ignition",
+      "level": 1,
+      "family": "IgniteChanceIncrease",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Enchanting",
+      "level": 1,
+      "family": "IncreasedCastSpeed",
+      "text": "Notable Passive Skills in Radius also grant (1—2)% increased Cast Speed"
+    },
+    {
+      "name": "Ancient Liquid Paranoia",
+      "level": 1,
+      "family": "IncreasedCastSpeed",
+      "text": "Notable Passive Skills in Radius also grant (1—2)% increased Cast Speed"
+    },
+    {
+      "name": "of Frost",
+      "level": 1,
+      "family": "IncreasedChillDuration",
+      "text": "Notable Passive Skills in Radius also grant (6—12)% increased Chill Duration on Enemies"
+    },
+    {
+      "name": "of Supremacy",
+      "level": 1,
+      "family": "JewelRadiusNotableEffect",
+      "text": "(15—25)% increased Effect of Notable Passive Skills in Radius"
+    },
+    {
+      "name": "of Potency",
+      "level": 1,
+      "family": "JewelRadiusSmallNodeEffect",
+      "text": "(15—25)% increased Effect of Small Passive Skills in Radius"
+    },
+    {
+      "name": "of Osmosis",
+      "level": 1,
+      "family": "ManaGainedOnKillPercentage",
+      "text": "Notable Passive Skills in Radius also grant Recover 1% of maximum Mana on Kill"
+    },
+    {
+      "name": "Ancient Liquid Disgust",
+      "level": 1,
+      "family": "ManaGainedOnKillPercentage",
+      "text": "Notable Passive Skills in Radius also grant Recover 1% of maximum Mana on Kill"
+    },
+    {
+      "name": "of Energy",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "Small Passive Skills in Radius also grant (1—2)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "Ancient Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Prefix Modifier allowed"
+    },
+    {
+      "name": "of Success",
+      "level": 1,
+      "family": "MaximumLifeOnKillPercent",
+      "text": "Notable Passive Skills in Radius also grant Recover 1% of maximum Life on Kill"
+    },
+    {
+      "name": "of Orchestration",
+      "level": 1,
+      "family": "MinionAttackSpeedAndCastSpeed",
+      "text": "Notable Passive Skills in Radius also grant Minions have (1—2)% increased Attack and Cast Speed"
+    },
+    {
+      "name": "of Righteousness",
+      "level": 1,
+      "family": "MinionChaosResistance",
+      "text": "Small Passive Skills in Radius also grant Minions have +(1—2)% to Chaos Resistance"
+    },
+    {
+      "name": "of Marshalling",
+      "level": 1,
+      "family": "MinionCriticalStrikeChance",
+      "text": "Notable Passive Skills in Radius also grant Minions have (5—10)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Gripping",
+      "level": 1,
+      "family": "MinionCriticalStrikeMultiplier",
+      "text": "Notable Passive Skills in Radius also grant Minions have (6—12)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Acclimatisation",
+      "level": 1,
+      "family": "MinionElementalResistances",
+      "text": "Small Passive Skills in Radius also grant Minions have +(1—2)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Offering",
+      "level": 1,
+      "family": "OfferingDuration",
+      "text": "Notable Passive Skills in Radius also grant Offering Skills have (6—12)% increased Duration"
+    },
+    {
+      "name": "of Glaciers",
+      "level": 1,
+      "family": "QuarterstaffFreezeBuildup",
+      "text": "Notable Passive Skills in Radius also grant (5—10)% increased Freeze Buildup with Quarterstaves"
+    },
+    {
+      "name": "of Shocking",
+      "level": 1,
+      "family": "ShockChanceIncrease",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased chance to Shock"
+    },
+    {
+      "name": "of Paralyzing",
+      "level": 1,
+      "family": "ShockDuration",
+      "text": "Small Passive Skills in Radius also grant (2—3)% increased Shock Duration"
+    },
+    {
+      "name": "of Lengthening",
+      "level": 1,
+      "family": "SkillEffectDuration",
+      "text": "Notable Passive Skills in Radius also grant (3—5)% increased Skill Effect Duration"
+    },
+    {
+      "name": "of the Wild",
+      "level": 1,
+      "family": "SpecificWeaponSpeed",
+      "text": "Notable Passive Skills in Radius also grant (1—2)% increased Skill Speed while Shapeshifted"
+    },
+    {
+      "name": "of Annihilating",
+      "level": 1,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "Ancient Liquid Despair",
+      "level": 1,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "Notable Passive Skills in Radius also grant (3—7)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Barriers",
+      "level": 1,
+      "family": "StunThresholdfromEnergyShield",
+      "text": "Small Passive Skills in Radius also grant Gain additional Stun Threshold equal to (1—2)% of maximum Energy Shield"
+    }
+  ]
+}

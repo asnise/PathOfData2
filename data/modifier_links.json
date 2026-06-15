@@ -1,0 +1,462 @@
+[
+  {
+    "group": "General",
+    "name": "Modifiers",
+    "url": "https://poe2db.tw/us/Modifiers"
+  },
+  {
+    "group": "General",
+    "name": "Quality",
+    "url": "https://poe2db.tw/us/Quality"
+  },
+  {
+    "group": "General",
+    "name": "Quality",
+    "url": "https://poe2db.tw/us/Quality"
+  },
+  {
+    "group": "General",
+    "name": "Liquid Emotions",
+    "url": "https://poe2db.tw/us/Liquid_Emotions"
+  },
+  {
+    "group": "General",
+    "name": "Expedition Logbook",
+    "url": "https://poe2db.tw/us/Expedition_Logbook"
+  },
+  {
+    "group": "General",
+    "name": "Corrupted",
+    "url": "https://poe2db.tw/us/Corrupted"
+  },
+  {
+    "group": "General",
+    "name": "Strongbox",
+    "url": "https://poe2db.tw/us/Strongbox"
+  },
+  {
+    "group": "General",
+    "name": "Relics",
+    "url": "https://poe2db.tw/us/Relics"
+  },
+  {
+    "group": "General",
+    "name": "Waystones",
+    "url": "https://poe2db.tw/us/Waystones"
+  },
+  {
+    "group": "General",
+    "name": "Inscribed Ultimatum",
+    "url": "https://poe2db.tw/us/Inscribed_Ultimatum"
+  },
+  {
+    "group": "General",
+    "name": "Desecrated Modifiers",
+    "url": "https://poe2db.tw/us/Desecrated_Modifiers"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Claws",
+    "url": "https://poe2db.tw/us/Claws"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Daggers",
+    "url": "https://poe2db.tw/us/Daggers"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Wands",
+    "url": "https://poe2db.tw/us/Wands"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "One Hand Swords",
+    "url": "https://poe2db.tw/us/One_Hand_Swords"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "One Hand Axes",
+    "url": "https://poe2db.tw/us/One_Hand_Axes"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "One Hand Maces",
+    "url": "https://poe2db.tw/us/One_Hand_Maces"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Sceptres",
+    "url": "https://poe2db.tw/us/Sceptres"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Spears",
+    "url": "https://poe2db.tw/us/Spears"
+  },
+  {
+    "group": "One Handed Weapons",
+    "name": "Flails",
+    "url": "https://poe2db.tw/us/Flails"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Bows",
+    "url": "https://poe2db.tw/us/Bows"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Staves",
+    "url": "https://poe2db.tw/us/Staves"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Two Hand Swords",
+    "url": "https://poe2db.tw/us/Two_Hand_Swords"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Two Hand Axes",
+    "url": "https://poe2db.tw/us/Two_Hand_Axes"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Two Hand Maces",
+    "url": "https://poe2db.tw/us/Two_Hand_Maces"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Quarterstaves",
+    "url": "https://poe2db.tw/us/Quarterstaves"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Crossbows",
+    "url": "https://poe2db.tw/us/Crossbows"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Traps",
+    "url": "https://poe2db.tw/us/Traps"
+  },
+  {
+    "group": "Two Handed Weapons",
+    "name": "Talismans",
+    "url": "https://poe2db.tw/us/Talismans"
+  },
+  {
+    "group": "Jewellery",
+    "name": "Amulets",
+    "url": "https://poe2db.tw/us/Amulets"
+  },
+  {
+    "group": "Jewellery",
+    "name": "Rings",
+    "url": "https://poe2db.tw/us/Rings"
+  },
+  {
+    "group": "Belt",
+    "name": "Belts",
+    "url": "https://poe2db.tw/us/Belts"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(str)",
+    "url": "https://poe2db.tw/us/Gloves_str"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(dex)",
+    "url": "https://poe2db.tw/us/Gloves_dex"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(int)",
+    "url": "https://poe2db.tw/us/Gloves_int"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(str_dex)",
+    "url": "https://poe2db.tw/us/Gloves_str_dex"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(str_int)",
+    "url": "https://poe2db.tw/us/Gloves_str_int"
+  },
+  {
+    "group": "Gloves",
+    "name": "Gloves(dex_int)",
+    "url": "https://poe2db.tw/us/Gloves_dex_int"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(str)",
+    "url": "https://poe2db.tw/us/Boots_str"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(dex)",
+    "url": "https://poe2db.tw/us/Boots_dex"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(int)",
+    "url": "https://poe2db.tw/us/Boots_int"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(str_dex)",
+    "url": "https://poe2db.tw/us/Boots_str_dex"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(str_int)",
+    "url": "https://poe2db.tw/us/Boots_str_int"
+  },
+  {
+    "group": "Boots",
+    "name": "Boots(dex_int)",
+    "url": "https://poe2db.tw/us/Boots_dex_int"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(str)",
+    "url": "https://poe2db.tw/us/Body_Armours_str"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(dex)",
+    "url": "https://poe2db.tw/us/Body_Armours_dex"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(int)",
+    "url": "https://poe2db.tw/us/Body_Armours_int"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(str_dex)",
+    "url": "https://poe2db.tw/us/Body_Armours_str_dex"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(str_int)",
+    "url": "https://poe2db.tw/us/Body_Armours_str_int"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(dex_int)",
+    "url": "https://poe2db.tw/us/Body_Armours_dex_int"
+  },
+  {
+    "group": "Body Armours",
+    "name": "Body Armours(str_dex_int)",
+    "url": "https://poe2db.tw/us/Body_Armours_str_dex_int"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(str)",
+    "url": "https://poe2db.tw/us/Helmets_str"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(dex)",
+    "url": "https://poe2db.tw/us/Helmets_dex"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(int)",
+    "url": "https://poe2db.tw/us/Helmets_int"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(str_dex)",
+    "url": "https://poe2db.tw/us/Helmets_str_dex"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(str_int)",
+    "url": "https://poe2db.tw/us/Helmets_str_int"
+  },
+  {
+    "group": "Helmets",
+    "name": "Helmets(dex_int)",
+    "url": "https://poe2db.tw/us/Helmets_dex_int"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Quivers",
+    "url": "https://poe2db.tw/us/Quivers"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Shields(str)",
+    "url": "https://poe2db.tw/us/Shields_str"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Shields(str_dex)",
+    "url": "https://poe2db.tw/us/Shields_str_dex"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Shields(str_int)",
+    "url": "https://poe2db.tw/us/Shields_str_int"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Bucklers",
+    "url": "https://poe2db.tw/us/Bucklers"
+  },
+  {
+    "group": "Off-hand",
+    "name": "Foci",
+    "url": "https://poe2db.tw/us/Foci"
+  },
+  {
+    "group": "Jewels",
+    "name": "Ruby",
+    "url": "https://poe2db.tw/us/Ruby"
+  },
+  {
+    "group": "Jewels",
+    "name": "Emerald",
+    "url": "https://poe2db.tw/us/Emerald"
+  },
+  {
+    "group": "Jewels",
+    "name": "Sapphire",
+    "url": "https://poe2db.tw/us/Sapphire"
+  },
+  {
+    "group": "Jewels",
+    "name": "Diamond",
+    "url": "https://poe2db.tw/us/Diamond"
+  },
+  {
+    "group": "Jewels",
+    "name": "Time-Lost Ruby",
+    "url": "https://poe2db.tw/us/Time-Lost_Ruby"
+  },
+  {
+    "group": "Jewels",
+    "name": "Time-Lost Emerald",
+    "url": "https://poe2db.tw/us/Time-Lost_Emerald"
+  },
+  {
+    "group": "Jewels",
+    "name": "Time-Lost Sapphire",
+    "url": "https://poe2db.tw/us/Time-Lost_Sapphire"
+  },
+  {
+    "group": "Jewels",
+    "name": "Time-Lost Diamond",
+    "url": "https://poe2db.tw/us/Time-Lost_Diamond"
+  },
+  {
+    "group": "Flasks",
+    "name": "Life Flasks",
+    "url": "https://poe2db.tw/us/Life_Flasks"
+  },
+  {
+    "group": "Flasks",
+    "name": "Mana Flasks",
+    "url": "https://poe2db.tw/us/Mana_Flasks"
+  },
+  {
+    "group": "Flasks",
+    "name": "Charms",
+    "url": "https://poe2db.tw/us/Charms"
+  },
+  {
+    "group": "Relics",
+    "name": "Urn Relic",
+    "url": "https://poe2db.tw/us/Urn_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Amphora Relic",
+    "url": "https://poe2db.tw/us/Amphora_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Vase Relic",
+    "url": "https://poe2db.tw/us/Vase_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Seal Relic",
+    "url": "https://poe2db.tw/us/Seal_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Coffer Relic",
+    "url": "https://poe2db.tw/us/Coffer_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Tapestry Relic",
+    "url": "https://poe2db.tw/us/Tapestry_Relic"
+  },
+  {
+    "group": "Relics",
+    "name": "Incense Relic",
+    "url": "https://poe2db.tw/us/Incense_Relic"
+  },
+  {
+    "group": "Tablet",
+    "name": "Breach Tablet",
+    "url": "https://poe2db.tw/us/Breach_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Expedition Tablet",
+    "url": "https://poe2db.tw/us/Expedition_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Delirium Tablet",
+    "url": "https://poe2db.tw/us/Delirium_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Ritual Tablet",
+    "url": "https://poe2db.tw/us/Ritual_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Irradiated Tablet",
+    "url": "https://poe2db.tw/us/Irradiated_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Overseer Tablet",
+    "url": "https://poe2db.tw/us/Overseer_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Abyss Tablet",
+    "url": "https://poe2db.tw/us/Abyss_Tablet"
+  },
+  {
+    "group": "Tablet",
+    "name": "Temple Tablet",
+    "url": "https://poe2db.tw/us/Temple_Tablet"
+  },
+  {
+    "group": "Waystones",
+    "name": "Waystones(Low)",
+    "url": "https://poe2db.tw/us/Waystones_low_tier"
+  },
+  {
+    "group": "Waystones",
+    "name": "Waystones(Mid)",
+    "url": "https://poe2db.tw/us/Waystones_mid_tier"
+  },
+  {
+    "group": "Waystones",
+    "name": "Waystones(Top)",
+    "url": "https://poe2db.tw/us/Waystones_top_tier"
+  }
+]

@@ -1,0 +1,1189 @@
+{
+  "item_class": "Jewel",
+  "prefixes": [
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Warcry Buff Effect(5—10)% increased Damage with Warcries"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Totem Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Armour(4—8)% increased Thorns damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased Evasion Rating"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased maximum Energy Shield"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Spell Damage(5—10)% increased Armour"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "15% increased chance to Poison(5—10)% increased Magnitude of Poison you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion RatingMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy ShieldMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased ArmourMinions deal (4—8)% increased Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Lightning DamageDamage Penetrates (4—7)% Lightning Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(10—20)% increased Magnitude of Abyssal Wasting you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased maximum Energy Shield(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(5—10)% increased Evasion Rating(4—8)% increased Attack Damage"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(8—15)% increased Presence Area of EffectAura Skills have (2—4)% increased Magnitudes"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "15% increased chance to inflict Bleeding(5—10)% increased Magnitude of Bleeding you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Chaos Damage(3—6)% increased Withered Magnitude"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Cold DamageDamage Penetrates (4—7)% Cold Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "Companions deal (5—10)% increased DamageCompanions have (5—10)% increased maximum Life"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Elemental Damage(4—8)% increased Magnitude of Ailments you inflict"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Exposure Effect"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Fire DamageDamage Penetrates (4—7)% Fire Resistance"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(4—8)% increased Global Physical DamageBreak (4—8)% increased Armour"
+    },
+    {
+      "name": "Lightless",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "Minions have (4—8)% increased maximum Lifeminion area of effect +% [3,6]"
+    },
+    {
+      "name": "Acrimonious",
+      "level": 1,
+      "family": "AilmentEffect",
+      "text": "(5—15)% increased Magnitude of Ailments you inflict"
+    },
+    {
+      "name": "Necromantic",
+      "level": 1,
+      "family": "AllDamage",
+      "text": "(10—20)% increased Damage if you have Consumed a Corpse Recently"
+    },
+    {
+      "name": "Parrying",
+      "level": 1,
+      "family": "AllDamage",
+      "text": "(15—25)% increased Parry Damage"
+    },
+    {
+      "name": "Blasting",
+      "level": 1,
+      "family": "AreaOfEffect",
+      "text": "(4—6)% increased Area of Effect"
+    },
+    {
+      "name": "Shattering",
+      "level": 1,
+      "family": "ArmourBreak",
+      "text": "Break (5—15)% increased Armour"
+    },
+    {
+      "name": "Combat",
+      "level": 1,
+      "family": "AttackDamage",
+      "text": "(5—15)% increased Attack Damage"
+    },
+    {
+      "name": "Rallying",
+      "level": 1,
+      "family": "BannerArea",
+      "text": "Banner Skills have (6—16)% increased Area of Effect"
+    },
+    {
+      "name": "Bleeding",
+      "level": 1,
+      "family": "BleedChanceIncrease",
+      "text": "(3—7)% chance to inflict Bleeding on Hit"
+    },
+    {
+      "name": "Haemorrhaging",
+      "level": 1,
+      "family": "BleedingDamage",
+      "text": "(5—15)% increased Magnitude of Bleeding you inflict"
+    },
+    {
+      "name": "Stifling",
+      "level": 1,
+      "family": "BlindEffect",
+      "text": "(5—10)% increased Blind Effect"
+    },
+    {
+      "name": "Verdant",
+      "level": 1,
+      "family": "CharmDamageWhileUsing",
+      "text": "(10—20)% increased Damage while you have an active Charm"
+    },
+    {
+      "name": "Chilling",
+      "level": 1,
+      "family": "ColdDamagePercentage",
+      "text": "(5—15)% increased Cold Damage"
+    },
+    {
+      "name": "Numbing",
+      "level": 1,
+      "family": "ColdResistancePenetration",
+      "text": "Damage Penetrates (5—10)% Cold Resistance"
+    },
+    {
+      "name": "Kinship",
+      "level": 1,
+      "family": "CompanionDamage",
+      "text": "Companions deal (10—20)% increased Damage"
+    },
+    {
+      "name": "Kindred",
+      "level": 1,
+      "family": "CompanionLife",
+      "text": "Companions have (10—20)% increased maximum Life"
+    },
+    {
+      "name": "Rancorous",
+      "level": 1,
+      "family": "CriticalAilmentEffect",
+      "text": "(10—20)% increased Magnitude of Damaging Ailments you inflict with Critical Hits"
+    },
+    {
+      "name": "Bolting",
+      "level": 1,
+      "family": "CrossbowDamage",
+      "text": "(6—16)% increased Damage with Crossbows"
+    },
+    {
+      "name": "Expanding",
+      "level": 1,
+      "family": "CurseAreaOfEffect",
+      "text": "(8—12)% increased Area of Effect of Curses"
+    },
+    {
+      "name": "Hexing",
+      "level": 1,
+      "family": "CurseEffectiveness",
+      "text": "(2—4)% increased Curse Magnitudes"
+    },
+    {
+      "name": "Marking",
+      "level": 1,
+      "family": "CurseEffectiveness",
+      "text": "(4—8)% increased Effect of your Mark Skills"
+    },
+    {
+      "name": "Bestial",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "(5—15)% increased Damage while Shapeshifted"
+    },
+    {
+      "name": "Overgrown",
+      "level": 1,
+      "family": "DamageForm",
+      "text": "(5—15)% increased Damage with Plant Skills"
+    },
+    {
+      "name": "Slaying",
+      "level": 1,
+      "family": "DamageVsRareOrUnique",
+      "text": "(10—20)% increased Damage with Hits against Rare and Unique Enemies"
+    },
+    {
+      "name": "Triggered",
+      "level": 1,
+      "family": "DamageWithTriggeredSpells",
+      "text": "Triggered Spells deal (10—18)% increased Spell Damage"
+    },
+    {
+      "name": "Exploiting",
+      "level": 1,
+      "family": "DamagevsArmourBrokenEnemies",
+      "text": "(15—25)% increased Damage against Enemies with Fully Broken Armour"
+    },
+    {
+      "name": "Prismatic",
+      "level": 1,
+      "family": "ElementalDamagePercent",
+      "text": "(5—15)% increased Elemental Damage"
+    },
+    {
+      "name": "Serene",
+      "level": 1,
+      "family": "EnergyShieldDelay",
+      "text": "(10—15)% faster start of Energy Shield Recharge"
+    },
+    {
+      "name": "Shimmering",
+      "level": 1,
+      "family": "EnergyShieldPercent",
+      "text": "(10—20)% increased maximum Energy Shield"
+    },
+    {
+      "name": "Fletching",
+      "level": 1,
+      "family": "EquipmentModifierEffect",
+      "text": "(4—6)% increased bonuses gained from Equipped Quiver"
+    },
+    {
+      "name": "Evasive",
+      "level": 1,
+      "family": "EvasionRatingPercent",
+      "text": "(10—20)% increased Evasion Rating"
+    },
+    {
+      "name": "Empowering",
+      "level": 1,
+      "family": "ExertedAttackDamage",
+      "text": "Empowered Attacks deal (10—20)% increased Damage"
+    },
+    {
+      "name": "Flaming",
+      "level": 1,
+      "family": "FireDamagePercentage",
+      "text": "(5—15)% increased Fire Damage"
+    },
+    {
+      "name": "Searing",
+      "level": 1,
+      "family": "FireResistancePenetration",
+      "text": "Damage Penetrates (5—10)% Fire Resistance"
+    },
+    {
+      "name": "Focusing",
+      "level": 1,
+      "family": "FocusEnergyShield",
+      "text": "(30—50)% increased Energy Shield from Equipped Focus"
+    },
+    {
+      "name": "Hazardous",
+      "level": 1,
+      "family": "HazardDamage",
+      "text": "(10—20)% increased Hazard Damage"
+    },
+    {
+      "name": "Heralding",
+      "level": 1,
+      "family": "HeraldDamage",
+      "text": "Herald Skills deal (15—25)% increased Damage"
+    },
+    {
+      "name": "Burning",
+      "level": 1,
+      "family": "IgniteEffect",
+      "text": "(5—15)% increased Ignite Magnitude"
+    },
+    {
+      "name": "Incise",
+      "level": 1,
+      "family": "IncisionChance",
+      "text": "(15—25)% chance for Attack Hits to apply Incision"
+    },
+    {
+      "name": "Accurate",
+      "level": 1,
+      "family": "IncreasedAccuracyPercent",
+      "text": "(5—10)% increased Accuracy Rating"
+    },
+    {
+      "name": "Protecting",
+      "level": 1,
+      "family": "IncreasedBlockChance",
+      "text": "(3—7)% increased Block chance"
+    },
+    {
+      "name": "Chaotic",
+      "level": 1,
+      "family": "IncreasedChaosDamage",
+      "text": "(7—13)% increased Chaos Damage"
+    },
+    {
+      "name": "Armoured",
+      "level": 1,
+      "family": "IncreasedPhysicalDamageReductionRatingPercent",
+      "text": "(10—20)% increased Armour"
+    },
+    {
+      "name": "Carved",
+      "level": 1,
+      "family": "IncreasedTotemLife",
+      "text": "(10—20)% increased Totem Life"
+    },
+    {
+      "name": "Humming",
+      "level": 1,
+      "family": "LightningDamagePercentage",
+      "text": "(5—15)% increased Lightning Damage"
+    },
+    {
+      "name": "Surging",
+      "level": 1,
+      "family": "LightningResistancePenetration",
+      "text": "Damage Penetrates (5—10)% Lightning Resistance"
+    },
+    {
+      "name": "Potent Liquid Ferocity",
+      "level": 1,
+      "family": "LocalPrefixSuffixEffect",
+      "text": "(40—60)% increased Effect of Suffixes"
+    },
+    {
+      "name": "Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Suffix Modifier allowed"
+    },
+    {
+      "name": "Angry",
+      "level": 1,
+      "family": "MaximumRage",
+      "text": "+(1—2) to Maximum Rage"
+    },
+    {
+      "name": "Clashing",
+      "level": 1,
+      "family": "MeleeDamage",
+      "text": "(5—15)% increased Melee Damage"
+    },
+    {
+      "name": "Engaging",
+      "level": 1,
+      "family": "MeleeDamageIfProjectileHitRecently",
+      "text": "(10—20)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds"
+    },
+    {
+      "name": "Companion",
+      "level": 1,
+      "family": "MinionAreaOfEffect",
+      "text": "Minions have (5—8)% increased Area of Effect"
+    },
+    {
+      "name": "Authoritative",
+      "level": 1,
+      "family": "MinionDamage",
+      "text": "Minions deal (5—15)% increased Damage"
+    },
+    {
+      "name": "Fortuitous",
+      "level": 1,
+      "family": "MinionLife",
+      "text": "Minions have (5—15)% increased maximum Life"
+    },
+    {
+      "name": "Sacrificial",
+      "level": 1,
+      "family": "OfferingLife",
+      "text": "Offerings have (15—25)% increased Maximum Life"
+    },
+    {
+      "name": "Sharpened",
+      "level": 1,
+      "family": "PhysicalDamagePercent",
+      "text": "(5—15)% increased Global Physical Damage"
+    },
+    {
+      "name": "Venomous",
+      "level": 1,
+      "family": "PoisonEffect",
+      "text": "(5—15)% increased Magnitude of Poison you inflict"
+    },
+    {
+      "name": "Iconic",
+      "level": 1,
+      "family": "PresenceRadius",
+      "text": "(15—25)% increased Presence Area of Effect"
+    },
+    {
+      "name": "Archer's",
+      "level": 1,
+      "family": "ProjectileDamage",
+      "text": "(5—15)% increased Projectile Damage"
+    },
+    {
+      "name": "Retreating",
+      "level": 1,
+      "family": "ProjectileDamageIfMeleeHitRecently",
+      "text": "(10—20)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds"
+    },
+    {
+      "name": "Soaring",
+      "level": 1,
+      "family": "ProjectileSpeed",
+      "text": "(4—8)% increased Projectile Speed"
+    },
+    {
+      "name": "Shielding",
+      "level": 1,
+      "family": "ShieldArmourIncrease",
+      "text": "(18—32)% increased Armour, Evasion and Energy Shield from Equipped Shield"
+    },
+    {
+      "name": "Jolting",
+      "level": 1,
+      "family": "ShockEffect",
+      "text": "(10—15)% increased Magnitude of Shock you inflict"
+    },
+    {
+      "name": "Spearheaded",
+      "level": 1,
+      "family": "SpearDamage",
+      "text": "(6—16)% increased Damage with Spears"
+    },
+    {
+      "name": "Precise",
+      "level": 1,
+      "family": "SpecificWeaponAccuracy",
+      "text": "(5—15)% increased Accuracy Rating with Bows"
+    },
+    {
+      "name": "Perforating",
+      "level": 1,
+      "family": "SpecificWeaponDamage",
+      "text": "(6—16)% increased Damage with Bows"
+    },
+    {
+      "name": "Beating",
+      "level": 1,
+      "family": "SpecificWeaponDamage",
+      "text": "(6—16)% increased Damage with Maces"
+    },
+    {
+      "name": "Monk's",
+      "level": 1,
+      "family": "SpecificWeaponDamage",
+      "text": "(6—16)% increased Damage with Quarterstaves"
+    },
+    {
+      "name": "Retaliating",
+      "level": 1,
+      "family": "Thorns",
+      "text": "(10—20)% increased Thorns damage"
+    },
+    {
+      "name": "Shaman's",
+      "level": 1,
+      "family": "TotemDamage",
+      "text": "(10—18)% increased Totem Damage"
+    },
+    {
+      "name": "Yelling",
+      "level": 1,
+      "family": "WarcryDamage",
+      "text": "(10—20)% increased Damage with Warcries"
+    },
+    {
+      "name": "Mystic",
+      "level": 1,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(5—15)% increased Spell Damage"
+    },
+    {
+      "name": "Withering",
+      "level": 1,
+      "family": "WitheredEffect",
+      "text": "(5—10)% increased Withered Magnitude"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Dexterity"
+    },
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Intelligence"
+    },
+    {
+      "name": "of the Abyss",
+      "level": 1,
+      "family": "AbyssJewelMod",
+      "text": "(1—2)% increased Strength"
+    },
+    {
+      "name": "of Ailing",
+      "level": 1,
+      "family": "AilmentChance",
+      "text": "(5—15)% increased chance to inflict Ailments"
+    },
+    {
+      "name": "of Enduring",
+      "level": 1,
+      "family": "AilmentThreshold",
+      "text": "(10—20)% increased Elemental Ailment Threshold"
+    },
+    {
+      "name": "of Inuring",
+      "level": 1,
+      "family": "AilmentThresholdfromEnergyShield",
+      "text": "Gain additional Ailment Threshold equal to (5—15)% of maximum Energy Shield"
+    },
+    {
+      "name": "Resonating",
+      "level": 1,
+      "family": "ArmourBreakDuration",
+      "text": "(10—20)% increased Armour Break Duration"
+    },
+    {
+      "name": "of Inspiring",
+      "level": 1,
+      "family": "BannerDuration",
+      "text": "Banner Skills have (15—25)% increased Duration"
+    },
+    {
+      "name": "of Valour",
+      "level": 1,
+      "family": "BannerValourGained",
+      "text": "(15—20)% increased Glory generation for Banner Skills"
+    },
+    {
+      "name": "of Continuation",
+      "level": 1,
+      "family": "BaseCurseDuration",
+      "text": "(15—25)% increased Curse Duration"
+    },
+    {
+      "name": "of Gathering",
+      "level": 1,
+      "family": "BeltFlaskChargesGained",
+      "text": "(5—10)% increased Flask Charges gained"
+    },
+    {
+      "name": "of Haemophilia",
+      "level": 1,
+      "family": "BleedDuration",
+      "text": "(5—10)% increased Bleeding Duration"
+    },
+    {
+      "name": "of Blinding",
+      "level": 1,
+      "family": "BlindOnHit",
+      "text": "(3—7)% chance to Blind Enemies on Hit with Attacks"
+    },
+    {
+      "name": "of Chaining",
+      "level": 1,
+      "family": "ChainFromTerrain",
+      "text": "Projectiles have (3—5)% chance to Chain an additional time from terrain"
+    },
+    {
+      "name": "of Piercing",
+      "level": 1,
+      "family": "ChanceToPierce",
+      "text": "(10—20)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of the Thicker",
+      "level": 1,
+      "family": "CharmChargesGained",
+      "text": "(5—15)% increased Charm Charges gained"
+    },
+    {
+      "name": "of the Woodland",
+      "level": 1,
+      "family": "CharmDuration",
+      "text": "(5—15)% increased Charm Effect Duration"
+    },
+    {
+      "name": "of Chronomancy",
+      "level": 1,
+      "family": "CooldownRecovery",
+      "text": "(3—5)% increased Cooldown Recovery Rate"
+    },
+    {
+      "name": "of Deadliness",
+      "level": 1,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(6—16)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Annihilation",
+      "level": 1,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(5—15)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Demolishing",
+      "level": 1,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(10—20)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Potency",
+      "level": 1,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(10—20)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Reloading",
+      "level": 1,
+      "family": "CrossbowReloadSpeed",
+      "text": "(10—15)% increased Crossbow Reload Speed"
+    },
+    {
+      "name": "of Rapidity",
+      "level": 1,
+      "family": "CrossbowSpeed",
+      "text": "(2—4)% increased Attack Speed with Crossbows"
+    },
+    {
+      "name": "of Targeting",
+      "level": 1,
+      "family": "CurseCastSpeed",
+      "text": "Mark Skills have (5—15)% increased Use Speed"
+    },
+    {
+      "name": "of Chanting",
+      "level": 1,
+      "family": "CurseDelay",
+      "text": "(5—15)% faster Curse Activation"
+    },
+    {
+      "name": "of Mind",
+      "level": 1,
+      "family": "DamageRemovedFromManaBeforeLife",
+      "text": "(2—4)% of Damage is taken from Mana before Life"
+    },
+    {
+      "name": "of Infusion",
+      "level": 1,
+      "family": "DamageTakenGainedAsLife",
+      "text": "(2—3)% of Damage taken Recouped as Life"
+    },
+    {
+      "name": "of Suffusion",
+      "level": 1,
+      "family": "DamagingAilmentDuration",
+      "text": "(5—10)% increased Duration of Damaging Ailments on Enemies"
+    },
+    {
+      "name": "of Dazing",
+      "level": 1,
+      "family": "DazeBuildup",
+      "text": "(5—10)% chance to Daze on Hit"
+    },
+    {
+      "name": "of Diminishing",
+      "level": 1,
+      "family": "DebuffTime",
+      "text": "Debuffs on you expire (5—10)% faster"
+    },
+    {
+      "name": "of Suffering",
+      "level": 1,
+      "family": "ElementalAilmentDuration",
+      "text": "(5—10)% increased Duration of Ignite, Shock and Chill on Enemies"
+    },
+    {
+      "name": "of Generation",
+      "level": 1,
+      "family": "Energy",
+      "text": "Meta Skills gain (4—8)% increased Energy"
+    },
+    {
+      "name": "of Decrepifying",
+      "level": 1,
+      "family": "FasterAilmentDamage",
+      "text": "Damaging Ailments deal damage (3—7)% faster"
+    },
+    {
+      "name": "of Pathfinding",
+      "level": 1,
+      "family": "FlaskChargeGenerationPercent",
+      "text": "(10—20)% increased Life Flask Charges gained"
+    },
+    {
+      "name": "of Fountains",
+      "level": 1,
+      "family": "FlaskChargeGenerationPercent",
+      "text": "(10—20)% increased Mana Flask Charges gained"
+    },
+    {
+      "name": "of Prolonging",
+      "level": 1,
+      "family": "FlaskDuration",
+      "text": "(5—10)% increased Flask Effect Duration"
+    },
+    {
+      "name": "of Recovery",
+      "level": 1,
+      "family": "FlaskLifeRecovery",
+      "text": "(5—15)% increased Life Recovery from Flasks"
+    },
+    {
+      "name": "of Quenching",
+      "level": 1,
+      "family": "FlaskManaRecovery",
+      "text": "(5—15)% increased Mana Recovery from Flasks"
+    },
+    {
+      "name": "of Forking",
+      "level": 1,
+      "family": "ForkingProjectiles",
+      "text": "Projectiles have (10—15)% chance for an additional Projectile when Forking"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 1,
+      "family": "FormCritMultiplier",
+      "text": "(10—20)% increased Critical Spell Damage Bonus"
+    },
+    {
+      "name": "of Freezing",
+      "level": 1,
+      "family": "FreezeDamageIncrease",
+      "text": "(10—20)% increased Freeze Buildup"
+    },
+    {
+      "name": "of Snowbreathing",
+      "level": 1,
+      "family": "FreezeThreshold",
+      "text": "(18—32)% increased Freeze Threshold"
+    },
+    {
+      "name": "of Retribution",
+      "level": 1,
+      "family": "GainRage",
+      "text": "Gain (1—3) Rage when Hit by an Enemy"
+    },
+    {
+      "name": "of Ignition",
+      "level": 1,
+      "family": "IgniteChanceIncrease",
+      "text": "(10—20)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Alacrity",
+      "level": 1,
+      "family": "IncreasedAttackSpeed",
+      "text": "(2—4)% increased Attack Speed"
+    },
+    {
+      "name": "of Enchanting",
+      "level": 1,
+      "family": "IncreasedCastSpeed",
+      "text": "(2—4)% increased Cast Speed"
+    },
+    {
+      "name": "of Frost",
+      "level": 1,
+      "family": "IncreasedChillDuration",
+      "text": "(15—25)% increased Chill Duration on Enemies"
+    },
+    {
+      "name": "of Withstanding",
+      "level": 1,
+      "family": "IncreasedStunThreshold",
+      "text": "(6—16)% increased Stun Threshold"
+    },
+    {
+      "name": "of Stoutness",
+      "level": 1,
+      "family": "IncreasedStunThresholdIfNoRecentStun",
+      "text": "(15—25)% increased Stun Threshold if you haven't been Stunned Recently"
+    },
+    {
+      "name": "of Fending",
+      "level": 1,
+      "family": "Knockback",
+      "text": "(5—15)% increased Knockback Distance"
+    },
+    {
+      "name": "of Sacrifice",
+      "level": 1,
+      "family": "LifeCost",
+      "text": "(4—6)% of Skill Mana Costs Converted to Life Costs"
+    },
+    {
+      "name": "of Frenzy",
+      "level": 1,
+      "family": "LifeLeech",
+      "text": "(5—15)% increased amount of Life Leeched"
+    },
+    {
+      "name": "of Regeneration",
+      "level": 1,
+      "family": "LifeRegenerationRate",
+      "text": "(5—10)% increased Life Regeneration rate"
+    },
+    {
+      "name": "Potent Liquid Ferocity",
+      "level": 1,
+      "family": "LocalPrefixSuffixEffect",
+      "text": "(40—60)% increased Effect of Prefixes"
+    },
+    {
+      "name": "of Thumping",
+      "level": 1,
+      "family": "MaceStun",
+      "text": "(15—25)% increased Stun Buildup with Maces"
+    },
+    {
+      "name": "of Osmosis",
+      "level": 1,
+      "family": "ManaGainedOnKillPercentage",
+      "text": "Recover (1—2)% of maximum Mana on Kill"
+    },
+    {
+      "name": "of Thirsting",
+      "level": 1,
+      "family": "ManaLeechAmount",
+      "text": "(5—15)% increased amount of Mana Leeched"
+    },
+    {
+      "name": "of Energy",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "(5—15)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Tracking",
+      "level": 1,
+      "family": "MarkDuration",
+      "text": "Mark Skills have (18—32)% increased Skill Effect Duration"
+    },
+    {
+      "name": "Potent Liquid Contempt",
+      "level": 1,
+      "family": "MaxPrefixMaxSuffix",
+      "text": "+1 Prefix Modifier allowed"
+    },
+    {
+      "name": "Concentrated Liquid Isolation",
+      "level": 1,
+      "family": "MaximumChaosResistance",
+      "text": "+1% to Maximum Chaos Resistance"
+    },
+    {
+      "name": "of the Kraken",
+      "level": 1,
+      "family": "MaximumColdResist",
+      "text": "+1% to Maximum Cold Resistance"
+    },
+    {
+      "name": "of the Phoenix",
+      "level": 1,
+      "family": "MaximumFireResist",
+      "text": "+1% to Maximum Fire Resistance"
+    },
+    {
+      "name": "of Success",
+      "level": 1,
+      "family": "MaximumLifeOnKillPercent",
+      "text": "Recover (1—2)% of maximum Life on Kill"
+    },
+    {
+      "name": "of the Leviathan",
+      "level": 1,
+      "family": "MaximumLightningResistance",
+      "text": "+1% to Maximum Lightning Resistance"
+    },
+    {
+      "name": "of Orchestration",
+      "level": 1,
+      "family": "MinionAttackSpeedAndCastSpeed",
+      "text": "Minions have (2—4)% increased Attack and Cast Speed"
+    },
+    {
+      "name": "of Righteousness",
+      "level": 1,
+      "family": "MinionChaosResistance",
+      "text": "Minions have +(7—13)% to Chaos Resistance"
+    },
+    {
+      "name": "of Marshalling",
+      "level": 1,
+      "family": "MinionCriticalStrikeChance",
+      "text": "Minions have (10—20)% increased Critical Hit Chance"
+    },
+    {
+      "name": "of Gripping",
+      "level": 1,
+      "family": "MinionCriticalStrikeMultiplier",
+      "text": "Minions have (15—25)% increased Critical Damage Bonus"
+    },
+    {
+      "name": "of Acclimatisation",
+      "level": 1,
+      "family": "MinionElementalResistances",
+      "text": "Minions have +(5—10)% to all Elemental Resistances"
+    },
+    {
+      "name": "of Confidence",
+      "level": 1,
+      "family": "MinionPhysicalDamageReduction",
+      "text": "Minions have (6—16)% additional Physical Damage Reduction"
+    },
+    {
+      "name": "of Speed",
+      "level": 1,
+      "family": "MovementVelocity",
+      "text": "(1—2)% increased Movement Speed"
+    },
+    {
+      "name": "of Offering",
+      "level": 1,
+      "family": "OfferingDuration",
+      "text": "Offering Skills have (15—25)% increased Duration"
+    },
+    {
+      "name": "of Unsettling",
+      "level": 1,
+      "family": "ParriedDebuff",
+      "text": "(10—15)% increased Parried Debuff Duration"
+    },
+    {
+      "name": "of Pinning",
+      "level": 1,
+      "family": "PinBuildup",
+      "text": "(10—20)% increased Pin Buildup"
+    },
+    {
+      "name": "of Poisoning",
+      "level": 1,
+      "family": "PoisonChanceIncrease",
+      "text": "(5—10)% chance to Poison on Hit"
+    },
+    {
+      "name": "of Infection",
+      "level": 1,
+      "family": "PoisonDuration",
+      "text": "(5—10)% increased Poison Duration"
+    },
+    {
+      "name": "of Glaciers",
+      "level": 1,
+      "family": "QuarterstaffFreezeBuildup",
+      "text": "(10—20)% increased Freeze Buildup with Quarterstaves"
+    },
+    {
+      "name": "of Raging",
+      "level": 1,
+      "family": "RageOnHit",
+      "text": "Gain 1 Rage on Melee Hit"
+    },
+    {
+      "name": "of Shocking",
+      "level": 1,
+      "family": "ShockChanceIncrease",
+      "text": "(10—20)% increased chance to Shock"
+    },
+    {
+      "name": "of Paralyzing",
+      "level": 1,
+      "family": "ShockDuration",
+      "text": "(15—25)% increased Shock Duration"
+    },
+    {
+      "name": "of Lengthening",
+      "level": 1,
+      "family": "SkillEffectDuration",
+      "text": "(5—10)% increased Skill Effect Duration"
+    },
+    {
+      "name": "of Hastening",
+      "level": 1,
+      "family": "SlowPotency",
+      "text": "(5—10)% reduced Slowing Potency of Debuffs on You"
+    },
+    {
+      "name": "of Spearing",
+      "level": 1,
+      "family": "SpearAttackSpeed",
+      "text": "(2—4)% increased Attack Speed with Spears"
+    },
+    {
+      "name": "of Hunting",
+      "level": 1,
+      "family": "SpearCriticalDamage",
+      "text": "(10—20)% increased Critical Damage Bonus with Spears"
+    },
+    {
+      "name": "of Nocking",
+      "level": 1,
+      "family": "SpecificWeaponSpeed",
+      "text": "(2—4)% increased Attack Speed with Bows"
+    },
+    {
+      "name": "of Sequencing",
+      "level": 1,
+      "family": "SpecificWeaponSpeed",
+      "text": "(2—4)% increased Attack Speed with Quarterstaves"
+    },
+    {
+      "name": "of the Wild",
+      "level": 1,
+      "family": "SpecificWeaponSpeed",
+      "text": "(2—4)% increased Skill Speed while Shapeshifted"
+    },
+    {
+      "name": "of Annihilating",
+      "level": 1,
+      "family": "SpellCriticalStrikeChanceIncrease",
+      "text": "(5—15)% increased Critical Hit Chance for Spells"
+    },
+    {
+      "name": "of Stunning",
+      "level": 1,
+      "family": "StunDamageIncrease",
+      "text": "(10—20)% increased Stun Buildup"
+    },
+    {
+      "name": "of Biding",
+      "level": 1,
+      "family": "StunThresholdDuringParry",
+      "text": "(15—25)% increased Stun Threshold while Parrying"
+    },
+    {
+      "name": "of Barriers",
+      "level": 1,
+      "family": "StunThresholdfromEnergyShield",
+      "text": "Gain additional Stun Threshold equal to (5—15)% of maximum Energy Shield"
+    },
+    {
+      "name": "of Ancestry",
+      "level": 1,
+      "family": "SummonTotemCastSpeed",
+      "text": "(10—20)% increased Totem Placement speed"
+    },
+    {
+      "name": "of Rallying",
+      "level": 1,
+      "family": "WarcryCooldownSpeed",
+      "text": "(5—15)% increased Warcry Cooldown Recovery Rate"
+    },
+    {
+      "name": "of Lungs",
+      "level": 1,
+      "family": "WarcrySpeed",
+      "text": "(10—20)% increased Warcry Speed"
+    }
+  ]
+}

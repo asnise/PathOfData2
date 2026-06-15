@@ -1,0 +1,739 @@
+{
+  "item_class": "Quiver",
+  "prefixes": [
+    {
+      "name": "Frosted",
+      "level": 1,
+      "family": "ColdDamage",
+      "text": "Adds 1 to (2—3) Cold damage to Attacks"
+    },
+    {
+      "name": "Chilled",
+      "level": 8,
+      "family": "ColdDamage",
+      "text": "Adds (3—4) to (5—8) Cold damage to Attacks"
+    },
+    {
+      "name": "Icy",
+      "level": 16,
+      "family": "ColdDamage",
+      "text": "Adds (5—6) to (9—11) Cold damage to Attacks"
+    },
+    {
+      "name": "Frigid",
+      "level": 33,
+      "family": "ColdDamage",
+      "text": "Adds (7—8) to (12—14) Cold damage to Attacks"
+    },
+    {
+      "name": "Freezing",
+      "level": 46,
+      "family": "ColdDamage",
+      "text": "Adds (9—10) to (15—17) Cold damage to Attacks"
+    },
+    {
+      "name": "Frozen",
+      "level": 54,
+      "family": "ColdDamage",
+      "text": "Adds (11—13) to (18—21) Cold damage to Attacks"
+    },
+    {
+      "name": "Glaciated",
+      "level": 60,
+      "family": "ColdDamage",
+      "text": "Adds (14—15) to (22—24) Cold damage to Attacks"
+    },
+    {
+      "name": "Polar",
+      "level": 65,
+      "family": "ColdDamage",
+      "text": "Adds (16—20) to (25—31) Cold damage to Attacks"
+    },
+    {
+      "name": "Entombing",
+      "level": 75,
+      "family": "ColdDamage",
+      "text": "Adds (21—24) to (32—37) Cold damage to Attacks"
+    },
+    {
+      "name": "Acute",
+      "level": 1,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(11—20)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Trenchant",
+      "level": 16,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(21—30)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Perforating",
+      "level": 33,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(31—36)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Incisive",
+      "level": 46,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(37—42)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Lacerating",
+      "level": 60,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(43—50)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Essence of Hysteria",
+      "level": 60,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(43—50)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Impaling",
+      "level": 81,
+      "family": "DamageWithWeaponTypeSkill",
+      "text": "(51—59)% increased Damage with Bow Skills"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "Heated",
+      "level": 1,
+      "family": "FireDamage",
+      "text": "Adds (1—2) to 3 Fire damage to Attacks"
+    },
+    {
+      "name": "Smouldering",
+      "level": 8,
+      "family": "FireDamage",
+      "text": "Adds (3—5) to (6—9) Fire damage to Attacks"
+    },
+    {
+      "name": "Smoking",
+      "level": 16,
+      "family": "FireDamage",
+      "text": "Adds (6—8) to (10—13) Fire damage to Attacks"
+    },
+    {
+      "name": "Burning",
+      "level": 33,
+      "family": "FireDamage",
+      "text": "Adds (9—11) to (14—17) Fire damage to Attacks"
+    },
+    {
+      "name": "Flaming",
+      "level": 46,
+      "family": "FireDamage",
+      "text": "Adds (12—13) to (18—20) Fire damage to Attacks"
+    },
+    {
+      "name": "Scorching",
+      "level": 54,
+      "family": "FireDamage",
+      "text": "Adds (11—16) to (21—26) Fire damage to Attacks"
+    },
+    {
+      "name": "Incinerating",
+      "level": 60,
+      "family": "FireDamage",
+      "text": "Adds (13—19) to (27—32) Fire damage to Attacks"
+    },
+    {
+      "name": "Blasting",
+      "level": 65,
+      "family": "FireDamage",
+      "text": "Adds (20—24) to (33—36) Fire damage to Attacks"
+    },
+    {
+      "name": "Cremating",
+      "level": 75,
+      "family": "FireDamage",
+      "text": "Adds (25—29) to (37—45) Fire damage to Attacks"
+    },
+    {
+      "name": "Precise",
+      "level": 1,
+      "family": "IncreasedAccuracy",
+      "text": "+(11—32) to Accuracy Rating"
+    },
+    {
+      "name": "Reliable",
+      "level": 11,
+      "family": "IncreasedAccuracy",
+      "text": "+(33—60) to Accuracy Rating"
+    },
+    {
+      "name": "Focused",
+      "level": 18,
+      "family": "IncreasedAccuracy",
+      "text": "+(61—84) to Accuracy Rating"
+    },
+    {
+      "name": "Deliberate",
+      "level": 26,
+      "family": "IncreasedAccuracy",
+      "text": "+(85—123) to Accuracy Rating"
+    },
+    {
+      "name": "Consistent",
+      "level": 36,
+      "family": "IncreasedAccuracy",
+      "text": "+(124—167) to Accuracy Rating"
+    },
+    {
+      "name": "Steady",
+      "level": 48,
+      "family": "IncreasedAccuracy",
+      "text": "+(168—236) to Accuracy Rating"
+    },
+    {
+      "name": "Hunter's",
+      "level": 58,
+      "family": "IncreasedAccuracy",
+      "text": "+(237—346) to Accuracy Rating"
+    },
+    {
+      "name": "Greater Essence of Battle",
+      "level": 58,
+      "family": "IncreasedAccuracy",
+      "text": "+(237—346) to Accuracy Rating"
+    },
+    {
+      "name": "Ranger's",
+      "level": 67,
+      "family": "IncreasedAccuracy",
+      "text": "+(347—450) to Accuracy Rating"
+    },
+    {
+      "name": "Amazon's",
+      "level": 76,
+      "family": "IncreasedAccuracy",
+      "text": "+(451—550) to Accuracy Rating"
+    },
+    {
+      "name": "Humming",
+      "level": 1,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (4—6) Lightning damage to Attacks"
+    },
+    {
+      "name": "Buzzing",
+      "level": 8,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (10—15) Lightning damage to Attacks"
+    },
+    {
+      "name": "Snapping",
+      "level": 16,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (16—22) Lightning damage to Attacks"
+    },
+    {
+      "name": "Crackling",
+      "level": 33,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (23—27) Lightning damage to Attacks"
+    },
+    {
+      "name": "Sparking",
+      "level": 46,
+      "family": "LightningDamage",
+      "text": "Adds 1 to (28—32) Lightning damage to Attacks"
+    },
+    {
+      "name": "Arcing",
+      "level": 54,
+      "family": "LightningDamage",
+      "text": "Adds (1—2) to (33—40) Lightning damage to Attacks"
+    },
+    {
+      "name": "Shocking",
+      "level": 60,
+      "family": "LightningDamage",
+      "text": "Adds (1—2) to (41—47) Lightning damage to Attacks"
+    },
+    {
+      "name": "Discharging",
+      "level": 65,
+      "family": "LightningDamage",
+      "text": "Adds (1—3) to (48—59) Lightning damage to Attacks"
+    },
+    {
+      "name": "Electrocuting",
+      "level": 75,
+      "family": "LightningDamage",
+      "text": "Adds (1—4) to (60—71) Lightning damage to Attacks"
+    },
+    {
+      "name": "Glinting",
+      "level": 1,
+      "family": "PhysicalDamage",
+      "text": "Adds (1—2) to 3 Physical Damage to Attacks"
+    },
+    {
+      "name": "Burnished",
+      "level": 8,
+      "family": "PhysicalDamage",
+      "text": "Adds (2—3) to (4—6) Physical Damage to Attacks"
+    },
+    {
+      "name": "Polished",
+      "level": 16,
+      "family": "PhysicalDamage",
+      "text": "Adds (2—4) to (5—8) Physical Damage to Attacks"
+    },
+    {
+      "name": "Honed",
+      "level": 33,
+      "family": "PhysicalDamage",
+      "text": "Adds (4—6) to (8—11) Physical Damage to Attacks"
+    },
+    {
+      "name": "Gleaming",
+      "level": 46,
+      "family": "PhysicalDamage",
+      "text": "Adds (5—7) to (9—13) Physical Damage to Attacks"
+    },
+    {
+      "name": "Annealed",
+      "level": 54,
+      "family": "PhysicalDamage",
+      "text": "Adds (6—10) to (12—17) Physical Damage to Attacks"
+    },
+    {
+      "name": "Razor-sharp",
+      "level": 60,
+      "family": "PhysicalDamage",
+      "text": "Adds (7—11) to (14—20) Physical Damage to Attacks"
+    },
+    {
+      "name": "Tempered",
+      "level": 65,
+      "family": "PhysicalDamage",
+      "text": "Adds (10—15) to (18—26) Physical Damage to Attacks"
+    },
+    {
+      "name": "Flaring",
+      "level": 75,
+      "family": "PhysicalDamage",
+      "text": "Adds (12—19) to (22—32) Physical Damage to Attacks"
+    },
+    {
+      "name": "Amanamu's",
+      "level": 65,
+      "family": "ProjectileDamage",
+      "text": "Projectiles deal (20—30)% increased Damage with Hits against Enemies within 2m"
+    },
+    {
+      "name": "Kurgal's",
+      "level": 65,
+      "family": "ProjectileDamage",
+      "text": "Projectiles deal (20—30)% increased Damage with Hits against Enemies further than 6m"
+    },
+    {
+      "name": "Ulaman's",
+      "level": 65,
+      "family": "ProjectileDamage",
+      "text": "Increases and Reductions to Projectile Speed also apply to Damage with Bows"
+    },
+    {
+      "name": "Darting",
+      "level": 14,
+      "family": "ProjectileSpeed",
+      "text": "(10—17)% increased Projectile Speed"
+    },
+    {
+      "name": "Brisk",
+      "level": 27,
+      "family": "ProjectileSpeed",
+      "text": "(18—25)% increased Projectile Speed"
+    },
+    {
+      "name": "Quick",
+      "level": 41,
+      "family": "ProjectileSpeed",
+      "text": "(26—33)% increased Projectile Speed"
+    },
+    {
+      "name": "Rapid",
+      "level": 55,
+      "family": "ProjectileSpeed",
+      "text": "(34—41)% increased Projectile Speed"
+    },
+    {
+      "name": "Nimble",
+      "level": 82,
+      "family": "ProjectileSpeed",
+      "text": "(42—46)% increased Projectile Speed"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Surplus",
+      "level": 46,
+      "family": "AdditionalArrows",
+      "text": "+(25—40)% Surpassing chance to fire an additional Arrow"
+    },
+    {
+      "name": "of Splintering",
+      "level": 80,
+      "family": "AdditionalArrows",
+      "text": "+(41—60)% Surpassing chance to fire an additional Arrow"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "AdditionalProjectiles",
+      "text": "Projectile Attacks have a (8—12)% chance to fire two additional Projectiles while moving"
+    },
+    {
+      "name": "Mystic Alloy",
+      "level": 45,
+      "family": "Chain",
+      "text": "(25—35)% chance to Chain an additional time"
+    },
+    {
+      "name": "of Piercing",
+      "level": 11,
+      "family": "ChanceToPierce",
+      "text": "(12—14)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of Drilling",
+      "level": 26,
+      "family": "ChanceToPierce",
+      "text": "(15—17)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of Puncturing",
+      "level": 44,
+      "family": "ChanceToPierce",
+      "text": "(18—20)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of Skewering",
+      "level": 61,
+      "family": "ChanceToPierce",
+      "text": "(21—23)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of Penetrating",
+      "level": 77,
+      "family": "ChanceToPierce",
+      "text": "(24—26)% chance to Pierce an Enemy"
+    },
+    {
+      "name": "of Menace",
+      "level": 5,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(10—14)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Havoc",
+      "level": 20,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(15—19)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Disaster",
+      "level": 30,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(20—24)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Calamity",
+      "level": 44,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(25—29)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Ruin",
+      "level": 58,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(30—34)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "Projectiles have (18—26)% increased Critical Hit Chance against Enemies further than 6m"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 72,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(35—38)% increased Critical Hit Chance for Attacks"
+    },
+    {
+      "name": "of Ire",
+      "level": 8,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(10—14)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Anger",
+      "level": 21,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(15—19)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Rage",
+      "level": 31,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(20—24)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Fury",
+      "level": 45,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(25—29)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Ferocity",
+      "level": 59,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(30—34)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of Amanamu",
+      "level": 65,
+      "family": "CriticalStrikeMultiplier",
+      "text": "Projectiles have (18—26)% increased Critical Damage Bonus against Enemies within 2m"
+    },
+    {
+      "name": "of Destruction",
+      "level": 74,
+      "family": "CriticalStrikeMultiplier",
+      "text": "(35—39)% increased Critical Damage Bonus for Attack Damage"
+    },
+    {
+      "name": "of the Mongoose",
+      "level": 1,
+      "family": "Dexterity",
+      "text": "+(5—8) to Dexterity"
+    },
+    {
+      "name": "of the Lynx",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Dexterity"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Fox",
+      "level": 22,
+      "family": "Dexterity",
+      "text": "+(13—16) to Dexterity"
+    },
+    {
+      "name": "of the Falcon",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Dexterity"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Panther",
+      "level": 44,
+      "family": "Dexterity",
+      "text": "+(21—24) to Dexterity"
+    },
+    {
+      "name": "of the Leopard",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Dexterity"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of the Jaguar",
+      "level": 66,
+      "family": "Dexterity",
+      "text": "+(28—30) to Dexterity"
+    },
+    {
+      "name": "of the Phantom",
+      "level": 74,
+      "family": "Dexterity",
+      "text": "+(31—33) to Dexterity"
+    },
+    {
+      "name": "Essence of the Abyss",
+      "level": 1,
+      "family": "EssenceAbyss",
+      "text": "Mark of the Abyssal Lord"
+    },
+    {
+      "name": "of the Archer",
+      "level": 5,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Projectile Skills"
+    },
+    {
+      "name": "of Skill",
+      "level": 1,
+      "family": "IncreasedAttackSpeed",
+      "text": "(5—7)% increased Attack Speed"
+    },
+    {
+      "name": "of Ease",
+      "level": 22,
+      "family": "IncreasedAttackSpeed",
+      "text": "(8—10)% increased Attack Speed"
+    },
+    {
+      "name": "of Mastery",
+      "level": 37,
+      "family": "IncreasedAttackSpeed",
+      "text": "(11—13)% increased Attack Speed"
+    },
+    {
+      "name": "of Renown",
+      "level": 60,
+      "family": "IncreasedAttackSpeed",
+      "text": "(14—16)% increased Attack Speed"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "of Ulaman",
+      "level": 65,
+      "family": "LifeCost",
+      "text": "(10—14)% of Skill Mana Costs Converted to Life Costs"
+    },
+    {
+      "name": "of Success",
+      "level": 1,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (4—6) Life per enemy killed"
+    },
+    {
+      "name": "of Victory",
+      "level": 11,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (7—9) Life per enemy killed"
+    },
+    {
+      "name": "of Triumph",
+      "level": 22,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (10—18) Life per enemy killed"
+    },
+    {
+      "name": "of Conquest",
+      "level": 33,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (19—28) Life per enemy killed"
+    },
+    {
+      "name": "of Vanquishing",
+      "level": 44,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (29—40) Life per enemy killed"
+    },
+    {
+      "name": "of Valour",
+      "level": 55,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (41—53) Life per enemy killed"
+    },
+    {
+      "name": "of Kurgal",
+      "level": 65,
+      "family": "ManaCostEfficiency",
+      "text": "(6—10)% increased Mana Cost Efficiency"
+    },
+    {
+      "name": "of Absorption",
+      "level": 1,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (2—3) Mana per enemy killed"
+    },
+    {
+      "name": "of Osmosis",
+      "level": 12,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (4—5) Mana per enemy killed"
+    },
+    {
+      "name": "of Infusion",
+      "level": 23,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (6—9) Mana per enemy killed"
+    },
+    {
+      "name": "of Enveloping",
+      "level": 34,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (10—14) Mana per enemy killed"
+    },
+    {
+      "name": "of Consumption",
+      "level": 45,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (15—20) Mana per enemy killed"
+    },
+    {
+      "name": "of Siphoning",
+      "level": 56,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (21—27) Mana per enemy killed"
+    },
+    {
+      "name": "Lesser Essence of the Infinite",
+      "level": 11,
+      "family": "Strength",
+      "text": "+(9—12) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Essence of the Infinite",
+      "level": 33,
+      "family": "Strength",
+      "text": "+(17—20) to Strength, Dexterity or Intelligence"
+    },
+    {
+      "name": "Greater Essence of the Infinite",
+      "level": 55,
+      "family": "Strength",
+      "text": "+(25—27) to Strength, Dexterity or Intelligence"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "item_class": "Waystones Waystones Top",
+  "prefixes": [
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssContainsHarvester",
+      "text": "Area contains 1 additional Incubator Queensmap map item drop chance +% final from map [25]map pack size +% final from map [12]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssCracksAllMagicMonsterChance",
+      "text": "Abyss Pits have (50—80)% chance to spawn all Monsters as at least MagicAbyss Cracks have (40—60)% chance to spawn all Monsters as at least Magicmap map item drop chance +% final from map [25]map number of magic packs +% [40]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssCracksAlwaysLeadToDepths",
+      "text": "Abysses lead to an Abyssal Depthsmap item drop rarity +% final from map [25]map map item drop chance +% final from map [20]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 78,
+      "family": "MapAbyssCracksAlwaysLeadToDepths",
+      "text": "Abysses lead to an Abyssal Bossmap item drop rarity +% final from map [25]map map item drop chance +% final from map [10]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssDifficultyRewardIncreasePerPit",
+      "text": "Abyssal Monsters have increased Difficulty and Reward for each closed Pitmap map item drop chance +% final from map [20]map pack size +% final from map [12]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssGuaranteeRewards",
+      "text": "Abyss Pits in Area always have Rewardsmap map item drop chance +% final from map [25]map number of magic packs +% [40]map number of rare packs +% [30]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssRareMonstersAbyssalModifier",
+      "text": "Natural Rare Monsters in Area have 1 extra Abyssal Modifiermap map item drop chance +% final from map [25]map number of rare packs +% [30]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssalAbyssMonsterExperience",
+      "text": "Abyssal Monsters grant (50—100)% increased Experiencemap map item drop chance +% final from map [20]map pack size +% final from map [16]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssalAdditionalPits",
+      "text": "Area contains (2—3) additional Abyssesmap item drop rarity +% final from map [25]map map item drop chance +% final from map [20]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssalIncreasedAbyssMonsters",
+      "text": "Abysses spawn (50—100)% increased Monstersmap map item drop chance +% final from map [20]map pack size +% final from map [12]"
+    },
+    {
+      "name": "Abyssal",
+      "level": 1,
+      "family": "MapAbyssalOverrun",
+      "text": "3 additional Rare Monsters are spawned from AbyssesArea contains (14—18) additional AbyssesArea is overrun by the Abyssalmap abyss tower augment quantity +% final from overrun unique tablet [0]map map item drop chance +% final from map [25]map pack size +% final from map [10]"
+    },
+    {
+      "name": "Puncturing",
+      "level": 1,
+      "family": "MapBleeding",
+      "text": "Monsters have (15—20)% chance to inflict Bleeding on HitMonsters have 13% more Effectiveness10% more Waystones found in Area"
+    },
+    {
+      "name": "Profane",
+      "level": 1,
+      "family": "MapMonsterChaosDamage",
+      "text": "Monsters deal (15—19)% of Damage as Extra Chaos15% more Rarity of Items found in this Area15% more Waystones found in Area"
+    },
+    {
+      "name": "Frostbitten",
+      "level": 1,
+      "family": "MapMonsterColdDamage",
+      "text": "Monsters deal (15—19)% of Damage as Extra Cold14% more Rarity of Items found in this Area15% more Waystones found in Area"
+    },
+    {
+      "name": "Destructive",
+      "level": 1,
+      "family": "MapMonsterCriticalStrikesAndDamage",
+      "text": "Monsters have (200—240)% increased Critical Hit ChanceMonsters have +(21—25)% Critical Damage Bonus9% more Pack size15% more Waystones found in Area"
+    },
+    {
+      "name": "Painful",
+      "level": 1,
+      "family": "MapMonsterDamage",
+      "text": "(15—19)% increased Monster Damage25% more Magic and Rare MonstersRare Monsters have 25% more chance of Monster Modifiers20% more Waystones found in Area"
+    },
+    {
+      "name": "Fleeting",
+      "level": 1,
+      "family": "MapMonsterFast",
+      "text": "Monsters have (10—15)% increased Attack, Cast and Movement Speed9% more Pack size25% more Waystones found in Area"
+    },
+    {
+      "name": "Infernal",
+      "level": 1,
+      "family": "MapMonsterFireDamage",
+      "text": "Monsters deal (15—19)% of Damage as Extra FireMonsters have 16% increased Effectiveness15% more Waystones found in Area"
+    },
+    {
+      "name": "Tough",
+      "level": 1,
+      "family": "MapMonsterLife",
+      "text": "(20—25)% more Monster Life23% more Magic and Rare MonstersRare Monsters have 23% more chance of Monster Modifiers15% more Waystones found in Area"
+    },
+    {
+      "name": "Thunderous",
+      "level": 1,
+      "family": "MapMonsterLightningDamage",
+      "text": "Monsters deal (15—19)% of Damage as Extra Lightning8% more Pack size15% more Waystones found in Area"
+    },
+    {
+      "name": "Splitting",
+      "level": 1,
+      "family": "MapMonsterMultipleProjectiles",
+      "text": "Monsters fire 3 additional Projectiles9% more Pack size25% more Waystones found in Area"
+    },
+    {
+      "name": "Precise",
+      "level": 1,
+      "family": "MapMonstersAccuracy",
+      "text": "Monsters have (30—40)% increased Accuracy Rating7% more Pack size10% more Waystones found in Area"
+    },
+    {
+      "name": "Shattering",
+      "level": 1,
+      "family": "MapMonstersArmourBreak",
+      "text": "Monsters Break Armour equal to (25—30)% of Physical Damage dealt19% more Magic and Rare MonstersRare Monsters have 19% more chance of Monster Modifiers10% more Waystones found in Area"
+    },
+    {
+      "name": "Penetrating",
+      "level": 1,
+      "family": "MapMonstersElementalPenetration",
+      "text": "Monster Damage Penetrates (12—14)% Elemental Resistances16% more Rarity of Items found in this Area20% more Waystones found in Area"
+    },
+    {
+      "name": "Impacting",
+      "level": 1,
+      "family": "MapMonstersStunBuildup",
+      "text": "Monsters have (90—100)% increased Stun BuildupMonsters have 13% more Effectiveness15% more Waystones found in Area"
+    },
+    {
+      "name": "Venomous",
+      "level": 1,
+      "family": "MapPoisoning",
+      "text": "Monsters have (27—33)% chance to Poison on Hit7% more Pack size10% more Waystones found in Area"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Cycling",
+      "level": 1,
+      "family": "MapAbyssDamageCycle",
+      "text": "Players and their Minions deal no damage for 3 out of every 10 secondsmap map item drop chance +% final from map [40]map number of rare packs +% [50]"
+    },
+    {
+      "name": "of Union",
+      "level": 1,
+      "family": "MapAbyssPackUnionofSouls",
+      "text": "map map item drop chance +% final from map [20]map pack size +% final from map [22]"
+    },
+    {
+      "name": "of Consumption",
+      "level": 1,
+      "family": "MapAbyssRareMonstersSoulEater",
+      "text": "Natural Rare Monsters in Area Eat the Souls of slain Monsters in their PresencePlayers steal the Eaten Souls of Slain Rare Monsters in Areamap map item drop chance +% final from map [25]map pack size +% final from map [18]"
+    },
+    {
+      "name": "of Union",
+      "level": 1,
+      "family": "MapAbyssRaresBossUnionofSouls",
+      "text": "map map item drop chance +% final from map [25]map number of rare packs +% [50]"
+    },
+    {
+      "name": "of Overpowering",
+      "level": 1,
+      "family": "MapMonstersAilmentChance",
+      "text": "Monster have (100—119)% increased Elemental Ailment Application11% more Rarity of Items found in this Area15% more Waystones found in Area"
+    },
+    {
+      "name": "of the Prism",
+      "level": 1,
+      "family": "MapMonstersAllResistances",
+      "text": "+(30—34)% Monster Elemental Resistances14% more Rarity of Items found in this Area10% more Waystones found in Area"
+    },
+    {
+      "name": "of Obstruction",
+      "level": 1,
+      "family": "MapMonstersBaseSelfCriticalMultiplier",
+      "text": "Monsters take (26—30)% reduced Extra Damage from Critical Hits18% more Magic and Rare MonstersRare Monsters have 18% more chance of Monster Modifiers10% more Waystones found in Area"
+    },
+    {
+      "name": "of Hexwarding",
+      "level": 1,
+      "family": "MapMonstersCurseEffectOnSelfFinal",
+      "text": "(40—50)% less effect of Curses on Monsters10% more Rarity of Items found in this Area10% more Waystones found in Area"
+    },
+    {
+      "name": "of the Unwavering",
+      "level": 1,
+      "family": "MapMonstersStunAndAilmentThreshold",
+      "text": "Monsters have (70—79)% increased Ailment ThresholdMonsters have (60—69)% increased Stun ThresholdMonsters have 13% more Effectiveness10% more Waystones found in Area"
+    },
+    {
+      "name": "of Fatigue",
+      "level": 1,
+      "family": "MapPlayerCooldownRecovery",
+      "text": "Players have (25—30)% less Cooldown Recovery Rate12% more Rarity of Items found in this Area15% more Waystones found in Area"
+    },
+    {
+      "name": "of Exposure",
+      "level": 1,
+      "family": "MapPlayerMaxResists",
+      "text": "(-8—-6)% maximum Player Resistances10% more Pack size25% more Waystones found in Area"
+    },
+    {
+      "name": "of Smothering",
+      "level": 1,
+      "family": "MapPlayerReducedRegen",
+      "text": "Players have (36—40)% less Recovery Rate of Life and Energy Shield15% more Rarity of Items found in this Area20% more Waystones found in Area"
+    },
+    {
+      "name": "of Drought",
+      "level": 1,
+      "family": "MapPlayersGainReducedFlaskCharges",
+      "text": "Players gain (30—35)% reduced Flask Charges7% more Pack size15% more Waystones found in Area"
+    },
+    {
+      "name": "Flaming",
+      "level": 1,
+      "family": "MapSpreadGroundEffect",
+      "text": "Area has patches of Ignited GroundMonsters have 15% more Effectiveness15% more Waystones found in Areaground fire art variation [1033]map ground effect patches per 100 tiles [6]map ground effect radius [20]"
+    },
+    {
+      "name": "Sleet",
+      "level": 1,
+      "family": "MapSpreadGroundEffect",
+      "text": "Area has patches of Chilled Ground12% more Rarity of Items found in this Area15% more Waystones found in Areaground ice art variation [1014]map ground effect patches per 100 tiles [5]map ground effect radius [26]"
+    },
+    {
+      "name": "Shocking",
+      "level": 1,
+      "family": "MapSpreadGroundEffect",
+      "text": "Area has patches of Shocked Ground7% more Pack size15% more Waystones found in Areaground lightning art variation [1011]map ground effect patches per 100 tiles [7]map ground effect radius [17]"
+    },
+    {
+      "name": "of Siphoning",
+      "level": 1,
+      "family": "MapSpreadGroundEffect",
+      "text": "Area has patches of Mana Siphoning Groundmap ground effect patches per 100 tiles [10]map ground effect radius [16]map ground mana siphoning base lightning damage to deal per minute [7200]map ground mana siphoning mana degeneration per minute [1200]map map item drop chance +% final from map [35]map pack size +% final from map [18]"
+    },
+    {
+      "name": "of Deceleration",
+      "level": 1,
+      "family": "MapUberModActionSpeed",
+      "text": "Players have 3% less Movement and Skill Speed for each time they've used a Skill Recentlymap item drop rarity +% final from map [45]map map item drop chance +% final from map [25]"
+    },
+    {
+      "name": "of Retribution",
+      "level": 1,
+      "family": "MapUberModMarkedForDeath",
+      "text": "Players are Marked for Death for 10 secondsafter killing a Rare or Unique monstermap item drop quantity +% [0]map item drop rarity +% final from map [40]map map item drop chance +% final from map [25]map pack size +% final from map [10]"
+    },
+    {
+      "name": "of Grasping",
+      "level": 1,
+      "family": "MapUberModVines",
+      "text": "Monsters inflict 1 Grasping Vine on Hitmap map item drop chance +% final from map [30]map pack size +% final from map [22]"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "item_class": "Relic",
+  "prefixes": [
+    {
+      "name": "Pilferer's",
+      "level": 1,
+      "family": "SanctumAdditionalKeyChance",
+      "text": "When you gain a Key (7—9)% chance to gain another"
+    },
+    {
+      "name": "Picklock's",
+      "level": 60,
+      "family": "SanctumAdditionalKeyChance",
+      "text": "When you gain a Key (10—12)% chance to gain another"
+    },
+    {
+      "name": "Thief's",
+      "level": 78,
+      "family": "SanctumAdditionalKeyChance",
+      "text": "When you gain a Key (13—16)% chance to gain another"
+    },
+    {
+      "name": "Cheater's",
+      "level": 1,
+      "family": "SanctumChanceToPreventHonourDeath",
+      "text": "(5—8)% chance if you were to lose all your Honour to have 1 Honour instead"
+    },
+    {
+      "name": "Deceiver's",
+      "level": 75,
+      "family": "SanctumChanceToPreventHonourDeath",
+      "text": "(9—12)% chance if you were to lose all your Honour to have 1 Honour instead"
+    },
+    {
+      "name": "Enhancing",
+      "level": 1,
+      "family": "SanctumKeyUpgradeChance",
+      "text": "(3—4)% chance for each of your Keys to upgrade on completing a Floor"
+    },
+    {
+      "name": "Reforging",
+      "level": 60,
+      "family": "SanctumKeyUpgradeChance",
+      "text": "(5—6)% chance for each of your Keys to upgrade on completing a Floor"
+    },
+    {
+      "name": "Upgrading",
+      "level": 77,
+      "family": "SanctumKeyUpgradeChance",
+      "text": "(7—9)% chance for each of your Keys to upgrade on completing a Floor"
+    },
+    {
+      "name": "Time-warping",
+      "level": 1,
+      "family": "SanctumMonsterSpeed",
+      "text": "Monsters have 4% reduced Attack, Cast and Movement Speed"
+    },
+    {
+      "name": "Chronomancy",
+      "level": 60,
+      "family": "SanctumMonsterSpeed",
+      "text": "Monsters have 5% reduced Attack, Cast and Movement Speed"
+    },
+    {
+      "name": "Temporal",
+      "level": 78,
+      "family": "SanctumMonsterSpeed",
+      "text": "Monsters have (6—7)% reduced Attack, Cast and Movement Speed"
+    },
+    {
+      "name": "Crushing",
+      "level": 1,
+      "family": "SanctumMonstersIncreasedDamageTaken",
+      "text": "Monsters take (11—15)% increased Damage"
+    },
+    {
+      "name": "Punishing",
+      "level": 56,
+      "family": "SanctumMonstersIncreasedDamageTaken",
+      "text": "Monsters take (16—20)% increased Damage"
+    },
+    {
+      "name": "Annihilating",
+      "level": 77,
+      "family": "SanctumMonstersIncreasedDamageTaken",
+      "text": "Monsters take (21—30)% increased Damage"
+    },
+    {
+      "name": "Resilient",
+      "level": 1,
+      "family": "SanctumMonstersReducedDamage",
+      "text": "Monsters deal 6% reduced Damage"
+    },
+    {
+      "name": "Fortified",
+      "level": 56,
+      "family": "SanctumMonstersReducedDamage",
+      "text": "Monsters deal (7—8)% reduced Damage"
+    },
+    {
+      "name": "Impenetrable",
+      "level": 77,
+      "family": "SanctumMonstersReducedDamage",
+      "text": "Monsters deal (9—12)% reduced Damage"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Dignity",
+      "level": 1,
+      "family": "SanctumAvoidAfflictionChance",
+      "text": "(6—7)% chance to Avoid gaining an Affliction"
+    },
+    {
+      "name": "of Prestige",
+      "level": 55,
+      "family": "SanctumAvoidAfflictionChance",
+      "text": "(8—9)% chance to Avoid gaining an Affliction"
+    },
+    {
+      "name": "of Glory",
+      "level": 69,
+      "family": "SanctumAvoidAfflictionChance",
+      "text": "(10—11)% chance to Avoid gaining an Affliction"
+    },
+    {
+      "name": "of Honour",
+      "level": 78,
+      "family": "SanctumAvoidAfflictionChance",
+      "text": "(12—15)% chance to Avoid gaining an Affliction"
+    },
+    {
+      "name": "of the Well",
+      "level": 1,
+      "family": "SanctumGoldOnRoomCompletion",
+      "text": "Gain (11—15) Sacred Water when you complete a Room"
+    },
+    {
+      "name": "of the Fountain",
+      "level": 56,
+      "family": "SanctumGoldOnRoomCompletion",
+      "text": "Gain (16—20) Sacred Water when you complete a Room"
+    },
+    {
+      "name": "of the Oasis",
+      "level": 77,
+      "family": "SanctumGoldOnRoomCompletion",
+      "text": "Gain (21—30) Sacred Water when you complete a Room"
+    },
+    {
+      "name": "of Donation",
+      "level": 1,
+      "family": "SanctumHonourOnGainKey",
+      "text": "Restore (25—35) Honour on picking up a Key"
+    },
+    {
+      "name": "of Offering",
+      "level": 45,
+      "family": "SanctumHonourOnGainKey",
+      "text": "Restore (30—39) Honour on picking up a Key"
+    },
+    {
+      "name": "of Entrusting",
+      "level": 60,
+      "family": "SanctumHonourOnGainKey",
+      "text": "Restore (40—49) Honour on picking up a Key"
+    },
+    {
+      "name": "of Bestowing",
+      "level": 72,
+      "family": "SanctumHonourOnGainKey",
+      "text": "Restore (50—59) Honour on picking up a Key"
+    },
+    {
+      "name": "of Bequeathing",
+      "level": 78,
+      "family": "SanctumHonourOnGainKey",
+      "text": "Restore (60—75) Honour on picking up a Key"
+    },
+    {
+      "name": "of Excellence",
+      "level": 60,
+      "family": "SanctumMaximumHonourResistance",
+      "text": "+(2—3)% to Maximum Honour Resistance"
+    },
+    {
+      "name": "of Brilliance",
+      "level": 78,
+      "family": "SanctumMaximumHonourResistance",
+      "text": "+(4—5)% to Maximum Honour Resistance"
+    },
+    {
+      "name": "of Progress",
+      "level": 60,
+      "family": "SanctumResolveOnRoomComplete",
+      "text": "Restore (10—14) Honour on room completion"
+    },
+    {
+      "name": "of Advancement",
+      "level": 70,
+      "family": "SanctumResolveOnRoomComplete",
+      "text": "Restore (15—19) Honour on room completion"
+    },
+    {
+      "name": "of Headway",
+      "level": 75,
+      "family": "SanctumResolveOnRoomComplete",
+      "text": "Restore (20—24) Honour on room completion"
+    },
+    {
+      "name": "of Betterment",
+      "level": 80,
+      "family": "SanctumResolveOnRoomComplete",
+      "text": "Restore (25—30) Honour on room completion"
+    },
+    {
+      "name": "of Illumination",
+      "level": 1,
+      "family": "SanctumRevealExtraRoomEachFloor",
+      "text": "(2—3) additional Rooms are revealed on the Trial Map"
+    },
+    {
+      "name": "of Clairvoyance",
+      "level": 76,
+      "family": "SanctumRevealExtraRoomEachFloor",
+      "text": "4 additional Rooms are revealed on the Trial Map"
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "item_class": "TrapTool",
+  "prefixes": [
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "CriticalModifierEffect",
+      "text": "(20—30)% increased Explicit Critical Modifier magnitudes"
+    },
+    {
+      "name": "Beryl",
+      "level": 1,
+      "family": "IncreasedMana",
+      "text": "+(10—14) to maximum Mana"
+    },
+    {
+      "name": "Cobalt",
+      "level": 6,
+      "family": "IncreasedMana",
+      "text": "+(15—24) to maximum Mana"
+    },
+    {
+      "name": "Azure",
+      "level": 16,
+      "family": "IncreasedMana",
+      "text": "+(25—34) to maximum Mana"
+    },
+    {
+      "name": "Teal",
+      "level": 25,
+      "family": "IncreasedMana",
+      "text": "+(35—54) to maximum Mana"
+    },
+    {
+      "name": "Cerulean",
+      "level": 33,
+      "family": "IncreasedMana",
+      "text": "+(55—64) to maximum Mana"
+    },
+    {
+      "name": "Aqua",
+      "level": 38,
+      "family": "IncreasedMana",
+      "text": "+(65—79) to maximum Mana"
+    },
+    {
+      "name": "Opalescent",
+      "level": 46,
+      "family": "IncreasedMana",
+      "text": "+(80—89) to maximum Mana"
+    },
+    {
+      "name": "Gentian",
+      "level": 54,
+      "family": "IncreasedMana",
+      "text": "+(90—104) to maximum Mana"
+    },
+    {
+      "name": "Chalybeous",
+      "level": 60,
+      "family": "IncreasedMana",
+      "text": "+(105—124) to maximum Mana"
+    },
+    {
+      "name": "Mazarine",
+      "level": 65,
+      "family": "IncreasedMana",
+      "text": "+(125—149) to maximum Mana"
+    },
+    {
+      "name": "Blue",
+      "level": 70,
+      "family": "IncreasedMana",
+      "text": "+(150—164) to maximum Mana"
+    },
+    {
+      "name": "Thrud's",
+      "level": 65,
+      "family": "SpeedModifierEffect",
+      "text": "(25—30)% increased Explicit Speed Modifier magnitudes"
+    },
+    {
+      "name": "Sapper's",
+      "level": 2,
+      "family": "TrapDamageAndMana",
+      "text": "(15—19)% increased Trap Damage+(17—20) to maximum Mana"
+    },
+    {
+      "name": "Saboteur's",
+      "level": 11,
+      "family": "TrapDamageAndMana",
+      "text": "(20—24)% increased Trap Damage+(21—24) to maximum Mana"
+    },
+    {
+      "name": "Tinkerer's",
+      "level": 23,
+      "family": "TrapDamageAndMana",
+      "text": "(25—29)% increased Trap Damage+(25—28) to maximum Mana"
+    },
+    {
+      "name": "Mechanic's",
+      "level": 35,
+      "family": "TrapDamageAndMana",
+      "text": "(30—34)% increased Trap Damage+(29—33) to maximum Mana"
+    },
+    {
+      "name": "Engineer's",
+      "level": 48,
+      "family": "TrapDamageAndMana",
+      "text": "(35—39)% increased Trap Damage+(34—37) to maximum Mana"
+    },
+    {
+      "name": "Inventor's",
+      "level": 63,
+      "family": "TrapDamageAndMana",
+      "text": "(40—44)% increased Trap Damage+(38—41) to maximum Mana"
+    },
+    {
+      "name": "Artificer's",
+      "level": 78,
+      "family": "TrapDamageAndMana",
+      "text": "(45—49)% increased Trap Damage+(42—45) to maximum Mana"
+    },
+    {
+      "name": "Explosive",
+      "level": 2,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(25—34)% increased Trap Damage"
+    },
+    {
+      "name": "Eviscerating",
+      "level": 8,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(35—44)% increased Trap Damage"
+    },
+    {
+      "name": "Crippling",
+      "level": 16,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(45—54)% increased Trap Damage"
+    },
+    {
+      "name": "Disabling",
+      "level": 33,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(55—64)% increased Trap Damage"
+    },
+    {
+      "name": "Decimating",
+      "level": 46,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(65—74)% increased Trap Damage"
+    },
+    {
+      "name": "Demolishing",
+      "level": 60,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(75—89)% increased Trap Damage"
+    },
+    {
+      "name": "Obliterating",
+      "level": 70,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(90—104)% increased Trap Damage"
+    },
+    {
+      "name": "Shattering",
+      "level": 81,
+      "family": "WeaponCasterDamagePrefix",
+      "text": "(105—119)% increased Trap Damage"
+    },
+    {
+      "name": "Searing",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Fire Damage"
+    },
+    {
+      "name": "Bitter",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Cold Damage"
+    },
+    {
+      "name": "Charged",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Lightning Damage"
+    },
+    {
+      "name": "Impure",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Chaos Damage"
+    },
+    {
+      "name": "Punishing",
+      "level": 2,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(25—34)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Sizzling",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Fire Damage"
+    },
+    {
+      "name": "Biting",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Cold Damage"
+    },
+    {
+      "name": "Hissing",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Lightning Damage"
+    },
+    {
+      "name": "Tainted",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Chaos Damage"
+    },
+    {
+      "name": "Unforgiving",
+      "level": 8,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(35—44)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Blistering",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Fire Damage"
+    },
+    {
+      "name": "Alpine",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Cold Damage"
+    },
+    {
+      "name": "Bolting",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Lightning Damage"
+    },
+    {
+      "name": "Clouded",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Chaos Damage"
+    },
+    {
+      "name": "Vengeful",
+      "level": 16,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(45—54)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Cauterising",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Fire Damage"
+    },
+    {
+      "name": "Snowy",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Cold Damage"
+    },
+    {
+      "name": "Coursing",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Lightning Damage"
+    },
+    {
+      "name": "Darkened",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Chaos Damage"
+    },
+    {
+      "name": "Sadistic",
+      "level": 33,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(55—64)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Smoldering",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Fire Damage"
+    },
+    {
+      "name": "Hailing",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Cold Damage"
+    },
+    {
+      "name": "Striking",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Lightning Damage"
+    },
+    {
+      "name": "Malignant",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Chaos Damage"
+    },
+    {
+      "name": "Pitiless",
+      "level": 46,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(65—74)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Magmatic",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Fire Damage"
+    },
+    {
+      "name": "Arctic",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Cold Damage"
+    },
+    {
+      "name": "Smiting",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Lightning Damage"
+    },
+    {
+      "name": "Vile",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Chaos Damage"
+    },
+    {
+      "name": "Agonising",
+      "level": 60,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(75—89)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Volcanic",
+      "level": 70,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(90—104)% increased Fire Damage"
+    },
+    {
+      "name": "Crystalline",
+      "level": 70,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(90—104)% increased Cold Damage"
+    },
+    {
+      "name": "Ionising",
+      "level": 70,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(90—104)% increased Lightning Damage"
+    },
+    {
+      "name": "Twisted",
+      "level": 70,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(90—104)% increased Chaos Damage"
+    },
+    {
+      "name": "Oppressor's",
+      "level": 70,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(90—104)% increased Spell Physical Damage"
+    },
+    {
+      "name": "Pyromancer's",
+      "level": 81,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(105—119)% increased Fire Damage"
+    },
+    {
+      "name": "Cryomancer's",
+      "level": 81,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(105—119)% increased Cold Damage"
+    },
+    {
+      "name": "Electromancer's",
+      "level": 81,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(105—119)% increased Lightning Damage"
+    },
+    {
+      "name": "Malevolent",
+      "level": 81,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(105—119)% increased Chaos Damage"
+    },
+    {
+      "name": "Torturer's",
+      "level": 81,
+      "family": "WeaponDamageTypePrefix",
+      "text": "(105—119)% increased Spell Physical Damage"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ChaosModifierEffect",
+      "text": "(15—20)% increased Explicit Chaos Modifier magnitudes"
+    },
+    {
+      "name": "of Menace",
+      "level": 11,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(10—19)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Havoc",
+      "level": 21,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(20—39)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Disaster",
+      "level": 28,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(40—59)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Calamity",
+      "level": 41,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(60—79)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Ruin",
+      "level": 59,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(80—99)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Unmaking",
+      "level": 76,
+      "family": "CriticalStrikeChanceIncrease",
+      "text": "(100—109)% increased Critical Hit Chance with Traps"
+    },
+    {
+      "name": "of Ire",
+      "level": 8,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(10—14)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of Anger",
+      "level": 21,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(15—19)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of Rage",
+      "level": 30,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(20—24)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of Fury",
+      "level": 44,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(25—29)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of Ferocity",
+      "level": 59,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(30—34)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of Destruction",
+      "level": 73,
+      "family": "CriticalStrikeMultiplier",
+      "text": "+(35—39)% to Critical Damage Bonus with Traps"
+    },
+    {
+      "name": "of the Mongoose",
+      "level": 1,
+      "family": "Dexterity",
+      "text": "+(5—8) to Dexterity"
+    },
+    {
+      "name": "of the Lynx",
+      "level": 11,
+      "family": "Dexterity",
+      "text": "+(9—12) to Dexterity"
+    },
+    {
+      "name": "of the Fox",
+      "level": 22,
+      "family": "Dexterity",
+      "text": "+(13—16) to Dexterity"
+    },
+    {
+      "name": "of the Falcon",
+      "level": 33,
+      "family": "Dexterity",
+      "text": "+(17—20) to Dexterity"
+    },
+    {
+      "name": "of the Panther",
+      "level": 44,
+      "family": "Dexterity",
+      "text": "+(21—24) to Dexterity"
+    },
+    {
+      "name": "of the Leopard",
+      "level": 55,
+      "family": "Dexterity",
+      "text": "+(25—27) to Dexterity"
+    },
+    {
+      "name": "of the Jaguar",
+      "level": 66,
+      "family": "Dexterity",
+      "text": "+(28—30) to Dexterity"
+    },
+    {
+      "name": "of the Phantom",
+      "level": 74,
+      "family": "Dexterity",
+      "text": "+(31—33) to Dexterity"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Fire Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Lightning Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Cold Modifier magnitudes"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ElementalModifierEffect",
+      "text": "(15—20)% increased Explicit Elemental Damage Modifier magnitudes"
+    },
+    {
+      "name": "of Freezing",
+      "level": 15,
+      "family": "FreezeDamageIncrease",
+      "text": "(31—40)% increased Freeze Buildup"
+    },
+    {
+      "name": "of Bleakness",
+      "level": 30,
+      "family": "FreezeDamageIncrease",
+      "text": "(41—50)% increased Freeze Buildup"
+    },
+    {
+      "name": "of the Glacier",
+      "level": 45,
+      "family": "FreezeDamageIncrease",
+      "text": "(51—60)% increased Freeze Buildup"
+    },
+    {
+      "name": "of the Hyperboreal",
+      "level": 60,
+      "family": "FreezeDamageIncrease",
+      "text": "(61—70)% increased Freeze Buildup"
+    },
+    {
+      "name": "of the Arctic",
+      "level": 75,
+      "family": "FreezeDamageIncrease",
+      "text": "(71—80)% increased Freeze Buildup"
+    },
+    {
+      "name": "of Ignition",
+      "level": 15,
+      "family": "IgniteChanceIncrease",
+      "text": "(51—60)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Scorching",
+      "level": 30,
+      "family": "IgniteChanceIncrease",
+      "text": "(61—70)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Incineration",
+      "level": 45,
+      "family": "IgniteChanceIncrease",
+      "text": "(71—80)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Combustion",
+      "level": 60,
+      "family": "IgniteChanceIncrease",
+      "text": "(81—90)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Conflagration",
+      "level": 75,
+      "family": "IgniteChanceIncrease",
+      "text": "(91—100)% increased Flammability Magnitude"
+    },
+    {
+      "name": "of Explosives",
+      "level": 2,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+1 to Level of all Trap Skill Gems"
+    },
+    {
+      "name": "of Shrapnel",
+      "level": 18,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+2 to Level of all Trap Skill Gems"
+    },
+    {
+      "name": "of Sabotage",
+      "level": 36,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+3 to Level of all Trap Skill Gems"
+    },
+    {
+      "name": "of Detonation",
+      "level": 55,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+4 to Level of all Trap Skill Gems"
+    },
+    {
+      "name": "of Pyrotechnics",
+      "level": 81,
+      "family": "IncreaseSocketedGemLevel",
+      "text": "+5 to Level of all Trap Skill Gems"
+    },
+    {
+      "name": "of the Pupil",
+      "level": 1,
+      "family": "Intelligence",
+      "text": "+(5—8) to Intelligence"
+    },
+    {
+      "name": "of the Student",
+      "level": 11,
+      "family": "Intelligence",
+      "text": "+(9—12) to Intelligence"
+    },
+    {
+      "name": "of the Prodigy",
+      "level": 22,
+      "family": "Intelligence",
+      "text": "+(13—16) to Intelligence"
+    },
+    {
+      "name": "of the Augur",
+      "level": 33,
+      "family": "Intelligence",
+      "text": "+(17—20) to Intelligence"
+    },
+    {
+      "name": "of the Philosopher",
+      "level": 44,
+      "family": "Intelligence",
+      "text": "+(21—24) to Intelligence"
+    },
+    {
+      "name": "of the Sage",
+      "level": 55,
+      "family": "Intelligence",
+      "text": "+(25—27) to Intelligence"
+    },
+    {
+      "name": "of the Savant",
+      "level": 66,
+      "family": "Intelligence",
+      "text": "+(28—30) to Intelligence"
+    },
+    {
+      "name": "of the Virtuoso",
+      "level": 74,
+      "family": "Intelligence",
+      "text": "+(31—33) to Intelligence"
+    },
+    {
+      "name": "of Success",
+      "level": 1,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (4—6) Life per enemy killed"
+    },
+    {
+      "name": "of Victory",
+      "level": 11,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (7—9) Life per enemy killed"
+    },
+    {
+      "name": "of Triumph",
+      "level": 22,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (10—18) Life per enemy killed"
+    },
+    {
+      "name": "of Conquest",
+      "level": 33,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (19—28) Life per enemy killed"
+    },
+    {
+      "name": "of Vanquishing",
+      "level": 44,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (29—40) Life per enemy killed"
+    },
+    {
+      "name": "of Valour",
+      "level": 55,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (41—53) Life per enemy killed"
+    },
+    {
+      "name": "of Glory",
+      "level": 66,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (54—68) Life per enemy killed"
+    },
+    {
+      "name": "of Legend",
+      "level": 77,
+      "family": "LifeGainedFromEnemyDeath",
+      "text": "Gain (69—84) Life per enemy killed"
+    },
+    {
+      "name": "of Absorption",
+      "level": 1,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (2—3) Mana per enemy killed"
+    },
+    {
+      "name": "of Osmosis",
+      "level": 12,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (4—5) Mana per enemy killed"
+    },
+    {
+      "name": "of Infusion",
+      "level": 23,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (6—9) Mana per enemy killed"
+    },
+    {
+      "name": "of Enveloping",
+      "level": 34,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (10—14) Mana per enemy killed"
+    },
+    {
+      "name": "of Consumption",
+      "level": 45,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (15—20) Mana per enemy killed"
+    },
+    {
+      "name": "of Siphoning",
+      "level": 56,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (21—27) Mana per enemy killed"
+    },
+    {
+      "name": "of Devouring",
+      "level": 67,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (28—35) Mana per enemy killed"
+    },
+    {
+      "name": "of Assimilation",
+      "level": 78,
+      "family": "ManaGainedFromEnemyDeath",
+      "text": "Gain (36—45) Mana per enemy killed"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "ManaModifierEffect",
+      "text": "(25—30)% increased Explicit Mana Modifier magnitudes"
+    },
+    {
+      "name": "of Excitement",
+      "level": 1,
+      "family": "ManaRegeneration",
+      "text": "(10—19)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Joy",
+      "level": 18,
+      "family": "ManaRegeneration",
+      "text": "(20—29)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Elation",
+      "level": 29,
+      "family": "ManaRegeneration",
+      "text": "(30—39)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Bliss",
+      "level": 42,
+      "family": "ManaRegeneration",
+      "text": "(40—49)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Euphoria",
+      "level": 55,
+      "family": "ManaRegeneration",
+      "text": "(50—59)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Nirvana",
+      "level": 79,
+      "family": "ManaRegeneration",
+      "text": "(60—69)% increased Mana Regeneration Rate"
+    },
+    {
+      "name": "of Destruction",
+      "level": 65,
+      "family": "PhysicalModifierEffect",
+      "text": "(10—15)% increased Explicit Physical Modifier magnitudes"
+    },
+    {
+      "name": "of Shocking",
+      "level": 15,
+      "family": "ShockChanceIncrease",
+      "text": "(51—60)% increased chance to Shock"
+    },
+    {
+      "name": "of Zapping",
+      "level": 30,
+      "family": "ShockChanceIncrease",
+      "text": "(61—70)% increased chance to Shock"
+    },
+    {
+      "name": "of Electrocution",
+      "level": 45,
+      "family": "ShockChanceIncrease",
+      "text": "(71—80)% increased chance to Shock"
+    },
+    {
+      "name": "of Voltages",
+      "level": 60,
+      "family": "ShockChanceIncrease",
+      "text": "(81—90)% increased chance to Shock"
+    },
+    {
+      "name": "of the Thunderbolt",
+      "level": 75,
+      "family": "ShockChanceIncrease",
+      "text": "(91—100)% increased chance to Shock"
+    },
+    {
+      "name": "TBD",
+      "level": 1,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 15,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 30,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 45,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 60,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 70,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    },
+    {
+      "name": "TBD",
+      "level": 80,
+      "family": "TrapAndMineThrowSpeed",
+      "text": ""
+    }
+  ]
+}

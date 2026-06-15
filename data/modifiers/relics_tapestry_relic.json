@@ -1,0 +1,259 @@
+{
+  "item_class": "Relic",
+  "prefixes": [
+    {
+      "name": "Challenger's",
+      "level": 1,
+      "family": "SanctumBossIncreasedDamageTaken",
+      "text": "Bosses take (11—15)% increased Damage"
+    },
+    {
+      "name": "Usurper's",
+      "level": 60,
+      "family": "SanctumBossIncreasedDamageTaken",
+      "text": "Bosses take (16—20)% increased Damage"
+    },
+    {
+      "name": "Regicidal",
+      "level": 78,
+      "family": "SanctumBossIncreasedDamageTaken",
+      "text": "Bosses take (21—30)% increased Damage"
+    },
+    {
+      "name": "Aegis",
+      "level": 1,
+      "family": "SanctumBossReducedDamage",
+      "text": "Bosses deal 5% reduced Damage"
+    },
+    {
+      "name": "Vanguard",
+      "level": 60,
+      "family": "SanctumBossReducedDamage",
+      "text": "Bosses deal (6—7)% reduced Damage"
+    },
+    {
+      "name": "Phalanx",
+      "level": 78,
+      "family": "SanctumBossReducedDamage",
+      "text": "Bosses deal (8—10)% reduced Damage"
+    },
+    {
+      "name": "Transgressor's",
+      "level": 1,
+      "family": "SanctumGuardsIncreasedDamageTaken",
+      "text": "Rare Monsters take (11—15)% increased Damage"
+    },
+    {
+      "name": "Violator's",
+      "level": 60,
+      "family": "SanctumGuardsIncreasedDamageTaken",
+      "text": "Rare Monsters take (16—20)% increased Damage"
+    },
+    {
+      "name": "Disgrace's",
+      "level": 78,
+      "family": "SanctumGuardsIncreasedDamageTaken",
+      "text": "Rare Monsters take (21—30)% increased Damage"
+    },
+    {
+      "name": "Bulwark",
+      "level": 1,
+      "family": "SanctumGuardsReducedDamage",
+      "text": "Rare Monsters deal 5% reduced Damage"
+    },
+    {
+      "name": "Bastion",
+      "level": 60,
+      "family": "SanctumGuardsReducedDamage",
+      "text": "Rare Monsters deal (6—7)% reduced Damage"
+    },
+    {
+      "name": "Citadel",
+      "level": 78,
+      "family": "SanctumGuardsReducedDamage",
+      "text": "Rare Monsters deal (8—10)% reduced Damage"
+    },
+    {
+      "name": "Honourable",
+      "level": 1,
+      "family": "SanctumMaximumHonour",
+      "text": "(17—20)% increased maximum Honour"
+    },
+    {
+      "name": "Moral",
+      "level": 40,
+      "family": "SanctumMaximumHonour",
+      "text": "(21—24)% increased maximum Honour"
+    },
+    {
+      "name": "Principled",
+      "level": 55,
+      "family": "SanctumMaximumHonour",
+      "text": "(25—30)% increased maximum Honour"
+    },
+    {
+      "name": "Respected",
+      "level": 67,
+      "family": "SanctumMaximumHonour",
+      "text": "(31—35)% increased maximum Honour"
+    },
+    {
+      "name": "Venerable",
+      "level": 76,
+      "family": "SanctumMaximumHonour",
+      "text": "(36—45)% increased maximum Honour"
+    },
+    {
+      "name": "Plentiful",
+      "level": 60,
+      "family": "SanctumMerchantExtraOptions",
+      "text": "The Merchant has an additional Choice"
+    },
+    {
+      "name": "Revitalising",
+      "level": 1,
+      "family": "SanctumResolveRecovery",
+      "text": "(16—20)% increased Honour restored"
+    },
+    {
+      "name": "Galvanising",
+      "level": 50,
+      "family": "SanctumResolveRecovery",
+      "text": "(21—24)% increased Honour restored"
+    },
+    {
+      "name": "Enlivening",
+      "level": 70,
+      "family": "SanctumResolveRecovery",
+      "text": "(25—29)% increased Honour restored"
+    },
+    {
+      "name": "Emboldening",
+      "level": 75,
+      "family": "SanctumResolveRecovery",
+      "text": "(30—34)% increased Honour restored"
+    },
+    {
+      "name": "Brightening",
+      "level": 80,
+      "family": "SanctumResolveRecovery",
+      "text": "(35—45)% increased Honour restored"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Worth",
+      "level": 1,
+      "family": "SanctumHonourResistance",
+      "text": "+(15—20)% to Honour Resistance"
+    },
+    {
+      "name": "of Deserving",
+      "level": 40,
+      "family": "SanctumHonourResistance",
+      "text": "+(21—25)% to Honour Resistance"
+    },
+    {
+      "name": "of Justification",
+      "level": 55,
+      "family": "SanctumHonourResistance",
+      "text": "+(26—30)% to Honour Resistance"
+    },
+    {
+      "name": "of Entitlement",
+      "level": 67,
+      "family": "SanctumHonourResistance",
+      "text": "+(31—35)% to Honour Resistance"
+    },
+    {
+      "name": "of Merit",
+      "level": 76,
+      "family": "SanctumHonourResistance",
+      "text": "+(36—40)% to Honour Resistance"
+    },
+    {
+      "name": "of Empowerment",
+      "level": 1,
+      "family": "SanctumMaximumResolveOnBossKill",
+      "text": "Restore (40—59) Honour on killing a Boss"
+    },
+    {
+      "name": "of Championship",
+      "level": 45,
+      "family": "SanctumMaximumResolveOnBossKill",
+      "text": "Restore (60—79) Honour on killing a Boss"
+    },
+    {
+      "name": "of Victory",
+      "level": 60,
+      "family": "SanctumMaximumResolveOnBossKill",
+      "text": "Restore (80—99) Honour on killing a Boss"
+    },
+    {
+      "name": "of Conquest",
+      "level": 72,
+      "family": "SanctumMaximumResolveOnBossKill",
+      "text": "Restore (100—119) Honour on killing a Boss"
+    },
+    {
+      "name": "of Triumph",
+      "level": 78,
+      "family": "SanctumMaximumResolveOnBossKill",
+      "text": "Restore (120—150) Honour on killing a Boss"
+    },
+    {
+      "name": "of Refreshment",
+      "level": 1,
+      "family": "SanctumMaximumResolveOnFountainUse",
+      "text": "Restore (25—35) Honour on venerating a Maraketh Shrine"
+    },
+    {
+      "name": "of Convalescence",
+      "level": 45,
+      "family": "SanctumMaximumResolveOnFountainUse",
+      "text": "Restore (30—39) Honour on venerating a Maraketh Shrine"
+    },
+    {
+      "name": "of Youth",
+      "level": 60,
+      "family": "SanctumMaximumResolveOnFountainUse",
+      "text": "Restore (40—49) Honour on venerating a Maraketh Shrine"
+    },
+    {
+      "name": "of Freshness",
+      "level": 72,
+      "family": "SanctumMaximumResolveOnFountainUse",
+      "text": "Restore (50—59) Honour on venerating a Maraketh Shrine"
+    },
+    {
+      "name": "of Bloom",
+      "level": 78,
+      "family": "SanctumMaximumResolveOnFountainUse",
+      "text": "Restore (60—75) Honour on venerating a Maraketh Shrine"
+    },
+    {
+      "name": "of Charity",
+      "level": 1,
+      "family": "SanctumMerchantReducedCosts",
+      "text": "(6—7)% reduced Merchant Prices"
+    },
+    {
+      "name": "of Diplomacy",
+      "level": 74,
+      "family": "SanctumMerchantReducedCosts",
+      "text": "(8—10)% reduced Merchant Prices"
+    },
+    {
+      "name": "of Illumination",
+      "level": 1,
+      "family": "SanctumRevealExtraRoomEachFloor",
+      "text": "An additional Room is revealed on the Trial Map"
+    },
+    {
+      "name": "of Clairvoyance",
+      "level": 76,
+      "family": "SanctumRevealExtraRoomEachFloor",
+      "text": "2 additional Rooms are revealed on the Trial Map"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "item_class": "General Inscribed Ultimatum",
+  "prefixes": [
+    {
+      "name": "Artificer's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Alchemist's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Regal",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Greater Regal",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Perfect Regal",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Chaotic",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Greater Chaotic",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Perfect Chaotic",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Vaal",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Exalted",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Greater Exalted",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Perfect Exalted",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Divine",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Null",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Chancing",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Armourer's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Blacksmith's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Arcanist's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Glassblower's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    },
+    {
+      "name": "Gemcutter's",
+      "level": 1,
+      "family": "UltimatumWagerType",
+      "text": "Sacrifice up to Wager Type to receive double on Trial completion"
+    }
+  ],
+  "suffixes": [
+    {
+      "name": "of Exposure",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "(-30—-20)% maximum Player Resistances"
+    },
+    {
+      "name": "of Cremation",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Monsters deal (70—100)% of Damage as Extra FireMonster Damage penetrates (10—15)% of Fire Resistance"
+    },
+    {
+      "name": "of Glaciation",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Monsters deal (70—100)% of Damage as Extra ColdMonster Damage penetrates (10—15)% of Cold Resistance"
+    },
+    {
+      "name": "of Thunder",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Monsters deal (70—100)% of Damage as Extra LightningMonster Damage penetrates (10—15)% of Lightning Resistance"
+    },
+    {
+      "name": "of Hexing",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Players are Cursed with EnfeeblePlayers are Cursed with Temporal ChainsPlayers are Cursed with Elemental Weakness"
+    },
+    {
+      "name": "of Chaos",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Monsters deal (70—100)% of Damage as Extra Chaos"
+    },
+    {
+      "name": "of Acceleration",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Monsters have (20—30)% increased Attack, Cast and Movement Speed"
+    },
+    {
+      "name": "of Bolstering",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "(40—75)% more Monster LifeMonsters have (40—75)% increased Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "of Wasting",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Players have (30—40)% less maximum Life and Energy Shield"
+    },
+    {
+      "name": "of Defencelessness",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Players have (50—75)% less Armour, Evasion and Energy Shield"
+    },
+    {
+      "name": "of Suffocation",
+      "level": 1,
+      "family": "UltimatimMapDownsideModifier",
+      "text": "Players have (50—75)% less Recovery Rate of Life, Mana and Energy Shield"
+    }
+  ]
+}
