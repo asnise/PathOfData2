@@ -1,0 +1,446 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Crossbows",
+  "items": [
+    {
+      "name": "Makeshift Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 7-12",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tense Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "requirements": "Requires: Level 4, 8 Str, 8 Dex",
+      "properties": [
+        "Physical Damage: 8-15",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "(20—30)% increased Bolt Speed"
+      ]
+    },
+    {
+      "name": "Sturdy Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+      "requirements": "Requires: Level 10, 13 Str, 13 Dex",
+      "properties": [
+        "Physical Damage: 11-26",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Reload Time: 0.75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Varnished Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 16, 19 Str, 19 Dex",
+      "properties": [
+        "Physical Damage: 12-36",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dyad Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow05.webp",
+      "requirements": "Requires: Level 20, 22 Str, 22 Dex",
+      "properties": [
+        "Physical Damage: 9-37",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 1.1"
+      ],
+      "implicits": [
+        "Loads an additional bolt"
+      ]
+    },
+    {
+      "name": "Alloy Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow06.webp",
+      "requirements": "Requires: Level 26, 28 Str, 28 Dex",
+      "properties": [
+        "Physical Damage: 12-50",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Reload Time: 0.7"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bombard Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "requirements": "Requires: Level 33, 34 Str, 34 Dex",
+      "properties": [
+        "Physical Damage: 14-56",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.75"
+      ],
+      "implicits": [
+        "Grenade Skills Fire 1 additional Projectiles"
+      ]
+    },
+    {
+      "name": "Construct Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow08.webp",
+      "requirements": "Requires: Level 38, 39 Str, 39 Dex",
+      "properties": [
+        "Physical Damage: 18-72",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Blackfire Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow09.webp",
+      "requirements": "Requires: Level 45, 45 Str, 45 Dex",
+      "properties": [
+        "Physical Damage: 20-80",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Piercing Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow10.webp",
+      "requirements": "Requires: Level 50, 49 Str, 49 Dex",
+      "properties": [
+        "Physical Damage: 21-84",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "(20—30)% chance to Pierce an Enemy"
+      ]
+    },
+    {
+      "name": "Cumbrous Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 52, 51 Str, 51 Dex",
+      "properties": [
+        "Physical Damage: 19-76",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.9"
+      ],
+      "implicits": [
+        "+1 to maximum number of Summoned Ballista Totems"
+      ]
+    },
+    {
+      "name": "Dedalian Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 56, 55 Str, 55 Dex",
+      "properties": [
+        "Physical Damage: 25-99",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.55",
+        "Reload Time: 0.85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Esoteric Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 65, 63 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 28-113",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Taut Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "requirements": "Requires: Level 45, 45 Str, 45 Dex",
+      "properties": [
+        "Physical Damage: 20-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "(20—30)% increased Bolt Speed"
+      ]
+    },
+    {
+      "name": "Robust Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+      "requirements": "Requires: Level 48, 48 Str, 48 Dex",
+      "properties": [
+        "Physical Damage: 22-89",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Reload Time: 0.75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Painted Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 51, 50 Str, 50 Dex",
+      "properties": [
+        "Physical Damage: 23-92",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Twin Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow05.webp",
+      "requirements": "Requires: Level 54, 53 Str, 53 Dex",
+      "properties": [
+        "Physical Damage: 20-82",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 1.1"
+      ],
+      "implicits": [
+        "Loads an additional bolt"
+      ]
+    },
+    {
+      "name": "Cannonade Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "requirements": "Requires: Level 59, 58 Str, 58 Dex",
+      "properties": [
+        "Physical Damage: 23-90",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.75"
+      ],
+      "implicits": [
+        "Grenade Skills Fire 1 additional Projectiles"
+      ]
+    },
+    {
+      "name": "Bleak Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow08.webp",
+      "requirements": "Requires: Level 62, 60 Str, 60 Dex",
+      "properties": [
+        "Physical Damage: 27-109",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Makeshift Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow01.webp",
+      "requirements": "Requires: Level 38, 39 Str, 39 Dex",
+      "properties": [
+        "Physical Damage: 41.25-77",
+        "Cold Damage: 33.75-63",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [45]"
+      ]
+    },
+    {
+      "name": "Runeforged Tense Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "requirements": "Requires: Level 38, 39 Str, 39 Dex",
+      "properties": [
+        "Physical Damage: 44-83",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tense Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "requirements": "Requires: Level 55, 54 Str, 54 Dex",
+      "properties": [
+        "Physical Damage: 62-115",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.6"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sturdy Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+      "requirements": "Requires: Level 38, 39 Str, 39 Dex",
+      "properties": [
+        "Physical Damage: 4.65-41.4",
+        "Lightning Damage: 26.35-234.6",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum lightning damage [67]local weapon implicit hidden added minimum lightning damage [0]",
+        "local weapon implicit hidden % base damage is lightning [85]"
+      ]
+    },
+    {
+      "name": "Runeforged Dyad Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow05.webp",
+      "requirements": "Requires: Level 40, 40 Str, 40 Dex",
+      "properties": [
+        "Physical Damage: 32-127",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Dyad Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow05.webp",
+      "requirements": "Requires: Level 65, 63 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 43-171",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bombard Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "requirements": "Requires: Level 55, 54 Str, 54 Dex",
+      "properties": [
+        "Physical Damage: 21-85",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stout Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+      "requirements": "Requires: Level 67, 74 Str, 74 Dex",
+      "properties": [
+        "Physical Damage: 30-119",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Reload Time: 0.75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Engraved Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "requirements": "Requires: Level 72, 82 Str, 82 Dex",
+      "properties": [
+        "Physical Damage: 31-124",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Flexed Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "requirements": "Requires: Level 77, 89 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 32-127",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "(20—30)% increased Bolt Speed"
+      ]
+    },
+    {
+      "name": "Gemini Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow05.webp",
+      "requirements": "Requires: Level 78, 89 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 28-112",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 1.1"
+      ],
+      "implicits": [
+        "Loads an additional bolt"
+      ]
+    },
+    {
+      "name": "Siege Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "requirements": "Requires: Level 79, 89 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 29-115",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.75"
+      ],
+      "implicits": [
+        "Grenade Skills Fire 1 additional Projectiles"
+      ]
+    },
+    {
+      "name": "Desolate Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow08.webp",
+      "requirements": "Requires: Level 77, 89 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 33-132",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Reload Time: 0.8"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Crossbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow10.webp",
+      "requirements": "Requires: Level 78, 89 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 31-123",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Reload Time: 0.85"
+      ],
+      "implicits": [
+        "(20—30)% chance to Pierce an Enemy"
+      ]
+    },
+    {
+      "name": "Trarthan Cannon",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/HandCannon.webp",
+      "requirements": "Requires: Level 65, 114 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 58-134",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4"
+      ],
+      "implicits": [
+        "Cannot load or fire Ammunition"
+      ]
+    }
+  ]
+}

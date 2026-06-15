@@ -1,0 +1,201 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "One Hand Swords",
+  "items": [
+    {
+      "name": "Golden Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/DemigodsAuthority.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 3-28",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "+(16—24) to all Attributes"
+      ]
+    },
+    {
+      "name": "Energy Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSwordStormBlade.webp",
+      "requirements": "",
+      "properties": [
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Adds to Lightning Damage"
+      ]
+    },
+    {
+      "name": "Shortsword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 6-9",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Broadsword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword02.webp",
+      "requirements": "Requires: Level 6, 9 Str, 9 Dex",
+      "properties": [
+        "Physical Damage: 8-13",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vampiric Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword03.webp",
+      "requirements": "Requires: Level 11, 14 Str, 14 Dex",
+      "properties": [
+        "Physical Damage: 11-20",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scimitar",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword04.webp",
+      "requirements": "Requires: Level 16, 19 Str, 19 Dex",
+      "properties": [
+        "Physical Damage: 14-23",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Charred Shortsword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword05.webp",
+      "requirements": "Requires: Level 21, 23 Str, 23 Dex",
+      "properties": [
+        "Physical Damage: 19-34",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sickle Sword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword06.webp",
+      "requirements": "Requires: Level 28, 29 Str, 29 Dex",
+      "properties": [
+        "Physical Damage: 18-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Falchion",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword07.webp",
+      "requirements": "Requires: Level 33, 34 Str, 34 Dex",
+      "properties": [
+        "Physical Damage: 27-37",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Treasured Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword08.webp",
+      "requirements": "Requires: Level 40, 40 Str, 40 Dex",
+      "properties": [
+        "Physical Damage: 27-45",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cutlass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword09.webp",
+      "requirements": "Requires: Level 45, 45 Str, 45 Dex",
+      "properties": [
+        "Physical Damage: 33-49",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runic Shortsword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword10.webp",
+      "requirements": "Requires: Level 50, 49 Str, 49 Dex",
+      "properties": [
+        "Physical Damage: 26-55",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Messer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword11.webp",
+      "requirements": "Requires: Level 52, 51 Str, 51 Dex",
+      "properties": [
+        "Physical Damage: 30-56",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Commander Sword",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword12.webp",
+      "requirements": "Requires: Level 54, 53 Str, 53 Dex",
+      "properties": [
+        "Physical Damage: 36-60",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dark Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword13.webp",
+      "requirements": "Requires: Level 65, 63 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 43-65",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Golden Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Basetypes/1HSword01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 6-9",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    }
+  ]
+}

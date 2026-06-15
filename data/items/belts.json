@@ -1,0 +1,214 @@
+{
+  "category": "Belt",
+  "item_class": "Belts",
+  "items": [
+    {
+      "name": "Golden Obi",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Demibelt1.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Rarity of Items found"
+      ]
+    },
+    {
+      "name": "Rawhide Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Life Recovery from Flasks"
+      ]
+    },
+    {
+      "name": "Linen Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt02.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Mana Recovery from Flasks"
+      ]
+    },
+    {
+      "name": "Wide Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt03.webp",
+      "requirements": "Requires: Level 14",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Flask Charges gained"
+      ]
+    },
+    {
+      "name": "Long Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt04.webp",
+      "requirements": "Requires: Level 20",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(15—20)% increased Charm Effect Duration"
+      ]
+    },
+    {
+      "name": "Plate Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt05.webp",
+      "requirements": "Requires: Level 25",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "+(140—180) to Armour"
+      ]
+    },
+    {
+      "name": "Ornate Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt06.webp",
+      "requirements": "Requires: Level 31",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(10—15)% reduced Charm Charges used"
+      ]
+    },
+    {
+      "name": "Mail Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt07.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(10—15)% reduced Flask Charges used"
+      ]
+    },
+    {
+      "name": "Double Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt08.webp",
+      "requirements": "Requires: Level 44",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Charm Charges gained"
+      ]
+    },
+    {
+      "name": "Heavy Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt09.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Stun Threshold"
+      ]
+    },
+    {
+      "name": "Runemastered Heavy Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt09.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Stun Threshold",
+        "(15—25)% Life Recovery from Flasks also applies to Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Heavy Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt09.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Stun Threshold",
+        "(20—40)% increased Runic Ward Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Runemastered Heavy Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt09.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Stun Threshold",
+        "Runic Ward recovery can can Overflow maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Heavy Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt09.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "(20—30)% increased Stun Threshold",
+        "Flasks gain (0.5—1) charges per Second"
+      ]
+    },
+    {
+      "name": "Utility Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "requirements": "Requires: Level 55",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "20% of Flask Recovery applied Instantly"
+      ]
+    },
+    {
+      "name": "Fine Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/Belt11.webp",
+      "requirements": "Requires: Level 62",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "Flasks gain 0.17 charges per Second"
+      ]
+    },
+    {
+      "name": "Stalking Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/StalkingBelt.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "Has 1 Charm Slots",
+        "This item gains bonuses from Socketed Items as though it was Boots"
+      ]
+    },
+    {
+      "name": "Invoking Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/InvokingBelt.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "Has 1 Charm Slots",
+        "(8—12)% increased Cast Speed"
+      ]
+    },
+    {
+      "name": "Sinew Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/SinewBelt.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "Has 1 Charm Slots",
+        "+(15—20) to Strength"
+      ]
+    },
+    {
+      "name": "Forking Belt",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Belts/Basetypes/ForkingBelt.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [],
+      "implicits": [
+        "Has (1—3) Charm Slots",
+        "Has 1 Charm Slots",
+        "Adds 1 to (20—30) Lightning damage to Attacks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Daggers",
+  "items": [
+    {
+      "name": "Ethereal Blade",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger1.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 5-10",
+        "Critical Hit Chance: 6%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Glass Shank",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 3-10",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crone Knife",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger02.webp",
+      "requirements": "Requires: Level 6, 9 Dex, 9 Int",
+      "properties": [
+        "Physical Damage: 4-15",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": [
+        "Leeches 4% of Physical Damage as Mana"
+      ]
+    },
+    {
+      "name": "Simple Dagger",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger03.webp",
+      "requirements": "Requires: Level 12, 15 Dex, 15 Int",
+      "properties": [
+        "Physical Damage: 8-19",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Skinning Knife",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger04.webp",
+      "requirements": "Requires: Level 16, 19 Dex, 19 Int",
+      "properties": [
+        "Physical Damage: 8-22",
+        "Critical Hit Chance: 13.5%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Moon Dagger",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger05.webp",
+      "requirements": "Requires: Level 20, 22 Dex, 22 Int",
+      "properties": [
+        "Cold Damage: 11-26",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [100]"
+      ]
+    },
+    {
+      "name": "Engraved Knife",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger06.webp",
+      "requirements": "Requires: Level 27, 29 Dex, 29 Int",
+      "properties": [
+        "Physical Damage: 11-34",
+        "Critical Hit Chance: 13.5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Obsidian Dagger",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger07.webp",
+      "requirements": "Requires: Level 33, 34 Dex, 34 Int",
+      "properties": [
+        "Physical Damage: 13-39",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bloodletting Dagger",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger08.webp",
+      "requirements": "Requires: Level 39, 39 Dex, 39 Int",
+      "properties": [
+        "Physical Damage: 18-42",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1"
+      ],
+      "implicits": [
+        "25% of Spell Mana Cost Converted to Life Cost"
+      ]
+    },
+    {
+      "name": "Mail Breaker",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger09.webp",
+      "requirements": "Requires: Level 45, 45 Dex, 45 Int",
+      "properties": [
+        "Physical Damage: 19-44",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1"
+      ],
+      "implicits": [
+        "Breaks (400—500) Armour on Critical Hit"
+      ]
+    },
+    {
+      "name": "Kris Knife",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger10.webp",
+      "requirements": "Requires: Level 49, 49 Dex, 49 Int",
+      "properties": [
+        "Physical Damage: 16-48",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Parrying Dagger",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger11.webp",
+      "requirements": "Requires: Level 52, 51 Dex, 51 Int",
+      "properties": [
+        "Physical Damage: 16-55",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Arcane Dirk",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger12.webp",
+      "requirements": "Requires: Level 56, 55 Dex, 55 Int",
+      "properties": [
+        "Physical Damage: 22-52",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cinquedea",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Basetypes/Dagger13.webp",
+      "requirements": "Requires: Level 65, 63 Dex, 63 Int",
+      "properties": [
+        "Physical Damage: 21-62",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1"
+      ],
+      "implicits": []
+    }
+  ]
+}

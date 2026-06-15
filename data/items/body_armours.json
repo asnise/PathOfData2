@@ -1,0 +1,4250 @@
+{
+  "category": "Armour",
+  "item_class": "Body Armours",
+  "items": [
+    {
+      "name": "Golden Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/DemigodsArmour.webp",
+      "requirements": "Requires: Level 20, 7 Str, 7 Dex, 7 Int",
+      "properties": [
+        "Armour: 216",
+        "Evasion Rating: 187",
+        "Energy Shield: 74"
+      ],
+      "implicits": [
+        "+(15—25)% to all Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Rusted Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 45",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fur Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr02.webp",
+      "requirements": "Requires: Level 4, 10 Str",
+      "properties": [
+        "Armour: 66",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Iron Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 11, 21 Str",
+      "properties": [
+        "Armour: 115",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Raider Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr04.webp",
+      "requirements": "Requires: Level 16, 28 Str",
+      "properties": [
+        "Armour: 150",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Maraketh Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr05.webp",
+      "requirements": "Requires: Level 20, 34 Str",
+      "properties": [
+        "Armour: 178",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Steel Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 27, 45 Str",
+      "properties": [
+        "Armour: 228",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Full Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr07.webp",
+      "requirements": "Requires: Level 33, 54 Str",
+      "properties": [
+        "Armour: 270",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vaal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 37, 60 Str",
+      "properties": [
+        "Armour: 298",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Juggernaut Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr09.webp",
+      "requirements": "Requires: Level 45, 72 Str",
+      "properties": [
+        "Armour: 355",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Chieftain Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "requirements": "Requires: Level 50, 80 Str",
+      "properties": [
+        "Armour: 390",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Colosseum Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 52, 83 Str",
+      "properties": [
+        "Armour: 404",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Champion Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 58, 92 Str",
+      "properties": [
+        "Armour: 446",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Glorious Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 65, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Conqueror Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 68, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "(30—40)% increased Stun Threshold"
+      ]
+    },
+    {
+      "name": "Abyssal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 73, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "Regenerate (1.5—2.5)% of maximum Life per second"
+      ]
+    },
+    {
+      "name": "Leather Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 30",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Quilted Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex02.webp",
+      "requirements": "Requires: Level 4, 10 Dex",
+      "properties": [
+        "Evasion Rating: 49",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pathfinder Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 11, 21 Dex",
+      "properties": [
+        "Evasion Rating: 96",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shrouded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex04.webp",
+      "requirements": "Requires: Level 16, 28 Dex",
+      "properties": [
+        "Evasion Rating: 128",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rhoahide Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex05.webp",
+      "requirements": "Requires: Level 22, 37 Dex",
+      "properties": [
+        "Evasion Rating: 168",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Studded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 26, 43 Dex",
+      "properties": [
+        "Evasion Rating: 194",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scout's Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex07.webp",
+      "requirements": "Requires: Level 33, 54 Dex",
+      "properties": [
+        "Evasion Rating: 240",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Serpentscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 36, 59 Dex",
+      "properties": [
+        "Evasion Rating: 260",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Corsair Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex09.webp",
+      "requirements": "Requires: Level 45, 72 Dex",
+      "properties": [
+        "Evasion Rating: 320",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Smuggler Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex10.webp",
+      "requirements": "Requires: Level 51, 82 Dex",
+      "properties": [
+        "Evasion Rating: 359",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Strider Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 52, 83 Dex",
+      "properties": [
+        "Evasion Rating: 366",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hardleather Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 56, 89 Dex",
+      "properties": [
+        "Evasion Rating: 392",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Exquisite Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex13.webp",
+      "requirements": "Requires: Level 65, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mail Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 68, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(20—30)% reduced Slowing Potency of Debuffs on You"
+      ]
+    },
+    {
+      "name": "Armoured Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 73, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(30—40)% increased Elemental Ailment Threshold"
+      ]
+    },
+    {
+      "name": "Tattered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 28",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Feathered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt02.webp",
+      "requirements": "Requires: Level 5, 11 Int",
+      "properties": [
+        "Energy Shield: 35",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hexer's Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 11, 21 Int",
+      "properties": [
+        "Energy Shield: 45",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bone Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt04.webp",
+      "requirements": "Requires: Level 16, 28 Int",
+      "properties": [
+        "Energy Shield: 54",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Silk Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt05.webp",
+      "requirements": "Requires: Level 22, 37 Int",
+      "properties": [
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Keth Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 28, 47 Int",
+      "properties": [
+        "Energy Shield: 74",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Votive Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt07.webp",
+      "requirements": "Requires: Level 33, 54 Int",
+      "properties": [
+        "Energy Shield: 83",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Altar Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 40, 65 Int",
+      "properties": [
+        "Energy Shield: 95",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elementalist Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt09.webp",
+      "requirements": "Requires: Level 45, 72 Int",
+      "properties": [
+        "Energy Shield: 103",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mystic Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt10.webp",
+      "requirements": "Requires: Level 49, 78 Int",
+      "properties": [
+        "Energy Shield: 110",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Imperial Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt11.webp",
+      "requirements": "Requires: Level 52, 83 Int",
+      "properties": [
+        "Energy Shield: 115",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Plated Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt12.webp",
+      "requirements": "Requires: Level 58, 92 Int",
+      "properties": [
+        "Energy Shield: 126",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Havoc Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt13.webp",
+      "requirements": "Requires: Level 65, 121 Int",
+      "properties": [
+        "Energy Shield: 138",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Enlightened Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 68, 121 Int",
+      "properties": [
+        "Energy Shield: 138",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(40—50)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Arcane Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 73, 121 Int",
+      "properties": [
+        "Energy Shield: 138",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(20—25)% increased Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Chain Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 25",
+        "Evasion Rating: 16",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rogue Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 11, 13 Str, 13 Dex",
+      "properties": [
+        "Armour: 63",
+        "Evasion Rating: 53",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vagabond Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex03.webp",
+      "requirements": "Requires: Level 16, 17 Str, 17 Dex",
+      "properties": [
+        "Armour: 83",
+        "Evasion Rating: 71",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cloaked Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 26, 25 Str, 25 Dex",
+      "properties": [
+        "Armour: 121",
+        "Evasion Rating: 107",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Explorer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex05.webp",
+      "requirements": "Requires: Level 33, 31 Str, 31 Dex",
+      "properties": [
+        "Armour: 149",
+        "Evasion Rating: 132",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scale Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 37, 34 Str, 34 Dex",
+      "properties": [
+        "Armour: 164",
+        "Evasion Rating: 147",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Knight Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex07.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 195",
+        "Evasion Rating: 176",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancestral Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "requirements": "Requires: Level 50, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 214",
+        "Evasion Rating: 194",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lamellar Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 52, 46 Str, 46 Dex",
+      "properties": [
+        "Armour: 222",
+        "Evasion Rating: 201",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gladiator Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 58, 51 Str, 51 Dex",
+      "properties": [
+        "Armour: 245",
+        "Evasion Rating: 223",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heroic Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex11.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(60—80) to maximum Life"
+      ]
+    },
+    {
+      "name": "Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12a.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Fire Resistance"
+      ]
+    },
+    {
+      "name": "Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12b.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Cold Resistance"
+      ]
+    },
+    {
+      "name": "Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12c.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Slayer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 73, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pilgrim Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 25",
+        "Energy Shield: 16",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pelt Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "requirements": "Requires: Level 10, 12 Str, 12 Int",
+      "properties": [
+        "Armour: 59",
+        "Energy Shield: 24",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mail Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr03.webp",
+      "requirements": "Requires: Level 16, 17 Str, 17 Int",
+      "properties": [
+        "Armour: 83",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shaman Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 28, 26 Str, 26 Int",
+      "properties": [
+        "Armour: 129",
+        "Energy Shield: 41",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ironclad Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr05.webp",
+      "requirements": "Requires: Level 33, 31 Str, 31 Int",
+      "properties": [
+        "Armour: 149",
+        "Energy Shield: 46",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sacrificial Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 36, 33 Str, 33 Int",
+      "properties": [
+        "Armour: 160",
+        "Energy Shield: 48",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cleric Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr07.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 195",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tideseer Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr08.webp",
+      "requirements": "Requires: Level 51, 45 Str, 45 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gilded Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr09.webp",
+      "requirements": "Requires: Level 52, 46 Str, 46 Int",
+      "properties": [
+        "Armour: 222",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Venerated Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr10.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Int",
+      "properties": [
+        "Armour: 230",
+        "Energy Shield: 65",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Revered Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr11.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Corvus Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr12.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—30) to Spirit"
+      ]
+    },
+    {
+      "name": "Zenith Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr13.webp",
+      "requirements": "Requires: Level 73, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Ringmail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/Loreweave.webp",
+      "requirements": "Requires: Level 43, 45 Str, 45 Int",
+      "properties": [
+        "Armour: 749",
+        "Energy Shield: 220",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/Loreweave.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hermit Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 16",
+        "Energy Shield: 16",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Waxed Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 11, 13 Dex, 13 Int",
+      "properties": [
+        "Evasion Rating: 53",
+        "Energy Shield: 25",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Marabout Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt03.webp",
+      "requirements": "Requires: Level 16, 17 Dex, 17 Int",
+      "properties": [
+        "Evasion Rating: 71",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wayfarer Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 28, 26 Dex, 26 Int",
+      "properties": [
+        "Evasion Rating: 114",
+        "Energy Shield: 41",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Anchorite Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt05.webp",
+      "requirements": "Requires: Level 33, 31 Dex, 31 Int",
+      "properties": [
+        "Evasion Rating: 132",
+        "Energy Shield: 46",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scalper's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 39, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 154",
+        "Energy Shield: 51",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scoundrel Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt07.webp",
+      "requirements": "Requires: Level 45, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 176",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ascetic Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 51, 45 Dex, 45 Int",
+      "properties": [
+        "Evasion Rating: 197",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Clandestine Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt09.webp",
+      "requirements": "Requires: Level 52, 46 Dex, 46 Int",
+      "properties": [
+        "Evasion Rating: 201",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Monastic Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt10.webp",
+      "requirements": "Requires: Level 56, 50 Dex, 50 Int",
+      "properties": [
+        "Evasion Rating: 216",
+        "Energy Shield: 67",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Torment Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 65, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Devout Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 68, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "+(7—13)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Assassin Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 73, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Garment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Grand Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 182",
+        "Evasion Rating: 165",
+        "Energy Shield: 50",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 72 Str, 72 Dex, 72 Int",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems"
+      ]
+    },
+    {
+      "name": "Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 182",
+        "Evasion Rating: 165",
+        "Energy Shield: 50",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runeforged Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 61 Str, 61 Dex",
+      "properties": [
+        "Armour: 232",
+        "Evasion Rating: 211",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runeforged Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 61 Dex, 61 Int",
+      "properties": [
+        "Evasion Rating: 211",
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runeforged Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 61 Str, 61 Int",
+      "properties": [
+        "Armour: 232",
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runeforged Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 136",
+        "Evasion Rating: 124",
+        "Energy Shield: 38",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 215"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runemastered Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 112 Str",
+      "properties": [
+        "Armour: 421",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 150"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runemastered Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 112 Dex",
+      "properties": [
+        "Evasion Rating: 384",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 150"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runemastered Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 112 Int",
+      "properties": [
+        "Energy Shield: 117",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 150"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runemastered Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 136",
+        "Evasion Rating: 124",
+        "Energy Shield: 38",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 322"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Runefather's Grasping Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt03.webp",
+      "requirements": "Requires: Level 65, 57 Str, 57 Dex, 57 Int",
+      "properties": [
+        "Runic Ward: 550"
+      ],
+      "implicits": [
+        "Can roll Ring Modifiers",
+        "Catalysts can be applied to this item"
+      ]
+    },
+    {
+      "name": "Golden Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Barbarian Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr02.webp",
+      "requirements": "Requires: Level 45, 72 Str",
+      "properties": [
+        "Armour: 355",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rugged Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 48, 77 Str",
+      "properties": [
+        "Armour: 376",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sandsworn Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr05.webp",
+      "requirements": "Requires: Level 51, 82 Str",
+      "properties": [
+        "Armour: 397",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 54, 86 Str",
+      "properties": [
+        "Armour: 418",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heavy Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr07.webp",
+      "requirements": "Requires: Level 59, 94 Str",
+      "properties": [
+        "Armour: 453",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stone Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 62, 98 Str",
+      "properties": [
+        "Armour: 474",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Patchwork Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex02.webp",
+      "requirements": "Requires: Level 45, 72 Dex",
+      "properties": [
+        "Evasion Rating: 320",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hunting Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 48, 77 Dex",
+      "properties": [
+        "Evasion Rating: 339",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Riding Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex05.webp",
+      "requirements": "Requires: Level 51, 82 Dex",
+      "properties": [
+        "Evasion Rating: 359",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Layered Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 54, 86 Dex",
+      "properties": [
+        "Evasion Rating: 379",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runner Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex07.webp",
+      "requirements": "Requires: Level 59, 94 Dex",
+      "properties": [
+        "Evasion Rating: 412",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lizardscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 62, 98 Dex",
+      "properties": [
+        "Evasion Rating: 432",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Avian Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt02.webp",
+      "requirements": "Requires: Level 45, 72 Int",
+      "properties": [
+        "Energy Shield: 103",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cursespeaker's Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 48, 77 Int",
+      "properties": [
+        "Energy Shield: 109",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Luxurious Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt05.webp",
+      "requirements": "Requires: Level 51, 82 Int",
+      "properties": [
+        "Energy Shield: 114",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "River Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 54, 86 Int",
+      "properties": [
+        "Energy Shield: 119",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Adherent's Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt07.webp",
+      "requirements": "Requires: Level 59, 94 Int",
+      "properties": [
+        "Energy Shield: 127",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ceremonial Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 62, 98 Int",
+      "properties": [
+        "Energy Shield: 132",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ring Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 195",
+        "Evasion Rating: 176",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Scoundrel Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 48, 43 Str, 43 Dex",
+      "properties": [
+        "Armour: 207",
+        "Evasion Rating: 187",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wanderer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex03.webp",
+      "requirements": "Requires: Level 51, 45 Str, 45 Dex",
+      "properties": [
+        "Armour: 218",
+        "Evasion Rating: 197",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mantled Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Dex",
+      "properties": [
+        "Armour: 230",
+        "Evasion Rating: 208",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Trailblazer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex05.webp",
+      "requirements": "Requires: Level 59, 52 Str, 52 Dex",
+      "properties": [
+        "Armour: 249",
+        "Evasion Rating: 226",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Golden Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 62, 54 Str, 54 Dex",
+      "properties": [
+        "Armour: 261",
+        "Evasion Rating: 237",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Templar Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr01.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 195",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bearskin Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "requirements": "Requires: Level 48, 43 Str, 43 Int",
+      "properties": [
+        "Armour: 207",
+        "Energy Shield: 60",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Chain Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr03.webp",
+      "requirements": "Requires: Level 51, 45 Str, 45 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Occultist Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Int",
+      "properties": [
+        "Armour: 230",
+        "Energy Shield: 65",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Plated Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr05.webp",
+      "requirements": "Requires: Level 59, 52 Str, 52 Int",
+      "properties": [
+        "Armour: 249",
+        "Energy Shield: 70",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heartcarver Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 62, 54 Str, 54 Int",
+      "properties": [
+        "Armour: 261",
+        "Energy Shield: 73",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ascetic Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 45, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 176",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Oiled Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 48, 43 Dex, 43 Int",
+      "properties": [
+        "Evasion Rating: 187",
+        "Energy Shield: 60",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Evangelist Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt03.webp",
+      "requirements": "Requires: Level 51, 45 Dex, 45 Int",
+      "properties": [
+        "Evasion Rating: 197",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Itinerant Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 54, 48 Dex, 48 Int",
+      "properties": [
+        "Evasion Rating: 208",
+        "Energy Shield: 65",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hatungo Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt05.webp",
+      "requirements": "Requires: Level 59, 52 Dex, 52 Int",
+      "properties": [
+        "Evasion Rating: 226",
+        "Energy Shield: 70",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hawker's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 62, 54 Dex, 54 Int",
+      "properties": [
+        "Evasion Rating: 237",
+        "Energy Shield: 73",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Soldier Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 65, 121 Str",
+      "properties": [
+        "Armour: 570",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 70, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "Regenerate (1.5—2.5)% of maximum Life per second"
+      ]
+    },
+    {
+      "name": "Utzaal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 75, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "(30—40)% increased Stun Threshold"
+      ]
+    },
+    {
+      "name": "Warlord Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "requirements": "Requires: Level 80, 121 Str",
+      "properties": [
+        "Armour: 496",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "+(15—25)% of Armour also applies to Elemental Damage"
+      ]
+    },
+    {
+      "name": "Swiftstalker Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 65, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(20—30)% reduced Slowing Potency of Debuffs on You"
+      ]
+    },
+    {
+      "name": "Slipstrike Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 70, 121 Dex",
+      "properties": [
+        "Evasion Rating: 519",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wyrmscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 75, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(30—40)% increased Elemental Ailment Threshold"
+      ]
+    },
+    {
+      "name": "Corsair Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex10.webp",
+      "requirements": "Requires: Level 80, 121 Dex",
+      "properties": [
+        "Evasion Rating: 451",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Vile Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 65, 121 Int",
+      "properties": [
+        "Energy Shield: 171",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Flowing Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 70, 121 Int",
+      "properties": [
+        "Energy Shield: 153",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(40—50)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Sacramental Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 75, 121 Int",
+      "properties": [
+        "Energy Shield: 153",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(20—25)% increased Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Feathered Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt10.webp",
+      "requirements": "Requires: Level 80, 121 Int",
+      "properties": [
+        "Energy Shield: 153",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(5—10)% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Dastard Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 303",
+        "Evasion Rating: 276",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(60—80) to maximum Life"
+      ]
+    },
+    {
+      "name": "Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Fire Resistance"
+      ]
+    },
+    {
+      "name": "Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Cold Resistance"
+      ]
+    },
+    {
+      "name": "Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—25)% to Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Death Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 75, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 313",
+        "Evasion Rating: 285",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Thane Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "requirements": "Requires: Level 80, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "Hits against you have (15—25)% reduced Critical Damage Bonus"
+      ]
+    },
+    {
+      "name": "Wolfskin Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 313",
+        "Energy Shield: 87",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Conjurer Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+(20—30) to Spirit"
+      ]
+    },
+    {
+      "name": "Death Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 75, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Seastorm Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr08.webp",
+      "requirements": "Requires: Level 80, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.04"
+      ],
+      "implicits": [
+        "(8—14)% of Damage taken Recouped as Life"
+      ]
+    },
+    {
+      "name": "Sleek Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 65, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 285",
+        "Energy Shield: 87",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rambler Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 70, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "+(7—13)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Falconer's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 75, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Austere Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 80, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "(10—15)% reduced Elemental Ailment Duration on you"
+      ]
+    },
+    {
+      "name": "Primal Markings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 70, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 268",
+        "Energy Shield: 82",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rusted Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 45",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Fur Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr02.webp",
+      "requirements": "Requires: Level 4, 10 Str",
+      "properties": [
+        "Armour: 66",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 33"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Iron Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 11, 21 Str",
+      "properties": [
+        "Armour: 115",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Raider Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr04.webp",
+      "requirements": "Requires: Level 16, 28 Str",
+      "properties": [
+        "Armour: 150",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Maraketh Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr05.webp",
+      "requirements": "Requires: Level 20, 34 Str",
+      "properties": [
+        "Armour: 178",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 61"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Steel Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 27, 45 Str",
+      "properties": [
+        "Armour: 228",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 64"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Full Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr07.webp",
+      "requirements": "Requires: Level 33, 54 Str",
+      "properties": [
+        "Armour: 270",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vaal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 37, 60 Str",
+      "properties": [
+        "Armour: 298",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Juggernaut Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr09.webp",
+      "requirements": "Requires: Level 45, 72 Str",
+      "properties": [
+        "Armour: 355",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 76"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Chieftain Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "requirements": "Requires: Level 50, 80 Str",
+      "properties": [
+        "Armour: 390",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Colosseum Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 52, 83 Str",
+      "properties": [
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Champion Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 58, 92 Str",
+      "properties": [
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "+(750—1000) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runeforged Glorious Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 65, 121 Str",
+      "properties": [
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 430"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Conqueror Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 68, 121 Str",
+      "properties": [
+        "Armour: 595",
+        "Base Movement Speed: -0.05"
+      ],
+      "implicits": [
+        "(30—40)% increased Stun Threshold"
+      ]
+    },
+    {
+      "name": "Runeforged Abyssal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 73, 121 Str",
+      "properties": [
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "Regenerate (1.5—2.5)% of maximum Life per second"
+      ]
+    },
+    {
+      "name": "Runeforged Leather Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 30",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Quilted Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex02.webp",
+      "requirements": "Requires: Level 4, 10 Dex",
+      "properties": [
+        "Evasion Rating: 49",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 33"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pathfinder Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 11, 21 Dex",
+      "properties": [
+        "Evasion Rating: 96",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shrouded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex04.webp",
+      "requirements": "Requires: Level 16, 28 Dex",
+      "properties": [
+        "Evasion Rating: 128",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rhoahide Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex05.webp",
+      "requirements": "Requires: Level 22, 37 Dex",
+      "properties": [
+        "Evasion Rating: 168",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 65"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Studded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 26, 43 Dex",
+      "properties": [
+        "Evasion Rating: 194",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 62"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Scout's Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex07.webp",
+      "requirements": "Requires: Level 33, 54 Dex",
+      "properties": [
+        "Evasion Rating: 240",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Serpentscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 36, 59 Dex",
+      "properties": [
+        "Evasion Rating: 260",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Corsair Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex09.webp",
+      "requirements": "Requires: Level 45, 72 Dex",
+      "properties": [
+        "Evasion Rating: 320",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 76"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Smuggler Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex10.webp",
+      "requirements": "Requires: Level 51, 82 Dex",
+      "properties": [
+        "Evasion Rating: 359",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Strider Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 52, 83 Dex",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hardleather Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 56, 89 Dex",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 378"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Exquisite Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex13.webp",
+      "requirements": "Requires: Level 65, 85 Dex, 85 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Mail Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 68, 121 Dex",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "(20—30)% reduced Slowing Potency of Debuffs on You"
+      ]
+    },
+    {
+      "name": "Runeforged Armoured Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 73, 121 Dex",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "(30—40)% increased Elemental Ailment Threshold"
+      ]
+    },
+    {
+      "name": "Runeforged Tattered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 28",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Feathered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt02.webp",
+      "requirements": "Requires: Level 5, 11 Int",
+      "properties": [
+        "Energy Shield: 35",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hexer's Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 11, 21 Int",
+      "properties": [
+        "Energy Shield: 45",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bone Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt04.webp",
+      "requirements": "Requires: Level 16, 28 Int",
+      "properties": [
+        "Energy Shield: 54",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Silk Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt05.webp",
+      "requirements": "Requires: Level 22, 37 Int",
+      "properties": [
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 65"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Keth Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 28, 47 Int",
+      "properties": [
+        "Energy Shield: 74",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 66"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Votive Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt07.webp",
+      "requirements": "Requires: Level 33, 54 Int",
+      "properties": [
+        "Energy Shield: 83",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Altar Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 40, 65 Int",
+      "properties": [
+        "Energy Shield: 95",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elementalist Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt09.webp",
+      "requirements": "Requires: Level 45, 72 Int",
+      "properties": [
+        "Energy Shield: 103",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 76"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Mystic Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt10.webp",
+      "requirements": "Requires: Level 49, 78 Int",
+      "properties": [
+        "Energy Shield: 110",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Imperial Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt11.webp",
+      "requirements": "Requires: Level 52, 83 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Plated Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt12.webp",
+      "requirements": "Requires: Level 58, 92 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 390"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Havoc Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt13.webp",
+      "requirements": "Requires: Level 65, 121 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Enlightened Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 68, 121 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "(40—50)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Runeforged Arcane Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 73, 121 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "(20—25)% increased Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Runeforged Chain Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 25",
+        "Evasion Rating: 16",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rogue Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 11, 13 Str, 13 Dex",
+      "properties": [
+        "Armour: 63",
+        "Evasion Rating: 53",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vagabond Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex03.webp",
+      "requirements": "Requires: Level 16, 17 Str, 17 Dex",
+      "properties": [
+        "Armour: 83",
+        "Evasion Rating: 71",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cloaked Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 26, 25 Str, 25 Dex",
+      "properties": [
+        "Armour: 121",
+        "Evasion Rating: 107",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Explorer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex05.webp",
+      "requirements": "Requires: Level 33, 31 Str, 31 Dex",
+      "properties": [
+        "Armour: 149",
+        "Evasion Rating: 132",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Scale Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 37, 34 Str, 34 Dex",
+      "properties": [
+        "Armour: 164",
+        "Evasion Rating: 147",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 78"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Knight Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex07.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 195",
+        "Evasion Rating: 176",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ancestral Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "requirements": "Requires: Level 50, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 214",
+        "Evasion Rating: 194",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lamellar Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 52, 46 Str, 46 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gladiator Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 58, 51 Str, 51 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 390"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Heroic Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex11.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(60—80) to maximum Life"
+      ]
+    },
+    {
+      "name": "Runeforged Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12a.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(20—25)% to Fire Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12b.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(20—25)% to Cold Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Tournament Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex12c.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Dex",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(20—25)% to Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Slayer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 73, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 218",
+        "Evasion Rating: 199",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pilgrim Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 25",
+        "Energy Shield: 16",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pelt Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "requirements": "Requires: Level 10, 12 Str, 12 Int",
+      "properties": [
+        "Armour: 59",
+        "Energy Shield: 24",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Mail Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr03.webp",
+      "requirements": "Requires: Level 16, 17 Str, 17 Int",
+      "properties": [
+        "Armour: 83",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shaman Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 28, 26 Str, 26 Int",
+      "properties": [
+        "Armour: 129",
+        "Energy Shield: 41",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 77"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ironclad Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr05.webp",
+      "requirements": "Requires: Level 33, 31 Str, 31 Int",
+      "properties": [
+        "Armour: 149",
+        "Energy Shield: 46",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sacrificial Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 36, 33 Str, 33 Int",
+      "properties": [
+        "Armour: 160",
+        "Energy Shield: 48",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 77"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cleric Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr07.webp",
+      "requirements": "Requires: Level 45, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 195",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tideseer Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr08.webp",
+      "requirements": "Requires: Level 51, 45 Str, 45 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 87"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gilded Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr09.webp",
+      "requirements": "Requires: Level 52, 46 Str, 46 Int",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Venerated Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr10.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Int",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 367"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Revered Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr11.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Runeforged Corvus Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr12.webp",
+      "requirements": "Requires: Level 68, 67 Str, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(20—30) to Spirit"
+      ]
+    },
+    {
+      "name": "Runeforged Zenith Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr13.webp",
+      "requirements": "Requires: Level 73, 67 Str, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 430"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hermit Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 16",
+        "Energy Shield: 16",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Waxed Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 11, 13 Dex, 13 Int",
+      "properties": [
+        "Evasion Rating: 53",
+        "Energy Shield: 25",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Marabout Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt03.webp",
+      "requirements": "Requires: Level 16, 17 Dex, 17 Int",
+      "properties": [
+        "Evasion Rating: 71",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wayfarer Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 28, 26 Dex, 26 Int",
+      "properties": [
+        "Evasion Rating: 114",
+        "Energy Shield: 41",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 77"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Anchorite Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt05.webp",
+      "requirements": "Requires: Level 33, 31 Dex, 31 Int",
+      "properties": [
+        "Evasion Rating: 132",
+        "Energy Shield: 46",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Scalper's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 39, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 154",
+        "Energy Shield: 51",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 82"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Scoundrel Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt07.webp",
+      "requirements": "Requires: Level 45, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 176",
+        "Energy Shield: 57",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ascetic Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 51, 45 Dex, 45 Int",
+      "properties": [
+        "Evasion Rating: 197",
+        "Energy Shield: 63",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 87"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Clandestine Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt09.webp",
+      "requirements": "Requires: Level 52, 46 Dex, 46 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 356"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Monastic Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt10.webp",
+      "requirements": "Requires: Level 56, 50 Dex, 50 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 378"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Torment Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 65, 67 Dex, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Devout Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 68, 67 Dex, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "+(7—13)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Assassin Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 73, 67 Dex, 67 Int",
+      "properties": [
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 430"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runeforged Garment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Runic Ward: 100"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 182",
+        "Evasion Rating: 165",
+        "Energy Shield: 50",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 215"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 72 Str, 72 Dex, 72 Int",
+      "properties": [
+        "Armour: 200",
+        "Evasion Rating: 182",
+        "Energy Shield: 56",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 301"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems"
+      ]
+    },
+    {
+      "name": "Runeforged Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 80 Str, 80 Dex",
+      "properties": [
+        "Armour: 273",
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 129"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems",
+        "1% increased Maximum Life for each Corrupted Item Equipped"
+      ]
+    },
+    {
+      "name": "Runeforged Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 80 Dex, 80 Int",
+      "properties": [
+        "Evasion Rating: 248",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 129"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems",
+        "+1% to all Resistances for each Corrupted Item Equipped"
+      ]
+    },
+    {
+      "name": "Runeforged Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 80 Str, 80 Int",
+      "properties": [
+        "Armour: 273",
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 129"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems",
+        "(2—4)% increased Chaos Damage for each Corrupted Item Equipped"
+      ]
+    },
+    {
+      "name": "Runeforged Elegant Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 54, 86 Str",
+      "properties": [
+        "Armour: 397",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Heavy Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr07.webp",
+      "requirements": "Requires: Level 59, 94 Str",
+      "properties": [
+        "Armour: 340",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 158"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Stone Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 62, 98 Str",
+      "properties": [
+        "Armour: 403",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 103"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Layered Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 54, 86 Dex",
+      "properties": [
+        "Evasion Rating: 360",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Runner Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex07.webp",
+      "requirements": "Requires: Level 59, 94 Dex",
+      "properties": [
+        "Evasion Rating: 350",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 119"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lizardscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 62, 98 Dex",
+      "properties": [
+        "Evasion Rating: 324",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 144"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged River Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 54, 86 Int",
+      "properties": [
+        "Energy Shield: 113",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Adherent's Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt07.webp",
+      "requirements": "Requires: Level 59, 94 Int",
+      "properties": [
+        "Energy Shield: 102",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 138"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ceremonial Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 62, 98 Int",
+      "properties": [
+        "Energy Shield: 113",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 103"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Mantled Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Dex",
+      "properties": [
+        "Armour: 218",
+        "Evasion Rating: 198",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Trailblazer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex05.webp",
+      "requirements": "Requires: Level 59, 52 Str, 52 Dex",
+      "properties": [
+        "Armour: 187",
+        "Evasion Rating: 170",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 158"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Golden Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 62, 54 Str, 54 Dex",
+      "properties": [
+        "Armour: 235",
+        "Evasion Rating: 214",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 124"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Occultist Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 54, 48 Str, 48 Int",
+      "properties": [
+        "Armour: 184",
+        "Energy Shield: 52",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 128"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Plated Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr05.webp",
+      "requirements": "Requires: Level 59, 52 Str, 52 Int",
+      "properties": [
+        "Armour: 187",
+        "Energy Shield: 53",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 158"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Heartcarver Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 62, 54 Str, 54 Int",
+      "properties": [
+        "Armour: 222",
+        "Energy Shield: 62",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 103"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Itinerant Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 54, 48 Dex, 48 Int",
+      "properties": [
+        "Evasion Rating: 188",
+        "Energy Shield: 59",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 92"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hatungo Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt05.webp",
+      "requirements": "Requires: Level 59, 52 Dex, 52 Int",
+      "properties": [
+        "Evasion Rating: 170",
+        "Energy Shield: 53",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 158"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hawker's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 62, 54 Dex, 54 Int",
+      "properties": [
+        "Evasion Rating: 202",
+        "Energy Shield: 62",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 103"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Primal Markings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 70, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 236",
+        "Energy Shield: 72",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Soldier Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 65, 121 Str",
+      "properties": [
+        "Armour: 173",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 365"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ornate Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 70, 121 Str",
+      "properties": [
+        "Armour: 273",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 236"
+      ],
+      "implicits": [
+        "Regenerate (1.5—2.5)% of maximum Life per second"
+      ]
+    },
+    {
+      "name": "Runeforged Utzaal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 75, 121 Str",
+      "properties": [
+        "Armour: 421",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "(30—40)% increased Stun Threshold"
+      ]
+    },
+    {
+      "name": "Runeforged Warlord Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "requirements": "Requires: Level 80, 121 Str",
+      "properties": [
+        "Armour: 446",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "+(15—25)% of Armour also applies to Elemental Damage"
+      ]
+    },
+    {
+      "name": "Runeforged Swiftstalker Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 65, 121 Dex",
+      "properties": [
+        "Evasion Rating: 429",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 64"
+      ],
+      "implicits": [
+        "(20—30)% reduced Slowing Potency of Debuffs on You"
+      ]
+    },
+    {
+      "name": "Runeforged Slipstrike Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 70, 121 Dex",
+      "properties": [
+        "Evasion Rating: 144",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 378"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wyrmscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 75, 121 Dex",
+      "properties": [
+        "Evasion Rating: 248",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 236"
+      ],
+      "implicits": [
+        "(30—40)% increased Elemental Ailment Threshold"
+      ]
+    },
+    {
+      "name": "Runeforged Corsair Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex10.webp",
+      "requirements": "Requires: Level 80, 121 Dex",
+      "properties": [
+        "Evasion Rating: 384",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runeforged Vile Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 65, 121 Int",
+      "properties": [
+        "Energy Shield: 41",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 387"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Flowing Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 70, 121 Int",
+      "properties": [
+        "Energy Shield: 76",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 236"
+      ],
+      "implicits": [
+        "(30—40)% increased Runic Ward Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Runeforged Sacramental Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 75, 121 Int",
+      "properties": [
+        "Energy Shield: 138",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 64"
+      ],
+      "implicits": [
+        "(20—25)% increased Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Runeforged Feathered Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt10.webp",
+      "requirements": "Requires: Level 80, 121 Int",
+      "properties": [
+        "Energy Shield: 124",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 133"
+      ],
+      "implicits": [
+        "(5—10)% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Runeforged Dastard Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 150",
+        "Evasion Rating: 137",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 236"
+      ],
+      "implicits": [
+        "+(60—80) to maximum Life"
+      ]
+    },
+    {
+      "name": "Runeforged Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 232",
+        "Evasion Rating: 211",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "+(20—25)% to Fire Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 232",
+        "Evasion Rating: 211",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "+(20—25)% to Cold Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Shrouded Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 232",
+        "Evasion Rating: 211",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "+(20—25)% to Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Death Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 75, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 68",
+        "Evasion Rating: 62",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 408"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Thane Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "requirements": "Requires: Level 80, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 259",
+        "Evasion Rating: 236",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 64"
+      ],
+      "implicits": [
+        "Hits against you have (15—25)% reduced Critical Damage Bonus"
+      ]
+    },
+    {
+      "name": "Runeforged Wolfskin Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 63",
+        "Energy Shield: 17",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 417"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Conjurer Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 232",
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "+(20—30) to Spirit"
+      ]
+    },
+    {
+      "name": "Runeforged Death Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 75, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 164",
+        "Energy Shield: 45",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 215"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Runeforged Seastorm Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr08.webp",
+      "requirements": "Requires: Level 80, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 68",
+        "Energy Shield: 19",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 344"
+      ],
+      "implicits": [
+        "(8—14)% of Damage taken Recouped as Life"
+      ]
+    },
+    {
+      "name": "Runeforged Sleek Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 65, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 69",
+        "Energy Shield: 21",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 395"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rambler Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 70, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 211",
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 107"
+      ],
+      "implicits": [
+        "+(7—13)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Runeforged Falconer's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 75, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 164",
+        "Energy Shield: 50",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 189"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runeforged Austere Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 80, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 236",
+        "Energy Shield: 72",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "(10—15)% reduced Elemental Ailment Duration on you"
+      ]
+    },
+    {
+      "name": "Runeforged Fur Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr02.webp",
+      "requirements": "Requires: Level 38, 61 Str",
+      "properties": [
+        "Armour: 275",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Rusted Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 38, 61 Str",
+      "properties": [
+        "Armour: 244",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 110"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Iron Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr03.webp",
+      "requirements": "Requires: Level 38, 61 Str",
+      "properties": [
+        "Armour: 260",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Raider Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr04.webp",
+      "requirements": "Requires: Level 38, 61 Str",
+      "properties": [
+        "Armour: 61",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 221"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Maraketh Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr05.webp",
+      "requirements": "Requires: Level 38, 61 Str",
+      "properties": [
+        "Armour: 275",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Steel Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr06.webp",
+      "requirements": "Requires: Level 40, 65 Str",
+      "properties": [
+        "Armour: 271",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Full Plate",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr07.webp",
+      "requirements": "Requires: Level 45, 72 Str",
+      "properties": [
+        "Armour: 231",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 126"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Vaal Cuirass",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr08.webp",
+      "requirements": "Requires: Level 55, 87 Str",
+      "properties": [
+        "Armour: 340",
+        "Base Movement Speed: -0.05",
+        "Runic Ward: 93"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Leather Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 38, 61 Dex",
+      "properties": [
+        "Evasion Rating: 82",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 165"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Quilted Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex02.webp",
+      "requirements": "Requires: Level 38, 61 Dex",
+      "properties": [
+        "Evasion Rating: 178",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 152"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Pathfinder Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex03.webp",
+      "requirements": "Requires: Level 38, 61 Dex",
+      "properties": [
+        "Evasion Rating: 219",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Shrouded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex04.webp",
+      "requirements": "Requires: Level 38, 61 Dex",
+      "properties": [
+        "Evasion Rating: 164",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 138"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Rhoahide Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex05.webp",
+      "requirements": "Requires: Level 38, 61 Dex",
+      "properties": [
+        "Evasion Rating: 219",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Studded Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex06.webp",
+      "requirements": "Requires: Level 40, 65 Dex",
+      "properties": [
+        "Evasion Rating: 301",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Scout's Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex07.webp",
+      "requirements": "Requires: Level 55, 87 Dex",
+      "properties": [
+        "Evasion Rating: 270",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 130"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Serpentscale Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex08.webp",
+      "requirements": "Requires: Level 55, 87 Dex",
+      "properties": [
+        "Evasion Rating: 385",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Smuggler Coat",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex10.webp",
+      "requirements": "Requires: Level 65, 103 Dex",
+      "properties": [
+        "Evasion Rating: 406",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Strider Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 70, 103 Dex",
+      "properties": [
+        "Evasion Rating: 384",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 107"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Exquisite Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex13.webp",
+      "requirements": "Requires: Level 70, 121 Dex",
+      "properties": [
+        "Evasion Rating: 338",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Armoured Vest",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDex01.webp",
+      "requirements": "Requires: Level 80, 121 Dex",
+      "properties": [
+        "Evasion Rating: 361",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 129"
+      ],
+      "implicits": [
+        "(30—40)% increased Elemental Ailment Threshold"
+      ]
+    },
+    {
+      "name": "Runemastered Tattered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 9",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 138"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Feathered Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt02.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 55",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Hexer's Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt03.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 83"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Bone Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt04.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 46",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 138"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Silk Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt05.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 27",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 110"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Keth Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt06.webp",
+      "requirements": "Requires: Level 38, 61 Int",
+      "properties": [
+        "Energy Shield: 73",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Votive Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt07.webp",
+      "requirements": "Requires: Level 55, 87 Int",
+      "properties": [
+        "Energy Shield: 48",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 186"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Altar Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt08.webp",
+      "requirements": "Requires: Level 55, 87 Int",
+      "properties": [
+        "Energy Shield: 72",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 149"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Elementalist Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt09.webp",
+      "requirements": "Requires: Level 55, 87 Int",
+      "properties": [
+        "Energy Shield: 96",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Plated Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt12.webp",
+      "requirements": "Requires: Level 65, 103 Int",
+      "properties": [
+        "Energy Shield: 124",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Havoc Raiment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt13.webp",
+      "requirements": "Requires: Level 70, 121 Int",
+      "properties": [
+        "Energy Shield: 96",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 129"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Enlightened Robe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyInt01.webp",
+      "requirements": "Requires: Level 75, 121 Int",
+      "properties": [
+        "Energy Shield: 124",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "(40—50)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Runemastered Chain Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex01.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Dex",
+      "properties": [
+        "Armour: 151",
+        "Evasion Rating: 135",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Rogue Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Dex",
+      "properties": [
+        "Armour: 118",
+        "Evasion Rating: 105",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 83"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Vagabond Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex03.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Dex",
+      "properties": [
+        "Armour: 143",
+        "Evasion Rating: 128",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Cloaked Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex04.webp",
+      "requirements": "Requires: Level 40, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 114",
+        "Evasion Rating: 102",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 115"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Explorer Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex05.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Dex",
+      "properties": [
+        "Armour: 199",
+        "Evasion Rating: 180",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Scale Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex06.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Dex",
+      "properties": [
+        "Armour: 187",
+        "Evasion Rating: 170",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Knight Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex07.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Dex",
+      "properties": [
+        "Armour: 175",
+        "Evasion Rating: 159",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 93"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Ancestral Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "requirements": "Requires: Level 65, 57 Str, 57 Dex",
+      "properties": [
+        "Armour: 191",
+        "Evasion Rating: 174",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 107"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Heroic Armour",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex11.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Armour: 136",
+        "Evasion Rating: 124",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 215"
+      ],
+      "implicits": [
+        "+(60—80) to maximum Life"
+      ]
+    },
+    {
+      "name": "Runemastered Pilgrim Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr01.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Int",
+      "properties": [
+        "Armour: 202",
+        "Energy Shield: 60",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Mail Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr03.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Int",
+      "properties": [
+        "Armour: 118",
+        "Energy Shield: 35",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 83"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Shaman Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr04.webp",
+      "requirements": "Requires: Level 38, 35 Str, 35 Int",
+      "properties": [
+        "Armour: 141",
+        "Energy Shield: 42",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 44"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Ironclad Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr05.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Int",
+      "properties": [
+        "Armour: 210",
+        "Energy Shield: 60",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Sacrificial Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr06.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Int",
+      "properties": [
+        "Armour: 210",
+        "Energy Shield: 60",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Cleric Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr07.webp",
+      "requirements": "Requires: Level 55, 49 Str, 49 Int",
+      "properties": [
+        "Armour: 187",
+        "Energy Shield: 53",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tideseer Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr08.webp",
+      "requirements": "Requires: Level 65, 57 Str, 57 Int",
+      "properties": [
+        "Armour: 55",
+        "Energy Shield: 15",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 129"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Gilded Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr09.webp",
+      "requirements": "Requires: Level 65, 57 Str, 57 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 61",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Revered Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr11.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 232",
+        "Energy Shield: 64",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances",
+        "(30—50)% increased effect of Arcane Surge on you"
+      ]
+    },
+    {
+      "name": "Runemastered Revered Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr11.webp",
+      "requirements": "Requires: Level 70, 57 Str, 85 Int",
+      "properties": [
+        "Armour: 199",
+        "Energy Shield: 88",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances",
+        "(10—15)% increased Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Runemastered Revered Vestments",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr11.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 164",
+        "Energy Shield: 45",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 301"
+      ],
+      "implicits": [
+        "+1% to all Maximum Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Runemastered Corvus Mantle",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr12.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 61",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": [
+        "+(20—30) to Spirit"
+      ]
+    },
+    {
+      "name": "Runemastered Ornate Ringmail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/Loreweave.webp",
+      "requirements": "Requires: Level 55, 57 Str, 57 Int",
+      "properties": [
+        "Armour: 725",
+        "Energy Shield: 206",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 130"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Ancient Mail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Uniques/Loreweave.webp",
+      "requirements": "Requires: Level 70, 67 Str, 67 Int",
+      "properties": [
+        "Armour: 218",
+        "Energy Shield: 61",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Hermit Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 38, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 135",
+        "Energy Shield: 45",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Waxed Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt02.webp",
+      "requirements": "Requires: Level 38, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 113",
+        "Energy Shield: 38",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 69"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Marabout Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt03.webp",
+      "requirements": "Requires: Level 38, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 90",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 110"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Wayfarer Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt04.webp",
+      "requirements": "Requires: Level 40, 36 Dex, 36 Int",
+      "properties": [
+        "Evasion Rating: 134",
+        "Energy Shield: 44",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Anchorite Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt05.webp",
+      "requirements": "Requires: Level 55, 49 Dex, 49 Int",
+      "properties": [
+        "Evasion Rating: 138",
+        "Energy Shield: 43",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 130"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Scalper's Jacket",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt06.webp",
+      "requirements": "Requires: Level 55, 49 Dex, 49 Int",
+      "properties": [
+        "Evasion Rating: 170",
+        "Energy Shield: 53",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Assassin Garb",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt01.webp",
+      "requirements": "Requires: Level 73, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 223",
+        "Energy Shield: 68",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 43"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Garment",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 38",
+      "properties": [
+        "Runic Ward: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Grand Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr01.webp",
+      "requirements": "Requires: Level 65, 41 Str, 41 Dex, 41 Int",
+      "properties": [
+        "Armour: 145",
+        "Evasion Rating: 132",
+        "Energy Shield: 40",
+        "Base Movement Speed: -0.04",
+        "Runic Ward: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Sacrificial Regalia",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDexInt02.webp",
+      "requirements": "Requires: Level 65, 72 Str, 72 Dex, 72 Int",
+      "properties": [
+        "Armour: 136",
+        "Evasion Rating: 124",
+        "Energy Shield: 38",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 215"
+      ],
+      "implicits": [
+        "+1 to Level of all Corrupted Skill Gems"
+      ]
+    },
+    {
+      "name": "Runemastered Primal Markings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/BodyArmours/Basetypes/BodyDexInt08.webp",
+      "requirements": "Requires: Level 80, 67 Dex, 67 Int",
+      "properties": [
+        "Evasion Rating: 223",
+        "Energy Shield: 68",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 107"
+      ],
+      "implicits": []
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "One Hand Maces",
+  "items": [
+    {
+      "name": "Wooden Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 6-10",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Smithing Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace02.webp",
+      "requirements": "Requires: Level 4, 11 Str",
+      "properties": [
+        "Physical Damage: 5.5-9",
+        "Fire Damage: 5.5-9",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [50]"
+      ]
+    },
+    {
+      "name": "Slim Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace03.webp",
+      "requirements": "Requires: Level 10, 21 Str",
+      "properties": [
+        "Physical Damage: 11-17",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spiked Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace04.webp",
+      "requirements": "Requires: Level 16, 31 Str",
+      "properties": [
+        "Physical Damage: 15-24",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warpick",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace05.webp",
+      "requirements": "Requires: Level 22, 41 Str",
+      "properties": [
+        "Physical Damage: 18-24",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "+(5—10)% to Critical Damage Bonus"
+      ]
+    },
+    {
+      "name": "Plated Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace06.webp",
+      "requirements": "Requires: Level 26, 48 Str",
+      "properties": [
+        "Physical Damage: 18-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Brigand Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace07.webp",
+      "requirements": "Requires: Level 33, 60 Str",
+      "properties": [
+        "Physical Damage: 28-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Construct Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace08.webp",
+      "requirements": "Requires: Level 36, 65 Str",
+      "properties": [
+        "Physical Damage: 31-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "40% chance to Daze on Hit"
+      ]
+    },
+    {
+      "name": "Morning Star",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace09.webp",
+      "requirements": "Requires: Level 45, 80 Str",
+      "properties": [
+        "Physical Damage: 33-49",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jade Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace10.webp",
+      "requirements": "Requires: Level 49, 87 Str",
+      "properties": [
+        "Physical Damage: 31-51",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Always Hits"
+      ]
+    },
+    {
+      "name": "Lumen Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 52, 92 Str",
+      "properties": [
+        "Physical Damage: 36-60",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Execratus Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 40-60",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 44-73",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Cold Damage: 44-209",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "100% of Lightning Damage Converted to Cold Damage",
+        "local weapon implicit hidden % base damage is cold [100]"
+      ]
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 44-73",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Skills Gain (4—6)% of damage as Extra Lightning damage per 50 Runic Ward Cost"
+      ]
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 44-73",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "+(1.5—2) metres to Melee Strike Range"
+      ]
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Lightning Damage: 85-403",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "(40—60)% increased Lightning Damage",
+        "local weapon implicit hidden % base damage is lightning [100]"
+      ]
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 44-73",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "(50—100)% chance for Lightning Skills to Chain an additional time"
+      ]
+    },
+    {
+      "name": "Runemastered Torment Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65, 124 Str",
+      "properties": [
+        "Physical Damage: 54-91",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Kalguuran Forgehammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 47",
+      "properties": [
+        "Physical Damage: 33-55",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has 3 Sockets"
+      ]
+    },
+    {
+      "name": "Calescent Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace02.webp",
+      "requirements": "Requires: Level 45, 80 Str",
+      "properties": [
+        "Physical Damage: 22-37",
+        "Fire Damage: 22-37",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [50]"
+      ]
+    },
+    {
+      "name": "Flared Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace03.webp",
+      "requirements": "Requires: Level 48, 86 Str",
+      "properties": [
+        "Physical Damage: 33-50",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Battle Pick",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace05.webp",
+      "requirements": "Requires: Level 51, 91 Str",
+      "properties": [
+        "Physical Damage: 35-47",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "+(5—10)% to Critical Damage Bonus"
+      ]
+    },
+    {
+      "name": "Marching Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace06.webp",
+      "requirements": "Requires: Level 54, 96 Str",
+      "properties": [
+        "Physical Damage: 33-69",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Marching Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace06.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 46-96",
+        "Critical Hit Chance: 7.5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bandit Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace07.webp",
+      "requirements": "Requires: Level 59, 104 Str",
+      "properties": [
+        "Physical Damage: 45-61",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Structured Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace08.webp",
+      "requirements": "Requires: Level 62, 109 Str",
+      "properties": [
+        "Physical Damage: 49-60",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "40% chance to Daze on Hit"
+      ]
+    },
+    {
+      "name": "Runeforged Wooden Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 83-138",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "(20—30)% increased Area of Effect for Attacks"
+      ]
+    },
+    {
+      "name": "Runemastered Wooden Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 132-220",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "(20—30)% increased Area of Effect for Attacks"
+      ]
+    },
+    {
+      "name": "Runeforged Slim Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace03.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 48-72.5",
+        "Cold Damage: 48-72.5",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [50]"
+      ]
+    },
+    {
+      "name": "Runeforged Spiked Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace04.webp",
+      "requirements": "Requires: Level 40, 72 Str",
+      "properties": [
+        "Physical Damage: 56-93",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Warpick",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace05.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 75-102",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "(30—40)% increased effect of Fully Broken Armour"
+      ]
+    },
+    {
+      "name": "Runeforged Kalguuran Forgehammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [
+        "Physical Damage: 59-99",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.75",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has 3 Sockets"
+      ]
+    },
+    {
+      "name": "Runeforged Kalguuran Forgehammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [
+        "Physical Damage: 98-163",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has 3 Sockets"
+      ]
+    },
+    {
+      "name": "Runeforged Kalguuran Forgehammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [
+        "Physical Damage: 59-99",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has 3 Sockets"
+      ]
+    },
+    {
+      "name": "Runeforged Kalguuran Forgehammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace01.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [
+        "Physical Damage: 59-99",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has 3 Sockets",
+        "+(100—150) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runeforged Morning Star",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace09.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Fire Damage: 90-134",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [100]"
+      ]
+    },
+    {
+      "name": "Flanged Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace03.webp",
+      "requirements": "Requires: Level 67, 134 Str",
+      "properties": [
+        "Physical Damage: 45-67",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crown Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace06.webp",
+      "requirements": "Requires: Level 72, 149 Str",
+      "properties": [
+        "Physical Damage: 43-89",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Molten Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace02.webp",
+      "requirements": "Requires: Level 77, 163 Str",
+      "properties": [
+        "Physical Damage: 35.5-59",
+        "Fire Damage: 35.5-59",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [50]"
+      ]
+    },
+    {
+      "name": "Strife Pick",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace05.webp",
+      "requirements": "Requires: Level 78, 163 Str",
+      "properties": [
+        "Physical Damage: 49-66",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "+(5—10)% to Critical Damage Bonus"
+      ]
+    },
+    {
+      "name": "Fortified Hammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace08.webp",
+      "requirements": "Requires: Level 79, 163 Str",
+      "properties": [
+        "Physical Damage: 60-73",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "40% chance to Daze on Hit"
+      ]
+    },
+    {
+      "name": "Marauding Mace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace07.webp",
+      "requirements": "Requires: Level 77, 163 Str",
+      "properties": [
+        "Physical Damage: 51-84",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Akoyan Club",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Basetypes/1HMace10.webp",
+      "requirements": "Requires: Level 78, 163 Str",
+      "properties": [
+        "Physical Damage: 46-76",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Always Hits"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "category": "Flasks",
+  "item_class": "Life Flasks",
+  "items": [
+    {
+      "name": "Lesser Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife01.webp",
+      "requirements": "",
+      "properties": [
+        "Recovers 50 Life over 3 Second",
+        "Consumes 10 of 60 Charges on use",
+        "Currently has 60 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Medium Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife02.webp",
+      "requirements": "Requires: Level 4",
+      "properties": [
+        "Recovers 90 Life over 5 Second",
+        "Consumes 10 of 65 Charges on use",
+        "Currently has 65 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Greater Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife03.webp",
+      "requirements": "Requires: Level 10",
+      "properties": [
+        "Recovers 150 Life over 4 Second",
+        "Consumes 10 of 70 Charges on use",
+        "Currently has 70 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife04.webp",
+      "requirements": "Requires: Level 16",
+      "properties": [
+        "Recovers 260 Life over 5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Giant Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife05.webp",
+      "requirements": "Requires: Level 23",
+      "properties": [
+        "Recovers 340 Life over 4 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Colossal Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife06.webp",
+      "requirements": "Requires: Level 30",
+      "properties": [
+        "Recovers 450 Life over 4 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gargantuan Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife07.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [
+        "Recovers 710 Life over 5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Transcendent Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [
+        "Recovers 840 Life over 4 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ultimate Life Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+      "requirements": "Requires: Level 60",
+      "properties": [
+        "Recovers 920 Life over 3 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    }
+  ]
+}

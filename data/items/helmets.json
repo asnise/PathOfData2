@@ -1,0 +1,2618 @@
+{
+  "category": "Armour",
+  "item_class": "Helmets",
+  "items": [
+    {
+      "name": "Golden Wreath",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Demigodstriumph.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(16—24) to all Attributes"
+      ]
+    },
+    {
+      "name": "Golden Visage",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/DemigodsImmortality.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(8—16)% to all Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Rusted Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Soldier Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 12, 19 Str",
+      "properties": [
+        "Armour: 80"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wrapped Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr03.webp",
+      "requirements": "Requires: Level 16, 25 Str",
+      "properties": [
+        "Armour: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spired Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 27, 40 Str",
+      "properties": [
+        "Armour: 149"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elite Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 33, 48 Str",
+      "properties": [
+        "Armour: 177"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warrior Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr06.webp",
+      "requirements": "Requires: Level 36, 52 Str",
+      "properties": [
+        "Armour: 191"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Commander Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Armour: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fierce Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr08.webp",
+      "requirements": "Requires: Level 51, 73 Str",
+      "properties": [
+        "Armour: 260"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sentinel Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr09.webp",
+      "requirements": "Requires: Level 52, 74 Str",
+      "properties": [
+        "Armour: 265"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Goliath Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr10.webp",
+      "requirements": "Requires: Level 57, 81 Str",
+      "properties": [
+        "Armour: 288"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Guardian Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr11.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Armour: 325"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shabby Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Felt Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 10, 17 Dex",
+      "properties": [
+        "Evasion Rating: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lace Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex03.webp",
+      "requirements": "Requires: Level 16, 25 Dex",
+      "properties": [
+        "Evasion Rating: 84"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Swathed Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 26, 38 Dex",
+      "properties": [
+        "Evasion Rating: 127"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hunter Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 33, 48 Dex",
+      "properties": [
+        "Evasion Rating: 158"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Viper Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex06.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Evasion Rating: 179"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Corsair Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex07.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Evasion Rating: 210"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Leatherbound Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex08.webp",
+      "requirements": "Requires: Level 50, 71 Dex",
+      "properties": [
+        "Evasion Rating: 231"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Velvet Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex09.webp",
+      "requirements": "Requires: Level 52, 74 Dex",
+      "properties": [
+        "Evasion Rating: 240"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Covert Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex10.webp",
+      "requirements": "Requires: Level 56, 79 Dex",
+      "properties": [
+        "Evasion Rating: 257"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Armoured Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 296"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Twig Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wicker Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 10, 17 Int",
+      "properties": [
+        "Energy Shield: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Beaded Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt03.webp",
+      "requirements": "Requires: Level 16, 25 Int",
+      "properties": [
+        "Energy Shield: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Chain Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 26, 38 Int",
+      "properties": [
+        "Energy Shield: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Feathered Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 33, 48 Int",
+      "properties": [
+        "Energy Shield: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gold Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt06.webp",
+      "requirements": "Requires: Level 40, 58 Int",
+      "properties": [
+        "Energy Shield: 62"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vermeil Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt07.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jade Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt08.webp",
+      "requirements": "Requires: Level 50, 71 Int",
+      "properties": [
+        "Energy Shield: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Noble Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "Requires: Level 52, 74 Int",
+      "properties": [
+        "Energy Shield: 76"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Twilight Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt10.webp",
+      "requirements": "Requires: Level 58, 82 Int",
+      "properties": [
+        "Energy Shield: 82"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Magus Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt11.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 90"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Brimmed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Dex",
+      "properties": [
+        "Armour: 26",
+        "Evasion Rating: 20"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Guarded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 11, 11 Str, 11 Dex",
+      "properties": [
+        "Armour: 42",
+        "Evasion Rating: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Visored Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Dex",
+      "properties": [
+        "Armour: 54",
+        "Evasion Rating: 46"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cowled Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 26, 22 Str, 22 Dex",
+      "properties": [
+        "Armour: 80",
+        "Evasion Rating: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shielded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Dex",
+      "properties": [
+        "Armour: 97",
+        "Evasion Rating: 87"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Closed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex06.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 128",
+        "Evasion Rating: 115"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Decorated Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex07.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 146",
+        "Evasion Rating: 132"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gallant Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex08.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Armour: 179",
+        "Evasion Rating: 163"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Visor",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex08.webp",
+      "requirements": "Requires: Level 65, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 179",
+        "Evasion Rating: 163"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Iron Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Int",
+      "properties": [
+        "Armour: 26",
+        "Energy Shield: 13"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Horned Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 10, 10 Str, 10 Int",
+      "properties": [
+        "Armour: 39",
+        "Energy Shield: 16"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cultist Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Int",
+      "properties": [
+        "Armour: 54",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Martyr Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 28, 23 Str, 23 Int",
+      "properties": [
+        "Armour: 85",
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heavy Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Int",
+      "properties": [
+        "Armour: 97",
+        "Energy Shield: 30"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spiritbone Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Armour: 128",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lavish Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr07.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 146",
+        "Energy Shield: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Archon Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr08.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 179",
+        "Energy Shield: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tenebrous Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr08.webp",
+      "requirements": "Requires: Level 65, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 179",
+        "Energy Shield: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hewn Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt01.webp",
+      "requirements": "Requires: Level 5, 7 Dex, 7 Int",
+      "properties": [
+        "Evasion Rating: 20",
+        "Energy Shield: 13"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Face Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 10, 10 Dex, 10 Int",
+      "properties": [
+        "Evasion Rating: 32",
+        "Energy Shield: 16"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hooded Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt03.webp",
+      "requirements": "Requires: Level 16, 15 Dex, 15 Int",
+      "properties": [
+        "Evasion Rating: 46",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Veiled Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 28, 23 Dex, 23 Int",
+      "properties": [
+        "Evasion Rating: 75",
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tribal Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 33, 27 Dex, 27 Int",
+      "properties": [
+        "Evasion Rating: 87",
+        "Energy Shield: 30"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Solid Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt06.webp",
+      "requirements": "Requires: Level 45, 36 Dex, 36 Int",
+      "properties": [
+        "Evasion Rating: 115",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shaded Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt07.webp",
+      "requirements": "Requires: Level 52, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 132",
+        "Energy Shield: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Death Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt08.webp",
+      "requirements": "Requires: Level 65, 50 Dex, 50 Int",
+      "properties": [
+        "Evasion Rating: 163",
+        "Energy Shield: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Visage",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "Requires: Level 65, 36 Str, 36 Dex, 36 Int",
+      "properties": [
+        "Armour: 119",
+        "Evasion Rating: 109",
+        "Energy Shield: 33"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Golden Visage",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Corroded Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Armour: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mercenary Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 48, 69 Str",
+      "properties": [
+        "Armour: 246"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Homeguard Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr03.webp",
+      "requirements": "Requires: Level 51, 73 Str",
+      "properties": [
+        "Armour: 260"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 54, 77 Str",
+      "properties": [
+        "Armour: 274"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Noble Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 59, 83 Str",
+      "properties": [
+        "Armour: 297"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rotted Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Evasion Rating: 210"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wool Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 48, 69 Dex",
+      "properties": [
+        "Evasion Rating: 222"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Narrow Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex03.webp",
+      "requirements": "Requires: Level 51, 73 Dex",
+      "properties": [
+        "Evasion Rating: 235"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wrapped Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 54, 77 Dex",
+      "properties": [
+        "Evasion Rating: 248"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Deerstalker Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 59, 83 Dex",
+      "properties": [
+        "Evasion Rating: 270"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Druidic Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Avian Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 48, 69 Int",
+      "properties": [
+        "Energy Shield: 71"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Desert Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt03.webp",
+      "requirements": "Requires: Level 51, 73 Int",
+      "properties": [
+        "Energy Shield: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sandsworn Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 54, 77 Int",
+      "properties": [
+        "Energy Shield: 78"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jungle Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 59, 83 Int",
+      "properties": [
+        "Energy Shield: 84"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Domed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex01.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 128",
+        "Evasion Rating: 115"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Engraved Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 48, 38 Str, 38 Dex",
+      "properties": [
+        "Armour: 136",
+        "Evasion Rating: 122"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Soldier Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex03.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Dex",
+      "properties": [
+        "Armour: 143",
+        "Evasion Rating: 129"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cabalist Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Dex",
+      "properties": [
+        "Armour: 151",
+        "Evasion Rating: 137"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cassis Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Dex",
+      "properties": [
+        "Armour: 163",
+        "Evasion Rating: 149"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mailed Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr01.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Armour: 128",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Forest Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 48, 38 Str, 38 Int",
+      "properties": [
+        "Armour: 136",
+        "Energy Shield: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Zealot Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr03.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Int",
+      "properties": [
+        "Armour: 143",
+        "Energy Shield: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hallowed Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Int",
+      "properties": [
+        "Armour: 151",
+        "Energy Shield: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Inquisitor Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Int",
+      "properties": [
+        "Armour: 163",
+        "Energy Shield: 46"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Oak Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt01.webp",
+      "requirements": "Requires: Level 45, 36 Dex, 36 Int",
+      "properties": [
+        "Evasion Rating: 115",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bandit Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 48, 38 Dex, 38 Int",
+      "properties": [
+        "Evasion Rating: 122",
+        "Energy Shield: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Skulking Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt03.webp",
+      "requirements": "Requires: Level 51, 40 Dex, 40 Int",
+      "properties": [
+        "Evasion Rating: 129",
+        "Energy Shield: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pariah Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 54, 42 Dex, 42 Int",
+      "properties": [
+        "Evasion Rating: 137",
+        "Energy Shield: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Avian Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 59, 46 Dex, 46 Int",
+      "properties": [
+        "Evasion Rating: 149",
+        "Energy Shield: 46"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warmonger Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Armour: 325"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Masked Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Armour: 341"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Paragon Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 75, 107 Str",
+      "properties": [
+        "Armour: 357"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Imperial Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "requirements": "Requires: Level 80, 115 Str",
+      "properties": [
+        "Armour: 374"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Woven Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 296"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Desert Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 70, 99 Dex",
+      "properties": [
+        "Evasion Rating: 311"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Trapper Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 75, 107 Dex",
+      "properties": [
+        "Evasion Rating: 326"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Freebooter Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex07.webp",
+      "requirements": "Requires: Level 80, 115 Dex",
+      "properties": [
+        "Evasion Rating: 340"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Skycrown Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 90"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sorcerous Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 70, 99 Int",
+      "properties": [
+        "Energy Shield: 97"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Kamasan Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 75, 107 Int",
+      "properties": [
+        "Energy Shield: 103"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancestral Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt08.webp",
+      "requirements": "Requires: Level 80, 115 Int",
+      "properties": [
+        "Energy Shield: 109"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Armour: 179",
+        "Evasion Rating: 163"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cryptic Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Dex",
+      "properties": [
+        "Armour: 188",
+        "Evasion Rating: 171"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Champion Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 197",
+        "Evasion Rating: 179"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gladiatorial Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex06.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Dex",
+      "properties": [
+        "Armour: 206",
+        "Evasion Rating: 187"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Druidic Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 179",
+        "Energy Shield: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Saintly Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Int",
+      "properties": [
+        "Armour: 188",
+        "Energy Shield: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Divine Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 197",
+        "Energy Shield: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cryptic Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Int",
+      "properties": [
+        "Armour: 206",
+        "Energy Shield: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Brigand Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 65, 50 Dex, 50 Int",
+      "properties": [
+        "Evasion Rating: 163",
+        "Energy Shield: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Faridun Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 70, 54 Dex, 54 Int",
+      "properties": [
+        "Evasion Rating: 171",
+        "Energy Shield: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Soaring Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 75, 59 Dex, 59 Int",
+      "properties": [
+        "Evasion Rating: 179",
+        "Energy Shield: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grinning Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt06.webp",
+      "requirements": "Requires: Level 80, 63 Dex, 63 Int",
+      "properties": [
+        "Evasion Rating: 187",
+        "Energy Shield: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rusted Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 29",
+        "Runic Ward: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Soldier Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 12, 19 Str",
+      "properties": [
+        "Armour: 80",
+        "Runic Ward: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wrapped Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr03.webp",
+      "requirements": "Requires: Level 16, 25 Str",
+      "properties": [
+        "Armour: 99",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Spired Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 27, 40 Str",
+      "properties": [
+        "Armour: 149",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elite Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 33, 48 Str",
+      "properties": [
+        "Armour: 177",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Warrior Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr06.webp",
+      "requirements": "Requires: Level 36, 52 Str",
+      "properties": [
+        "Armour: 191",
+        "Runic Ward: 50"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Commander Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Armour: 233",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Fierce Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr08.webp",
+      "requirements": "Requires: Level 51, 73 Str",
+      "properties": [
+        "Armour: 260",
+        "Runic Ward: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sentinel Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr09.webp",
+      "requirements": "Requires: Level 52, 74 Str",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Goliath Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr10.webp",
+      "requirements": "Requires: Level 57, 81 Str",
+      "properties": [
+        "Runic Ward: 252"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Guardian Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr11.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shabby Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 19",
+        "Runic Ward: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Felt Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 10, 17 Dex",
+      "properties": [
+        "Evasion Rating: 58",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lace Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex03.webp",
+      "requirements": "Requires: Level 16, 25 Dex",
+      "properties": [
+        "Evasion Rating: 84",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Swathed Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 26, 38 Dex",
+      "properties": [
+        "Evasion Rating: 127",
+        "Runic Ward: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hunter Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 33, 48 Dex",
+      "properties": [
+        "Evasion Rating: 158",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Viper Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex06.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Evasion Rating: 179",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Corsair Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex07.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Evasion Rating: 210",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Leatherbound Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex08.webp",
+      "requirements": "Requires: Level 50, 71 Dex",
+      "properties": [
+        "Evasion Rating: 231",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Velvet Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex09.webp",
+      "requirements": "Requires: Level 52, 74 Dex",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Covert Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex10.webp",
+      "requirements": "Requires: Level 56, 79 Dex",
+      "properties": [
+        "Runic Ward: 248"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Armoured Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Twig Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 19",
+        "Runic Ward: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wicker Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 10, 17 Int",
+      "properties": [
+        "Energy Shield: 29",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Beaded Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt03.webp",
+      "requirements": "Requires: Level 16, 25 Int",
+      "properties": [
+        "Energy Shield: 35",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Chain Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 26, 38 Int",
+      "properties": [
+        "Energy Shield: 47",
+        "Runic Ward: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Feathered Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 33, 48 Int",
+      "properties": [
+        "Energy Shield: 54",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gold Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt06.webp",
+      "requirements": "Requires: Level 40, 58 Int",
+      "properties": [
+        "Energy Shield: 62",
+        "Runic Ward: 55"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vermeil Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt07.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 68",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Jade Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt08.webp",
+      "requirements": "Requires: Level 50, 71 Int",
+      "properties": [
+        "Energy Shield: 73",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Noble Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "Requires: Level 52, 74 Int",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Twilight Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt10.webp",
+      "requirements": "Requires: Level 58, 82 Int",
+      "properties": [
+        "Runic Ward: 256"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Magus Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt11.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Brimmed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Dex",
+      "properties": [
+        "Armour: 26",
+        "Evasion Rating: 20",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Guarded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 11, 11 Str, 11 Dex",
+      "properties": [
+        "Armour: 42",
+        "Evasion Rating: 34",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Visored Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Dex",
+      "properties": [
+        "Armour: 54",
+        "Evasion Rating: 46",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cowled Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 26, 22 Str, 22 Dex",
+      "properties": [
+        "Armour: 80",
+        "Evasion Rating: 70",
+        "Runic Ward: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shielded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Dex",
+      "properties": [
+        "Armour: 97",
+        "Evasion Rating: 87",
+        "Runic Ward: 44"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Closed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex06.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 128",
+        "Evasion Rating: 115",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Decorated Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex07.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Dex",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gallant Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex08.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Iron Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Int",
+      "properties": [
+        "Armour: 26",
+        "Energy Shield: 13",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Horned Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 10, 10 Str, 10 Int",
+      "properties": [
+        "Armour: 39",
+        "Energy Shield: 16",
+        "Runic Ward: 30"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cultist Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Int",
+      "properties": [
+        "Armour: 54",
+        "Energy Shield: 19",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Martyr Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 28, 23 Str, 23 Int",
+      "properties": [
+        "Armour: 85",
+        "Energy Shield: 27",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Heavy Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Int",
+      "properties": [
+        "Armour: 97",
+        "Energy Shield: 30",
+        "Runic Ward: 44"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Spiritbone Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Armour: 128",
+        "Energy Shield: 37",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lavish Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr07.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Int",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Archon Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr08.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hewn Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt01.webp",
+      "requirements": "Requires: Level 5, 7 Dex, 7 Int",
+      "properties": [
+        "Evasion Rating: 20",
+        "Energy Shield: 13",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Face Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 10, 10 Dex, 10 Int",
+      "properties": [
+        "Evasion Rating: 32",
+        "Energy Shield: 16",
+        "Runic Ward: 30"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hooded Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt03.webp",
+      "requirements": "Requires: Level 16, 15 Dex, 15 Int",
+      "properties": [
+        "Evasion Rating: 46",
+        "Energy Shield: 19",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Veiled Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 28, 23 Dex, 23 Int",
+      "properties": [
+        "Evasion Rating: 75",
+        "Energy Shield: 27",
+        "Runic Ward: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tribal Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 33, 27 Dex, 27 Int",
+      "properties": [
+        "Evasion Rating: 87",
+        "Energy Shield: 30",
+        "Runic Ward: 44"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Solid Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt06.webp",
+      "requirements": "Requires: Level 45, 36 Dex, 36 Int",
+      "properties": [
+        "Evasion Rating: 115",
+        "Energy Shield: 37",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shaded Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt07.webp",
+      "requirements": "Requires: Level 52, 41 Dex, 41 Int",
+      "properties": [
+        "Runic Ward: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Death Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt08.webp",
+      "requirements": "Requires: Level 65, 50 Dex, 50 Int",
+      "properties": [
+        "Runic Ward: 282"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elegant Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 54, 77 Str",
+      "properties": [
+        "Armour: 247",
+        "Runic Ward: 60"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Noble Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 59, 83 Str",
+      "properties": [
+        "Armour: 223",
+        "Runic Ward: 104"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wrapped Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 54, 77 Dex",
+      "properties": [
+        "Evasion Rating: 211",
+        "Runic Ward: 72"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Deerstalker Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 59, 83 Dex",
+      "properties": [
+        "Evasion Rating: 216",
+        "Runic Ward: 91"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sandsworn Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 54, 77 Int",
+      "properties": [
+        "Energy Shield: 74",
+        "Runic Ward: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Jungle Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 59, 83 Int",
+      "properties": [
+        "Energy Shield: 63",
+        "Runic Ward: 104"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cabalist Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Dex",
+      "properties": [
+        "Armour: 113",
+        "Evasion Rating: 102",
+        "Runic Ward: 96"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gladiatorial Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Dex",
+      "properties": [
+        "Armour: 147",
+        "Evasion Rating: 134",
+        "Runic Ward: 65"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hallowed Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Int",
+      "properties": [
+        "Armour: 121",
+        "Energy Shield: 34",
+        "Runic Ward: 84"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Inquisitor Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Int",
+      "properties": [
+        "Armour: 155",
+        "Energy Shield: 44",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pariah Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 54, 42 Dex, 42 Int",
+      "properties": [
+        "Evasion Rating: 123",
+        "Energy Shield: 39",
+        "Runic Ward: 60"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Avian Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 59, 46 Dex, 46 Int",
+      "properties": [
+        "Evasion Rating: 119",
+        "Energy Shield: 37",
+        "Runic Ward: 91"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Visage",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "Requires: Level 65, 36 Str, 36 Dex, 36 Int",
+      "properties": [
+        "Armour: 113",
+        "Evasion Rating: 103",
+        "Energy Shield: 31",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Warmonger Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Armour: 292",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Masked Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Armour: 260",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Paragon Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 75, 107 Str",
+      "properties": [
+        "Armour: 341",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Imperial Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "requirements": "Requires: Level 80, 115 Str",
+      "properties": [
+        "Armour: 114",
+        "Runic Ward: 240"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Woven Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 281",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Desert Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex04.webp",
+      "requirements": "Requires: Level 70, 99 Dex",
+      "properties": [
+        "Evasion Rating: 222",
+        "Runic Ward: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Trapper Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 75, 107 Dex",
+      "properties": [
+        "Evasion Rating: 311",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Freebooter Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex07.webp",
+      "requirements": "Requires: Level 80, 115 Dex",
+      "properties": [
+        "Evasion Rating: 104",
+        "Runic Ward: 240"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Skycrown Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 81",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sorcerous Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 70, 99 Int",
+      "properties": [
+        "Energy Shield: 63",
+        "Runic Ward: 113"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Kamasan Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 75, 107 Int",
+      "properties": [
+        "Energy Shield: 95",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ancestral Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt08.webp",
+      "requirements": "Requires: Level 80, 115 Int",
+      "properties": [
+        "Energy Shield: 32",
+        "Runic Ward: 240"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Warded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Armour: 166",
+        "Evasion Rating: 151",
+        "Runic Ward: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cryptic Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Dex",
+      "properties": [
+        "Armour: 143",
+        "Evasion Rating: 130",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Champion Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 179",
+        "Evasion Rating: 163",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gladiatorial Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex06.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Dex",
+      "properties": [
+        "Armour: 54",
+        "Evasion Rating: 49",
+        "Runic Ward: 254"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Druidic Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 161",
+        "Energy Shield: 45",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Saintly Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Int",
+      "properties": [
+        "Armour: 125",
+        "Energy Shield: 35",
+        "Runic Ward: 113"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Divine Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 179",
+        "Energy Shield: 50",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cryptic Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Int",
+      "properties": [
+        "Armour: 54",
+        "Energy Shield: 15",
+        "Runic Ward: 254"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Brigand Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 65, 50 Dex, 50 Int",
+      "properties": [
+        "Evasion Rating: 155",
+        "Energy Shield: 47",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Faridun Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 70, 54 Dex, 54 Int",
+      "properties": [
+        "Evasion Rating: 122",
+        "Energy Shield: 37",
+        "Runic Ward: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Soaring Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 75, 59 Dex, 59 Int",
+      "properties": [
+        "Evasion Rating: 163",
+        "Energy Shield: 50",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grinning Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt06.webp",
+      "requirements": "Requires: Level 80, 63 Dex, 63 Int",
+      "properties": [
+        "Evasion Rating: 49",
+        "Energy Shield: 15",
+        "Runic Ward: 254"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lace Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex03.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Evasion Rating: 90",
+        "Runic Ward: 72"
+      ],
+      "implicits": [
+        "(30—50)% increased Ignite Magnitude"
+      ]
+    },
+    {
+      "name": "Runemastered Rusted Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Armour: 360",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Soldier Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr02.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Armour: 140",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Wrapped Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr03.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Armour: 170",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Spired Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr04.webp",
+      "requirements": "Requires: Level 40, 58 Str",
+      "properties": [
+        "Armour: 115",
+        "Runic Ward: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Elite Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "requirements": "Requires: Level 55, 78 Str",
+      "properties": [
+        "Armour: 209",
+        "Runic Ward: 61"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Warrior Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr06.webp",
+      "requirements": "Requires: Level 55, 78 Str",
+      "properties": [
+        "Armour: 111",
+        "Runic Ward: 147"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Fierce Greathelm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr08.webp",
+      "requirements": "Requires: Level 55, 78 Str",
+      "properties": [
+        "Armour: 334",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Shabby Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Runic Ward: 201"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Felt Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex02.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Evasion Rating: 134",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Hunter Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex05.webp",
+      "requirements": "Requires: Level 40, 58 Dex",
+      "properties": [
+        "Evasion Rating: 73",
+        "Runic Ward: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Viper Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex06.webp",
+      "requirements": "Requires: Level 55, 78 Dex",
+      "properties": [
+        "Evasion Rating: 139",
+        "Runic Ward: 110"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Corsair Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex07.webp",
+      "requirements": "Requires: Level 55, 78 Dex",
+      "properties": [
+        "Evasion Rating: 202",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Leatherbound Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex08.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 266",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Velvet Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex09.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 222",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Covert Hood",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex10.webp",
+      "requirements": "Requires: Level 56, 79 Dex",
+      "properties": [
+        "Evasion Rating: 129",
+        "Runic Ward: 124"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Armoured Cap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDex01.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Evasion Rating: 178",
+        "Runic Ward: 113"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Twig Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt01.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 48",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Wicker Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt02.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 45",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Beaded Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt03.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 24",
+        "Runic Ward: 72"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Chain Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt04.webp",
+      "requirements": "Requires: Level 40, 58 Int",
+      "properties": [
+        "Energy Shield: 62"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Feathered Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt05.webp",
+      "requirements": "Requires: Level 55, 78 Int",
+      "properties": [
+        "Energy Shield: 32",
+        "Runic Ward: 98"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Gold Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt06.webp",
+      "requirements": "Requires: Level 55, 78 Int",
+      "properties": [
+        "Energy Shield: 16",
+        "Runic Ward: 196"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Vermeil Circlet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt07.webp",
+      "requirements": "Requires: Level 55, 78 Int",
+      "properties": [
+        "Energy Shield: 67",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Jade Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt08.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 45",
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Twilight Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt10.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 72",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Magus Tiara",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetInt11.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 68",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Brimmed Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex01.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Dex",
+      "properties": [
+        "Armour: 44",
+        "Evasion Rating: 39",
+        "Runic Ward: 109"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Guarded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex02.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Dex",
+      "properties": [
+        "Armour: 275",
+        "Evasion Rating: 247",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Visored Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex03.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Dex",
+      "properties": [
+        "Armour: 77",
+        "Evasion Rating: 69",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Cowled Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex04.webp",
+      "requirements": "Requires: Level 40, 32 Str, 32 Dex",
+      "properties": [
+        "Armour: 104",
+        "Evasion Rating: 93",
+        "Runic Ward: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Shielded Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex05.webp",
+      "requirements": "Requires: Level 55, 43 Str, 43 Dex",
+      "properties": [
+        "Armour: 107",
+        "Evasion Rating: 97",
+        "Runic Ward: 122"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Decorated Helm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex07.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Armour: 161",
+        "Evasion Rating: 146",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Ancient Visor",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStrDex08.webp",
+      "requirements": "Requires: Level 65, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 168",
+        "Evasion Rating: 153",
+        "Runic Ward: 59"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Iron Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr01.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Int",
+      "properties": [
+        "Armour: 72",
+        "Energy Shield: 21",
+        "Runic Ward: 72"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Horned Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr02.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Int",
+      "properties": [
+        "Armour: 83",
+        "Energy Shield: 25",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Cultist Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr03.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Int",
+      "properties": [
+        "Armour: 165",
+        "Energy Shield: 50",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Martyr Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr04.webp",
+      "requirements": "Requires: Level 40, 32 Str, 32 Int",
+      "properties": [
+        "Armour: 66",
+        "Energy Shield: 20",
+        "Runic Ward: 81"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Heavy Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr05.webp",
+      "requirements": "Requires: Level 55, 43 Str, 43 Int",
+      "properties": [
+        "Armour: 77",
+        "Energy Shield: 22",
+        "Runic Ward: 122"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Spiritbone Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 116",
+        "Energy Shield: 32",
+        "Runic Ward: 113"
+      ],
+      "implicits": [
+        "Has 3 Sockets"
+      ]
+    },
+    {
+      "name": "Runemastered Spiritbone Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 116",
+        "Energy Shield: 32",
+        "Runic Ward: 113"
+      ],
+      "implicits": [
+        "(25—50)% increased Runic Ward Regeneration Rate",
+        "+250 Intelligence Requirement",
+        "100% reduced Duration of Curses on you"
+      ]
+    },
+    {
+      "name": "Runemastered Spiritbone Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Armour: 116",
+        "Energy Shield: 32",
+        "Runic Ward: 113"
+      ],
+      "implicits": [
+        "Every 5 seconds, gain a Verisium Infusion"
+      ]
+    },
+    {
+      "name": "Runemastered Grand Visage",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr01.webp",
+      "requirements": "Requires: Level 65, 36 Str, 36 Dex, 36 Int",
+      "properties": [
+        "Armour: 77",
+        "Evasion Rating: 71",
+        "Energy Shield: 22",
+        "Runic Ward: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tenebrous Crown",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr08.webp",
+      "requirements": "Requires: Level 65, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 143",
+        "Energy Shield: 40",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Hewn Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt01.webp",
+      "requirements": "Requires: Level 38, 31 Dex, 31 Int",
+      "properties": [
+        "Evasion Rating: 30",
+        "Energy Shield: 10",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Face Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "requirements": "Requires: Level 38, 31 Dex, 31 Int",
+      "properties": [
+        "Evasion Rating: 118",
+        "Energy Shield: 40",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Hooded Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt03.webp",
+      "requirements": "Requires: Level 38, 31 Dex, 31 Int",
+      "properties": [
+        "Evasion Rating: 69",
+        "Energy Shield: 23",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Veiled Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt04.webp",
+      "requirements": "Requires: Level 40, 32 Dex, 32 Int",
+      "properties": [
+        "Evasion Rating: 78",
+        "Energy Shield: 26",
+        "Runic Ward: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tribal Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt05.webp",
+      "requirements": "Requires: Level 52, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 105",
+        "Energy Shield: 33",
+        "Runic Ward: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Solid Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt06.webp",
+      "requirements": "Requires: Level 55, 43 Dex, 43 Int",
+      "properties": [
+        "Evasion Rating: 125",
+        "Energy Shield: 39",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Death Mask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt08.webp",
+      "requirements": "Requires: Level 65, 50 Dex, 50 Int",
+      "properties": [
+        "Evasion Rating: 130",
+        "Energy Shield: 40",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    }
+  ]
+}

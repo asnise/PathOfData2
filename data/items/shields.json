@@ -1,0 +1,2103 @@
+{
+  "category": "Off-hand",
+  "item_class": "Shields",
+  "items": [
+    {
+      "name": "Golden Flame",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Shields/DemigodsShield.webp",
+      "requirements": "Requires: Level 15",
+      "properties": [
+        "Block chance: 25%"
+      ],
+      "implicits": [
+        "+(11—19)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Splintered Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 18",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Painted Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower02.webp",
+      "requirements": "Requires: Level 6, 11 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 33",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Braced Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 12, 19 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 50",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Barricade Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower04.webp",
+      "requirements": "Requires: Level 16, 25 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 62",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Effigial Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower05.webp",
+      "requirements": "Requires: Level 21, 32 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 76",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Rampart Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 28, 42 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 96",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Heraldric Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower07.webp",
+      "requirements": "Requires: Level 33, 48 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 111",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Stone Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 36, 52 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 119",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 145",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Ancestor Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower10.webp",
+      "requirements": "Requires: Level 50, 71 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 160",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Phalanx Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 52, 74 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 166",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Defiant Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 58, 82 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 183",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Blacksteel Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 203",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Hardwood Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 10",
+        "Evasion Rating: 7",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Pelage Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield02.webp",
+      "requirements": "Requires: Level 8, 9 Str, 9 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 21",
+        "Evasion Rating: 17",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Studded Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 34",
+        "Evasion Rating: 29",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Crescent Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 26, 22 Str, 22 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 50",
+        "Evasion Rating: 44",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Chiseled Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 61",
+        "Evasion Rating: 54",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Feathered Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 37, 30 Str, 30 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 67",
+        "Evasion Rating: 60",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Stratified Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield07.webp",
+      "requirements": "Requires: Level 46, 37 Str, 37 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 82",
+        "Evasion Rating: 74",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Carved Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield08.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 89",
+        "Evasion Rating: 81",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Mosaic Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield09.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 91",
+        "Evasion Rating: 82",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Aureate Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 57, 45 Str, 45 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 99",
+        "Evasion Rating: 90",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Grand Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield11.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 112",
+        "Evasion Rating: 102",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Blazon Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 10",
+        "Energy Shield: 6",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Sigil Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 7, 8 Str, 8 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 20",
+        "Energy Shield: 9",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Emblem Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 34",
+        "Energy Shield: 12",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Jingling Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 28, 23 Str, 23 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 53",
+        "Energy Shield: 17",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Sectarian Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 61",
+        "Energy Shield: 19",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Omen Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 36, 30 Str, 30 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 66",
+        "Energy Shield: 20",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Wayward Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest07.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Energy Shield: 23",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Seer Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest08.webp",
+      "requirements": "Requires: Level 50, 39 Str, 39 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 88",
+        "Energy Shield: 25",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Stoic Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 91",
+        "Energy Shield: 26",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Empyreal Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 57, 45 Str, 45 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 99",
+        "Energy Shield: 28",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Deified Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 112",
+        "Energy Shield: 31",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Golden Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Aged Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower02.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 145",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Metalworked Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 48, 69 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 154",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Cultist Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower05.webp",
+      "requirements": "Requires: Level 51, 73 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 163",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Bulwark Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 54, 77 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 171",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Noble Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower07.webp",
+      "requirements": "Requires: Level 59, 83 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 186",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Goldworked Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 61, 86 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 192",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Ironwood Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield01.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Evasion Rating: 72",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Fur-lined Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield02.webp",
+      "requirements": "Requires: Level 48, 38 Str, 38 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 85",
+        "Evasion Rating: 76",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Mercenary Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield03.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 89",
+        "Evasion Rating: 81",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Polished Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 94",
+        "Evasion Rating: 85",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Stone Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 102",
+        "Evasion Rating: 93",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Avian Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 62, 48 Str, 48 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 107",
+        "Evasion Rating: 97",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Painted Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Energy Shield: 23",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Engraved Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 48, 38 Str, 38 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 85",
+        "Energy Shield: 24",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Descry Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest03.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 89",
+        "Energy Shield: 26",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Dekharan Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 94",
+        "Energy Shield: 27",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Quartered Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 102",
+        "Energy Shield: 29",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Glowering Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 62, 48 Str, 48 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 107",
+        "Energy Shield: 30",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Royal Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 203",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Fortress Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 223",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Vaal Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 75, 107 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 244",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Tawhoan Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower10.webp",
+      "requirements": "Requires: Level 80, 115 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 264",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Glacial Fortress",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 223",
+        "Base Movement Speed: -0.03"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Mammoth Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 112",
+        "Evasion Rating: 102",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Baroque Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 123",
+        "Evasion Rating: 112",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Soaring Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 134",
+        "Evasion Rating: 122",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Golden Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 145",
+        "Evasion Rating: 132",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Venerable Defender",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 62, 64 Str, 64 Dex",
+      "properties": [
+        "Block chance: 28%",
+        "Armour: 107",
+        "Evasion Rating: 97",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Intricate Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 112",
+        "Energy Shield: 31",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Sekheman Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 123",
+        "Energy Shield: 34",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Vaal Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 134",
+        "Energy Shield: 37",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Blacksteel Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest07.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 145",
+        "Energy Shield: 40",
+        "Base Movement Speed: -0.015"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Splintered Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 18",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 12"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Painted Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower02.webp",
+      "requirements": "Requires: Level 6, 11 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 33",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 15"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Braced Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 12, 19 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 50",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 18"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Barricade Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower04.webp",
+      "requirements": "Requires: Level 16, 25 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 62",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 22"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Effigial Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower05.webp",
+      "requirements": "Requires: Level 21, 32 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 76",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 25"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Rampart Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 28, 42 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 96",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 27"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Heraldric Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower07.webp",
+      "requirements": "Requires: Level 33, 48 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 111",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 30"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Stone Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 36, 52 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 119",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 33"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 45, 64 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 145",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 36"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Ancestor Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower10.webp",
+      "requirements": "Requires: Level 50, 71 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 148"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Phalanx Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 52, 74 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 146"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Defiant Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 58, 82 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 160"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Blacksteel Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 176"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Hardwood Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 10",
+        "Evasion Rating: 7",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 12"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Pelage Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield02.webp",
+      "requirements": "Requires: Level 8, 9 Str, 9 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 21",
+        "Evasion Rating: 17",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 17"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Studded Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 34",
+        "Evasion Rating: 29",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 22"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Crescent Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 26, 22 Str, 22 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 50",
+        "Evasion Rating: 44",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 30"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Chiseled Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 61",
+        "Evasion Rating: 54",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 33"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Feathered Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 37, 30 Str, 30 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 67",
+        "Evasion Rating: 60",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Stratified Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield07.webp",
+      "requirements": "Requires: Level 46, 37 Str, 37 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 82",
+        "Evasion Rating: 74",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 38"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Carved Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield08.webp",
+      "requirements": "Requires: Level 51, 40 Str, 40 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 89",
+        "Evasion Rating: 81",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 40"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Mosaic Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield09.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 146"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Aureate Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 57, 45 Str, 45 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 157"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Grand Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield11.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 176"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Blazon Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 10",
+        "Energy Shield: 6",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 12"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Sigil Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 7, 8 Str, 8 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 20",
+        "Energy Shield: 9",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 16"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Emblem Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest03.webp",
+      "requirements": "Requires: Level 16, 15 Str, 15 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 34",
+        "Energy Shield: 12",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 22"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Jingling Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 28, 23 Str, 23 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 53",
+        "Energy Shield: 17",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 31"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Sectarian Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest05.webp",
+      "requirements": "Requires: Level 33, 27 Str, 27 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 61",
+        "Energy Shield: 19",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 33"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Omen Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 36, 30 Str, 30 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 66",
+        "Energy Shield: 20",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Wayward Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest07.webp",
+      "requirements": "Requires: Level 45, 36 Str, 36 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Energy Shield: 23",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 38"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Seer Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest08.webp",
+      "requirements": "Requires: Level 50, 39 Str, 39 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 88",
+        "Energy Shield: 25",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 40"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Stoic Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 52, 41 Str, 41 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 146"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Empyreal Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 57, 45 Str, 45 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 157"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Deified Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 176"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Bulwark Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 54, 77 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 137",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Noble Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower07.webp",
+      "requirements": "Requires: Level 59, 83 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 167",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Goldworked Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 61, 86 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 144",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 58"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Polished Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 75",
+        "Evasion Rating: 68",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Stone Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 92",
+        "Evasion Rating: 84",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Avian Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 62, 48 Str, 48 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Evasion Rating: 73",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 59"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Dekharan Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 54, 42 Str, 42 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 75",
+        "Energy Shield: 21",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Quartered Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest05.webp",
+      "requirements": "Requires: Level 59, 46 Str, 46 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 92",
+        "Energy Shield: 26",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Glowering Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 62, 48 Str, 48 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 80",
+        "Energy Shield: 22",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 59"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Royal Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 183",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 44"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Fortress Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 132",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 106"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Vaal Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 75, 107 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 213",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 35"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Tawhoan Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower10.webp",
+      "requirements": "Requires: Level 80, 115 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 71",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 176"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Mammoth Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 101",
+        "Evasion Rating: 92",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 44"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Baroque Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 73",
+        "Evasion Rating: 66",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 106"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Soaring Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield06.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 106",
+        "Evasion Rating: 97",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Golden Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 34",
+        "Evasion Rating: 31",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 185"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Intricate Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 101",
+        "Energy Shield: 28",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 44"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Sekheman Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 70, 54 Str, 54 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 73",
+        "Energy Shield: 20",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 106"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Vaal Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 75, 59 Str, 59 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 123",
+        "Energy Shield: 34",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 26"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runeforged Blacksteel Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest07.webp",
+      "requirements": "Requires: Level 80, 63 Str, 63 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 28",
+        "Energy Shield: 8",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 194"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Splintered Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 100",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 23"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Painted Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower02.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 63",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 57"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Braced Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower03.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 88",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Barricade Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower04.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 94",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 28"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Effigial Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower05.webp",
+      "requirements": "Requires: Level 38, 54 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 113"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Rampart Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 40, 58 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 98",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 29"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Heraldric Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower07.webp",
+      "requirements": "Requires: Level 50, 71 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 96",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 42"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 250"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 100",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield",
+        "Recover (15—25) Runic Ward when you Block"
+      ]
+    },
+    {
+      "name": "Runemastered Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Block chance: 26%",
+        "Evasion Rating: 148",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 35"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Crucible Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower09.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 162",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 35"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield",
+        "(15—25)% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Runemastered Blacksteel Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower01.webp",
+      "requirements": "Requires: Level 65, 91 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 102",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 88"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Vaal Tower Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower08.webp",
+      "requirements": "Requires: Level 75, 107 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 203",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 70"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Glacial Fortress",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Tower06.webp",
+      "requirements": "Requires: Level 70, 99 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 203",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Hardwood Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield01.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 55",
+        "Evasion Rating: 49",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 23"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Crescent Targe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield04.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 52",
+        "Evasion Rating: 46",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 28"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Blazon Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest01.webp",
+      "requirements": "Requires: Level 40, 32 Str, 32 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 43",
+        "Energy Shield: 13",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 47"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Sigil Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 40, 32 Str, 32 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 65",
+        "Energy Shield: 19",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 12"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Emblem Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest03.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 48",
+        "Energy Shield: 14",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Jingling Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest04.webp",
+      "requirements": "Requires: Level 38, 31 Str, 31 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 41",
+        "Energy Shield: 12",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 45"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Omen Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest06.webp",
+      "requirements": "Requires: Level 48, 38 Str, 38 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 42",
+        "Energy Shield: 12",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 82"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Venerable Defender",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 65, 107 Str",
+      "properties": [
+        "Block chance: 26%",
+        "Armour: 203",
+        "Base Movement Speed: -0.03",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Venerable Defender",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 65, 107 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Energy Shield: 135",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Venerable Defender",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 65, 67 Str, 67 Dex",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 112",
+        "Evasion Rating: 102",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 53"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    },
+    {
+      "name": "Runemastered Intricate Crest Shield",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Crest02.webp",
+      "requirements": "Requires: Level 65, 50 Str, 50 Int",
+      "properties": [
+        "Block chance: 25%",
+        "Armour: 78",
+        "Energy Shield: 22",
+        "Base Movement Speed: -0.015",
+        "Runic Ward: 62"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    }
+  ]
+}

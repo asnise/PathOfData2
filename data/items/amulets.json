@@ -1,0 +1,284 @@
+{
+  "category": "Jewellery",
+  "item_class": "Amulets",
+  "items": [
+    {
+      "name": "Crimson Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/CrimsonAmulet.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "(2—4) Life Regeneration per second"
+      ]
+    },
+    {
+      "name": "Azure Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/AzureAmulet.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "(20—30)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Amber Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "+(10—15) to Strength"
+      ]
+    },
+    {
+      "name": "Jade Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/JadeAmulet.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "+(10—15) to Dexterity"
+      ]
+    },
+    {
+      "name": "Lapis Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/LapisAmulet.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "+(10—15) to Intelligence"
+      ]
+    },
+    {
+      "name": "Lunar Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/LunarAmulet.webp",
+      "requirements": "Requires: Level 14",
+      "properties": [],
+      "implicits": [
+        "+(20—30) to maximum Energy Shield"
+      ]
+    },
+    {
+      "name": "Bloodstone Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+      "requirements": "Requires: Level 18",
+      "properties": [],
+      "implicits": [
+        "+(30—40) to maximum Life"
+      ]
+    },
+    {
+      "name": "Stellar Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/StellarAmulet.webp",
+      "requirements": "Requires: Level 25",
+      "properties": [],
+      "implicits": [
+        "+(5—7) to all Attributes"
+      ]
+    },
+    {
+      "name": "Solar Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/SolarAmulet.webp",
+      "requirements": "Requires: Level 30",
+      "properties": [],
+      "implicits": [
+        "+(10—15) to Spirit"
+      ]
+    },
+    {
+      "name": "Gold Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "requirements": "Requires: Level 35",
+      "properties": [],
+      "implicits": [
+        "(12—20)% increased Rarity of Items found"
+      ]
+    },
+    {
+      "name": "Pearlescent Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "+(7—10)% to all Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Veridical Chain",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+      "requirements": "Requires: Level 52",
+      "properties": [],
+      "implicits": [
+        "+(30—40) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Veridical Chain",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "+(30—40) to maximum Runic Ward",
+        "+(2—3)% to Maximum Cold Resistance"
+      ]
+    },
+    {
+      "name": "Runemastered Veridical Chain",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "+(30—40) to maximum Runic Ward",
+        "+(1—2) to Level of all Cold Skills"
+      ]
+    },
+    {
+      "name": "Runemastered Veridical Chain",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "(15—20)% increased maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Lament Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/LamentAmulet.webp",
+      "requirements": "Requires: Level 42",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Level 11 Arctic Armour",
+        "Grants Skill: Level 11 Herald of Ash",
+        "Grants Skill: Level 11 Herald of Ice",
+        "Grants Skill: Level 11 Herald of Thunder",
+        "Grants Skill: Level 11 Plague Bearer",
+        "Grants Skill: Level 11 Barrier Invocation",
+        "Grants Skill: Level 11 Lingering Illusion",
+        "Grants Skill: Level 11 Ghost Dance",
+        "Grants Skill: Level 11 Mana Remnants",
+        "Grants Skill: Level 11 Magma Barrier",
+        "Grants Skill: Level 11 Raging Spirits",
+        "Grants Skill: Level 11 Wind Dancer",
+        "Grants Skill: Level 11 Cast on Minion Death",
+        "Grants Skill: Level 11 Scavenged Plating",
+        "Grants Skill: Level 11 War Banner",
+        "Grants Skill: Level 11 Defiance Banner",
+        "Grants Skill: Level 11 Dread Banner",
+        "Grants Skill: Level 11 Time of Need",
+        "Grants Skill: Level 11 Attrition",
+        "Grants Skill: Level 11 Charge Regulation",
+        "Grants Skill: Level 11 Shard Scavenger",
+        "Grants Skill: Level 11 Overwhelming Presence",
+        "Grants Skill: Level 11 Alchemist's Boon",
+        "Grants Skill: Level 11 Reaper's Invocation",
+        "Grants Skill: Level 11 Berserk",
+        "Grants Skill: Level 11 Herald of Plague",
+        "Grants Skill: Level 11 Herald of Blood",
+        "Grants Skill: Level 11 Withering Presence",
+        "Grants Skill: Level 11 Ravenous Swarm",
+        "Grants Skill: Level 11 Combat Frenzy",
+        "Grants Skill: Level 11 Trail of Caltrops",
+        "Grants Skill: Level 11 Convalescence",
+        "Grants Skill: Level 11 Iron Ward",
+        "Grants Skill: Level 11 Siphon Elements",
+        "Grants Skill: Level 11 Briarpatch",
+        "Grants Skill: Level 11 Savage Fury",
+        "Grants Skill: Level 11 Barkskin",
+        "-1 Prefix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Portent Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/PortentAmulet.webp",
+      "requirements": "Requires: Level 42",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Level 11 Wolf Pack",
+        "Grants Skill: Level 11 Blink",
+        "Grants Skill: Level 11 Elemental Invocation",
+        "Grants Skill: Level 11 Elemental Conflux",
+        "Grants Skill: Level 11 Sacrifice",
+        "Grants Skill: Level 11 Mirage Archer",
+        "Grants Skill: Level 11 Feral Invocation",
+        "-1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Absent Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/AbsentAmulet.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Level 12 Cast on Elemental Ailment",
+        "Grants Skill: Level 12 Cast on Critical",
+        "Grants Skill: Level 12 Cast on Dodge",
+        "Grants Skill: Level 12 Rhoa Mount",
+        "Grants Skill: Level 12 Archmage",
+        "Grants Skill: Level 12 Trinity",
+        "Grants Skill: Level 12 Eternal Rage",
+        "-1 Prefix Modifier allowed-1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Corona Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/CoronaAmulet.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "This item gains bonuses from Socketed Items as though it was a Helmet"
+      ]
+    },
+    {
+      "name": "Dusk Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/HeistAmulet1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "+1 Prefix Modifier allowed-1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Gloam Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/HeistAmulet1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-1 Prefix Modifier allowed+1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Penumbra Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/HeistAmulet2.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "+2 Prefix Modifiers allowed-2 Suffix Modifiers allowed"
+      ]
+    },
+    {
+      "name": "Tenebrous Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/HeistAmulet2.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-2 Prefix Modifiers allowed+2 Suffix Modifiers allowed"
+      ]
+    },
+    {
+      "name": "Twisted Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/TwistedAmulet.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-1 Prefix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Distorted Amulet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Amulets/Basetypes/DistortedAmulet.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-1 Suffix Modifier allowed"
+      ]
+    }
+  ]
+}

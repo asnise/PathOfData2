@@ -1,0 +1,166 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Wands",
+  "items": [
+    {
+      "name": "Withered Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: 6 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Chaos Bolt"
+      ]
+    },
+    {
+      "name": "Bone Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand02.webp",
+      "requirements": "Requires: Level 2, 7 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Bone Blast"
+      ]
+    },
+    {
+      "name": "Attuned Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand03.webp",
+      "requirements": "Requires: Level 2, 7 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Mana Drain"
+      ]
+    },
+    {
+      "name": "Siphoning Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand04.webp",
+      "requirements": "Requires: Level 11, 23 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Power Siphon"
+      ]
+    },
+    {
+      "name": "Volatile Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand05.webp",
+      "requirements": "Requires: Level 16, 31 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Volatile Dead"
+      ]
+    },
+    {
+      "name": "Galvanic Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand06.webp",
+      "requirements": "Requires: Level 25, 46 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Galvanic Field"
+      ]
+    },
+    {
+      "name": "Acrid Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand07.webp",
+      "requirements": "Requires: Level 33, 60 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Decompose"
+      ]
+    },
+    {
+      "name": "Offering Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand08.webp",
+      "requirements": "Requires: Level 38, 69 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Exsanguinate"
+      ]
+    },
+    {
+      "name": "Frigid Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand10.webp",
+      "requirements": "Requires: Level 45, 80 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Chaos Bolt"
+      ]
+    },
+    {
+      "name": "Torture Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand09.webp",
+      "requirements": "Requires: Level 49, 87 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Chaos Bolt"
+      ]
+    },
+    {
+      "name": "Critical Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand11.webp",
+      "requirements": "Requires: Level 52, 92 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Chaos Bolt"
+      ]
+    },
+    {
+      "name": "Primordial Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand12.webp",
+      "requirements": "Requires: Level 56, 99 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Wither"
+      ]
+    },
+    {
+      "name": "Dueling Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand13.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Spellslinger"
+      ]
+    },
+    {
+      "name": "Twisted Wand",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Coiling Bolts"
+      ]
+    },
+    {
+      "name": "Runic Fork",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Runic Fork",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "(30—50)% chance for Spell Skills to fire 2 additional Projectiles"
+      ]
+    },
+    {
+      "name": "Runemastered Runic Fork",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "(30—50)% increased Mana Regeneration Rate"
+      ]
+    },
+    {
+      "name": "Runemastered Runic Fork",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "+300 to maximum Runic Ward"
+      ]
+    }
+  ]
+}

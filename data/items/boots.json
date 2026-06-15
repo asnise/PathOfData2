@@ -1,0 +1,1931 @@
+{
+  "category": "Armour",
+  "item_class": "Boots",
+  "items": [
+    {
+      "name": "Golden Caligae",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/DemigodsStride.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(8—16)% to all Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Rough Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Iron Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 11, 17 Str",
+      "properties": [
+        "Armour: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bronze Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "requirements": "Requires: Level 16, 23 Str",
+      "properties": [
+        "Armour: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Trimmed Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 27, 38 Str",
+      "properties": [
+        "Armour: 112"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stone Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 33, 45 Str",
+      "properties": [
+        "Armour: 133"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Reefsteel Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "requirements": "Requires: Level 45, 60 Str",
+      "properties": [
+        "Armour: 174"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Monument Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 52, 69 Str",
+      "properties": [
+        "Armour: 199"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Totemic Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr08.webp",
+      "requirements": "Requires: Level 65, 86 Str",
+      "properties": [
+        "Armour: 244"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rawhide Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Laced Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 11, 17 Dex",
+      "properties": [
+        "Evasion Rating: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Embossed Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex03.webp",
+      "requirements": "Requires: Level 16, 23 Dex",
+      "properties": [
+        "Evasion Rating: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Steeltoe Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 28, 39 Dex",
+      "properties": [
+        "Evasion Rating: 102"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lizardscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 33, 45 Dex",
+      "properties": [
+        "Evasion Rating: 118"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Flared Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex06.webp",
+      "requirements": "Requires: Level 45, 60 Dex",
+      "properties": [
+        "Evasion Rating: 157"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Leatherplate Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "Requires: Level 52, 69 Dex",
+      "properties": [
+        "Evasion Rating: 180"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Embroidered Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "Requires: Level 65, 86 Dex",
+      "properties": [
+        "Evasion Rating: 222"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Straw Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 14"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wrapped Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 11, 17 Int",
+      "properties": [
+        "Energy Shield: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lattice Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt03.webp",
+      "requirements": "Requires: Level 16, 23 Int",
+      "properties": [
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Silk Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 27, 38 Int",
+      "properties": [
+        "Energy Shield: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Feathered Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 33, 45 Int",
+      "properties": [
+        "Energy Shield: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Flax Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt06.webp",
+      "requirements": "Requires: Level 45, 60 Int",
+      "properties": [
+        "Energy Shield: 51"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Studded Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "Requires: Level 52, 69 Int",
+      "properties": [
+        "Energy Shield: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elaborate Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "Requires: Level 65, 86 Int",
+      "properties": [
+        "Energy Shield: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Mail Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 6, 7 Str, 7 Dex",
+      "properties": [
+        "Armour: 22",
+        "Evasion Rating: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Braced Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 16, 14 Str, 14 Dex",
+      "properties": [
+        "Armour: 41",
+        "Evasion Rating: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stacked Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 33, 26 Str, 26 Dex",
+      "properties": [
+        "Armour: 73",
+        "Evasion Rating: 65"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Covered Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex04.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Dex",
+      "properties": [
+        "Armour: 96",
+        "Evasion Rating: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Flexile Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 52, 38 Str, 38 Dex",
+      "properties": [
+        "Armour: 109",
+        "Evasion Rating: 99"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bold Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex06.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Dex",
+      "properties": [
+        "Armour: 134",
+        "Evasion Rating: 122"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Padded Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Int",
+      "properties": [
+        "Armour: 20",
+        "Energy Shield: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Secured Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 16, 14 Str, 14 Int",
+      "properties": [
+        "Armour: 41",
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pelt Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 33, 26 Str, 26 Int",
+      "properties": [
+        "Armour: 73",
+        "Energy Shield: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Weaver Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Int",
+      "properties": [
+        "Armour: 96",
+        "Energy Shield: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gilt Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 52, 38 Str, 38 Int",
+      "properties": [
+        "Armour: 109",
+        "Energy Shield: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pious Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 56 Str, 56 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Frayed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 5, 7 Dex, 7 Int",
+      "properties": [
+        "Evasion Rating: 15",
+        "Energy Shield: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Threaded Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 16, 14 Dex, 14 Int",
+      "properties": [
+        "Evasion Rating: 35",
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hunting Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 33, 26 Dex, 26 Int",
+      "properties": [
+        "Evasion Rating: 65",
+        "Energy Shield: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Steelpoint Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt04.webp",
+      "requirements": "Requires: Level 45, 34 Dex, 34 Int",
+      "properties": [
+        "Evasion Rating: 86",
+        "Energy Shield: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Velour Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 52, 38 Dex, 38 Int",
+      "properties": [
+        "Evasion Rating: 99",
+        "Energy Shield: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bladed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 65, 47 Dex, 47 Int",
+      "properties": [
+        "Evasion Rating: 122",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Cuisses",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 65, 34 Str, 34 Dex, 34 Int",
+      "properties": [
+        "Armour: 89",
+        "Evasion Rating: 81",
+        "Energy Shield: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Golden Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Plated Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 45, 60 Str",
+      "properties": [
+        "Armour: 174"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lionheart Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "requirements": "Requires: Level 51, 68 Str",
+      "properties": [
+        "Armour: 195"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 54, 72 Str",
+      "properties": [
+        "Armour: 206"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Carved Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 59, 78 Str",
+      "properties": [
+        "Armour: 223"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bound Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 45, 60 Dex",
+      "properties": [
+        "Evasion Rating: 157"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sleek Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex03.webp",
+      "requirements": "Requires: Level 51, 68 Dex",
+      "properties": [
+        "Evasion Rating: 177"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Studded Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 54, 72 Dex",
+      "properties": [
+        "Evasion Rating: 186"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Serpentscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 59, 78 Dex",
+      "properties": [
+        "Evasion Rating: 203"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Laced Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 45, 60 Int",
+      "properties": [
+        "Energy Shield: 51"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bangled Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt03.webp",
+      "requirements": "Requires: Level 51, 68 Int",
+      "properties": [
+        "Energy Shield: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 54, 72 Int",
+      "properties": [
+        "Energy Shield: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dunerunner Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 59, 78 Int",
+      "properties": [
+        "Energy Shield: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Soldiering Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Dex",
+      "properties": [
+        "Armour: 96",
+        "Evasion Rating: 86"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Goldwork Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 51, 38 Str, 38 Dex",
+      "properties": [
+        "Armour: 107",
+        "Evasion Rating: 97"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bastion Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 59, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 123",
+        "Evasion Rating: 111"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Adherent Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Int",
+      "properties": [
+        "Armour: 96",
+        "Energy Shield: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bound Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 51, 38 Str, 38 Int",
+      "properties": [
+        "Armour: 107",
+        "Energy Shield: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shamanistic Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 59, 44 Str, 44 Int",
+      "properties": [
+        "Armour: 123",
+        "Energy Shield: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wayfarer Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 45, 34 Dex, 34 Int",
+      "properties": [
+        "Evasion Rating: 86",
+        "Energy Shield: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Silverbuckled Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 51, 38 Dex, 38 Int",
+      "properties": [
+        "Evasion Rating: 97",
+        "Energy Shield: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Treerunner Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 59, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 111",
+        "Energy Shield: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bulwark Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 65, 86 Str",
+      "properties": [
+        "Armour: 244"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 70, 93 Str",
+      "properties": [
+        "Armour: 256"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vaal Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 75, 101 Str",
+      "properties": [
+        "Armour: 268"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tasalian Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "requirements": "Requires: Level 80, 108 Str",
+      "properties": [
+        "Armour: 280"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cinched Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 65, 86 Dex",
+      "properties": [
+        "Evasion Rating: 222"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cavalry Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 70, 93 Dex",
+      "properties": [
+        "Evasion Rating: 233"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dragonscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 75, 101 Dex",
+      "properties": [
+        "Evasion Rating: 244"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Drakeskin Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex06.webp",
+      "requirements": "Requires: Level 80, 108 Dex",
+      "properties": [
+        "Evasion Rating: 255"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bound Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 65, 86 Int",
+      "properties": [
+        "Energy Shield: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Luxurious Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 70, 93 Int",
+      "properties": [
+        "Energy Shield: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sandsworn Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 75, 101 Int",
+      "properties": [
+        "Energy Shield: 78"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sekhema Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt06.webp",
+      "requirements": "Requires: Level 80, 108 Int",
+      "properties": [
+        "Energy Shield: 83"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Veteran Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Dex",
+      "properties": [
+        "Armour: 134",
+        "Evasion Rating: 122"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Noble Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 70, 51 Str, 51 Dex",
+      "properties": [
+        "Armour: 141",
+        "Evasion Rating: 128"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fortress Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 75, 56 Str, 56 Dex",
+      "properties": [
+        "Armour: 147",
+        "Evasion Rating: 134"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Blacksteel Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex04.webp",
+      "requirements": "Requires: Level 80, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 154",
+        "Evasion Rating: 140"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Faithful Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Apostle Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 70, 51 Str, 51 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warlock Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 75, 56 Str, 56 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cryptic Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "requirements": "Requires: Level 80, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wanderer Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 65, 47 Dex, 47 Int",
+      "properties": [
+        "Evasion Rating: 122",
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Charmed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 70, 51 Dex, 51 Int",
+      "properties": [
+        "Evasion Rating: 128",
+        "Energy Shield: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Quickslip Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 75, 56 Dex, 56 Int",
+      "properties": [
+        "Evasion Rating: 134",
+        "Energy Shield: 41"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Daggerfoot Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt04.webp",
+      "requirements": "Requires: Level 80, 59 Dex, 59 Int",
+      "properties": [
+        "Evasion Rating: 140",
+        "Energy Shield: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rough Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 22",
+        "Runic Ward: 14"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Iron Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 11, 17 Str",
+      "properties": [
+        "Armour: 57",
+        "Runic Ward: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bronze Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "requirements": "Requires: Level 16, 23 Str",
+      "properties": [
+        "Armour: 74",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Trimmed Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 27, 38 Str",
+      "properties": [
+        "Armour: 112",
+        "Runic Ward: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Stone Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 33, 45 Str",
+      "properties": [
+        "Armour: 133",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Reefsteel Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "requirements": "Requires: Level 45, 60 Str",
+      "properties": [
+        "Armour: 174",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Monument Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 52, 69 Str",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Totemic Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr08.webp",
+      "requirements": "Requires: Level 65, 86 Str",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rawhide Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 15",
+        "Runic Ward: 14"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Laced Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 11, 17 Dex",
+      "properties": [
+        "Evasion Rating: 47",
+        "Runic Ward: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Embossed Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex03.webp",
+      "requirements": "Requires: Level 16, 23 Dex",
+      "properties": [
+        "Evasion Rating: 63",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Steeltoe Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 28, 39 Dex",
+      "properties": [
+        "Evasion Rating: 102",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lizardscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 33, 45 Dex",
+      "properties": [
+        "Evasion Rating: 118",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Flared Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex06.webp",
+      "requirements": "Requires: Level 45, 60 Dex",
+      "properties": [
+        "Evasion Rating: 157",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Leatherplate Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "Requires: Level 52, 69 Dex",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Embroidered Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex01.webp",
+      "requirements": "Requires: Level 65, 86 Dex",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Straw Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 14",
+        "Runic Ward: 14"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wrapped Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 11, 17 Int",
+      "properties": [
+        "Energy Shield: 22",
+        "Runic Ward: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Lattice Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt03.webp",
+      "requirements": "Requires: Level 16, 23 Int",
+      "properties": [
+        "Energy Shield: 27",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Silk Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 27, 38 Int",
+      "properties": [
+        "Energy Shield: 36",
+        "Runic Ward: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Feathered Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 33, 45 Int",
+      "properties": [
+        "Energy Shield: 41",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Flax Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt06.webp",
+      "requirements": "Requires: Level 45, 60 Int",
+      "properties": [
+        "Energy Shield: 51",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Studded Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "Requires: Level 52, 69 Int",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elaborate Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "Requires: Level 65, 86 Int",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Mail Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 6, 7 Str, 7 Dex",
+      "properties": [
+        "Armour: 22",
+        "Evasion Rating: 17",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Braced Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 16, 14 Str, 14 Dex",
+      "properties": [
+        "Armour: 41",
+        "Evasion Rating: 35",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Stacked Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 33, 26 Str, 26 Dex",
+      "properties": [
+        "Armour: 73",
+        "Evasion Rating: 65",
+        "Runic Ward: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Covered Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex04.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Dex",
+      "properties": [
+        "Armour: 96",
+        "Evasion Rating: 86",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Flexile Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 52, 38 Str, 38 Dex",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bold Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex06.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Dex",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Padded Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 5, 7 Str, 7 Int",
+      "properties": [
+        "Armour: 20",
+        "Energy Shield: 10",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Secured Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 16, 14 Str, 14 Int",
+      "properties": [
+        "Armour: 41",
+        "Energy Shield: 15",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pelt Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 33, 26 Str, 26 Int",
+      "properties": [
+        "Armour: 73",
+        "Energy Shield: 22",
+        "Runic Ward: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Weaver Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "requirements": "Requires: Level 45, 34 Str, 34 Int",
+      "properties": [
+        "Armour: 96",
+        "Energy Shield: 28",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gilt Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 52, 38 Str, 38 Int",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pious Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Int",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Frayed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 5, 7 Dex, 7 Int",
+      "properties": [
+        "Evasion Rating: 15",
+        "Energy Shield: 10",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Threaded Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 16, 14 Dex, 14 Int",
+      "properties": [
+        "Evasion Rating: 35",
+        "Energy Shield: 15",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hunting Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 33, 26 Dex, 26 Int",
+      "properties": [
+        "Evasion Rating: 65",
+        "Energy Shield: 22",
+        "Runic Ward: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Steelpoint Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt04.webp",
+      "requirements": "Requires: Level 45, 34 Dex, 34 Int",
+      "properties": [
+        "Evasion Rating: 86",
+        "Energy Shield: 28",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Velour Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 52, 38 Dex, 38 Int",
+      "properties": [
+        "Runic Ward: 175"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bladed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 65, 47 Dex, 47 Int",
+      "properties": [
+        "Runic Ward: 211"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elegant Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 54, 72 Str",
+      "properties": [
+        "Armour: 185",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Carved Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 59, 78 Str",
+      "properties": [
+        "Armour: 167",
+        "Runic Ward: 78"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Studded Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 54, 72 Dex",
+      "properties": [
+        "Evasion Rating: 177",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Serpentscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 59, 78 Dex",
+      "properties": [
+        "Evasion Rating: 162",
+        "Runic Ward: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elegant Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 54, 72 Int",
+      "properties": [
+        "Energy Shield: 50",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Dunerunner Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 59, 78 Int",
+      "properties": [
+        "Energy Shield: 56",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bastion Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 59, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 116",
+        "Evasion Rating: 106",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shamanistic Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 59, 44 Str, 44 Int",
+      "properties": [
+        "Armour: 110",
+        "Energy Shield: 31",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Treerunner Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 59, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 95",
+        "Energy Shield: 29",
+        "Runic Ward: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Cuisses",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 65, 34 Str, 34 Dex, 34 Int",
+      "properties": [
+        "Armour: 67",
+        "Evasion Rating: 61",
+        "Energy Shield: 19",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bulwark Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 65, 86 Str",
+      "properties": [
+        "Armour: 219",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ornate Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 70, 93 Str",
+      "properties": [
+        "Armour: 134",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vaal Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 75, 101 Str",
+      "properties": [
+        "Armour: 244",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tasalian Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "requirements": "Requires: Level 80, 108 Str",
+      "properties": [
+        "Armour: 85",
+        "Runic Ward: 180"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cinched Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 65, 86 Dex",
+      "properties": [
+        "Evasion Rating: 200",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cavalry Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 70, 93 Dex",
+      "properties": [
+        "Evasion Rating: 122",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Dragonscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 75, 101 Dex",
+      "properties": [
+        "Evasion Rating: 211",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Drakeskin Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex06.webp",
+      "requirements": "Requires: Level 80, 108 Dex",
+      "properties": [
+        "Evasion Rating: 89",
+        "Runic Ward: 169"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bound Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 65, 86 Int",
+      "properties": [
+        "Energy Shield: 61",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Luxurious Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 70, 93 Int",
+      "properties": [
+        "Energy Shield: 37",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sandsworn Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 75, 101 Int",
+      "properties": [
+        "Energy Shield: 66",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sekhema Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt06.webp",
+      "requirements": "Requires: Level 80, 108 Int",
+      "properties": [
+        "Energy Shield: 22",
+        "Runic Ward: 184"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Veteran Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Dex",
+      "properties": [
+        "Armour: 127",
+        "Evasion Rating: 116",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Noble Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 70, 51 Str, 51 Dex",
+      "properties": [
+        "Armour: 80",
+        "Evasion Rating: 73",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Fortress Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 75, 56 Str, 56 Dex",
+      "properties": [
+        "Armour: 121",
+        "Evasion Rating: 110",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Blacksteel Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex04.webp",
+      "requirements": "Requires: Level 80, 59 Str, 59 Dex",
+      "properties": [
+        "Armour: 40",
+        "Evasion Rating: 37",
+        "Runic Ward: 190"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Faithful Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 47 Str, 47 Int",
+      "properties": [
+        "Armour: 121",
+        "Energy Shield: 34",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Apostle Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 70, 51 Str, 51 Int",
+      "properties": [
+        "Armour: 74",
+        "Energy Shield: 20",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Warlock Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr03.webp",
+      "requirements": "Requires: Level 75, 56 Str, 56 Int",
+      "properties": [
+        "Armour: 134",
+        "Energy Shield: 37",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cryptic Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "requirements": "Requires: Level 80, 59 Str, 59 Int",
+      "properties": [
+        "Armour: 34",
+        "Energy Shield: 9",
+        "Runic Ward: 201"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Wanderer Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 65, 47 Dex, 47 Int",
+      "properties": [
+        "Evasion Rating: 110",
+        "Energy Shield: 34",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Charmed Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 70, 51 Dex, 51 Int",
+      "properties": [
+        "Evasion Rating: 67",
+        "Energy Shield: 20",
+        "Runic Ward: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Quickslip Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 75, 56 Dex, 56 Int",
+      "properties": [
+        "Evasion Rating: 128",
+        "Energy Shield: 39",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Daggerfoot Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt04.webp",
+      "requirements": "Requires: Level 80, 59 Dex, 59 Int",
+      "properties": [
+        "Evasion Rating: 34",
+        "Energy Shield: 10",
+        "Runic Ward: 194"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Rough Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 38, 51 Str",
+      "properties": [
+        "Armour: 150",
+        "Runic Ward: 27"
+      ],
+      "implicits": [
+        "10% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Iron Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr02.webp",
+      "requirements": "Requires: Level 38, 51 Str",
+      "properties": [
+        "Armour: 120",
+        "Runic Ward: 27"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Bronze Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "requirements": "Requires: Level 38, 51 Str",
+      "properties": [
+        "Armour: 135",
+        "Runic Ward: 20"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Trimmed Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr04.webp",
+      "requirements": "Requires: Level 40, 54 Str",
+      "properties": [
+        "Armour: 79",
+        "Runic Ward: 71"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Stone Greaves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr05.webp",
+      "requirements": "Requires: Level 55, 73 Str",
+      "properties": [
+        "Armour: 157",
+        "Runic Ward: 46"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Laced Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 38, 51 Dex",
+      "properties": [
+        "Evasion Rating: 54",
+        "Runic Ward: 81"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Embossed Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex03.webp",
+      "requirements": "Requires: Level 38, 51 Dex",
+      "properties": [
+        "Evasion Rating: 94",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Steeltoe Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex04.webp",
+      "requirements": "Requires: Level 40, 54 Dex",
+      "properties": [
+        "Evasion Rating: 113",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Lizardscale Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex05.webp",
+      "requirements": "Requires: Level 40, 54 Dex",
+      "properties": [
+        "Evasion Rating: 99",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Cinched Boots",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDex02.webp",
+      "requirements": "Requires: Level 65, 86 Dex",
+      "properties": [
+        "Evasion Rating: 178",
+        "Runic Ward: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Straw Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt01.webp",
+      "requirements": "Requires: Level 38, 51 Int",
+      "properties": [
+        "Energy Shield: 45",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Wrapped Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt02.webp",
+      "requirements": "Requires: Level 38, 51 Int",
+      "properties": [
+        "Energy Shield: 41",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Lattice Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt03.webp",
+      "requirements": "Requires: Level 38, 51 Int",
+      "properties": [
+        "Energy Shield: 34",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Silk Slippers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt04.webp",
+      "requirements": "Requires: Level 38, 51 Int",
+      "properties": [
+        "Energy Shield: 36",
+        "Runic Ward: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Feathered Sandals",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsInt05.webp",
+      "requirements": "Requires: Level 40, 54 Int",
+      "properties": [
+        "Energy Shield: 33",
+        "Runic Ward: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Mail Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex01.webp",
+      "requirements": "Requires: Level 38, 29 Str, 29 Dex",
+      "properties": [
+        "Armour: 50",
+        "Evasion Rating: 44",
+        "Runic Ward: 54"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Braced Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex02.webp",
+      "requirements": "Requires: Level 38, 29 Str, 29 Dex",
+      "properties": [
+        "Armour: 66",
+        "Evasion Rating: 59",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Stacked Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "requirements": "Requires: Level 40, 30 Str, 30 Dex",
+      "properties": [
+        "Armour: 173",
+        "Evasion Rating: 155",
+        "Runic Ward: 21"
+      ],
+      "implicits": [
+        "10% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Covered Sabatons",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex04.webp",
+      "requirements": "Requires: Level 55, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 69",
+        "Evasion Rating: 63",
+        "Runic Ward: 73"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Secured Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr02.webp",
+      "requirements": "Requires: Level 38, 29 Str, 29 Int",
+      "properties": [
+        "Armour: 58",
+        "Energy Shield: 17",
+        "Runic Ward: 41"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Ancient Leggings",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr01.webp",
+      "requirements": "Requires: Level 65, 56 Str, 56 Int",
+      "properties": [
+        "Armour: 107",
+        "Energy Shield: 30",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Threaded Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt02.webp",
+      "requirements": "Requires: Level 38, 29 Dex, 29 Int",
+      "properties": [
+        "Evasion Rating: 55",
+        "Energy Shield: 19",
+        "Runic Ward: 34"
+      ],
+      "implicits": [
+        "5% increased Movement Speed"
+      ]
+    },
+    {
+      "name": "Runemastered Hunting Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt03.webp",
+      "requirements": "Requires: Level 40, 30 Dex, 30 Int",
+      "properties": [
+        "Evasion Rating: 70",
+        "Energy Shield: 23",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Velour Shoes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsDexInt01.webp",
+      "requirements": "Requires: Level 65, 47 Dex, 47 Int",
+      "properties": [
+        "Evasion Rating: 85",
+        "Energy Shield: 26",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Grand Cuisses",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Boots/Basetypes/BootsStr01.webp",
+      "requirements": "Requires: Level 65, 34 Str, 34 Dex, 34 Int",
+      "properties": [
+        "Armour: 45",
+        "Evasion Rating: 41",
+        "Energy Shield: 12",
+        "Runic Ward: 106"
+      ],
+      "implicits": []
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Two Hand Axes",
+  "items": [
+    {
+      "name": "Splitting Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 8-20",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Light Halberd",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe02.webp",
+      "requirements": "Requires: Level 4, 9 Str",
+      "properties": [
+        "Physical Damage: 10-25",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Executioner Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe03.webp",
+      "requirements": "Requires: Level 10, 17 Str, 9 Dex",
+      "properties": [
+        "Physical Damage: 10-41",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Culling Strike"
+      ]
+    },
+    {
+      "name": "Arched Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe04.webp",
+      "requirements": "Requires: Level 16, 25 Str, 12 Dex",
+      "properties": [
+        "Physical Damage: 17-59",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Glaive",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe05.webp",
+      "requirements": "Requires: Level 20, 30 Str, 14 Dex",
+      "properties": [
+        "Physical Damage: 19-64",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Savage Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe06.webp",
+      "requirements": "Requires: Level 27, 39 Str, 17 Dex",
+      "properties": [
+        "Physical Damage: 23-70",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Gain (34—43) Life per enemy killed"
+      ]
+    },
+    {
+      "name": "Rending Halberd",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe07.webp",
+      "requirements": "Requires: Level 33, 47 Str, 20 Dex",
+      "properties": [
+        "Physical Damage: 27-91",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jagged Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe08.webp",
+      "requirements": "Requires: Level 40, 56 Str, 23 Dex",
+      "properties": [
+        "Physical Damage: 43-99",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "(15—25)% chance to cause Bleeding on Hit"
+      ]
+    },
+    {
+      "name": "Reaver Glaive",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe09.webp",
+      "requirements": "Requires: Level 45, 63 Str, 26 Dex",
+      "properties": [
+        "Physical Damage: 43-113",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ember Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe10.webp",
+      "requirements": "Requires: Level 50, 70 Str, 28 Dex",
+      "properties": [
+        "Fire Damage: 58-154",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [100]"
+      ]
+    },
+    {
+      "name": "Ceremonial Halberd",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe11.webp",
+      "requirements": "Requires: Level 52, 72 Str, 29 Dex",
+      "properties": [
+        "Physical Damage: 53-123",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Cannot use Projectile Attacks"
+      ]
+    },
+    {
+      "name": "Monument Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe12.webp",
+      "requirements": "Requires: Level 57, 79 Str, 32 Dex",
+      "properties": [
+        "Physical Damage: 48-143",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vile Greataxe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Basetypes/2HAxe13.webp",
+      "requirements": "Requires: Level 65, 89 Str, 36 Dex",
+      "properties": [
+        "Physical Damage: 59-155",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    }
+  ]
+}

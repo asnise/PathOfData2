@@ -1,0 +1,532 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Spears",
+  "items": [
+    {
+      "name": "Hardwood Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 5-9",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Ironhead Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear02.webp",
+      "requirements": "Requires: Level 5, 10 Dex",
+      "properties": [
+        "Physical Damage: 9-12",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Hunting Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear03.webp",
+      "requirements": "Requires: Level 10, 9 Str, 17 Dex",
+      "properties": [
+        "Physical Damage: 10-17",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(15—25)% chance to Maim on Hit"
+      ]
+    },
+    {
+      "name": "Winged Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear04.webp",
+      "requirements": "Requires: Level 16, 12 Str, 25 Dex",
+      "properties": [
+        "Physical Damage: 12-22",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "War Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear05.webp",
+      "requirements": "Requires: Level 21, 14 Str, 31 Dex",
+      "properties": [
+        "Physical Damage: 16-27",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(25—35)% increased Projectile Speed with this Weapon"
+      ]
+    },
+    {
+      "name": "Forked Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear06.webp",
+      "requirements": "Requires: Level 26, 17 Str, 38 Dex",
+      "properties": [
+        "Physical Damage: 13-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Barbed Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear07.webp",
+      "requirements": "Requires: Level 33, 20 Str, 47 Dex",
+      "properties": [
+        "Physical Damage: 20-38",
+        "Critical Hit Chance: 6%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Bleeding you inflict deals Damage (10—20)% faster"
+      ]
+    },
+    {
+      "name": "Broad Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear08.webp",
+      "requirements": "Requires: Level 40, 26 Str, 55 Dex",
+      "properties": [
+        "Physical Damage: 32-48",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "25% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Crossblade Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear09.webp",
+      "requirements": "Requires: Level 45, 26 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 25-52",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Prevent +(3—7)% of Damage from Deflected Hits"
+      ]
+    },
+    {
+      "name": "Seaglass Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear10.webp",
+      "requirements": "Requires: Level 51, 29 Str, 71 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 29-53",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Sword Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear11.webp",
+      "requirements": "Requires: Level 52, 29 Str, 72 Dex",
+      "properties": [
+        "Physical Damage: 30-56",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Striking Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear12.webp",
+      "requirements": "Requires: Level 55, 31 Str, 76 Dex",
+      "properties": [
+        "Physical Damage: 11.5-45.5",
+        "Lightning Damage: 11.5-45.5",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "local weapon implicit hidden % base damage is lightning [50]"
+      ]
+    },
+    {
+      "name": "Helix Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear13.webp",
+      "requirements": "Requires: Level 65, 36 Str, 89 Dex",
+      "properties": [
+        "Physical Damage: 37-68",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Steelhead Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear02.webp",
+      "requirements": "Requires: Level 45, 26 Str, 63 Dex",
+      "properties": [
+        "Physical Damage: 33-44",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Coursing Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear03.webp",
+      "requirements": "Requires: Level 48, 27 Str, 67 Dex",
+      "properties": [
+        "Physical Damage: 31-52",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(15—25)% chance to Maim on Hit"
+      ]
+    },
+    {
+      "name": "Swift Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear05.webp",
+      "requirements": "Requires: Level 51, 29 Str, 71 Dex",
+      "properties": [
+        "Physical Damage: 32-53",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(25—35)% increased Projectile Speed with this Weapon"
+      ]
+    },
+    {
+      "name": "Branched Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear06.webp",
+      "requirements": "Requires: Level 54, 30 Str, 75 Dex",
+      "properties": [
+        "Physical Damage: 23-69",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Jagged Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear07.webp",
+      "requirements": "Requires: Level 59, 33 Str, 81 Dex",
+      "properties": [
+        "Physical Damage: 33-61",
+        "Critical Hit Chance: 6%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Bleeding you inflict deals Damage (10—20)% faster"
+      ]
+    },
+    {
+      "name": "Massive Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear08.webp",
+      "requirements": "Requires: Level 62, 40 Str, 80 Dex",
+      "properties": [
+        "Physical Damage: 46-69",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "25% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Runeforged Hardwood Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear01.webp",
+      "requirements": "Requires: Level 40, 23 Str, 56 Dex",
+      "properties": [
+        "Physical Damage: 24-45",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Runeforged Ironhead Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear02.webp",
+      "requirements": "Requires: Level 38, 23 Str, 54 Dex",
+      "properties": [
+        "Physical Damage: 40-54",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Runemastered Ironhead Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear02.webp",
+      "requirements": "Requires: Level 55, 31 Str, 76 Dex",
+      "properties": [
+        "Physical Damage: 94-127",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Runeforged Hunting Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear03.webp",
+      "requirements": "Requires: Level 38, 23 Str, 54 Dex",
+      "properties": [
+        "Physical Damage: 65-108",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(15—25)% chance to Maim on Hit"
+      ]
+    },
+    {
+      "name": "Runeforged Winged Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear04.webp",
+      "requirements": "Requires: Level 40, 23 Str, 56 Dex",
+      "properties": [
+        "Lightning Damage: 0-125",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "local weapon implicit hidden % base damage is lightning [100]"
+      ]
+    },
+    {
+      "name": "Runeforged War Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear05.webp",
+      "requirements": "Requires: Level 40, 23 Str, 56 Dex",
+      "properties": [
+        "Physical Damage: 59-98",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(25—35)% increased Projectile Speed with this Weapon"
+      ]
+    },
+    {
+      "name": "Runeforged Forked Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear06.webp",
+      "requirements": "Requires: Level 55, 31 Str, 76 Dex",
+      "properties": [
+        "Physical Damage: 8-57",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Runeforged Barbed Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear07.webp",
+      "requirements": "Requires: Level 55, 31 Str, 76 Dex",
+      "properties": [
+        "Physical Damage: 26.52-49.3",
+        "Fire Damage: 51.48-95.7",
+        "Critical Hit Chance: 6%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Bleeding you inflict deals Damage (10—20)% faster",
+        "local weapon implicit hidden % base damage is fire [66]"
+      ]
+    },
+    {
+      "name": "Orichalcum Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear02.webp",
+      "requirements": "Requires: Level 67, 41 Str, 104 Dex",
+      "properties": [
+        "Physical Damage: 46-62",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Soaring Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear04.webp",
+      "requirements": "Requires: Level 70, 41 Str, 115 Dex",
+      "properties": [
+        "Physical Damage: 35-65",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Pronged Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear06.webp",
+      "requirements": "Requires: Level 72, 46 Str, 115 Dex",
+      "properties": [
+        "Physical Damage: 30-89",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    },
+    {
+      "name": "Stalking Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear03.webp",
+      "requirements": "Requires: Level 77, 50 Str, 127 Dex",
+      "properties": [
+        "Physical Damage: 47-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(15—25)% chance to Maim on Hit"
+      ]
+    },
+    {
+      "name": "Flying Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear05.webp",
+      "requirements": "Requires: Level 78, 50 Str, 127 Dex",
+      "properties": [
+        "Physical Damage: 46-77",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "(25—35)% increased Projectile Speed with this Weapon"
+      ]
+    },
+    {
+      "name": "Grand Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear08.webp",
+      "requirements": "Requires: Level 79, 68 Str, 109 Dex",
+      "properties": [
+        "Physical Damage: 56-84",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "25% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Spiked Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear07.webp",
+      "requirements": "Requires: Level 77, 50 Str, 127 Dex",
+      "properties": [
+        "Physical Damage: 41-76",
+        "Critical Hit Chance: 6%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Bleeding you inflict deals Damage (10—20)% faster"
+      ]
+    },
+    {
+      "name": "Guardian Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear09.webp",
+      "requirements": "Requires: Level 75, 50 Str, 127 Dex",
+      "properties": [
+        "Physical Damage: 38-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw",
+        "Prevent +(3—7)% of Damage from Deflected Hits"
+      ]
+    },
+    {
+      "name": "Akoyan Spear",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSpears/1HSpear10.webp",
+      "requirements": "Requires: Level 78, 50 Str, 127 Dex, 90 Int",
+      "properties": [
+        "Physical Damage: 39-72",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Grants Skill: Spear Throw"
+      ]
+    }
+  ]
+}

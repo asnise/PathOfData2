@@ -1,0 +1,159 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Staves",
+  "items": [
+    {
+      "name": "Ashen Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+      "requirements": "Requires: 6 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Firebolt"
+      ]
+    },
+    {
+      "name": "Gelid Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.webp",
+      "requirements": "Requires: Level 2, 7 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Freezing Shards"
+      ]
+    },
+    {
+      "name": "Voltaic Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff03.webp",
+      "requirements": "Requires: Level 2, 7 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Lightning Bolt"
+      ]
+    },
+    {
+      "name": "Spriggan Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff04.webp",
+      "requirements": "Requires: Level 11, 23 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Firebolt"
+      ]
+    },
+    {
+      "name": "Pyrophyte Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "requirements": "Requires: Level 16, 31 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Solar Orb"
+      ]
+    },
+    {
+      "name": "Chiming Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+      "requirements": "Requires: Level 25, 46 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Sigil of Power"
+      ]
+    },
+    {
+      "name": "Rending Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff07.webp",
+      "requirements": "Requires: Level 33, 60 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Soulrend"
+      ]
+    },
+    {
+      "name": "Reaping Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff08.webp",
+      "requirements": "Requires: Level 38, 69 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Reap"
+      ]
+    },
+    {
+      "name": "Icicle Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff09.webp",
+      "requirements": "Requires: Level 45, 80 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Firebolt"
+      ]
+    },
+    {
+      "name": "Roaring Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff10.webp",
+      "requirements": "Requires: Level 49, 87 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Unleash"
+      ]
+    },
+    {
+      "name": "Paralysing Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff11.webp",
+      "requirements": "Requires: Level 52, 92 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Enervating Nova"
+      ]
+    },
+    {
+      "name": "Sanctified Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff12.webp",
+      "requirements": "Requires: Level 56, 99 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Consecrate"
+      ]
+    },
+    {
+      "name": "Dark Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff13.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Dark Pact"
+      ]
+    },
+    {
+      "name": "Ravenous Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Feast of Flesh"
+      ]
+    },
+    {
+      "name": "Permafrost Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.webp",
+      "requirements": "Requires: Level 75, 131 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Heart of Ice"
+      ]
+    },
+    {
+      "name": "Reflecting Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.webp",
+      "requirements": "Requires: Level 70, 123 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Mirror of Refraction"
+      ]
+    },
+    {
+      "name": "Perching Staff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff07.webp",
+      "requirements": "Requires: Level 65, 114 Int",
+      "properties": [],
+      "implicits": [
+        "Grants Skill: Spiraling Conspiracy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Claws",
+  "items": [
+    {
+      "name": "Crude Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 4-10",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pict Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw02.webp",
+      "requirements": "Requires: Level 6, 14 Dex",
+      "properties": [
+        "Physical Damage: 4-16",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wolfbone Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw03.webp",
+      "requirements": "Requires: Level 12, 24 Dex",
+      "properties": [
+        "Physical Damage: 7-23",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": [
+        "Grants 8 Life per Enemy Hit"
+      ]
+    },
+    {
+      "name": "Forked Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw04.webp",
+      "requirements": "Requires: Level 16, 31 Dex",
+      "properties": [
+        "Physical Damage: 10-26",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Plated Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw05.webp",
+      "requirements": "Requires: Level 22, 41 Dex",
+      "properties": [
+        "Physical Damage: 13-31",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Edged Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw06.webp",
+      "requirements": "Requires: Level 28, 52 Dex",
+      "properties": [
+        "Physical Damage: 11-38",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": [
+        "(15—25)% chance to Blind Enemies on hit"
+      ]
+    },
+    {
+      "name": "Arced Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw07.webp",
+      "requirements": "Requires: Level 33, 60 Dex",
+      "properties": [
+        "Physical Damage: 12-46",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hooked Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw08.webp",
+      "requirements": "Requires: Level 36, 65 Dex",
+      "properties": [
+        "Physical Damage: 16-49",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Razorglass Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw09.webp",
+      "requirements": "Requires: Level 45, 80 Dex",
+      "properties": [
+        "Physical Damage: 23-54",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sharktooth Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw10.webp",
+      "requirements": "Requires: Level 49, 87 Dex",
+      "properties": [
+        "Physical Damage: 25-52",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.7",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Armoured Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw11.webp",
+      "requirements": "Requires: Level 52, 92 Dex",
+      "properties": [
+        "Physical Damage: 27-63",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Piercing Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw12.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Physical Damage: 23-68",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Talon Claw",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Basetypes/Claw13.webp",
+      "requirements": "Requires: Level 65, 114 Dex",
+      "properties": [
+        "Physical Damage: 23-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.65",
+        "Weapon Range: 1.1"
+      ],
+      "implicits": []
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Talismans",
+  "items": [
+    {
+      "name": "Changeling Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ChangelingTalisman.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 9-15",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Nettle Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/NettleTalisman.webp",
+      "requirements": "Requires: Level 5, 9 Str, 8 Int",
+      "properties": [
+        "Physical Damage: 12-20",
+        "Critical Hit Chance: 11%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cinderbark Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/CinderbarkTalisman.webp",
+      "requirements": "Requires: Level 10, 15 Str, 11 Int",
+      "properties": [
+        "Physical Damage: 12.6-25.2",
+        "Fire Damage: 5.4-10.8",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "(50—80)% increased Flammability Magnitudelocal weapon implicit hidden % base damage is fire [30]"
+      ]
+    },
+    {
+      "name": "Familial Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FamilialTalisman.webp",
+      "requirements": "Requires: Level 16, 21 Str, 16 Int",
+      "properties": [
+        "Physical Damage: 20-34",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "Minions deal (30—50)% increased Damage"
+      ]
+    },
+    {
+      "name": "Frenzied Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FrenziedTalisman.webp",
+      "requirements": "Requires: Level 22, 28 Str, 20 Int",
+      "properties": [
+        "Physical Damage: 23-38",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Primal Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/PrimalTalisman.webp",
+      "requirements": "Requires: Level 28, 34 Str, 25 Int",
+      "properties": [
+        "Physical Damage: 31-46",
+        "Critical Hit Chance: 9%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(14—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Rabid Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/RabidTalisman.webp",
+      "requirements": "Requires: Level 34, 40 Str, 29 Int",
+      "properties": [
+        "Physical Damage: 31-58",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(7—10) to Maximum Rage"
+      ]
+    },
+    {
+      "name": "Vicious Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ViciousTalisman.webp",
+      "requirements": "Requires: Level 40, 47 Str, 34 Int",
+      "properties": [
+        "Physical Damage: 43-71",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Voltfang Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/VoltfangTalisman.webp",
+      "requirements": "Requires: Level 46, 53 Str, 38 Int",
+      "properties": [
+        "Physical Damage: 16.1-91",
+        "Lightning Damage: 6.9-39",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "(20—30)% increased Magnitude of Shock you inflictlocal weapon implicit hidden % base damage is lightning [30]"
+      ]
+    },
+    {
+      "name": "Lumbering Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/LumberingTalisman.webp",
+      "requirements": "Requires: Level 52, 60 Str, 43 Int",
+      "properties": [
+        "Physical Damage: 71-107",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Roaring Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/RoaringTalisman.webp",
+      "requirements": "Requires: Level 58, 66 Str, 47 Int",
+      "properties": [
+        "Physical Damage: 57-96",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(7—10) to Maximum Rage"
+      ]
+    },
+    {
+      "name": "Wingbeat Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/WingbeatTalisman.webp",
+      "requirements": "Requires: Level 65, 74 Str, 52 Int",
+      "properties": [
+        "Physical Damage: 45-83",
+        "Critical Hit Chance: 7%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Condemned Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/CondemnedTalisman.webp",
+      "requirements": "Requires: Level 65, 74 Str, 52 Int",
+      "properties": [
+        "Physical Damage: 68-113",
+        "Critical Hit Chance: 9%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "(10—20)% increased Effect of your Mark Skills"
+      ]
+    },
+    {
+      "name": "Howling Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/PrimalTalisman.webp",
+      "requirements": "Requires: Level 55, 63 Str, 45 Int",
+      "properties": [
+        "Physical Damage: 52-78",
+        "Critical Hit Chance: 9%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(14—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Fury Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/RabidTalisman.webp",
+      "requirements": "Requires: Level 59, 67 Str, 48 Int",
+      "properties": [
+        "Physical Damage: 49-91",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(7—10) to Maximum Rage"
+      ]
+    },
+    {
+      "name": "Cruel Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ViciousTalisman.webp",
+      "requirements": "Requires: Level 63, 72 Str, 51 Int",
+      "properties": [
+        "Physical Damage: 62-103",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Changeling Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ChangelingTalisman.webp",
+      "requirements": "Requires: Level 38, 45 Str, 32 Int",
+      "properties": [
+        "Physical Damage: 91-151",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Nettle Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/NettleTalisman.webp",
+      "requirements": "Requires: Level 38, 45 Str, 32 Int",
+      "properties": [
+        "Physical Damage: 51-86",
+        "Critical Hit Chance: 11%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Nettle Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/NettleTalisman.webp",
+      "requirements": "Requires: Level 55, 63 Str, 45 Int",
+      "properties": [
+        "Physical Damage: 68-114",
+        "Critical Hit Chance: 11%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Familial Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FamilialTalisman.webp",
+      "requirements": "Requires: Level 38, 45 Str, 32 Int",
+      "properties": [
+        "Physical Damage: 54-91",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "Minions deal (30—50)% increased Damage"
+      ]
+    },
+    {
+      "name": "Runemastered Familial Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FamilialTalisman.webp",
+      "requirements": "Requires: Level 55, 63 Str, 45 Int",
+      "properties": [
+        "Physical Damage: 73-122",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "Minions deal (51—100)% increased Damage"
+      ]
+    },
+    {
+      "name": "Runeforged Vicious Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ViciousTalisman.webp",
+      "requirements": "Requires: Level 65, 74 Str, 52 Int",
+      "properties": [
+        "Physical Damage: 123-205",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spiny Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/NettleTalisman.webp",
+      "requirements": "Requires: Level 67, 86 Str, 65 Int",
+      "properties": [
+        "Physical Damage: 60-99",
+        "Critical Hit Chance: 11%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ashbark Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/CinderbarkTalisman.webp",
+      "requirements": "Requires: Level 72, 94 Str, 67 Int",
+      "properties": [
+        "Physical Damage: 50.4-105",
+        "Fire Damage: 21.6-45",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "(50—80)% increased Flammability Magnitudelocal weapon implicit hidden % base damage is fire [30]"
+      ]
+    },
+    {
+      "name": "Fang Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FamilialTalisman.webp",
+      "requirements": "Requires: Level 77, 89 Str, 68 Int",
+      "properties": [
+        "Physical Damage: 70-116",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "Minions deal (30—50)% increased Damage"
+      ]
+    },
+    {
+      "name": "Fungal Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/FrenziedTalisman.webp",
+      "requirements": "Requires: Level 78, 96 Str, 70 Int",
+      "properties": [
+        "Physical Damage: 59-98",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Alpha Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/PrimalTalisman.webp",
+      "requirements": "Requires: Level 75, 98 Str, 72 Int",
+      "properties": [
+        "Physical Damage: 63-94",
+        "Critical Hit Chance: 9%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(14—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Maji Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/RabidTalisman.webp",
+      "requirements": "Requires: Level 79, 100 Str, 67 Int",
+      "properties": [
+        "Physical Damage: 61-114",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "+(7—10) to Maximum Rage"
+      ]
+    },
+    {
+      "name": "Wildwood Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/ViciousTalisman.webp",
+      "requirements": "Requires: Level 70, 98 Str, 72 Int",
+      "properties": [
+        "Physical Damage: 67-112",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.25",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Thunder Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/VoltfangTalisman.webp",
+      "requirements": "Requires: Level 77, 102 Str, 72 Int",
+      "properties": [
+        "Physical Damage: 23.1-130.9",
+        "Lightning Damage: 9.9-56.1",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": [
+        "(20—30)% increased Magnitude of Shock you inflictlocal weapon implicit hidden % base damage is lightning [30]"
+      ]
+    },
+    {
+      "name": "Jade Talisman",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Talismans/LumberingTalisman.webp",
+      "requirements": "Requires: Level 78, 109 Str, 65 Int",
+      "properties": [
+        "Physical Damage: 101-151",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.2"
+      ],
+      "implicits": []
+    }
+  ]
+}

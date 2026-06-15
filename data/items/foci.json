@@ -1,0 +1,490 @@
+{
+  "category": "Off-hand",
+  "item_class": "Foci",
+  "items": [
+    {
+      "name": "Twig Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 12"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Woven Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus02.webp",
+      "requirements": "Requires: Level 6, 11 Int",
+      "properties": [
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Antler Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 10, 17 Int",
+      "properties": [
+        "Energy Shield: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Engraved Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus04.webp",
+      "requirements": "Requires: Level 16, 25 Int",
+      "properties": [
+        "Energy Shield: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tonal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus05.webp",
+      "requirements": "Requires: Level 22, 33 Int",
+      "properties": [
+        "Energy Shield: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crystal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 26, 38 Int",
+      "properties": [
+        "Energy Shield: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Voodoo Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp",
+      "requirements": "Requires: Level 33, 48 Int",
+      "properties": [
+        "Energy Shield: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Plumed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 36, 52 Int",
+      "properties": [
+        "Energy Shield: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus09.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Whorl Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus10.webp",
+      "requirements": "Requires: Level 51, 73 Int",
+      "properties": [
+        "Energy Shield: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 52, 74 Int",
+      "properties": [
+        "Energy Shield: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Attuned Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 57, 81 Int",
+      "properties": [
+        "Energy Shield: 51"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Magus Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wreath Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus02.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Staghorn Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 48, 69 Int",
+      "properties": [
+        "Energy Shield: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jingling Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus05.webp",
+      "requirements": "Requires: Level 51, 73 Int",
+      "properties": [
+        "Energy Shield: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Arrayed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 54, 77 Int",
+      "properties": [
+        "Energy Shield: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cultist Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp",
+      "requirements": "Requires: Level 59, 83 Int",
+      "properties": [
+        "Energy Shield: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hallowed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 61, 86 Int",
+      "properties": [
+        "Energy Shield: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Druidic Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 62"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Leyline Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 70, 99 Int",
+      "properties": [
+        "Energy Shield: 71"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sacred Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 75, 107 Int",
+      "properties": [
+        "Energy Shield: 81"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tasalian Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus10.webp",
+      "requirements": "Requires: Level 80, 115 Int",
+      "properties": [
+        "Energy Shield: 91"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Twig Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 12",
+        "Runic Ward: 12"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Woven Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus02.webp",
+      "requirements": "Requires: Level 6, 11 Int",
+      "properties": [
+        "Energy Shield: 15",
+        "Runic Ward: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Antler Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 10, 17 Int",
+      "properties": [
+        "Energy Shield: 18",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Engraved Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus04.webp",
+      "requirements": "Requires: Level 16, 25 Int",
+      "properties": [
+        "Energy Shield: 22",
+        "Runic Ward: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tonal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus05.webp",
+      "requirements": "Requires: Level 22, 33 Int",
+      "properties": [
+        "Energy Shield: 26",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Crystal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 26, 38 Int",
+      "properties": [
+        "Energy Shield: 29",
+        "Runic Ward: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Voodoo Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp",
+      "requirements": "Requires: Level 33, 48 Int",
+      "properties": [
+        "Energy Shield: 34",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Plumed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 36, 52 Int",
+      "properties": [
+        "Energy Shield: 36",
+        "Runic Ward: 30"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Runed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus09.webp",
+      "requirements": "Requires: Level 45, 64 Int",
+      "properties": [
+        "Energy Shield: 42",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Whorl Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus10.webp",
+      "requirements": "Requires: Level 51, 73 Int",
+      "properties": [
+        "Energy Shield: 47",
+        "Runic Ward: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elegant Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 52, 74 Int",
+      "properties": [
+        "Runic Ward: 146"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Attuned Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 57, 81 Int",
+      "properties": [
+        "Runic Ward: 157"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Magus Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Runic Ward: 176"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Arrayed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 54, 77 Int",
+      "properties": [
+        "Energy Shield: 41",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cultist Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp",
+      "requirements": "Requires: Level 59, 83 Int",
+      "properties": [
+        "Energy Shield: 50",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hallowed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 61, 86 Int",
+      "properties": [
+        "Energy Shield: 40",
+        "Runic Ward: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Druidic Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 65, 91 Int",
+      "properties": [
+        "Energy Shield: 51",
+        "Runic Ward: 62"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Leyline Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 70, 99 Int",
+      "properties": [
+        "Energy Shield: 39",
+        "Runic Ward: 114"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sacred Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 75, 107 Int",
+      "properties": [
+        "Energy Shield: 65",
+        "Runic Ward: 53"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tasalian Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus10.webp",
+      "requirements": "Requires: Level 80, 115 Int",
+      "properties": [
+        "Energy Shield: 24",
+        "Runic Ward: 181"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Twig Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus01.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 38",
+        "Runic Ward: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Woven Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus02.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 23",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Antler Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus03.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 23",
+        "Runic Ward: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Engraved Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus04.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 38",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tonal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus05.webp",
+      "requirements": "Requires: Level 38, 54 Int",
+      "properties": [
+        "Energy Shield: 19",
+        "Runic Ward: 57"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Crystal Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus06.webp",
+      "requirements": "Requires: Level 40, 58 Int",
+      "properties": [
+        "Energy Shield: 23",
+        "Runic Ward: 47"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Voodoo Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus07.webp",
+      "requirements": "Requires: Level 55, 78 Int",
+      "properties": [
+        "Energy Shield: 40",
+        "Runic Ward: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Plumed Focus",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Foci/Basetypes/Focus08.webp",
+      "requirements": "Requires: Level 75, 91 Int",
+      "properties": [
+        "Energy Shield: 23",
+        "Runic Ward: 106"
+      ],
+      "implicits": []
+    }
+  ]
+}

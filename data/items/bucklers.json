@@ -1,0 +1,656 @@
+{
+  "category": "Off-hand",
+  "item_class": "Bucklers",
+  "items": [
+    {
+      "name": "Leather Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 10"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Wooden Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler02.webp",
+      "requirements": "Requires: Level 5, 10 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 18"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Plated Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 11, 18 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 31"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Iron Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler04.webp",
+      "requirements": "Requires: Level 16, 25 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 42"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Ridged Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler05.webp",
+      "requirements": "Requires: Level 22, 33 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 55"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Spiked Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 26, 38 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 64"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Ringed Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler07.webp",
+      "requirements": "Requires: Level 33, 48 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 79"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Edged Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 39, 56 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 92"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Laminate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler09.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 105"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Pearl Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler10.webp",
+      "requirements": "Requires: Level 50, 71 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 116"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Ornate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler11.webp",
+      "requirements": "Requires: Level 52, 74 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 120"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Array Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler12.webp",
+      "requirements": "Requires: Level 55, 78 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 126"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Aegis Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler13.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 148"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Oak Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler02.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 105"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Painted Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 48, 69 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 111"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Coiled Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler05.webp",
+      "requirements": "Requires: Level 51, 73 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 118"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Spikeward Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 54, 77 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 124"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Jingling Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler07.webp",
+      "requirements": "Requires: Level 59, 83 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 135"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Bladeguard Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 61, 86 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 139"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Ornate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 148"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Gutspike Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 70, 99 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 163"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Ancient Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 75, 107 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 178"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Desert Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler09.webp",
+      "requirements": "Requires: Level 80, 115 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 192"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Leather Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler01.webp",
+      "requirements": "",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 10",
+        "Runic Ward: 10"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Wooden Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler02.webp",
+      "requirements": "Requires: Level 5, 10 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 18",
+        "Runic Ward: 11"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Plated Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 11, 18 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 31",
+        "Runic Ward: 14"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Iron Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler04.webp",
+      "requirements": "Requires: Level 16, 25 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 42",
+        "Runic Ward: 17"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Ridged Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler05.webp",
+      "requirements": "Requires: Level 22, 33 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 55",
+        "Runic Ward: 21"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Spiked Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 26, 38 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 64",
+        "Runic Ward: 20"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Ringed Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler07.webp",
+      "requirements": "Requires: Level 33, 48 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 79",
+        "Runic Ward: 24"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Edged Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 39, 56 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 92",
+        "Runic Ward: 28"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Laminate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler09.webp",
+      "requirements": "Requires: Level 45, 64 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 105",
+        "Runic Ward: 29"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Pearl Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler10.webp",
+      "requirements": "Requires: Level 50, 71 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 116",
+        "Runic Ward: 29"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Ornate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler11.webp",
+      "requirements": "Requires: Level 52, 74 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Runic Ward: 117"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Array Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler12.webp",
+      "requirements": "Requires: Level 55, 78 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Runic Ward: 122"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Aegis Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler13.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Runic Ward: 141"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Spikeward Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 54, 77 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 99",
+        "Runic Ward: 42"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Jingling Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler07.webp",
+      "requirements": "Requires: Level 59, 83 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 122",
+        "Runic Ward: 32"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Bladeguard Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 61, 86 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 104",
+        "Runic Ward: 47"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Ornate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 65, 91 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 133",
+        "Runic Ward: 35"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Gutspike Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 70, 99 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 96",
+        "Runic Ward: 85"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Ancient Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler08.webp",
+      "requirements": "Requires: Level 75, 107 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 148",
+        "Runic Ward: 35"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runeforged Desert Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler09.webp",
+      "requirements": "Requires: Level 80, 115 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 59",
+        "Runic Ward: 134"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Leather Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler01.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 108",
+        "Runic Ward: 36"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Wooden Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler02.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 90",
+        "Runic Ward: 18"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Plated Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler03.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 67",
+        "Runic Ward: 23"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Iron Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler04.webp",
+      "requirements": "Requires: Level 38, 54 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 45",
+        "Runic Ward: 45"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Ridged Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler05.webp",
+      "requirements": "Requires: Level 40, 58 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 66",
+        "Runic Ward: 28"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Spiked Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler06.webp",
+      "requirements": "Requires: Level 40, 58 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 61",
+        "Runic Ward: 33"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Ornate Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler11.webp",
+      "requirements": "Requires: Level 55, 78 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 114",
+        "Runic Ward: 12"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Array Buckler",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Buckler12.webp",
+      "requirements": "Requires: Level 60, 85 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 103",
+        "Runic Ward: 33"
+      ],
+      "implicits": [
+        "Grants Skill: Parry"
+      ]
+    },
+    {
+      "name": "Runemastered Venerable Defender",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Offhand/Shields/Shield10.webp",
+      "requirements": "Requires: Level 65, 107 Dex",
+      "properties": [
+        "Block chance: 20%",
+        "Evasion Rating: 148",
+        "Runic Ward: 42"
+      ],
+      "implicits": [
+        "Grants Skill: Raise Shield"
+      ]
+    }
+  ]
+}

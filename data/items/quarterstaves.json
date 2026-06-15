@@ -1,0 +1,508 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Quarterstaves",
+  "items": [
+    {
+      "name": "Wrapped Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 7-12",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Long Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff02.webp",
+      "requirements": "Requires: Level 4, 9 Dex",
+      "properties": [
+        "Physical Damage: 9-18",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "16% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Gothic Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff03.webp",
+      "requirements": "Requires: Level 11, 18 Dex, 9 Int",
+      "properties": [
+        "Physical Damage: 16-26",
+        "Critical Hit Chance: 12%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crackling Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff04.webp",
+      "requirements": "Requires: Level 16, 25 Dex, 12 Int",
+      "properties": [
+        "Physical Damage: 5-22",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum lightning damage [35]local weapon implicit hidden added minimum lightning damage [1]"
+      ]
+    },
+    {
+      "name": "Crescent Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff05.webp",
+      "requirements": "Requires: Level 20, 30 Dex, 14 Int",
+      "properties": [
+        "Physical Damage: 19-39",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Steelpoint Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff06.webp",
+      "requirements": "Requires: Level 28, 41 Dex, 18 Int",
+      "properties": [
+        "Physical Damage: 28-51",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Slicing Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff07.webp",
+      "requirements": "Requires: Level 33, 47 Dex, 20 Int",
+      "properties": [
+        "Physical Damage: 29-60",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Barrier Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff08.webp",
+      "requirements": "Requires: Level 37, 52 Dex, 22 Int",
+      "properties": [
+        "Physical Damage: 35-58",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(12—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Hefty Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff09.webp",
+      "requirements": "Requires: Level 45, 63 Dex, 26 Int",
+      "properties": [
+        "Physical Damage: 39-81",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "(20—50)% chance to Daze on Hit"
+      ]
+    },
+    {
+      "name": "Smooth Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 49, 68 Dex, 28 Int",
+      "properties": [
+        "Physical Damage: 59-79",
+        "Critical Hit Chance: 0%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Anima Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff01.webp",
+      "requirements": "Requires: Level 52, 72 Dex, 29 Int",
+      "properties": [
+        "Physical Damage: 47-79",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Graceful Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff01.webp",
+      "requirements": "Requires: Level 56, 77 Dex, 31 Int",
+      "properties": [
+        "Physical Damage: 47-87",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Wyrm Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff01.webp",
+      "requirements": "Requires: Level 65, 89 Dex, 36 Int",
+      "properties": [
+        "Physical Damage: 57-94",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Reaching Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff02.webp",
+      "requirements": "Requires: Level 45, 63 Dex, 26 Int",
+      "properties": [
+        "Physical Damage: 35-72",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "16% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Barbarous Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff03.webp",
+      "requirements": "Requires: Level 48, 67 Dex, 27 Int",
+      "properties": [
+        "Physical Damage: 42-71",
+        "Critical Hit Chance: 12%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Arcing Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff04.webp",
+      "requirements": "Requires: Level 51, 71 Dex, 29 Int",
+      "properties": [
+        "Physical Damage: 14-55",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum lightning damage [75]local weapon implicit hidden added minimum lightning damage [1]"
+      ]
+    },
+    {
+      "name": "Waxing Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff05.webp",
+      "requirements": "Requires: Level 54, 75 Dex, 30 Int",
+      "properties": [
+        "Physical Damage: 39-82",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bladed Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff07.webp",
+      "requirements": "Requires: Level 59, 81 Dex, 33 Int",
+      "properties": [
+        "Physical Damage: 45-94",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Guardian Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff08.webp",
+      "requirements": "Requires: Level 62, 85 Dex, 34 Int",
+      "properties": [
+        "Physical Damage: 52-86",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(12—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Runeforged Wrapped Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff01.webp",
+      "requirements": "Requires: Level 38, 54 Dex, 23 Int",
+      "properties": [
+        "Physical Damage: 93-155",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "50% increased Magnitude of Bleeding you inflict"
+      ]
+    },
+    {
+      "name": "Runeforged Long Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff02.webp",
+      "requirements": "Requires: Level 38, 54 Dex, 23 Int",
+      "properties": [
+        "Physical Damage: 21-43",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "16% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Runemastered Long Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff02.webp",
+      "requirements": "Requires: Level 55, 76 Dex, 31 Int",
+      "properties": [
+        "Cold Damage: 43-89",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "16% increased Melee Strike Range with this weapon",
+        "local weapon implicit hidden % base damage is cold [100]"
+      ]
+    },
+    {
+      "name": "Runeforged Gothic Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff03.webp",
+      "requirements": "Requires: Level 38, 54 Dex, 23 Int",
+      "properties": [
+        "Fire Damage: 80-134",
+        "Critical Hit Chance: 12%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [100]"
+      ]
+    },
+    {
+      "name": "Runemastered Gothic Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff03.webp",
+      "requirements": "Requires: Level 55, 76 Dex, 31 Int",
+      "properties": [
+        "Fire Damage: 118-196",
+        "Critical Hit Chance: 12%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is fire [100]",
+        "Ignites you inflict deal Damage (30—40)% faster"
+      ]
+    },
+    {
+      "name": "Runeforged Crescent Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff05.webp",
+      "requirements": "Requires: Level 40, 56 Dex, 23 Int",
+      "properties": [
+        "Cold Damage: 39-81",
+        "Lightning Damage: 39-81",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [50]",
+        "local weapon implicit hidden % base damage is lightning [50]"
+      ]
+    },
+    {
+      "name": "Runeforged Steelpoint Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff06.webp",
+      "requirements": "Requires: Level 40, 56 Dex, 23 Int",
+      "properties": [
+        "Physical Damage: 90-167",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sinister Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff03.webp",
+      "requirements": "Requires: Level 67, 104 Dex, 41 Int",
+      "properties": [
+        "Physical Damage: 55-91",
+        "Critical Hit Chance: 12%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lunar Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff05.webp",
+      "requirements": "Requires: Level 72, 115 Dex, 46 Int",
+      "properties": [
+        "Physical Damage: 50-103",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Striking Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff02.webp",
+      "requirements": "Requires: Level 77, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 53-111",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "16% increased Melee Strike Range with this weapon"
+      ]
+    },
+    {
+      "name": "Bolting Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff04.webp",
+      "requirements": "Requires: Level 78, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 24-97",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum lightning damage [100]local weapon implicit hidden added minimum lightning damage [1]"
+      ]
+    },
+    {
+      "name": "Aegis Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff08.webp",
+      "requirements": "Requires: Level 79, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 58-97",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(12—18)% to Block chance"
+      ]
+    },
+    {
+      "name": "Razor Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff07.webp",
+      "requirements": "Requires: Level 77, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 65-108",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Skullcrusher Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff09.webp",
+      "requirements": "Requires: Level 75, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 59-122",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "(20—50)% chance to Daze on Hit"
+      ]
+    },
+    {
+      "name": "Dreaming Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 78, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 99-133",
+        "Critical Hit Chance: 0%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warding Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 65, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 51-85",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(30—50) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Warding Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 65, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 51-85",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.6",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(30—50) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Warding Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 65, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 51-85",
+        "Critical Hit Chance: 15%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(30—50) to maximum Runic Ward"
+      ]
+    },
+    {
+      "name": "Runemastered Warding Quarterstaff",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/WarStaves/Warstaff10.webp",
+      "requirements": "Requires: Level 65, 127 Dex, 50 Int",
+      "properties": [
+        "Physical Damage: 85-141",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.4"
+      ],
+      "implicits": [
+        "+(30—50) to maximum Runic Ward"
+      ]
+    }
+  ]
+}

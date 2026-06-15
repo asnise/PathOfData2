@@ -1,0 +1,105 @@
+{
+  "category": "Flasks",
+  "item_class": "Mana Flasks",
+  "items": [
+    {
+      "name": "Lesser Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana01.webp",
+      "requirements": "",
+      "properties": [
+        "Recovers 50 Mana over 2 Second",
+        "Consumes 10 of 60 Charges on use",
+        "Currently has 60 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Medium Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana02.webp",
+      "requirements": "Requires: Level 4",
+      "properties": [
+        "Recovers 70 Mana over 3 Second",
+        "Consumes 10 of 65 Charges on use",
+        "Currently has 65 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Greater Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana03.webp",
+      "requirements": "Requires: Level 10",
+      "properties": [
+        "Recovers 90 Mana over 2.5 Second",
+        "Consumes 10 of 70 Charges on use",
+        "Currently has 70 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana04.webp",
+      "requirements": "Requires: Level 16",
+      "properties": [
+        "Recovers 110 Mana over 2.5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Giant Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana05.webp",
+      "requirements": "Requires: Level 23",
+      "properties": [
+        "Recovers 165 Mana over 3.5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Colossal Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana06.webp",
+      "requirements": "Requires: Level 30",
+      "properties": [
+        "Recovers 165 Mana over 2.5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gargantuan Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [
+        "Recovers 185 Mana over 2 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Transcendent Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana08.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [
+        "Recovers 285 Mana over 3.5 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ultimate Mana Flask",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Flasks/Basetypes/FlaskMana09.webp",
+      "requirements": "Requires: Level 60",
+      "properties": [
+        "Recovers 310 Mana over 3 Second",
+        "Consumes 10 of 75 Charges on use",
+        "Currently has 75 Charges"
+      ],
+      "implicits": []
+    }
+  ]
+}

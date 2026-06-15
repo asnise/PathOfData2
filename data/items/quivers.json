@@ -1,0 +1,105 @@
+{
+  "category": "Off-hand",
+  "item_class": "Quivers",
+  "items": [
+    {
+      "name": "Broadhead Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverBroadhead.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "Adds 1 to 3 Physical Damage to Attacks"
+      ]
+    },
+    {
+      "name": "Fire Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverFire.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "Adds 3 to 5 Fire damage to Attacks"
+      ]
+    },
+    {
+      "name": "Sacral Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverSacral.webp",
+      "requirements": "Requires: Level 16",
+      "properties": [],
+      "implicits": [
+        "Gain (2—3) Life per Enemy Hit with Attacks"
+      ]
+    },
+    {
+      "name": "Two-Point Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverTwoPoint.webp",
+      "requirements": "Requires: Level 24",
+      "properties": [],
+      "implicits": [
+        "(20—30)% increased Accuracy Rating"
+      ]
+    },
+    {
+      "name": "Blunt Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverBlunt.webp",
+      "requirements": "Requires: Level 33",
+      "properties": [],
+      "implicits": [
+        "(25—40)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Toxic Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverToxic.webp",
+      "requirements": "Requires: Level 39",
+      "properties": [],
+      "implicits": [
+        "(20—30)% chance to Poison on Hit with Attacks"
+      ]
+    },
+    {
+      "name": "Serrated Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverSerrated.webp",
+      "requirements": "Requires: Level 44",
+      "properties": [],
+      "implicits": [
+        "Attacks have (20—30)% chance to cause Bleeding"
+      ]
+    },
+    {
+      "name": "Primed Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverPrimed.webp",
+      "requirements": "Requires: Level 51",
+      "properties": [],
+      "implicits": [
+        "(7—10)% increased Attack Speed"
+      ]
+    },
+    {
+      "name": "Penetrating Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverPenetrating.webp",
+      "requirements": "Requires: Level 55",
+      "properties": [],
+      "implicits": [
+        "100% chance to Pierce an Enemy"
+      ]
+    },
+    {
+      "name": "Volant Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverVolant.webp",
+      "requirements": "Requires: Level 61",
+      "properties": [],
+      "implicits": [
+        "(20—30)% increased Arrow Speed"
+      ]
+    },
+    {
+      "name": "Visceral Quiver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Quivers/Basetypes/QuiverVisceral.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [],
+      "implicits": [
+        "(20—30)% increased Critical Hit Chance for Attacks"
+      ]
+    }
+  ]
+}

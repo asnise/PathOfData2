@@ -1,0 +1,410 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Bows",
+  "items": [
+    {
+      "name": "Crude Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 6-9",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow02.webp",
+      "requirements": "Requires: Level 5, 12 Dex",
+      "properties": [
+        "Physical Damage: 7-14",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Warden Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow03.webp",
+      "requirements": "Requires: Level 11, 23 Dex",
+      "properties": [
+        "Physical Damage: 12-20",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "(25—35)% chance to Chain an additional time"
+      ]
+    },
+    {
+      "name": "Recurve Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow04.webp",
+      "requirements": "Requires: Level 16, 31 Dex",
+      "properties": [
+        "Physical Damage: 15-31",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Composite Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow05.webp",
+      "requirements": "Requires: Level 22, 41 Dex",
+      "properties": [
+        "Physical Damage: 19-31",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dualstring Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow06.webp",
+      "requirements": "Requires: Level 28, 52 Dex",
+      "properties": [
+        "Physical Damage: 19-35",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "+50% Surpassing chance to fire an additional Arrow"
+      ]
+    },
+    {
+      "name": "Cultist Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow07.webp",
+      "requirements": "Requires: Level 33, 60 Dex",
+      "properties": [
+        "Physical Damage: 22-36",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum chaos damage [19]local weapon implicit hidden added minimum chaos damage [7]"
+      ]
+    },
+    {
+      "name": "Zealot Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow08.webp",
+      "requirements": "Requires: Level 39, 70 Dex",
+      "properties": [
+        "Physical Damage: 31-47",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Artillery Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow09.webp",
+      "requirements": "Requires: Level 45, 80 Dex",
+      "properties": [
+        "Physical Damage: 39-72",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1"
+      ],
+      "implicits": [
+        "50% reduced Projectile Range"
+      ]
+    },
+    {
+      "name": "Tribal Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow10.webp",
+      "requirements": "Requires: Level 50, 89 Dex",
+      "properties": [
+        "Physical Damage: 38-57",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Greatbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow01.webp",
+      "requirements": "Requires: Level 52, 92 Str, 92 Dex",
+      "properties": [
+        "Physical Damage: 40-82",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Double Limb Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow12.webp",
+      "requirements": "Requires: Level 56, 99 Dex",
+      "properties": [
+        "Physical Damage: 42-63",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heavy Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow13.webp",
+      "requirements": "Requires: Level 65, 114 Dex",
+      "properties": [
+        "Physical Damage: 45-75",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Snakewood Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow02.webp",
+      "requirements": "Requires: Level 45, 80 Dex",
+      "properties": [
+        "Physical Damage: 29-54",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Protector Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow03.webp",
+      "requirements": "Requires: Level 48, 86 Dex",
+      "properties": [
+        "Physical Damage: 35-53",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "(25—35)% chance to Chain an additional time"
+      ]
+    },
+    {
+      "name": "Rider Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow05.webp",
+      "requirements": "Requires: Level 51, 91 Dex",
+      "properties": [
+        "Physical Damage: 36-61",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Twin Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow06.webp",
+      "requirements": "Requires: Level 54, 96 Dex",
+      "properties": [
+        "Physical Damage: 32-60",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "+50% Surpassing chance to fire an additional Arrow"
+      ]
+    },
+    {
+      "name": "Adherent Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow07.webp",
+      "requirements": "Requires: Level 59, 104 Dex",
+      "properties": [
+        "Physical Damage: 35-59",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum chaos damage [32]local weapon implicit hidden added minimum chaos damage [14]"
+      ]
+    },
+    {
+      "name": "Militant Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow08.webp",
+      "requirements": "Requires: Level 62, 109 Dex",
+      "properties": [
+        "Physical Damage: 46-69",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Crude Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow01.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Chaos Damage: 42-62",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is chaos [100]"
+      ]
+    },
+    {
+      "name": "Runeforged Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow02.webp",
+      "requirements": "Requires: Level 38, 68 Dex",
+      "properties": [
+        "Physical Damage: 30-56",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow03.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Physical Damage: 44-81",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.4"
+      ],
+      "implicits": [
+        "Projectiles have 50% chance for an additional Projectile when Forking"
+      ]
+    },
+    {
+      "name": "Runeforged Recurve Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow04.webp",
+      "requirements": "Requires: Level 40, 72 Dex",
+      "properties": [
+        "Physical Damage: 41-84",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Composite Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow05.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Physical Damage: 53-88",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Dualstring Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow06.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Physical Damage: 45-83",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "+50% Surpassing chance to fire an additional Arrow"
+      ]
+    },
+    {
+      "name": "Runeforged Zealot Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow08.webp",
+      "requirements": "Requires: Level 55, 97 Dex",
+      "properties": [
+        "Physical Damage: 44-67",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum chaos damage [19]local weapon implicit hidden added minimum chaos damage [7]"
+      ]
+    },
+    {
+      "name": "Ironwood Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow02.webp",
+      "requirements": "Requires: Level 67, 134 Dex",
+      "properties": [
+        "Physical Damage: 41-76",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cavalry Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow05.webp",
+      "requirements": "Requires: Level 72, 149 Dex",
+      "properties": [
+        "Physical Damage: 49-82",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Guardian Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow03.webp",
+      "requirements": "Requires: Level 77, 163 Dex",
+      "properties": [
+        "Physical Damage: 53-88",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "(25—35)% chance to Chain an additional time"
+      ]
+    },
+    {
+      "name": "Gemini Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow06.webp",
+      "requirements": "Requires: Level 78, 163 Dex",
+      "properties": [
+        "Physical Damage: 39-72",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.15"
+      ],
+      "implicits": [
+        "+50% Surpassing chance to fire an additional Arrow"
+      ]
+    },
+    {
+      "name": "Fanatic Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow07.webp",
+      "requirements": "Requires: Level 79, 163 Dex",
+      "properties": [
+        "Physical Damage: 47-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": [
+        "local weapon implicit hidden added maximum chaos damage [64]local weapon implicit hidden added minimum chaos damage [28]"
+      ]
+    },
+    {
+      "name": "Warmonger Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow08.webp",
+      "requirements": "Requires: Level 77, 163 Dex",
+      "properties": [
+        "Physical Damage: 56-84",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Obliterator Bow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow09.webp",
+      "requirements": "Requires: Level 78, 163 Dex",
+      "properties": [
+        "Physical Damage: 62-115",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1"
+      ],
+      "implicits": [
+        "50% reduced Projectile Range"
+      ]
+    },
+    {
+      "name": "Heartwood Shortbow",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Basetypes/Bow02.webp",
+      "requirements": "Requires: Level 67, 134 Dex",
+      "properties": [
+        "Physical Damage: 41-76",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.25"
+      ],
+      "implicits": []
+    }
+  ]
+}

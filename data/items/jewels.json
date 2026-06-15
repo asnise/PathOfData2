@@ -1,0 +1,77 @@
+{
+  "category": "Jewels",
+  "item_class": "Jewels",
+  "items": [
+    {
+      "name": "Timeless Jewel",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/Timeless.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Ruby",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/RubyJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Emerald",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/EmeraldJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Sapphire",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SapphireJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Diamond",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/DiamondJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Time-Lost Ruby",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SpecialRubyJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local jewel effect base radius [1000]"
+      ]
+    },
+    {
+      "name": "Time-Lost Emerald",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SpecialEmeraldJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local jewel effect base radius [1000]"
+      ]
+    },
+    {
+      "name": "Time-Lost Sapphire",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/SpecialSapphireJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local jewel effect base radius [1000]"
+      ]
+    },
+    {
+      "name": "Time-Lost Diamond",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Jewels/TimelostDiamondJewel.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local jewel effect base radius [1000]"
+      ]
+    }
+  ]
+}

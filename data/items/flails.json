@@ -1,0 +1,168 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Flails",
+  "items": [
+    {
+      "name": "Splintered Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 6-9",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Chain Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail02.webp",
+      "requirements": "Requires: Level 6, 12 Str",
+      "properties": [
+        "Physical Damage: 8-14",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Holy Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail03.webp",
+      "requirements": "Requires: Level 11, 18 Str, 9 Int",
+      "properties": [
+        "Physical Damage: 10-17",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Iron Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail04.webp",
+      "requirements": "Requires: Level 16, 25 Str, 12 Int",
+      "properties": [
+        "Physical Damage: 14-23",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Twin Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail05.webp",
+      "requirements": "Requires: Level 20, 30 Str, 14 Int",
+      "properties": [
+        "Physical Damage: 8-18",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Bifurcates Critical Hits"
+      ]
+    },
+    {
+      "name": "Slender Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail06.webp",
+      "requirements": "Requires: Level 26, 38 Str, 17 Int",
+      "properties": [
+        "Physical Damage: 19-32",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stone Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail07.webp",
+      "requirements": "Requires: Level 33, 47 Str, 20 Int",
+      "properties": [
+        "Physical Damage: 23-38",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Unblockable"
+      ]
+    },
+    {
+      "name": "Ring Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail08.webp",
+      "requirements": "Requires: Level 38, 54 Str, 23 Int",
+      "properties": [
+        "Physical Damage: 23-44",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Guarded Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail09.webp",
+      "requirements": "Requires: Level 45, 63 Str, 26 Int",
+      "properties": [
+        "Physical Damage: 31-57",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Icicle Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail10.webp",
+      "requirements": "Requires: Level 47, 66 Str, 27 Int",
+      "properties": [
+        "Cold Damage: 24-55",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [100]"
+      ]
+    },
+    {
+      "name": "Tearing Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail11.webp",
+      "requirements": "Requires: Level 52, 72 Str, 29 Int",
+      "properties": [
+        "Physical Damage: 27-56",
+        "Critical Hit Chance: 12.5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Great Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail12.webp",
+      "requirements": "Requires: Level 58, 80 Str, 32 Int",
+      "properties": [
+        "Physical Damage: 35-58",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Abyssal Flail",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Flails/Flail13.webp",
+      "requirements": "Requires: Level 65, 89 Str, 36 Int",
+      "properties": [
+        "Physical Damage: 36-66",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    }
+  ]
+}

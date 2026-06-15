@@ -1,0 +1,170 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "One Hand Axes",
+  "items": [
+    {
+      "name": "Dull Hatchet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 4-10",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hook Axe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe02.webp",
+      "requirements": "Requires: Level 4, 9 Str",
+      "properties": [
+        "Physical Damage: 5-14",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Grants 1 Rage on Hit"
+      ]
+    },
+    {
+      "name": "Bearded Axe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe03.webp",
+      "requirements": "Requires: Level 10, 17 Str, 9 Dex",
+      "properties": [
+        "Physical Damage: 8-21",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.45",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Extended Cleaver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe04.webp",
+      "requirements": "Requires: Level 16, 25 Str, 12 Dex",
+      "properties": [
+        "Physical Damage: 8-25",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Has no Accuracy Penalty from Range"
+      ]
+    },
+    {
+      "name": "Bandit Hatchet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe05.webp",
+      "requirements": "Requires: Level 20, 30 Str, 14 Dex",
+      "properties": [
+        "Physical Damage: 13-31",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crescent Axe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe06.webp",
+      "requirements": "Requires: Level 26, 38 Str, 17 Dex",
+      "properties": [
+        "Physical Damage: 18-37",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.4",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Carving Hatchet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe07.webp",
+      "requirements": "Requires: Level 33, 47 Str, 20 Dex",
+      "properties": [
+        "Physical Damage: 19-44",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sacrificial Axe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe08.webp",
+      "requirements": "Requires: Level 37, 52 Str, 22 Dex",
+      "properties": [
+        "Physical Damage: 20-42",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "Gain (28—35) Mana per enemy killed"
+      ]
+    },
+    {
+      "name": "Boarding Hatchet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe09.webp",
+      "requirements": "Requires: Level 45, 63 Str, 26 Dex",
+      "properties": [
+        "Physical Damage: 24-55",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fury Cleaver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe10.webp",
+      "requirements": "Requires: Level 48, 67 Str, 27 Dex",
+      "properties": [
+        "Physical Damage: 30-62",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.55",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": [
+        "10% increased Damage taken"
+      ]
+    },
+    {
+      "name": "Battle Axe",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe11.webp",
+      "requirements": "Requires: Level 52, 72 Str, 29 Dex",
+      "properties": [
+        "Physical Damage: 28-65",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Profane Cleaver",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe12.webp",
+      "requirements": "Requires: Level 54, 75 Str, 30 Dex",
+      "properties": [
+        "Physical Damage: 26-69",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dread Hatchet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Basetypes/1HAxe13.webp",
+      "requirements": "Requires: Level 65, 89 Str, 36 Dex",
+      "properties": [
+        "Physical Damage: 34-79",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.5",
+        "Weapon Range: 1.3"
+      ],
+      "implicits": []
+    }
+  ]
+}

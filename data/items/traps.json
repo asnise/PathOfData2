@@ -1,0 +1,138 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Traps",
+  "items": [
+    {
+      "name": "Clay Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap01.webp",
+      "requirements": "Requires: Level 2",
+      "properties": [
+        "Throw Time: 0.75 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Clamping Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap02.webp",
+      "requirements": "Requires: Level 6",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Shrapnel Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/TrapRemote01.webp",
+      "requirements": "Requires: Level 10",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Manual"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Urn Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap03.webp",
+      "requirements": "Requires: Level 16",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Incense Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/TrapRemote02.webp",
+      "requirements": "Requires: Level 22",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Manual"
+      ],
+      "implicits": [
+        "(20—30)% increased Cooldown Recovery Rate for throwing Traps"
+      ]
+    },
+    {
+      "name": "Bladed Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap04.webp",
+      "requirements": "Requires: Level 27",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Dart Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/TrapRemote03.webp",
+      "requirements": "Requires: Level 33",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Manual"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spike Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap05.webp",
+      "requirements": "Requires: Level 38",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Coiled Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/TrapRemote04.webp",
+      "requirements": "Requires: Level 45",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Manual"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Lead Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap06.webp",
+      "requirements": "Requires: Level 49",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Medallion Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap07.webp",
+      "requirements": "Requires: Level 52",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Intricate Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/TrapRemote05.webp",
+      "requirements": "Requires: Level 56",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Manual"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Refined Trap",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Traps/Trap08.webp",
+      "requirements": "Requires: Level 65",
+      "properties": [
+        "Throw Time: 0.80 Sec",
+        "Detonation Type: Proximity"
+      ],
+      "implicits": []
+    }
+  ]
+}

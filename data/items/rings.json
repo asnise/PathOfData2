@@ -1,0 +1,265 @@
+{
+  "category": "Jewellery",
+  "item_class": "Rings",
+  "items": [
+    {
+      "name": "Golden Hoop",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/DemigodsBand.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(8—12) to all Attributes"
+      ]
+    },
+    {
+      "name": "Iron Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "Adds 1 to 4 Physical Damage to Attacks"
+      ]
+    },
+    {
+      "name": "Lazuli Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/LazuliRing.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "+(20—30) to maximum Mana"
+      ]
+    },
+    {
+      "name": "Ruby Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/RubyRing.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [],
+      "implicits": [
+        "+(20—30)% to Fire Resistance"
+      ]
+    },
+    {
+      "name": "Sapphire Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(20—30)% to Cold Resistance"
+      ]
+    },
+    {
+      "name": "Topaz Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "requirements": "Requires: Level 16",
+      "properties": [],
+      "implicits": [
+        "+(20—30)% to Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Amethyst Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/AmethystRing.webp",
+      "requirements": "Requires: Level 20",
+      "properties": [],
+      "implicits": [
+        "+(7—13)% to Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Emerald Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/EmeraldRing.webp",
+      "requirements": "Requires: Level 26",
+      "properties": [],
+      "implicits": [
+        "+(120—160) to Accuracy Rating"
+      ]
+    },
+    {
+      "name": "Pearl Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/PearlRing.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [],
+      "implicits": [
+        "(7—10)% increased Cast Speed"
+      ]
+    },
+    {
+      "name": "Prismatic Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/PrismaticRing.webp",
+      "requirements": "Requires: Level 35",
+      "properties": [],
+      "implicits": [
+        "+(7—10)% to all Elemental Resistances"
+      ]
+    },
+    {
+      "name": "Gold Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "(6—15)% increased Rarity of Items found"
+      ]
+    },
+    {
+      "name": "Unset Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/UnsetRing.webp",
+      "requirements": "Requires: Level 44",
+      "properties": [],
+      "implicits": [
+        "Grants 1 additional Skill Slots"
+      ]
+    },
+    {
+      "name": "Abyssal Signet",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "Inflict Abyssal Wasting on Hit"
+      ]
+    },
+    {
+      "name": "Two-Stone Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "requirements": "Requires: Level 35",
+      "properties": [],
+      "implicits": [
+        "+(12—16)% to Fire and Cold Resistances"
+      ]
+    },
+    {
+      "name": "Two-Stone Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "requirements": "Requires: Level 35",
+      "properties": [],
+      "implicits": [
+        "+(12—16)% to Fire and Lightning Resistances"
+      ]
+    },
+    {
+      "name": "Two-Stone Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "requirements": "Requires: Level 35",
+      "properties": [],
+      "implicits": [
+        "+(12—16)% to Cold and Lightning Resistances"
+      ]
+    },
+    {
+      "name": "Biostatic Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_Tul.webp",
+      "requirements": "Requires: Level 52",
+      "properties": [],
+      "implicits": [
+        "+1% to all maximum Resistances"
+      ]
+    },
+    {
+      "name": "Vitalic Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_Xoph.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "(4—6)% increased maximum Life"
+      ]
+    },
+    {
+      "name": "Mnemonic Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_Esh.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "(4—6)% increased maximum Mana"
+      ]
+    },
+    {
+      "name": "Kinetic Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_UulNetol.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "Adds (6—9) to (11—15) Physical Damage to Attacks"
+      ]
+    },
+    {
+      "name": "Oneiric Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_Chayula.webp",
+      "requirements": "Requires: Level 47",
+      "properties": [],
+      "implicits": [
+        "(11—23)% increased Chaos Damage"
+      ]
+    },
+    {
+      "name": "Grasping Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/BreachlordRing_Formless.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "This item gains bonuses from Socketed Items as though it was Gloves"
+      ]
+    },
+    {
+      "name": "Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/MirrorRing.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Dusk Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/LakeRing1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "+1 Prefix Modifier allowed-1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Gloam Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/LakeRing2.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-1 Prefix Modifier allowed+1 Suffix Modifier allowed"
+      ]
+    },
+    {
+      "name": "Penumbra Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/LakeRing3.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "+2 Prefix Modifiers allowed-2 Suffix Modifiers allowed"
+      ]
+    },
+    {
+      "name": "Tenebrous Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/LakeRing4.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "-2 Prefix Modifiers allowed+2 Suffix Modifiers allowed"
+      ]
+    },
+    {
+      "name": "Breach Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/BreachRing.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "+20% to Maximum Quality"
+      ]
+    },
+    {
+      "name": "Refined Breach Ring",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Rings/Basetypes/BreachRing.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [],
+      "implicits": [
+        "+25% to Maximum Quality"
+      ]
+    }
+  ]
+}

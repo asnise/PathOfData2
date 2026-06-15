@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "item_class": "Relics",
+  "items": [
+    {
+      "name": "Urn Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x2.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Amphora Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x3.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Vase Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase1x4.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Seal Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase2x1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Coffer Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase2x2.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Tapestry Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase3x1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Incense Relic",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Relics/RelicBase4x1.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    }
+  ]
+}

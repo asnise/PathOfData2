@@ -1,0 +1,2007 @@
+{
+  "category": "Armour",
+  "item_class": "Gloves",
+  "items": [
+    {
+      "name": "Golden Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/DemigodsTouch.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [],
+      "implicits": [
+        "+(20—30) to maximum Life"
+      ]
+    },
+    {
+      "name": "Stocky Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Riveted Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 11, 16 Str",
+      "properties": [
+        "Armour: 38"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tempered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr03.webp",
+      "requirements": "Requires: Level 16, 22 Str",
+      "properties": [
+        "Armour: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bolstered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 27, 35 Str",
+      "properties": [
+        "Armour: 75"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Moulded Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 33, 42 Str",
+      "properties": [
+        "Armour: 89"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Detailed Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "requirements": "Requires: Level 45, 56 Str",
+      "properties": [
+        "Armour: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Titan Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr07.webp",
+      "requirements": "Requires: Level 52, 64 Str",
+      "properties": [
+        "Armour: 132"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 65, 80 Str",
+      "properties": [
+        "Armour: 162"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Suede Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Firm Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 11, 16 Dex",
+      "properties": [
+        "Evasion Rating: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bound Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex03.webp",
+      "requirements": "Requires: Level 16, 22 Dex",
+      "properties": [
+        "Evasion Rating: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sectioned Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 28, 36 Dex",
+      "properties": [
+        "Evasion Rating: 68"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spined Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 33, 42 Dex",
+      "properties": [
+        "Evasion Rating: 79"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fine Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex06.webp",
+      "requirements": "Requires: Level 45, 56 Dex",
+      "properties": [
+        "Evasion Rating: 105"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hardened Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex07.webp",
+      "requirements": "Requires: Level 52, 64 Dex",
+      "properties": [
+        "Evasion Rating: 120"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Engraved Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex01.webp",
+      "requirements": "Requires: Level 65, 80 Dex",
+      "properties": [
+        "Evasion Rating: 148"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Torn Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 9"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sombre Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 12, 17 Int",
+      "properties": [
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stitched Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt03.webp",
+      "requirements": "Requires: Level 16, 22 Int",
+      "properties": [
+        "Energy Shield: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Jewelled Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 26, 34 Int",
+      "properties": [
+        "Energy Shield: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Intricate Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 33, 42 Int",
+      "properties": [
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Pauascale Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt06.webp",
+      "requirements": "Requires: Level 45, 56 Int",
+      "properties": [
+        "Energy Shield: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Embroidered Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt07.webp",
+      "requirements": "Requires: Level 52, 64 Int",
+      "properties": [
+        "Energy Shield: 38"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Adorned Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt01.webp",
+      "requirements": "Requires: Level 65, 80 Int",
+      "properties": [
+        "Energy Shield: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ringmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 6, 6 Str, 6 Dex",
+      "properties": [
+        "Armour: 14",
+        "Evasion Rating: 11"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Layered Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 16, 13 Str, 13 Dex",
+      "properties": [
+        "Armour: 27",
+        "Evasion Rating: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Doubled Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 33, 24 Str, 24 Dex",
+      "properties": [
+        "Armour: 49",
+        "Evasion Rating: 43"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Plate Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex04.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Dex",
+      "properties": [
+        "Armour: 64",
+        "Evasion Rating: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Burnished Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 52, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 73",
+        "Evasion Rating: 66"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 89",
+        "Evasion Rating: 81"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 70, 52 Str, 52 Dex",
+      "properties": [
+        "Armour: 89",
+        "Evasion Rating: 81"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Rope Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 5, 6 Str, 6 Int",
+      "properties": [
+        "Armour: 13",
+        "Energy Shield: 6"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Aged Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 16, 13 Str, 13 Int",
+      "properties": [
+        "Armour: 27",
+        "Energy Shield: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Goldcast Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 33, 24 Str, 24 Int",
+      "properties": [
+        "Armour: 49",
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Kalguuran Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Int",
+      "properties": [
+        "Armour: 64",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Righteous Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr05png.webp",
+      "requirements": "Requires: Level 52, 36 Str, 36 Int",
+      "properties": [
+        "Armour: 73",
+        "Energy Shield: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Signet Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Int",
+      "properties": [
+        "Armour: 89",
+        "Energy Shield: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gauze Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 4, 6 Dex, 6 Int",
+      "properties": [
+        "Evasion Rating: 9",
+        "Energy Shield: 6"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Linen Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 16, 13 Dex, 13 Int",
+      "properties": [
+        "Evasion Rating: 23",
+        "Energy Shield: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spiral Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 33, 24 Dex, 24 Int",
+      "properties": [
+        "Evasion Rating: 43",
+        "Energy Shield: 15"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Buckled Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt04.webp",
+      "requirements": "Requires: Level 45, 32 Dex, 32 Int",
+      "properties": [
+        "Evasion Rating: 58",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Furtive Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 52, 36 Dex, 36 Int",
+      "properties": [
+        "Evasion Rating: 66",
+        "Energy Shield: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Utility Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 65, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 81",
+        "Energy Shield: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Manchettes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 65, 32 Str, 32 Dex, 32 Int",
+      "properties": [
+        "Armour: 60",
+        "Evasion Rating: 54",
+        "Energy Shield: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Golden Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": []
+    },
+    {
+      "name": "Plated Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 45, 56 Str",
+      "properties": [
+        "Armour: 116"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr03.webp",
+      "requirements": "Requires: Level 51, 64 Str",
+      "properties": [
+        "Armour: 130"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 54, 67 Str",
+      "properties": [
+        "Armour: 137"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Feathered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 59, 73 Str",
+      "properties": [
+        "Armour: 149"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Hunting Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 45, 56 Dex",
+      "properties": [
+        "Evasion Rating: 105"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Swift Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex03.webp",
+      "requirements": "Requires: Level 51, 64 Dex",
+      "properties": [
+        "Evasion Rating: 118"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Refined Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 54, 67 Dex",
+      "properties": [
+        "Evasion Rating: 124"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Spiked Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 59, 73 Dex",
+      "properties": [
+        "Evasion Rating: 135"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ominous Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 45, 56 Int",
+      "properties": [
+        "Energy Shield: 34"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Embellished Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt03.webp",
+      "requirements": "Requires: Level 51, 64 Int",
+      "properties": [
+        "Energy Shield: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Baroque Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 54, 67 Int",
+      "properties": [
+        "Energy Shield: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gold Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 59, 73 Int",
+      "properties": [
+        "Energy Shield: 42"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ironmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Dex",
+      "properties": [
+        "Armour: 64",
+        "Evasion Rating: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Captain Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 51, 35 Str, 35 Dex",
+      "properties": [
+        "Armour: 72",
+        "Evasion Rating: 65"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Zealot Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 59, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 82",
+        "Evasion Rating: 74"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Braided Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Int",
+      "properties": [
+        "Armour: 64",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heirloom Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 51, 35 Str, 35 Int",
+      "properties": [
+        "Armour: 72",
+        "Energy Shield: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 59, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 82",
+        "Energy Shield: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bandage Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 45, 32 Dex, 32 Int",
+      "properties": [
+        "Evasion Rating: 58",
+        "Energy Shield: 19"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cambric Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 51, 35 Dex, 35 Int",
+      "properties": [
+        "Evasion Rating: 65",
+        "Energy Shield: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Adorned Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 59, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 74",
+        "Energy Shield: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Knightly Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 65, 80 Str",
+      "properties": [
+        "Armour: 162"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ornate Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 70, 87 Str",
+      "properties": [
+        "Armour: 171"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vaal Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 75, 94 Str",
+      "properties": [
+        "Armour: 179"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Massive Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "requirements": "Requires: Level 80, 101 Str",
+      "properties": [
+        "Armour: 187"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Stalking Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 65, 80 Dex",
+      "properties": [
+        "Evasion Rating: 148"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grand Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 70, 87 Dex",
+      "properties": [
+        "Evasion Rating: 155"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Barbed Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 75, 94 Dex",
+      "properties": [
+        "Evasion Rating: 163"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Polished Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex06.webp",
+      "requirements": "Requires: Level 80, 101 Dex",
+      "properties": [
+        "Evasion Rating: 170"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Grim Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 65, 80 Int",
+      "properties": [
+        "Energy Shield: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Opulent Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 70, 87 Int",
+      "properties": [
+        "Energy Shield: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vaal Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 75, 94 Int",
+      "properties": [
+        "Energy Shield: 51"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Sirenscale Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt06.webp",
+      "requirements": "Requires: Level 80, 101 Int",
+      "properties": [
+        "Energy Shield: 54"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Steelmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 89",
+        "Evasion Rating: 81"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Commander Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 70, 48 Str, 48 Dex",
+      "properties": [
+        "Armour: 94",
+        "Evasion Rating: 85"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cultist Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 75, 52 Str, 52 Dex",
+      "properties": [
+        "Armour: 98",
+        "Evasion Rating: 90"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Blacksteel Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex04.webp",
+      "requirements": "Requires: Level 80, 55 Str, 55 Dex",
+      "properties": [
+        "Armour: 103",
+        "Evasion Rating: 94"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Bound Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Int",
+      "properties": [
+        "Armour: 89",
+        "Energy Shield: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ancient Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 70, 48 Str, 48 Int",
+      "properties": [
+        "Armour: 89",
+        "Energy Shield: 25"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Gleaming Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 75, 52 Str, 52 Int",
+      "properties": [
+        "Armour: 94",
+        "Energy Shield: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Adherent Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "requirements": "Requires: Level 80, 55 Str, 55 Int",
+      "properties": [
+        "Armour: 98",
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "War Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 65, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 94",
+        "Energy Shield: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Elegant Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 70, 48 Dex, 48 Int",
+      "properties": [
+        "Evasion Rating: 85",
+        "Energy Shield: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Vaal Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 75, 52 Dex, 52 Int",
+      "properties": [
+        "Evasion Rating: 90",
+        "Energy Shield: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Secured Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt04.webp",
+      "requirements": "Requires: Level 80, 55 Dex, 55 Int",
+      "properties": [
+        "Evasion Rating: 94",
+        "Energy Shield: 29"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Fists of Stone",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local hand wraps player level to use [0]",
+        "Has +3 to Evasion Rating per player levelHas +1 to maximum Energy Shield per player levellocal level requirement override [1]"
+      ]
+    },
+    {
+      "name": "Runeforged Fists of Stone",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "",
+      "properties": [],
+      "implicits": [
+        "local hand wraps player level to use [0]",
+        "Has +2 to Evasion Rating per player levelHas +1 to maximum Energy Shield per player levelHas +1 to maximum Runic Ward per player levellocal level requirement override [1]"
+      ]
+    },
+    {
+      "name": "Runeforged Stocky Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "",
+      "properties": [
+        "Armour: 15",
+        "Runic Ward: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Riveted Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 11, 16 Str",
+      "properties": [
+        "Armour: 38",
+        "Runic Ward: 16"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Tempered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr03.webp",
+      "requirements": "Requires: Level 16, 22 Str",
+      "properties": [
+        "Armour: 49",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bolstered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 27, 35 Str",
+      "properties": [
+        "Armour: 75",
+        "Runic Ward: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Moulded Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 33, 42 Str",
+      "properties": [
+        "Armour: 89",
+        "Runic Ward: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Detailed Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "requirements": "Requires: Level 45, 56 Str",
+      "properties": [
+        "Armour: 116",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Titan Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr07.webp",
+      "requirements": "Requires: Level 52, 64 Str",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 65, 80 Str",
+      "properties": [
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Suede Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex01.webp",
+      "requirements": "",
+      "properties": [
+        "Evasion Rating: 10",
+        "Runic Ward: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Firm Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 11, 16 Dex",
+      "properties": [
+        "Evasion Rating: 31",
+        "Runic Ward: 16"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bound Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex03.webp",
+      "requirements": "Requires: Level 16, 22 Dex",
+      "properties": [
+        "Evasion Rating: 42",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sectioned Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 28, 36 Dex",
+      "properties": [
+        "Evasion Rating: 68",
+        "Runic Ward: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Spined Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 33, 42 Dex",
+      "properties": [
+        "Evasion Rating: 79",
+        "Runic Ward: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Fine Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex06.webp",
+      "requirements": "Requires: Level 45, 56 Dex",
+      "properties": [
+        "Evasion Rating: 105",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Hardened Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex07.webp",
+      "requirements": "Requires: Level 52, 64 Dex",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Engraved Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex01.webp",
+      "requirements": "Requires: Level 65, 80 Dex",
+      "properties": [
+        "Evasion Rating: 133",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Torn Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt01.webp",
+      "requirements": "",
+      "properties": [
+        "Energy Shield: 9",
+        "Runic Ward: 10"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sombre Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 12, 17 Int",
+      "properties": [
+        "Energy Shield: 15",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Stitched Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt03.webp",
+      "requirements": "Requires: Level 16, 22 Int",
+      "properties": [
+        "Energy Shield: 18",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Jewelled Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 26, 34 Int",
+      "properties": [
+        "Energy Shield: 23",
+        "Runic Ward: 20"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Intricate Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 33, 42 Int",
+      "properties": [
+        "Energy Shield: 27",
+        "Runic Ward: 22"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Pauascale Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt06.webp",
+      "requirements": "Requires: Level 45, 56 Int",
+      "properties": [
+        "Energy Shield: 34",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Embroidered Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt07.webp",
+      "requirements": "Requires: Level 52, 64 Int",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Adorned Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt01.webp",
+      "requirements": "Requires: Level 65, 80 Int",
+      "properties": [
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ringmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 6, 6 Str, 6 Dex",
+      "properties": [
+        "Armour: 14",
+        "Evasion Rating: 11",
+        "Runic Ward: 12"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Layered Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 16, 13 Str, 13 Dex",
+      "properties": [
+        "Armour: 27",
+        "Evasion Rating: 23",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Doubled Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 33, 24 Str, 24 Dex",
+      "properties": [
+        "Armour: 49",
+        "Evasion Rating: 43",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Plate Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex04.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Dex",
+      "properties": [
+        "Armour: 64",
+        "Evasion Rating: 58",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Burnished Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 52, 36 Str, 36 Dex",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ornate Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Dex",
+      "properties": [
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Rope Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 5, 6 Str, 6 Int",
+      "properties": [
+        "Armour: 13",
+        "Energy Shield: 6",
+        "Runic Ward: 11"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Aged Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 16, 13 Str, 13 Int",
+      "properties": [
+        "Armour: 27",
+        "Energy Shield: 10",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Goldcast Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 33, 24 Str, 24 Int",
+      "properties": [
+        "Armour: 49",
+        "Energy Shield: 15",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Kalguuran Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "requirements": "Requires: Level 45, 32 Str, 32 Int",
+      "properties": [
+        "Armour: 64",
+        "Energy Shield: 19",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Righteous Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr05png.webp",
+      "requirements": "Requires: Level 52, 36 Str, 36 Int",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Signet Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Int",
+      "properties": [
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gauze Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 4, 6 Dex, 6 Int",
+      "properties": [
+        "Evasion Rating: 9",
+        "Energy Shield: 6",
+        "Runic Ward: 11"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Linen Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 16, 13 Dex, 13 Int",
+      "properties": [
+        "Evasion Rating: 23",
+        "Energy Shield: 10",
+        "Runic Ward: 17"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Spiral Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 33, 24 Dex, 24 Int",
+      "properties": [
+        "Evasion Rating: 43",
+        "Energy Shield: 15",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Buckled Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt04.webp",
+      "requirements": "Requires: Level 45, 32 Dex, 32 Int",
+      "properties": [
+        "Evasion Rating: 58",
+        "Energy Shield: 19",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Furtive Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 52, 36 Dex, 36 Int",
+      "properties": [
+        "Runic Ward: 117"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Utility Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 65, 44 Dex, 44 Int",
+      "properties": [
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ancient Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 54, 67 Str",
+      "properties": [
+        "Armour: 103",
+        "Runic Ward: 48"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Feathered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 59, 73 Str",
+      "properties": [
+        "Armour: 134",
+        "Runic Ward: 32"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Refined Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 54, 67 Dex",
+      "properties": [
+        "Evasion Rating: 118",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Spiked Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 59, 73 Dex",
+      "properties": [
+        "Evasion Rating: 108",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Baroque Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 54, 67 Int",
+      "properties": [
+        "Energy Shield: 33",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gold Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 59, 73 Int",
+      "properties": [
+        "Energy Shield: 31",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Zealot Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 59, 41 Str, 41 Dex",
+      "properties": [
+        "Armour: 78",
+        "Evasion Rating: 71",
+        "Runic Ward: 26"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ornate Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 59, 41 Str, 41 Int",
+      "properties": [
+        "Armour: 65",
+        "Energy Shield: 18",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Adorned Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 59, 41 Dex, 41 Int",
+      "properties": [
+        "Evasion Rating: 63",
+        "Energy Shield: 20",
+        "Runic Ward: 39"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Manchettes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 65, 32 Str, 32 Dex, 32 Int",
+      "properties": [
+        "Armour: 15",
+        "Evasion Rating: 14",
+        "Energy Shield: 4",
+        "Runic Ward: 123"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Knightly Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 65, 80 Str",
+      "properties": [
+        "Armour: 146",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ornate Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 70, 87 Str",
+      "properties": [
+        "Armour: 106",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vaal Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 75, 94 Str",
+      "properties": [
+        "Armour: 162",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Massive Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "requirements": "Requires: Level 80, 101 Str",
+      "properties": [
+        "Armour: 49",
+        "Runic Ward: 127"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Stalking Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 65, 80 Dex",
+      "properties": [
+        "Evasion Rating: 133",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grand Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 70, 87 Dex",
+      "properties": [
+        "Evasion Rating: 96",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Barbed Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 75, 94 Dex",
+      "properties": [
+        "Evasion Rating: 141",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Polished Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex06.webp",
+      "requirements": "Requires: Level 80, 101 Dex",
+      "properties": [
+        "Evasion Rating: 52",
+        "Runic Ward: 120"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Grim Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 65, 80 Int",
+      "properties": [
+        "Energy Shield: 41",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Opulent Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 70, 87 Int",
+      "properties": [
+        "Energy Shield: 29",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vaal Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 75, 94 Int",
+      "properties": [
+        "Energy Shield: 47",
+        "Runic Ward: 21"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Sirenscale Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt06.webp",
+      "requirements": "Requires: Level 80, 101 Int",
+      "properties": [
+        "Energy Shield: 13",
+        "Runic Ward: 128"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Steelmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Dex",
+      "properties": [
+        "Armour: 80",
+        "Evasion Rating: 73",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Commander Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 70, 48 Str, 48 Dex",
+      "properties": [
+        "Armour: 58",
+        "Evasion Rating: 53",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Cultist Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 75, 52 Str, 52 Dex",
+      "properties": [
+        "Armour: 85",
+        "Evasion Rating: 77",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Blacksteel Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex04.webp",
+      "requirements": "Requires: Level 80, 55 Str, 55 Dex",
+      "properties": [
+        "Armour: 18",
+        "Evasion Rating: 16",
+        "Runic Ward: 141"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Bound Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 65, 44 Str, 44 Int",
+      "properties": [
+        "Armour: 80",
+        "Energy Shield: 22",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Ancient Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 70, 48 Str, 48 Int",
+      "properties": [
+        "Armour: 58",
+        "Energy Shield: 16",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Gleaming Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 75, 52 Str, 52 Int",
+      "properties": [
+        "Armour: 89",
+        "Energy Shield: 25",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Adherent Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "requirements": "Requires: Level 80, 55 Str, 55 Int",
+      "properties": [
+        "Armour: 22",
+        "Energy Shield: 6",
+        "Runic Ward: 134"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged War Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 65, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 73",
+        "Energy Shield: 22",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Elegant Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 70, 48 Dex, 48 Int",
+      "properties": [
+        "Evasion Rating: 53",
+        "Energy Shield: 16",
+        "Runic Ward: 63"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Vaal Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 75, 52 Dex, 52 Int",
+      "properties": [
+        "Evasion Rating: 81",
+        "Energy Shield: 25",
+        "Runic Ward: 28"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Secured Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt04.webp",
+      "requirements": "Requires: Level 80, 55 Dex, 55 Int",
+      "properties": [
+        "Evasion Rating: 18",
+        "Energy Shield: 5",
+        "Runic Ward: 138"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Stocky Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 38, 48 Str",
+      "properties": [
+        "Armour: 50",
+        "Runic Ward: 45"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Riveted Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr02.webp",
+      "requirements": "Requires: Level 38, 48 Str",
+      "properties": [
+        "Armour: 80",
+        "Runic Ward: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Tempered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr03.webp",
+      "requirements": "Requires: Level 38, 48 Str",
+      "properties": [
+        "Armour: 95",
+        "Runic Ward: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Bolstered Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "requirements": "Requires: Level 38, 48 Str",
+      "properties": [
+        "Armour: 80",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Moulded Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr05.webp",
+      "requirements": "Requires: Level 55, 68 Str",
+      "properties": [
+        "Armour: 70",
+        "Runic Ward: 61"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Titan Mitts",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr07.webp",
+      "requirements": "Requires: Level 65, 80 Str",
+      "properties": [
+        "Armour: 114",
+        "Runic Ward: 49"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Suede Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex01.webp",
+      "requirements": "Requires: Level 38, 48 Dex",
+      "properties": [
+        "Evasion Rating: 63",
+        "Runic Ward: 20"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Firm Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex02.webp",
+      "requirements": "Requires: Level 38, 48 Dex",
+      "properties": [
+        "Evasion Rating: 63",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Sectioned Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex04.webp",
+      "requirements": "Requires: Level 38, 48 Dex",
+      "properties": [
+        "Evasion Rating: 76",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Spined Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex05.webp",
+      "requirements": "Requires: Level 38, 48 Dex",
+      "properties": [
+        "Evasion Rating: 72",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Fine Bracers",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDex06.webp",
+      "requirements": "Requires: Level 45, 56 Dex",
+      "properties": [
+        "Evasion Rating: 52",
+        "Runic Ward: 52"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Torn Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt01.webp",
+      "requirements": "Requires: Level 38, 48 Int",
+      "properties": [
+        "Energy Shield: 18",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Sombre Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "requirements": "Requires: Level 39, 49 Int",
+      "properties": [
+        "Energy Shield: 24",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Stitched Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt03.webp",
+      "requirements": "Requires: Level 38, 48 Int",
+      "properties": [
+        "Energy Shield: 30",
+        "Runic Ward: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Jewelled Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt04.webp",
+      "requirements": "Requires: Level 38, 48 Int",
+      "properties": [
+        "Energy Shield: 21",
+        "Runic Ward: 27"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Intricate Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt05.webp",
+      "requirements": "Requires: Level 55, 68 Int",
+      "properties": [
+        "Energy Shield: 47",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Pauascale Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt06.webp",
+      "requirements": "Requires: Level 55, 68 Int",
+      "properties": [
+        "Energy Shield: 30",
+        "Runic Ward: 31"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Embroidered Gloves",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt07.webp",
+      "requirements": "Requires: Level 52, 64 Int",
+      "properties": [
+        "Energy Shield: 26",
+        "Runic Ward: 35"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Ringmail Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 38, 27 Str, 27 Dex",
+      "properties": [
+        "Armour: 44",
+        "Evasion Rating: 39",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Layered Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex02.webp",
+      "requirements": "Requires: Level 38, 27 Str, 27 Dex",
+      "properties": [
+        "Armour: 52",
+        "Evasion Rating: 47",
+        "Runic Ward: 14"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Doubled Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex03.webp",
+      "requirements": "Requires: Level 55, 38 Str, 38 Dex",
+      "properties": [
+        "Armour: 61",
+        "Evasion Rating: 56",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Plate Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex04.webp",
+      "requirements": "Requires: Level 55, 38 Str, 38 Dex",
+      "properties": [
+        "Armour: 69",
+        "Evasion Rating: 63",
+        "Runic Ward: 12"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Burnished Gauntlets",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStrDex01.webp",
+      "requirements": "Requires: Level 52, 36 Str, 36 Dex",
+      "properties": [
+        "Armour: 36",
+        "Evasion Rating: 33",
+        "Runic Ward: 58"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Rope Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr01.webp",
+      "requirements": "Requires: Level 38, 27 Str, 27 Int",
+      "properties": [
+        "Armour: 33",
+        "Energy Shield: 10",
+        "Runic Ward: 36"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Aged Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr02.webp",
+      "requirements": "Requires: Level 38, 27 Str, 27 Int",
+      "properties": [
+        "Armour: 44",
+        "Energy Shield: 13",
+        "Runic Ward: 18"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Goldcast Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr03.webp",
+      "requirements": "Requires: Level 55, 38 Str, 38 Int",
+      "properties": [
+        "Armour: 77",
+        "Energy Shield: 22",
+        "Runic Ward: 37"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Verisium Cuffs",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "requirements": "Requires: Level 55, 38 Str, 38 Int",
+      "properties": [
+        "Armour: 73",
+        "Energy Shield: 21",
+        "Runic Ward: 12"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Gauze Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 38, 27 Dex, 27 Int",
+      "properties": [
+        "Runic Ward: 90"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Linen Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt02.webp",
+      "requirements": "Requires: Level 38, 27 Dex, 27 Int",
+      "properties": [
+        "Evasion Rating: 37",
+        "Energy Shield: 12",
+        "Runic Ward: 23"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Spiral Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt03.webp",
+      "requirements": "Requires: Level 55, 38 Dex, 38 Int",
+      "properties": [
+        "Evasion Rating: 38",
+        "Energy Shield: 12",
+        "Runic Ward: 67"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Furtive Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 55, 38 Dex, 38 Int",
+      "properties": [
+        "Evasion Rating: 56",
+        "Energy Shield: 17",
+        "Runic Ward: 24"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Utility Wraps",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesDexInt01.webp",
+      "requirements": "Requires: Level 65, 44 Dex, 44 Int",
+      "properties": [
+        "Evasion Rating: 49",
+        "Energy Shield: 15",
+        "Runic Ward: 56"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Grand Manchettes",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr01.webp",
+      "requirements": "Requires: Level 65, 32 Str, 32 Dex, 32 Int",
+      "properties": [
+        "Armour: 30",
+        "Evasion Rating: 27",
+        "Energy Shield: 8",
+        "Runic Ward: 70"
+      ],
+      "implicits": []
+    }
+  ]
+}

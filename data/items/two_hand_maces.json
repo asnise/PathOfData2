@@ -1,0 +1,576 @@
+{
+  "category": "Two Handed Weapons",
+  "item_class": "Two Hand Maces",
+  "items": [
+    {
+      "name": "Felled Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace01.webp",
+      "requirements": "",
+      "properties": [
+        "Physical Damage: 13-18",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Oak Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace02.webp",
+      "requirements": "Requires: Level 4, 11 Str",
+      "properties": [
+        "Physical Damage: 16-30",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes (20—40)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Forge Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace03.webp",
+      "requirements": "Requires: Level 11, 23 Str",
+      "properties": [
+        "Physical Damage: 26-35",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Crushes Enemies on Hit"
+      ]
+    },
+    {
+      "name": "Studded Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace04.webp",
+      "requirements": "Requires: Level 16, 31 Str",
+      "properties": [
+        "Physical Damage: 32-48",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Cultist Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace05.webp",
+      "requirements": "Requires: Level 22, 41 Str",
+      "properties": [
+        "Physical Damage: 36-49",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Strikes deal Splash Damage"
+      ]
+    },
+    {
+      "name": "Temple Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace06.webp",
+      "requirements": "Requires: Level 28, 52 Str",
+      "properties": [
+        "Physical Damage: 35-72",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Leaden Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace07.webp",
+      "requirements": "Requires: Level 33, 60 Str",
+      "properties": [
+        "Physical Damage: 58-78",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Crumbling Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace08.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 62-75",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage"
+      ]
+    },
+    {
+      "name": "Pointed Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace09.webp",
+      "requirements": "Requires: Level 45, 80 Str",
+      "properties": [
+        "Physical Damage: 68-102",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Totemic Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 50, 89 Str",
+      "properties": [
+        "Physical Damage: 77-105",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Warcries Empower an additional Attack"
+      ]
+    },
+    {
+      "name": "Greatmace",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace11.webp",
+      "requirements": "Requires: Level 52, 92 Str",
+      "properties": [
+        "Physical Damage: 74-124",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Precise Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace12.webp",
+      "requirements": "Requires: Level 54, 96 Str",
+      "properties": [
+        "Physical Damage: 87-118",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Giant Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace13.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 96-144",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Snakewood Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace02.webp",
+      "requirements": "Requires: Level 45, 80 Str",
+      "properties": [
+        "Physical Damage: 62-115",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes (20—40)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Blacksmith Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace03.webp",
+      "requirements": "Requires: Level 48, 86 Str",
+      "properties": [
+        "Physical Damage: 75-102",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Crushes Enemies on Hit"
+      ]
+    },
+    {
+      "name": "Zealot Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace05.webp",
+      "requirements": "Requires: Level 51, 91 Str",
+      "properties": [
+        "Physical Damage: 70-95",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Strikes deal Splash Damage"
+      ]
+    },
+    {
+      "name": "Solemn Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace06.webp",
+      "requirements": "Requires: Level 54, 96 Str",
+      "properties": [
+        "Physical Damage: 59-123",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Heavy Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace07.webp",
+      "requirements": "Requires: Level 59, 104 Str",
+      "properties": [
+        "Physical Damage: 94-127",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Disintegrating Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace08.webp",
+      "requirements": "Requires: Level 62, 109 Str",
+      "properties": [
+        "Physical Damage: 92-112",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage"
+      ]
+    },
+    {
+      "name": "Runeforged Felled Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace01.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 146-197",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Felled Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace01.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 217-293",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Oak Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace02.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 73-135",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes (20—40)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Runemastered Oak Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace02.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 111-207",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes (20—40)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Runeforged Forge Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace03.webp",
+      "requirements": "Requires: Level 40, 72 Str",
+      "properties": [
+        "Physical Damage: 147-199",
+        "Critical Hit Chance: 10%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Crushes Enemies on Hit"
+      ]
+    },
+    {
+      "name": "Runeforged Studded Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace04.webp",
+      "requirements": "Requires: Level 38, 68 Str",
+      "properties": [
+        "Physical Damage: 23.5-62.25",
+        "Lightning Damage: 70.5-186.75",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is lightning [75]"
+      ]
+    },
+    {
+      "name": "Runemastered Studded Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace04.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 15.5-140.25",
+        "Lightning Damage: 46.5-420.75",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is lightning [75]"
+      ]
+    },
+    {
+      "name": "Runeforged Cultist Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace05.webp",
+      "requirements": "Requires: Level 40, 72 Str",
+      "properties": [
+        "Physical Damage: 144-194",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Strikes deal Splash Damage",
+        "(20—30)% increased Bleeding Duration"
+      ]
+    },
+    {
+      "name": "Runeforged Temple Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace06.webp",
+      "requirements": "Requires: Level 55, 76 Str, 40 Dex",
+      "properties": [
+        "Physical Damage: 64-134",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.3",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Leaden Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace07.webp",
+      "requirements": "Requires: Level 55, 60 Str, 50 Int",
+      "properties": [
+        "Physical Damage: 132-179",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runeforged Crumbling Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace08.webp",
+      "requirements": "Requires: Level 55, 97 Str",
+      "properties": [
+        "Physical Damage: 105-128",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage"
+      ]
+    },
+    {
+      "name": "Runeforged Pointed Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace09.webp",
+      "requirements": "Requires: Level 65, 114 Str",
+      "properties": [
+        "Physical Damage: 125-188",
+        "Critical Hit Chance: 6.5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Strikes deal Splash Damage"
+      ]
+    },
+    {
+      "name": "Anvil Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace03.webp",
+      "requirements": "Requires: Level 67, 134 Str",
+      "properties": [
+        "Physical Damage: 101-136",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Crushes Enemies on Hit"
+      ]
+    },
+    {
+      "name": "Sacred Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace06.webp",
+      "requirements": "Requires: Level 72, 149 Str",
+      "properties": [
+        "Physical Damage: 76-158",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Ironwood Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace02.webp",
+      "requirements": "Requires: Level 77, 163 Str",
+      "properties": [
+        "Physical Damage: 105-196",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes (30—50)% increased Stun Buildup"
+      ]
+    },
+    {
+      "name": "Fanatic Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace05.webp",
+      "requirements": "Requires: Level 78, 163 Str",
+      "properties": [
+        "Physical Damage: 101-137",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.05",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Strikes deal Splash Damage"
+      ]
+    },
+    {
+      "name": "Ruination Maul",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace08.webp",
+      "requirements": "Requires: Level 79, 163 Str",
+      "properties": [
+        "Physical Damage: 104-127",
+        "Critical Hit Chance: 8%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Causes Enemies to Explode on Critical kill, for 10% of their Life as Physical Damage"
+      ]
+    },
+    {
+      "name": "Massive Greathammer",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace07.webp",
+      "requirements": "Requires: Level 77, 163 Str",
+      "properties": [
+        "Physical Damage: 119-161",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Tawhoan Greatclub",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 78, 163 Str",
+      "properties": [
+        "Physical Damage: 113-153",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Warcries Empower an additional Attack"
+      ]
+    },
+    {
+      "name": "Aberrant Sledge",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 70, 163 Str",
+      "properties": [
+        "Physical Damage: 74-154",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Aberrant Sledge",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 70, 163 Str",
+      "properties": [
+        "Physical Damage: 151-315",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": []
+    },
+    {
+      "name": "Runemastered Aberrant Sledge",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 70, 163 Str",
+      "properties": [
+        "Physical Damage: 74-154",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "Skills which create Fissures have a 50% chance to create an additional Fissure"
+      ]
+    },
+    {
+      "name": "Runemastered Aberrant Sledge",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 70, 163 Str",
+      "properties": [
+        "Physical Damage: 74-154",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "(200—300)% increased Freeze Buildup"
+      ]
+    },
+    {
+      "name": "Runemastered Aberrant Sledge",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Basetypes/2HMace10.webp",
+      "requirements": "Requires: Level 70, 163 Str",
+      "properties": [
+        "Physical Damage: 29.6-61.6",
+        "Cold Damage: 118.4-246.4",
+        "Critical Hit Chance: 5%",
+        "Attacks per Second: 1.2",
+        "Weapon Range: 1.5"
+      ],
+      "implicits": [
+        "local weapon implicit hidden % base damage is cold [80]"
+      ]
+    }
+  ]
+}

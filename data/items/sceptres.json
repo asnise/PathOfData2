@@ -1,0 +1,182 @@
+{
+  "category": "One Handed Weapons",
+  "item_class": "Sceptres",
+  "items": [
+    {
+      "name": "Rattling Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre01.webp",
+      "requirements": "Requires: 4 Str, 5 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Stoic Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre02.webp",
+      "requirements": "Requires: Level 6, 7 Str, 12 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Discipline"
+      ]
+    },
+    {
+      "name": "Lupine Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre03.webp",
+      "requirements": "Requires: Level 12, 10 Str, 20 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Omen Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre04.webp",
+      "requirements": "Requires: Level 16, 12 Str, 25 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Malice"
+      ]
+    },
+    {
+      "name": "Ochre Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre05.webp",
+      "requirements": "Requires: Level 21, 14 Str, 31 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Shrine Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre06a.webp",
+      "requirements": "Requires: Level 26, 17 Str, 38 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Purity of Fire"
+      ]
+    },
+    {
+      "name": "Shrine Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre06b.webp",
+      "requirements": "Requires: Level 26, 17 Str, 38 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Purity of Ice"
+      ]
+    },
+    {
+      "name": "Shrine Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre06c.webp",
+      "requirements": "Requires: Level 26, 17 Str, 38 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Purity of Lightning"
+      ]
+    },
+    {
+      "name": "Devouring Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre07.webp",
+      "requirements": "Requires: Level 33, 20 Str, 47 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Clasped Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre08.webp",
+      "requirements": "Requires: Level 36, 22 Str, 51 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Heart of Ice"
+      ]
+    },
+    {
+      "name": "Devotional Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre09.webp",
+      "requirements": "Requires: Level 45, 26 Str, 63 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Wrath Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre10.webp",
+      "requirements": "Requires: Level 49, 28 Str, 68 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Fulmination"
+      ]
+    },
+    {
+      "name": "Aromatic Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre01.webp",
+      "requirements": "Requires: Level 52, 29 Str, 72 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Pious Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre01.webp",
+      "requirements": "Requires: Level 58, 32 Str, 80 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Hallowed Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre01.webp",
+      "requirements": "Requires: Level 65, 36 Str, 89 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Skeletal Warrior"
+      ]
+    },
+    {
+      "name": "Shrine Sceptre",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Basetypes/Sceptre06c.webp",
+      "requirements": "Requires: Level 26, 17 Str, 38 Int",
+      "properties": [
+        "Spirit: 100"
+      ],
+      "implicits": [
+        "Grants Skill: Impurity"
+      ]
+    }
+  ]
+}

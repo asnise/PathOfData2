@@ -1,0 +1,175 @@
+{
+  "category": "Flasks",
+  "item_class": "Charms",
+  "items": [
+    {
+      "name": "Thawing Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "requirements": "Requires: Level 12",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 40 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Frozen"
+      ]
+    },
+    {
+      "name": "Staunching Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/StaunchingCharm.webp",
+      "requirements": "Requires: Level 18",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 30 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you start Bleeding"
+      ]
+    },
+    {
+      "name": "Antidote Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/AntidoteCharm.webp",
+      "requirements": "Requires: Level 24",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Poisoned"
+      ]
+    },
+    {
+      "name": "Dousing Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 30 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Ignited"
+      ]
+    },
+    {
+      "name": "Grounding Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/GroundingCharm.webp",
+      "requirements": "Requires: Level 32",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 30 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Shocked"
+      ]
+    },
+    {
+      "name": "Stone Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/StoneCharm.webp",
+      "requirements": "Requires: Level 8",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Stunned"
+      ]
+    },
+    {
+      "name": "Silver Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+      "requirements": "Requires: Level 10",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you are affected by a Slow"
+      ]
+    },
+    {
+      "name": "Ruby Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/RubyCharm.webp",
+      "requirements": "Requires: Level 5",
+      "properties": [
+        "Lasts 4 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you take Fire damage from a Hit"
+      ]
+    },
+    {
+      "name": "Sapphire Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/SapphireCharm.webp",
+      "requirements": "Requires: Level 5",
+      "properties": [
+        "Lasts 4 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you take Cold damage from a Hit"
+      ]
+    },
+    {
+      "name": "Topaz Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/TopazCharm.webp",
+      "requirements": "Requires: Level 5",
+      "properties": [
+        "Lasts 4 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you take Lightning damage from a Hit"
+      ]
+    },
+    {
+      "name": "Amethyst Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/AmethystCharm.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [
+        "Lasts 4 Second",
+        "Consumes 30 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you take Chaos damage from a Hit"
+      ]
+    },
+    {
+      "name": "Golden Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/GoldenCharm.webp",
+      "requirements": "Requires: Level 50",
+      "properties": [
+        "Lasts 1 Second",
+        "Consumes 80 of 80 Charges on use",
+        "Currently has 80 Charges"
+      ],
+      "implicits": [
+        "Used when you kill a Rare or Unique enemy"
+      ]
+    },
+    {
+      "name": "Cleansing Charm",
+      "image": "https://cdn.poe2db.tw/image/Art/2DItems/Charms/Basetypes/AmethystCharm.webp",
+      "requirements": "Requires: Level 40",
+      "properties": [
+        "Lasts 3 Second",
+        "Consumes 20 of 40 Charges on use",
+        "Currently has 40 Charges"
+      ],
+      "implicits": [
+        "Used when you become Cursed"
+      ]
+    }
+  ]
+}
