@@ -1,516 +1,352 @@
 {
   "KeystonePassive": [
     {
-      "id": 1,
       "name": "Resolute Technique",
-      "url": "https://poe2db.tw/us/Resolute_Technique",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
-      "description": "Accuracy Rating is Doubled\nNever deal Critical Hits",
-      "description_lines": [
+      "description": [
         "Accuracy Rating is Doubled",
         "Never deal Critical Hits"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F44017"
+      ]
     },
     {
-      "id": 2,
       "name": "Giant's Blood",
-      "url": "https://poe2db.tw/us/Giants_Blood",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/GiantBloodKeystone.webp",
-      "description": "You can wield Two-Handed Axes, Maces and Swords in one hand\nTriple Attribute requirements of Martial Weapons\nInherent Life granted by Strength is halved",
-      "description_lines": [
+      "description": [
         "You can wield Two-Handed Axes, Maces and Swords in one hand",
         "Triple Attribute requirements of Martial Weapons",
         "Inherent Life granted by Strength is halved"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F32349"
+      ]
     },
     {
-      "id": 3,
       "name": "Unwavering Stance",
-      "url": "https://poe2db.tw/us/Unwavering_Stance",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
-      "description": "Cannot be Light Stunned\nCannot Dodge Roll or Sprint",
-      "description_lines": [
+      "description": [
         "Cannot be Light Stunned",
         "Cannot Dodge Roll or Sprint"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F14540"
+      ]
     },
     {
-      "id": 4,
       "name": "Avatar of Fire",
-      "url": "https://poe2db.tw/us/Avatar_of_Fire",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneAvatarOfFire.webp",
-      "description": "75% of Damage Converted to Fire Damage\nDeal no Non-Fire Damage",
-      "description_lines": [
+      "description": [
         "75% of Damage Converted to Fire Damage",
         "Deal no Non-Fire Damage"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F18684"
+      ]
     },
     {
-      "id": 5,
       "name": "Blood Magic",
-      "url": "https://poe2db.tw/us/Blood_Magic",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
-      "description": "You have no Mana\nSkill Mana Costs Converted to Life Costs",
-      "description_lines": [
+      "description": [
         "You have no Mana",
         "Skill Mana Costs Converted to Life Costs"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F51749"
+      ]
     },
     {
-      "id": 6,
       "name": "Zealot's Oath",
-      "url": "https://poe2db.tw/us/Zealots_Oath",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
-      "description": "Excess Life Recovery from Regeneration is applied to Energy Shield\nEnergy Shield does not Recharge",
-      "description_lines": [
+      "description": [
         "Excess Life Recovery from Regeneration is applied to Energy Shield",
         "Energy Shield does not Recharge"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F52"
+      ]
     },
     {
-      "id": 7,
       "name": "Ancestral Bond",
-      "url": "https://poe2db.tw/us/Ancestral_Bond",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/totemmax.webp",
-      "description": "Your Totem Limit is doubled\nNo Charge requirement for placing Totems\nTotems reserve 75 Spirit each",
-      "description_lines": [
+      "description": [
         "Your Totem Limit is doubled",
         "No Charge requirement for placing Totems",
         "Totems reserve 75 Spirit each"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F45202"
+      ]
     },
     {
-      "id": 8,
       "name": "Pain Attunement",
-      "url": "https://poe2db.tw/us/Pain_Attunement",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
-      "description": "30% less Critical Damage Bonus when on Full Life\n30% more Critical Damage Bonus when on Low Life",
-      "description_lines": [
+      "description": [
         "30% less Critical Damage Bonus when on Full Life",
         "30% more Critical Damage Bonus when on Low Life"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F55048"
+      ]
     },
     {
-      "id": 9,
       "name": "Chaos Inoculation",
-      "url": "https://poe2db.tw/us/Chaos_Inoculation",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
-      "description": "Maximum Life is 1\nImmune to Chaos Damage and Bleeding",
-      "description_lines": [
+      "description": [
         "Maximum Life is 1",
         "Immune to Chaos Damage and Bleeding"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F56349"
+      ]
     },
     {
-      "id": 10,
       "name": "Eldritch Battery",
-      "url": "https://poe2db.tw/us/Eldritch_Battery",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
-      "description": "Convert 100% of maximum Energy Shield to maximum Mana\nMana Costs are Doubled",
-      "description_lines": [
+      "description": [
         "Convert 100% of maximum Energy Shield to maximum Mana",
         "Mana Costs are Doubled"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F57513"
+      ]
     },
     {
-      "id": 11,
       "name": "Mind Over Matter",
-      "url": "https://poe2db.tw/us/Mind_Over_Matter",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/heroicspirit.webp",
-      "description": "All Damage is taken from Mana before Life\n50% less Mana Recovery Rate",
-      "description_lines": [
+      "description": [
         "All Damage is taken from Mana before Life",
         "50% less Mana Recovery Rate"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F45918"
+      ]
     },
     {
-      "id": 12,
       "name": "Whispers of Doom",
-      "url": "https://poe2db.tw/us/Whispers_of_Doom",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneWhispersOfDoom.webp",
-      "description": "You can apply an additional Curse\nDouble Activation Delay of Curses",
-      "description_lines": [
+      "description": [
         "You can apply an additional Curse",
         "Double Activation Delay of Curses"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F47759"
+      ]
     },
     {
-      "id": 13,
       "name": "Necromantic Talisman",
-      "url": "https://poe2db.tw/us/Necromantic_Talisman",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/NecromanticTalismanKeystone.webp",
-      "description": "All bonuses from Equipped Amulet apply to your Minions instead of you",
-      "description_lines": [
+      "description": [
         "All bonuses from Equipped Amulet apply to your Minions instead of you"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F39935"
+      ]
     },
     {
-      "id": 14,
       "name": "Conduit",
-      "url": "https://poe2db.tw/us/Conduit",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneConduit.webp",
-      "description": "If you would gain a Charge, Allies in your Presence gain that Charge instead",
-      "description_lines": [
+      "description": [
         "If you would gain a Charge, Allies in your Presence gain that Charge instead"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F33979"
+      ]
     },
     {
-      "id": 15,
       "name": "Resonance",
-      "url": "https://poe2db.tw/us/Resonance",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/ResonanceKeystone.webp",
-      "description": "Gain Power Charges instead of Frenzy Charges\nGain Frenzy Charges instead of Endurance Charges\nGain Endurance Charges instead of Power Charges",
-      "description_lines": [
+      "description": [
         "Gain Power Charges instead of Frenzy Charges",
         "Gain Frenzy Charges instead of Endurance Charges",
         "Gain Endurance Charges instead of Power Charges"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F25520"
+      ]
     },
     {
-      "id": 16,
       "name": "Eternal Youth",
-      "url": "https://poe2db.tw/us/Eternal_Youth",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/EternalYouth.webp",
-      "description": "Life Recharges instead of Energy Shield\n50% less Life Recovery from Flasks",
-      "description_lines": [
+      "description": [
         "Life Recharges instead of Energy Shield",
         "50% less Life Recovery from Flasks"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F33404"
+      ]
     },
     {
-      "id": 17,
       "name": "Primal Hunger",
-      "url": "https://poe2db.tw/us/Primal_Hunger",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DruidRageKeystone.webp",
-      "description": "100% more Maximum Rage\nRegenerate 1 Rage per second per 4 Rage spent Recently\nNo Rage effect",
-      "description_lines": [
+      "description": [
         "100% more Maximum Rage",
         "Regenerate 1 Rage per second per 4 Rage spent Recently",
         "No Rage effect"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F37484"
+      ]
     },
     {
-      "id": 18,
       "name": "Dance with Death",
-      "url": "https://poe2db.tw/us/Dance_with_Death",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DancewithDeathKeystone.webp",
-      "description": "25% more Skill Speed while Off Hand is empty and you have\na One-Handed Martial Weapon equipped in your Main Hand",
-      "description_lines": [
+      "description": [
         "25% more Skill Speed while Off Hand is empty and you have",
         "a One-Handed Martial Weapon equipped in your Main Hand"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F14226"
+      ]
     },
     {
-      "id": 19,
       "name": "Heartstopper",
-      "url": "https://poe2db.tw/us/Heartstopper",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/HeartstopperKeystone.webp",
-      "description": "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\nTake 50% more Damage over Time if you haven't started taking Damage over Time in the past second",
-      "description_lines": [
+      "description": [
         "Take 50% less Damage over Time if you've started taking Damage over Time in the past second",
         "Take 50% more Damage over Time if you haven't started taking Damage over Time in the past second"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F34497"
+      ]
     },
     {
-      "id": 20,
       "name": "Oasis",
-      "url": "https://poe2db.tw/us/Oasis",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/OasisKeystone2.webp",
-      "description": "Cannot use Charms\n30% more Recovery from Flasks",
-      "description_lines": [
+      "description": [
         "Cannot use Charms",
         "30% more Recovery from Flasks"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F25100"
+      ]
     },
     {
-      "id": 21,
       "name": "Vaal Pact",
-      "url": "https://poe2db.tw/us/Vaal_Pact",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/vaalpact.webp",
-      "description": "50% more amount of Life Leeched\nLeech Life 67% less quickly\nCannot Recover Life other than from Leech\nLife Leech effects are not removed when Unreserved Life is Filled",
-      "description_lines": [
+      "description": [
         "50% more amount of Life Leeched",
         "Leech Life 67% less quickly",
         "Cannot Recover Life other than from Leech",
         "Life Leech effects are not removed when Unreserved Life is Filled"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F33369"
+      ]
     },
     {
-      "id": 22,
       "name": "Iron Reflexes",
-      "url": "https://poe2db.tw/us/Iron_Reflexes",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
-      "description": "Converts all Evasion Rating to Armour",
-      "description_lines": [
+      "description": [
         "Converts all Evasion Rating to Armour"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F28492"
+      ]
     },
     {
-      "id": 23,
       "name": "Glancing Blows",
-      "url": "https://poe2db.tw/us/Glancing_Blows",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
-      "description": "Chance to Evade is Unlucky\nChance to Deflect is Lucky",
-      "description_lines": [
+      "description": [
         "Chance to Evade is Unlucky",
         "Chance to Deflect is Lucky"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F19288"
+      ]
     },
     {
-      "id": 24,
       "name": "Elemental Equilibrium",
-      "url": "https://poe2db.tw/us/Elemental_Equilibrium",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KeystoneElementalEquilibrium.webp",
-      "description": "Create Lightning Infusion Remnants instead of Fire\nCreate Cold Infusion Remnants instead of Lightning\nCreate Fire Infusion Remnants instead of Cold",
-      "description_lines": [
+      "description": [
         "Create Lightning Infusion Remnants instead of Fire",
         "Create Cold Infusion Remnants instead of Lightning",
         "Create Fire Infusion Remnants instead of Cold"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F46742"
+      ]
     },
     {
-      "id": 25,
       "name": "Bulwark",
-      "url": "https://poe2db.tw/us/Bulwark",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/BulwarkKeystone.webp",
-      "description": "Dodge Roll cannot Avoid Damage\nTake 30% less Damage from Hits while Dodge Rolling",
-      "description_lines": [
+      "description": [
         "Dodge Roll cannot Avoid Damage",
         "Take 30% less Damage from Hits while Dodge Rolling"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F56605"
+      ]
     },
     {
-      "id": 26,
       "name": "Crimson Assault",
-      "url": "https://poe2db.tw/us/Crimson_Assault",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/CrimsonAssaultKeystone.webp",
-      "description": "Bleeding you inflict is Aggravated\nBase Bleeding Duration is 1 second\n50% more Magnitude of Bleeding you inflict",
-      "description_lines": [
+      "description": [
         "Bleeding you inflict is Aggravated",
         "Base Bleeding Duration is 1 second",
         "50% more Magnitude of Bleeding you inflict"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F9085"
+      ]
     },
     {
-      "id": 27,
       "name": "Trusted Kinship",
-      "url": "https://poe2db.tw/us/Trusted_Kinship",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/MultipleBeastCompanionsKeystone.webp",
-      "description": "You can have two Companions of different types\n30% more Reservation Efficiency of Companion Skills\n20% less Reservation Efficiency of non-Companion Skills",
-      "description_lines": [
+      "description": [
         "You can have two Companions of different types",
         "30% more Reservation Efficiency of Companion Skills",
         "20% less Reservation Efficiency of non-Companion Skills"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F41861"
+      ]
     },
     {
-      "id": 28,
       "name": "Hollow Palm Technique",
-      "url": "https://poe2db.tw/us/Hollow_Palm_Technique",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/HollowPalmTechniqueKeystone.webp",
-      "description": "Can Attack as though using a Quarterstaff while both of your hand slots are empty\nUnarmed Attacks that would use an Equipped Quarterstaff's damage have:\n• Base Unarmed Physical damage replaced with damage based on their Skill Level\n• 1% more Attack Speed per 75 Item Evasion on Equipped Armour Items\n• +0.1% to Critical Hit Chance per 10 Item Energy Shield on Equipped Armour Items",
-      "description_lines": [
+      "description": [
         "Can Attack as though using a Quarterstaff while both of your hand slots are empty",
         "Unarmed Attacks that would use an Equipped Quarterstaff's damage have:",
         "• Base Unarmed Physical damage replaced with damage based on their Skill Level",
         "• 1% more Attack Speed per 75 Item Evasion on Equipped Armour Items",
         "• +0.1% to Critical Hit Chance per 10 Item Energy Shield on Equipped Armour Items"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F64601"
+      ]
     },
     {
-      "id": 29,
       "name": "Blackflame Covenant",
-      "url": "https://poe2db.tw/us/Blackflame_Covenant",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/FireSpellsBecomeChaosSpellsKeystone.webp",
-      "description": "Fire Spells Convert 100% of Fire Damage to Chaos Damage\nChaos Damage from Fire Spells Contributes to Flammability and Ignite Magnitudes\nIgnite inflicted with Fire Spells deals Chaos Damage instead of Fire Damage",
-      "description_lines": [
+      "description": [
         "Fire Spells Convert 100% of Fire Damage to Chaos Damage",
         "Chaos Damage from Fire Spells Contributes to Flammability and Ignite Magnitudes",
         "Ignite inflicted with Fire Spells deals Chaos Damage instead of Fire Damage"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F42680"
+      ]
     },
     {
-      "id": 30,
       "name": "Ritual Cadence",
-      "url": "https://poe2db.tw/us/Ritual_Cadence",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/SorceressInvocationSpellsKeystone.webp",
-      "description": "Invocation Skills instead Trigger Spells every 2 seconds\nInvocation Skills cannot gain Energy while Triggering Spells\nInvoked Spells consume 50% less Energy",
-      "description_lines": [
+      "description": [
         "Invocation Skills instead Trigger Spells every 2 seconds",
         "Invocation Skills cannot gain Energy while Triggering Spells",
         "Invoked Spells consume 50% less Energy"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F11230"
+      ]
     },
     {
-      "id": 31,
       "name": "Scarred Faith",
-      "url": "https://poe2db.tw/us/Scarred_Faith",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DruidAlternateEnergyShield.webp",
-      "description": "5% of Physical Damage prevented Recouped as Energy Shield per enemy Power\nEnergy Shield does not Recharge\nYou cannot Recover Energy Shield from Regeneration\nYou cannot Recover Energy Shield to above Armour",
-      "description_lines": [
+      "description": [
         "5% of Physical Damage prevented Recouped as Energy Shield per enemy Power",
         "Energy Shield does not Recharge",
         "You cannot Recover Energy Shield from Regeneration",
         "You cannot Recover Energy Shield to above Armour"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F49547"
+      ]
     },
     {
-      "id": 32,
       "name": "Lord of the Wilds",
-      "url": "https://poe2db.tw/us/Lord_of_the_Wilds",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DruidAnimism.webp",
-      "description": "You can equip a non-Unique Sceptre while wielding a Talisman\n50% less Spirit\nNon-Minion Skills have 50% less Reservation Efficiency",
-      "description_lines": [
+      "description": [
         "You can equip a non-Unique Sceptre while wielding a Talisman",
         "50% less Spirit",
         "Non-Minion Skills have 50% less Reservation Efficiency"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F61942"
+      ]
     },
     {
-      "id": 33,
       "name": "Wildsurge Incantation",
-      "url": "https://poe2db.tw/us/Wildsurge_Incantation",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DruidWildsurgeIncantation.webp",
-      "description": "Storm and Plant Spells:\n• deal 50% more damage\n• cost 50% less\n• have 75% less duration",
-      "description_lines": [
+      "description": [
         "Storm and Plant Spells:",
         "• deal 50% more damage",
         "• cost 50% less",
         "• have 75% less duration"
-      ],
-      "hover_data": "?s=Data%5CPassiveSkills%2F49363"
+      ]
     }
   ],
   "TimelessJewelKeystone": [
     {
-      "id": 1,
       "name": "Black Scythe Training",
-      "url": "https://poe2db.tw/us/Black_Scythe_Training",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KalguuranStrKeystone.webp",
-      "description": "Gain no inherent bonus from Strength\n1% increased Energy Shield per 2 Strength",
-      "description_lines": [
+      "description": [
         "Gain no inherent bonus from Strength",
         "1% increased Energy Shield per 2 Strength"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fkalguur_keystone_1"
+      ]
     },
     {
-      "id": 2,
       "name": "Circular Teachings",
-      "url": "https://poe2db.tw/us/Circular_Teachings",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
-      "description": "Gain no inherent bonus from Dexterity\n1% increased Armour per 2 Dexterity",
-      "description_lines": [
+      "description": [
         "Gain no inherent bonus from Dexterity",
         "1% increased Armour per 2 Dexterity"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fkalguur_keystone_2"
+      ]
     },
     {
-      "id": 3,
       "name": "Knightly Tenets",
-      "url": "https://poe2db.tw/us/Knightly_Tenets",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KalguuranIntKeystone.webp",
-      "description": "Gain no inherent bonus from Intelligence\n1% increased Evasion Rating per 2 Intelligence",
-      "description_lines": [
+      "description": [
         "Gain no inherent bonus from Intelligence",
         "1% increased Evasion Rating per 2 Intelligence"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fkalguur_keystone_3"
+      ]
     },
     {
-      "id": 4,
       "name": "Sacrifice of Flesh",
-      "url": "https://poe2db.tw/us/Sacrifice_of_Flesh",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/AmanamusDefiance.webp",
-      "description": "When taking damage from Hits, 20% of Life Loss is prevented, then 150% of Life Loss prevented this way is Lost over 4 seconds",
-      "description_lines": [
+      "description": [
         "When taking damage from Hits, 20% of Life Loss is prevented, then 150% of Life Loss prevented this way is Lost over 4 seconds"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fabyss_keystone_1"
+      ]
     },
     {
-      "id": 5,
       "name": "Sacrifice of Loyalty",
-      "url": "https://poe2db.tw/us/Sacrifice_of_Loyalty",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KulemaksSovereignty.webp",
-      "description": "You deal 1% more Damage per 2 total Power of your Undead Minions\nUndead Minions have 25% less maximum Life",
-      "description_lines": [
+      "description": [
         "You deal 1% more Damage per 2 total Power of your Undead Minions",
         "Undead Minions have 25% less maximum Life"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fabyss_keystone_2"
+      ]
     },
     {
-      "id": 6,
       "name": "Sacrifice of Mind",
-      "url": "https://poe2db.tw/us/Sacrifice_of_Mind",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/KurgasAmbition.webp",
-      "description": "Mana Recovery from Regeneration Overflows maximum Mana\n50% less Mana Regeneration Rate",
-      "description_lines": [
+      "description": [
         "Mana Recovery from Regeneration Overflows maximum Mana",
         "50% less Mana Regeneration Rate"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fabyss_keystone_3"
+      ]
     },
     {
-      "id": 7,
       "name": "Sacrifice of Blood",
-      "url": "https://poe2db.tw/us/Sacrifice_of_Blood",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/TecrodsBrutality.webp",
-      "description": "Regenerate 1 Life per second per 16 Life spent in the past 4 seconds\n20% more Life Cost of Skills",
-      "description_lines": [
+      "description": [
         "Regenerate 1 Life per second per 16 Life spent in the past 4 seconds",
         "20% more Life Cost of Skills"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fabyss_keystone_4"
+      ]
     },
     {
-      "id": 8,
       "name": "Sacrifice of Sight",
-      "url": "https://poe2db.tw/us/Sacrifice_of_Sight",
       "image": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/UlamansVision.webp",
-      "description": "Projectiles do one of the following at random:\n• Fork an additional time\n• Chain an additional time\n• Chain from Terrain an additional time\n• Cannot collide with targets",
-      "description_lines": [
+      "description": [
         "Projectiles do one of the following at random:",
         "• Fork an additional time",
         "• Chain an additional time",
         "• Chain from Terrain an additional time",
         "• Cannot collide with targets"
-      ],
-      "hover_data": "?s=Data%5CAlternatePassiveSkills%2Fabyss_keystone_5"
+      ]
     }
   ]
 }
