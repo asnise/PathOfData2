@@ -1,0 +1,1671 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Path of Exile 2 Database Wiki</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-color: #ffffff;
+      --sidebar-bg: #fafbfc;
+      --text-color: #24292f;
+      --text-muted: #57606a;
+      --border-color: #d0d7de;
+      --border-light: #e1e4e8;
+      --primary-color: #0969da;
+      --primary-hover: #0550ae;
+      --tag-bg: #f6f8fa;
+      --tag-border: #d0d7de;
+      --implicit-color: #0969da;
+      --explicit-color: #24292f;
+      --error-bg: #ffebe9;
+      --error-border: #ff8182;
+      --error-text: #a40e26;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text-color);
+      background-color: var(--bg-color);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+      line-height: 1.5;
+    }
+
+    /* Sidebar Styles */
+    .sidebar {
+      width: 320px;
+      background-color: var(--sidebar-bg);
+      border-right: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      flex-shrink: 0;
+    }
+
+    .sidebar-header {
+      padding: 20px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .sidebar-header h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text-color);
+      margin-bottom: 4px;
+    }
+
+    .sidebar-header p {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .sidebar-search-container {
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border-light);
+      background-color: var(--sidebar-bg);
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 8px 12px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      outline: none;
+      background-color: #ffffff;
+      transition: border-color 0.15s ease-in-out;
+    }
+
+    .search-input:focus {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.15);
+    }
+
+    .sidebar-content {
+      overflow-y: auto;
+      flex-grow: 1;
+      padding: 15px 0;
+    }
+
+    .nav-group {
+      margin-bottom: 20px;
+    }
+
+    .nav-group-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      padding: 5px 20px;
+      margin-bottom: 5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-group-count {
+      background-color: var(--border-light);
+      padding: 1px 6px;
+      border-radius: 10px;
+      font-size: 0.65rem;
+      font-weight: 500;
+      color: var(--text-muted);
+    }
+
+    .nav-item {
+      display: block;
+      padding: 6px 20px;
+      font-size: 0.85rem;
+      color: var(--text-color);
+      text-decoration: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      cursor: pointer;
+      border-left: 3px solid transparent;
+    }
+
+    .nav-item:hover {
+      background-color: rgba(0, 0, 0, 0.02);
+      color: var(--primary-color);
+    }
+
+    .nav-item.active {
+      background-color: rgba(9, 105, 218, 0.05);
+      color: var(--primary-color);
+      font-weight: 500;
+      border-left-color: var(--primary-color);
+    }
+
+    /* Main Area Styles */
+    .main-content {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      overflow: hidden;
+      background-color: var(--bg-color);
+    }
+
+    .content-header {
+      padding: 20px 30px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      background-color: #ffffff;
+      z-index: 10;
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+    .file-path {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .file-title-container {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .file-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .file-badge {
+      background-color: var(--tag-bg);
+      border: 1px solid var(--tag-border);
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--text-muted);
+    }
+
+    .view-toggle-container {
+      display: flex;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .view-btn {
+      padding: 6px 12px;
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 500;
+      border: none;
+      background-color: var(--bg-color);
+      color: var(--text-muted);
+      cursor: pointer;
+      outline: none;
+    }
+
+    .view-btn.active {
+      background-color: var(--tag-bg);
+      color: var(--text-color);
+      font-weight: 600;
+    }
+
+    .view-btn:not(:last-child) {
+      border-right: 1px solid var(--border-color);
+    }
+
+    .filter-bar {
+      display: flex;
+      gap: 15px;
+      align-items: center;
+    }
+
+    .data-filter-input {
+      flex-grow: 1;
+      padding: 8px 12px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      outline: none;
+    }
+
+    .data-filter-input:focus {
+      border-color: var(--primary-color);
+    }
+
+    .records-count {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* Content Body Styles */
+    .content-body {
+      flex-grow: 1;
+      overflow-y: auto;
+      padding: 30px;
+    }
+
+    .welcome-screen {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 40px;
+    }
+
+    .welcome-screen h2 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+      font-weight: 600;
+    }
+
+    .welcome-screen p {
+      color: var(--text-muted);
+      max-width: 500px;
+      margin-bottom: 20px;
+    }
+
+    .instructions-box {
+      background-color: var(--tag-bg);
+      border: 1px solid var(--tag-border);
+      border-radius: 8px;
+      padding: 20px;
+      text-align: left;
+      font-family: 'Outfit', sans-serif;
+      max-width: 600px;
+    }
+
+    .instructions-box h3 {
+      font-size: 1rem;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    .instructions-box code {
+      font-family: 'JetBrains Mono', monospace;
+      background-color: rgba(0,0,0,0.05);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+
+    .instructions-box ol {
+      margin-left: 20px;
+      margin-top: 8px;
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    /* Error Message */
+    .error-container {
+      background-color: var(--error-bg);
+      border: 1px solid var(--error-border);
+      color: var(--error-text);
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      max-width: 800px;
+    }
+
+    .error-container h3 {
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .error-container p {
+      font-size: 0.9rem;
+      margin-bottom: 12px;
+    }
+
+    .error-container pre {
+      background-color: rgba(0,0,0,0.05);
+      padding: 10px;
+      border-radius: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      overflow-x: auto;
+    }
+
+    /* Wiki Rendering Components */
+    .wiki-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      max-width: 1000px;
+    }
+
+    .wiki-section-header {
+      font-size: 1.25rem;
+      font-weight: 600;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 6px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      color: var(--text-color);
+    }
+
+    .wiki-card {
+      background: #ffffff;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      gap: 20px;
+      position: relative;
+    }
+
+    .wiki-card-image {
+      width: 54px;
+      height: 54px;
+      object-fit: contain;
+      border-radius: 6px;
+      border: 1px solid var(--border-light);
+      background-color: #fafbfc;
+      flex-shrink: 0;
+      transition: transform 0.2s ease;
+    }
+
+    .wiki-card-image:hover {
+      transform: scale(1.15);
+    }
+
+    .wiki-card-content {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .wiki-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .wiki-card-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-color);
+    }
+
+    .wiki-card-subname {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-top: -2px;
+    }
+
+    .wiki-card-meta {
+      display: flex;
+      gap: 8px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      flex-wrap: wrap;
+    }
+
+    .wiki-card-req {
+      font-size: 0.8rem;
+      color: #9e7313;
+      font-weight: 500;
+    }
+
+    .implicit-mods {
+      margin-top: 4px;
+      border-top: 1px dashed var(--border-light);
+      padding-top: 6px;
+    }
+
+    .explicit-mods {
+      margin-top: 4px;
+      border-top: 1px dashed var(--border-light);
+      padding-top: 6px;
+    }
+
+    .mod-line {
+      font-size: 0.9rem;
+      line-height: 1.4;
+      margin-bottom: 2px;
+    }
+
+    .implicit-mods .mod-line {
+      color: var(--implicit-color);
+    }
+
+    .explicit-mods .mod-line {
+      color: var(--explicit-color);
+    }
+
+    .bullet-desc {
+      list-style-type: none;
+      margin-top: 6px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .bullet-desc li {
+      font-size: 0.9rem;
+      color: var(--text-color);
+      position: relative;
+      padding-left: 14px;
+    }
+
+    .bullet-desc li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: var(--text-muted);
+    }
+
+    .tag-badge {
+      background-color: var(--tag-bg);
+      border: 1px solid var(--tag-border);
+      color: var(--text-muted);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .tag-badge.red-gem {
+      background-color: #ffebe9;
+      color: #a40e26;
+      border-color: #ff8182;
+    }
+
+    .tag-badge.green-gem {
+      background-color: #dafbe1;
+      color: #1a7f37;
+      border-color: #4ac26b;
+    }
+
+    .tag-badge.blue-gem {
+      background-color: #ddf4ff;
+      color: #0969da;
+      border-color: #54aeff;
+    }
+
+    /* Keyword Spec */
+    .keyword-def {
+      font-size: 0.9rem;
+      color: var(--text-color);
+      margin-top: 4px;
+    }
+
+    .external-link {
+      font-size: 0.8rem;
+      color: var(--primary-color);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      margin-top: 4px;
+    }
+
+    .external-link:hover {
+      text-decoration: underline;
+    }
+
+    /* Modifier Table Styles */
+    .mod-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .mod-row {
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      padding: 12px 16px;
+      background-color: #ffffff;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .mod-row-left {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      flex-grow: 1;
+    }
+
+    .mod-row-name-container {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .mod-row-name {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    .mod-row-family {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .mod-row-text {
+      font-size: 0.9rem;
+      color: var(--text-color);
+    }
+
+    .mod-row-level {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #9e7313;
+      background-color: #fcf6e4;
+      border: 1px solid #e2cc95;
+      padding: 2px 8px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    /* Table fallback view */
+    .wiki-table-container {
+      width: 100%;
+      overflow-x: auto;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      margin-bottom: 20px;
+    }
+
+    .wiki-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+      text-align: left;
+    }
+
+    .wiki-table th, .wiki-table td {
+      padding: 10px 15px;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .wiki-table th {
+      background-color: var(--sidebar-bg);
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .wiki-table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* Raw JSON view */
+    .raw-json-container {
+      position: relative;
+      height: 100%;
+    }
+
+    .copy-btn {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      padding: 6px 12px;
+      font-family: inherit;
+      font-size: 0.75rem;
+      font-weight: 600;
+      background-color: #ffffff;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      cursor: pointer;
+      box-shadow: var(--card-shadow);
+      transition: background-color 0.15s ease;
+      z-index: 5;
+    }
+
+    .copy-btn:hover {
+      background-color: var(--tag-bg);
+    }
+
+    .raw-json-pre {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      background-color: #fafbfc;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 20px;
+      overflow: auto;
+      max-height: calc(100vh - 200px);
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+
+    /* Pagination / Show More Button */
+    .show-more-btn {
+      width: 100%;
+      padding: 12px;
+      background-color: #ffffff;
+      border: 1px dashed var(--border-color);
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--primary-color);
+      cursor: pointer;
+      text-align: center;
+      transition: background-color 0.15s ease;
+      margin-top: 10px;
+    }
+
+    .show-more-btn:hover {
+      background-color: var(--tag-bg);
+    }
+
+    /* Scrollbars */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #c1c1c1;
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #a8a8a8;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <h1>PoE2 Wiki Reader</h1>
+      <p>Clean Static Wiki for PoE2 JSONs</p>
+    </div>
+    
+    <div class="sidebar-search-container">
+      <input type="text" id="sidebar-search" class="search-input" placeholder="Search files (e.g. gem, belt)..." oninput="filterSidebar()">
+    </div>
+
+    <div class="sidebar-content" id="sidebar-list">
+      <!-- Generated dynamically -->
+    </div>
+  </div>
+
+  <!-- Main View -->
+  <div class="main-content">
+    
+    <!-- Header (Hidden initially) -->
+    <div class="content-header" id="content-header" style="display: none;">
+      <div class="header-top">
+        <div>
+          <div class="file-path" id="file-path-display">data/keystones.json</div>
+          <div class="file-title-container">
+            <span class="file-title" id="file-title-display">keystones.json</span>
+            <span class="file-badge" id="file-type-badge">Core</span>
+          </div>
+        </div>
+        <div class="view-toggle-container">
+          <button class="view-btn active" id="btn-wiki-view" onclick="switchView('wiki')">Wiki View</button>
+          <button class="view-btn" id="btn-raw-view" onclick="switchView('raw')">Raw JSON</button>
+        </div>
+      </div>
+
+      <div class="filter-bar">
+        <input type="text" id="data-search" class="data-filter-input" placeholder="Filter items in this file..." oninput="triggerDataFilter()">
+        <span class="records-count" id="records-count-display">Showing 0 items</span>
+      </div>
+    </div>
+
+    <!-- Body Container -->
+    <div class="content-body" id="content-body">
+      
+      <!-- Welcome Screen -->
+      <div class="welcome-screen" id="welcome-screen">
+        <h2>Path of Exile 2 Database</h2>
+        <p>Select a JSON data file from the sidebar to browse items, gems, unique gear, passive skills, and modifiers in a clean layout.</p>
+        
+        <div class="instructions-box">
+          <h3><span style="color: #0969da;">💡 Quick Setup for local file loading:</span></h3>
+          <p>Modern browsers block data loading via <code>file://</code> due to security rules. To browse this Wiki properly, start a mini server:</p>
+          <ol>
+            <li>Open terminal in <code>F:\POE2 Database\</code></li>
+            <li>Run this command:
+              <br><code style="display:inline-block; margin: 5px 0; padding: 5px 10px; background: #e1e4e8; border-radius: 4px;">python -m http.server 8000</code>
+            </li>
+            <li>Open your browser to: <a href="http://localhost:8000" target="_blank" style="color: var(--primary-color); font-weight: 500;">http://localhost:8000</a></li>
+          </ol>
+        </div>
+      </div>
+
+      <!-- Loaded Data display -->
+      <div id="data-container" style="display: none;">
+        <!-- Dynamically rendered data -->
+      </div>
+
+      <!-- Raw JSON Display -->
+      <div id="raw-json-container" class="raw-json-container" style="display: none;">
+        <button class="copy-btn" onclick="copyJsonToClipboard()">Copy JSON</button>
+        <pre id="raw-json-pre" class="raw-json-pre"></pre>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    // Files hardcoded mapping
+    const coreFiles = [
+      "ascendancies.json",
+      "gems.json",
+      "keystones.json",
+      "keywords.json",
+      "modifier_links.json",
+      "passive_tree.json",
+      "uniques.json"
+    ];
+
+    const itemsFiles = [
+      "amulets.json",
+      "belts.json",
+      "body_armours.json",
+      "boots.json",
+      "bows.json",
+      "bucklers.json",
+      "charms.json",
+      "claws.json",
+      "crossbows.json",
+      "daggers.json",
+      "flails.json",
+      "foci.json",
+      "gloves.json",
+      "helmets.json",
+      "jewels.json",
+      "life_flasks.json",
+      "mana_flasks.json",
+      "one_hand_axes.json",
+      "one_hand_maces.json",
+      "one_hand_swords.json",
+      "quarterstaves.json",
+      "quivers.json",
+      "relics.json",
+      "rings.json",
+      "sceptres.json",
+      "shields.json",
+      "spears.json",
+      "staves.json",
+      "talismans.json",
+      "traps.json",
+      "two_hand_axes.json",
+      "two_hand_maces.json",
+      "two_hand_swords.json",
+      "wands.json"
+    ];
+
+    const modifiersFiles = [
+      "belt_belts.json",
+      "body_armours_body_armours_dex.json",
+      "body_armours_body_armours_dex_int.json",
+      "body_armours_body_armours_int.json",
+      "body_armours_body_armours_str.json",
+      "body_armours_body_armours_str_dex.json",
+      "body_armours_body_armours_str_dex_int.json",
+      "body_armours_body_armours_str_int.json",
+      "boots_boots_dex.json",
+      "boots_boots_dex_int.json",
+      "boots_boots_int.json",
+      "boots_boots_str.json",
+      "boots_boots_str_dex.json",
+      "boots_boots_str_int.json",
+      "flasks_charms.json",
+      "flasks_life_flasks.json",
+      "flasks_mana_flasks.json",
+      "general_inscribed_ultimatum.json",
+      "general_relics.json",
+      "general_strongbox.json",
+      "gloves_gloves_dex.json",
+      "gloves_gloves_dex_int.json",
+      "gloves_gloves_int.json",
+      "gloves_gloves_str.json",
+      "gloves_gloves_str_dex.json",
+      "gloves_gloves_str_int.json",
+      "helmets_helmets_dex.json",
+      "helmets_helmets_dex_int.json",
+      "helmets_helmets_int.json",
+      "helmets_helmets_str.json",
+      "helmets_helmets_str_dex.json",
+      "helmets_helmets_str_int.json",
+      "jewellery_amulets.json",
+      "jewellery_rings.json",
+      "jewels_diamond.json",
+      "jewels_emerald.json",
+      "jewels_ruby.json",
+      "jewels_sapphire.json",
+      "jewels_time-lost_diamond.json",
+      "jewels_time-lost_emerald.json",
+      "jewels_time-lost_ruby.json",
+      "jewels_time-lost_sapphire.json",
+      "off-hand_bucklers.json",
+      "off-hand_foci.json",
+      "off-hand_quivers.json",
+      "off-hand_shields_str.json",
+      "off-hand_shields_str_dex.json",
+      "off-hand_shields_str_int.json",
+      "one_handed_weapons_claws.json",
+      "one_handed_weapons_daggers.json",
+      "one_handed_weapons_flails.json",
+      "one_handed_weapons_one_hand_axes.json",
+      "one_handed_weapons_one_hand_maces.json",
+      "one_handed_weapons_one_hand_swords.json",
+      "one_handed_weapons_sceptres.json",
+      "one_handed_weapons_spears.json",
+      "one_handed_weapons_wands.json",
+      "relics_amphora_relic.json",
+      "relics_coffer_relic.json",
+      "relics_incense_relic.json",
+      "relics_seal_relic.json",
+      "relics_tapestry_relic.json",
+      "relics_urn_relic.json",
+      "relics_vase_relic.json",
+      "tablet_abyss_tablet.json",
+      "tablet_breach_tablet.json",
+      "tablet_delirium_tablet.json",
+      "tablet_expedition_tablet.json",
+      "tablet_irradiated_tablet.json",
+      "tablet_overseer_tablet.json",
+      "tablet_ritual_tablet.json",
+      "tablet_temple_tablet.json",
+      "two_handed_weapons_bows.json",
+      "two_handed_weapons_crossbows.json",
+      "two_handed_weapons_quarterstaves.json",
+      "two_handed_weapons_staves.json",
+      "two_handed_weapons_talismans.json",
+      "two_handed_weapons_traps.json",
+      "two_handed_weapons_two_hand_axes.json",
+      "two_handed_weapons_two_hand_maces.json",
+      "two_handed_weapons_two_hand_swords.json",
+      "waystones_waystones_low.json",
+      "waystones_waystones_mid.json",
+      "waystones_waystones_top.json"
+    ];
+
+    // Global state
+    let activePath = "";
+    let activeType = "";
+    let activeData = null;
+    let activeView = "wiki";
+    let activePageLimit = 60; // Render limit to avoid browser lag
+
+    // Initialize sidebar
+    function initSidebar() {
+      const container = document.getElementById("sidebar-list");
+      container.innerHTML = "";
+
+      // Add Core Data
+      createGroup(container, "Core Data", coreFiles, "core", "data/");
+      // Add Items
+      createGroup(container, "Items", itemsFiles, "items", "data/items/");
+      // Add Modifiers
+      createGroup(container, "Modifiers", modifiersFiles, "modifiers", "data/modifiers/");
+    }
+
+    function createGroup(parent, title, filesList, typeBadge, pathPrefix) {
+      const groupDiv = document.createElement("div");
+      groupDiv.className = "nav-group";
+
+      const titleDiv = document.createElement("div");
+      titleDiv.className = "nav-group-title";
+      titleDiv.innerHTML = `${title} <span class="nav-group-count">${filesList.length}</span>`;
+      groupDiv.appendChild(titleDiv);
+
+      filesList.forEach(file => {
+        const item = document.createElement("a");
+        item.className = "nav-item";
+        item.innerText = file.replace(".json", "").replace(/_/g, " ");
+        item.setAttribute("data-filename", file);
+        item.setAttribute("data-path", pathPrefix + file);
+        item.setAttribute("data-type", typeBadge);
+        item.onclick = (e) => loadDataFile(e.target);
+        groupDiv.appendChild(item);
+      });
+
+      parent.appendChild(groupDiv);
+    }
+
+    // Sidebar Search / Filter
+    function filterSidebar() {
+      const query = document.getElementById("sidebar-search").value.toLowerCase();
+      const groups = document.querySelectorAll(".nav-group");
+
+      groups.forEach(group => {
+        const items = group.querySelectorAll(".nav-item");
+        let visibleCount = 0;
+
+        items.forEach(item => {
+          const text = item.innerText.toLowerCase();
+          const filename = item.getAttribute("data-filename").toLowerCase();
+          
+          if (text.includes(query) || filename.includes(query)) {
+            item.style.display = "block";
+            visibleCount++;
+          } else {
+            item.style.display = "none";
+          }
+        });
+
+        // Hide group if no visible files
+        if (visibleCount > 0 || query === "") {
+          group.style.display = "block";
+          group.querySelector(".nav-group-count").innerText = visibleCount;
+        } else {
+          group.style.display = "none";
+        }
+      });
+    }
+
+    // Load Data file
+    function loadDataFile(element) {
+      // Manage active state
+      document.querySelectorAll(".nav-item").forEach(item => item.classList.remove("active"));
+      element.classList.add("active");
+
+      const path = element.getAttribute("data-path");
+      const type = element.getAttribute("data-type");
+      const filename = element.getAttribute("data-filename");
+
+      activePath = path;
+      activeType = type;
+      activePageLimit = 60; // reset render limit
+
+      // Hide welcome screen, show header
+      document.getElementById("welcome-screen").style.display = "none";
+      document.getElementById("content-header").style.display = "flex";
+
+      // Set titles
+      document.getElementById("file-path-display").innerText = path;
+      document.getElementById("file-title-display").innerText = filename;
+      
+      const badge = document.getElementById("file-type-badge");
+      badge.innerText = type.toUpperCase();
+      
+      // Clear inputs
+      document.getElementById("data-search").value = "";
+
+      // Fetch file
+      document.getElementById("data-container").innerHTML = "<div style='padding:20px; text-align:center;'>Loading data file...</div>";
+      document.getElementById("data-container").style.display = "block";
+      document.getElementById("raw-json-container").style.display = "none";
+
+      fetch(path)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          activeData = data;
+          switchView(activeView);
+        })
+        .catch(err => {
+          console.error("Fetch failed:", err);
+          showError(path, err);
+        });
+    }
+
+    // Show Error Box (mostly for CORS)
+    function showError(path, err) {
+      const container = document.getElementById("data-container");
+      container.innerHTML = `
+        <div class="error-container">
+          <h3>⚠️ Unable to Load: ${path}</h3>
+          <p>Failed to load the JSON file directly. This is usually caused by browser security (CORS) when opening files directly from the hard drive (<code>file://</code> protocol).</p>
+          <p><strong>To resolve this immediately:</strong></p>
+          <pre>1. Open PowerShell or Command Prompt in: F:\\POE2 Database\\\n2. Run: python -m http.server 8000\n3. Open in your browser: http://localhost:8000/index.html</pre>
+          <p style="margin-top: 10px; font-size: 0.8rem; color: var(--text-muted);">Technical details: ${err.message}</p>
+        </div>
+      `;
+    }
+
+    // Switch between Wiki and Raw JSON
+    function switchView(view) {
+      activeView = view;
+      
+      // Update buttons
+      document.getElementById("btn-wiki-view").classList.toggle("active", view === "wiki");
+      document.getElementById("btn-raw-view").classList.toggle("active", view === "raw");
+
+      if (!activeData) return;
+
+      if (view === "wiki") {
+        document.getElementById("data-container").style.display = "block";
+        document.getElementById("raw-json-container").style.display = "none";
+        renderWikiView();
+      } else {
+        document.getElementById("data-container").style.display = "none";
+        document.getElementById("raw-json-container").style.display = "block";
+        document.getElementById("raw-json-pre").innerText = JSON.stringify(activeData, null, 2);
+      }
+    }
+
+    // Copy to clipboard
+    function copyJsonToClipboard() {
+      if (!activeData) return;
+      navigator.clipboard.writeText(JSON.stringify(activeData, null, 2))
+        .then(() => alert("JSON copied to clipboard!"))
+        .catch(err => alert("Copy failed: " + err));
+    }
+
+    // Search / Filter data
+    let filterTimeout;
+    function triggerDataFilter() {
+      clearTimeout(filterTimeout);
+      filterTimeout = setTimeout(() => {
+        activePageLimit = 60; // Reset pagination limit when search query changes
+        renderWikiView();
+      }, 100);
+    }
+
+    // Base filtering logic
+    function getFilteredItems() {
+      const query = document.getElementById("data-search").value.toLowerCase();
+      if (!activeData) return [];
+
+      // Detect shape and gather item elements
+      let itemsList = [];
+      let structureType = "unknown";
+
+      if (activeData.items && Array.isArray(activeData.items)) {
+        // Standard items shape (amulets, rings, body_armours, etc.)
+        itemsList = activeData.items;
+        structureType = "items";
+      } else if (activeData.prefixes || activeData.suffixes) {
+        // Modifiers shape
+        itemsList = [
+          ...(activeData.prefixes || []).map(p => ({ ...p, modType: "Prefix" })),
+          ...(activeData.suffixes || []).map(s => ({ ...s, modType: "Suffix" }))
+        ];
+        structureType = "modifiers";
+      } else if (activeData.KeystonePassive || activeData.TimelessJewelKeystone) {
+        // Keystones shape
+        itemsList = [
+          ...(activeData.KeystonePassive || []).map(k => ({ ...k, keyType: "Keystone Passive" })),
+          ...(activeData.TimelessJewelKeystone || []).map(k => ({ ...k, keyType: "Timeless Jewel Keystone" }))
+        ];
+        structureType = "keystones";
+      } else if (activeData.grouped && typeof activeData.grouped === 'object') {
+        // Ascendancies shape
+        Object.keys(activeData.grouped).forEach(cls => {
+          activeData.grouped[cls].forEach(node => {
+            itemsList.push({ ...node, ascendancyClass: cls });
+          });
+        });
+        structureType = "ascendancies";
+      } else if (Array.isArray(activeData)) {
+        // Gems, Keywords, or general arrays
+        itemsList = activeData;
+        structureType = "array";
+      } else if (typeof activeData === 'object') {
+        // Generic nested unique categories
+        let hasArrayOfObj = false;
+        Object.keys(activeData).forEach(key => {
+          if (Array.isArray(activeData[key])) {
+            hasArrayOfObj = true;
+            activeData[key].forEach(subItem => {
+              itemsList.push({ ...subItem, objectCategory: key });
+            });
+          }
+        });
+        if (hasArrayOfObj) {
+          structureType = "nested_arrays";
+        } else {
+          structureType = "object";
+        }
+      }
+
+      if (query === "") {
+        return { items: itemsList, type: structureType };
+      }
+
+      // Perform deep text filtering
+      const filtered = itemsList.filter(item => {
+        return JSON.stringify(item).toLowerCase().includes(query);
+      });
+
+      return { items: filtered, type: structureType };
+    }
+
+    // Main Renderer for human readable Wiki view
+    function renderWikiView() {
+      const container = document.getElementById("data-container");
+      const { items, type } = getFilteredItems();
+      
+      document.getElementById("records-count-display").innerText = `Showing ${items.length} items`;
+
+      if (items.length === 0) {
+        container.innerHTML = "<div style='padding: 20px; text-align:center; color: var(--text-muted);'>No items found matching the filter.</div>";
+        return;
+      }
+
+      const isPaginated = items.length > activePageLimit;
+      const visibleItems = items.slice(0, activePageLimit);
+
+      const rootDiv = document.createElement("div");
+      rootDiv.className = "wiki-container";
+
+      // Render top header for meta if available
+      if (type === "items" && (activeData.category || activeData.item_class)) {
+        const info = document.createElement("div");
+        info.style.margin = "0 0 10px 0";
+        info.innerHTML = `<strong>Category:</strong> ${activeData.category || 'N/A'} | <strong>Item Class:</strong> ${activeData.item_class || 'N/A'}`;
+        rootDiv.appendChild(info);
+      } else if (type === "modifiers" && activeData.item_class) {
+        const info = document.createElement("div");
+        info.style.margin = "0 0 10px 0";
+        info.innerHTML = `<strong>Modifiers for Item Class:</strong> ${activeData.item_class}`;
+        rootDiv.appendChild(info);
+      }
+
+      // Smart Render Card list
+      if (type === "items" || type === "nested_arrays") {
+        visibleItems.forEach(item => {
+          const card = createItemCard(item);
+          rootDiv.appendChild(card);
+        });
+      } else if (type === "modifiers") {
+        const grid = document.createElement("div");
+        grid.className = "mod-grid";
+        
+        let lastModType = "";
+        visibleItems.forEach(item => {
+          if (item.modType !== lastModType) {
+            const sec = document.createElement("div");
+            sec.className = "wiki-section-header";
+            sec.innerText = item.modType + "s";
+            grid.appendChild(sec);
+            lastModType = item.modType;
+          }
+          grid.appendChild(createModifierRow(item));
+        });
+        rootDiv.appendChild(grid);
+      } else if (type === "keystones") {
+        let lastType = "";
+        visibleItems.forEach(item => {
+          if (item.keyType !== lastType) {
+            const sec = document.createElement("div");
+            sec.className = "wiki-section-header";
+            sec.innerText = item.keyType;
+            rootDiv.appendChild(sec);
+            lastType = item.keyType;
+          }
+          rootDiv.appendChild(createKeystoneCard(item));
+        });
+      } else if (type === "ascendancies") {
+        let lastClass = "";
+        visibleItems.forEach(item => {
+          if (item.ascendancyClass !== lastClass) {
+            const sec = document.createElement("div");
+            sec.className = "wiki-section-header";
+            sec.innerText = `${item.ascendancyClass} Nodes (${item.character_class || 'N/A'})`;
+            rootDiv.appendChild(sec);
+            lastClass = item.ascendancyClass;
+          }
+          rootDiv.appendChild(createAscendancyCard(item));
+        });
+      } else if (type === "array") {
+        // Detect item type inside array
+        const first = visibleItems[0];
+        if (first && first.definition) {
+          // Keywords format
+          visibleItems.forEach(kw => rootDiv.appendChild(createKeywordCard(kw)));
+        } else if (first && first.tags && first.description) {
+          // Gems format
+          visibleItems.forEach(gem => rootDiv.appendChild(createGemCard(gem)));
+        } else if (first && first.url && first.group) {
+          // Modifier links format
+          rootDiv.appendChild(createLinksTable(visibleItems));
+        } else {
+          // Generic Table Fallback
+          rootDiv.appendChild(createFallbackTable(visibleItems));
+        }
+      } else {
+        // Fallback: If it's a generic JSON object structure
+        rootDiv.appendChild(createFallbackJSONRenderer(activeData));
+      }
+
+      container.innerHTML = "";
+      container.appendChild(rootDiv);
+
+      // Add "Show More" pagination button if needed
+      if (isPaginated) {
+        const moreBtn = document.createElement("button");
+        moreBtn.className = "show-more-btn";
+        moreBtn.innerText = `Show More Items (${items.length - activePageLimit} remaining)`;
+        moreBtn.onclick = () => {
+          activePageLimit += 100;
+          renderWikiView();
+        };
+        container.appendChild(moreBtn);
+      }
+    }
+
+    // Card creators
+    function createItemCard(item) {
+      const card = document.createElement("div");
+      card.className = "wiki-card";
+
+      if (item.image) {
+        const img = document.createElement("img");
+        img.className = "wiki-card-image";
+        img.src = item.image;
+        img.alt = item.name;
+        img.onerror = () => img.style.display = "none";
+        card.appendChild(img);
+      }
+
+      const content = document.createElement("div");
+      content.className = "wiki-card-content";
+
+      const header = document.createElement("div");
+      header.className = "wiki-card-header";
+      
+      const name = document.createElement("div");
+      name.className = "wiki-card-name";
+      name.innerText = item.name;
+      header.appendChild(name);
+
+      if (item.objectCategory) {
+        const categoryBadge = document.createElement("span");
+        categoryBadge.className = "tag-badge";
+        categoryBadge.innerText = item.objectCategory.replace("Unique", " Unique");
+        header.appendChild(categoryBadge);
+      }
+      content.appendChild(header);
+
+      if (item.type_line) {
+        const base = document.createElement("div");
+        base.className = "wiki-card-subname";
+        base.innerText = item.type_line;
+        content.appendChild(base);
+      }
+
+      if (item.requirements) {
+        const req = document.createElement("div");
+        req.className = "wiki-card-req";
+        req.innerText = item.requirements;
+        content.appendChild(req);
+      }
+
+      // Render Properties
+      if (item.properties && item.properties.length > 0) {
+        const props = document.createElement("div");
+        props.className = "wiki-card-meta";
+        item.properties.forEach(p => {
+          const propSpan = document.createElement("span");
+          propSpan.className = "tag-badge";
+          propSpan.innerText = typeof p === 'string' ? p : `${p.name}: ${p.values}`;
+          props.appendChild(propSpan);
+        });
+        content.appendChild(props);
+      }
+
+      // Render Implicits
+      const implicits = item.implicits || item.implicit_mods;
+      if (implicits && implicits.length > 0) {
+        const implDiv = document.createElement("div");
+        implDiv.className = "implicit-mods";
+        implicits.forEach(line => {
+          const l = document.createElement("div");
+          l.className = "mod-line";
+          l.innerText = line;
+          implDiv.appendChild(l);
+        });
+        content.appendChild(implDiv);
+      }
+
+      // Render Explicits
+      const explicits = item.explicits || item.explicit_mods;
+      if (explicits && explicits.length > 0) {
+        const explDiv = document.createElement("div");
+        explDiv.className = "explicit-mods";
+        explicits.forEach(line => {
+          const l = document.createElement("div");
+          l.className = "mod-line";
+          l.innerText = line;
+          explDiv.appendChild(l);
+        });
+        content.appendChild(explDiv);
+      }
+
+      card.appendChild(content);
+      return card;
+    }
+
+    function createModifierRow(item) {
+      const row = document.createElement("div");
+      row.className = "mod-row";
+
+      const left = document.createElement("div");
+      left.className = "mod-row-left";
+
+      const title = document.createElement("div");
+      title.className = "mod-row-name-container";
+
+      const name = document.createElement("span");
+      name.className = "mod-row-name";
+      name.innerText = item.name;
+      title.appendChild(name);
+
+      if (item.family) {
+        const family = document.createElement("span");
+        family.className = "mod-row-family";
+        family.innerText = `(${item.family})`;
+        title.appendChild(family);
+      }
+      left.appendChild(title);
+
+      const text = document.createElement("div");
+      text.className = "mod-row-text";
+      text.innerText = item.text || "";
+      left.appendChild(text);
+
+      row.appendChild(left);
+
+      if (item.level !== undefined) {
+        const level = document.createElement("div");
+        level.className = "mod-row-level";
+        level.innerText = `Lvl ${item.level}`;
+        row.appendChild(level);
+      }
+
+      return row;
+    }
+
+    function createKeystoneCard(item) {
+      const card = document.createElement("div");
+      card.className = "wiki-card";
+
+      if (item.image) {
+        const img = document.createElement("img");
+        img.className = "wiki-card-image";
+        img.src = item.image;
+        img.alt = item.name;
+        img.onerror = () => img.style.display = "none";
+        card.appendChild(img);
+      }
+
+      const content = document.createElement("div");
+      content.className = "wiki-card-content";
+
+      const name = document.createElement("div");
+      name.className = "wiki-card-name";
+      name.innerText = item.name;
+      content.appendChild(name);
+
+      if (item.description && Array.isArray(item.description)) {
+        const descList = document.createElement("ul");
+        descList.className = "bullet-desc";
+        item.description.forEach(line => {
+          const li = document.createElement("li");
+          li.innerText = line;
+          descList.appendChild(li);
+        });
+        content.appendChild(descList);
+      }
+
+      card.appendChild(content);
+      return card;
+    }
+
+    function createAscendancyCard(item) {
+      const card = document.createElement("div");
+      card.className = "wiki-card";
+
+      if (item.image) {
+        const img = document.createElement("img");
+        img.className = "wiki-card-image";
+        img.src = item.image;
+        img.alt = item.name;
+        img.onerror = () => img.style.display = "none";
+        card.appendChild(img);
+      }
+
+      const content = document.createElement("div");
+      content.className = "wiki-card-content";
+
+      const header = document.createElement("div");
+      header.className = "wiki-card-header";
+
+      const name = document.createElement("div");
+      name.className = "wiki-card-name";
+      name.innerText = item.name;
+      header.appendChild(name);
+
+      const classBadge = document.createElement("span");
+      classBadge.className = "tag-badge";
+      classBadge.innerText = item.ascendancy_class;
+      header.appendChild(classBadge);
+      content.appendChild(header);
+
+      if (item.stats && Array.isArray(item.stats)) {
+        const descList = document.createElement("ul");
+        descList.className = "bullet-desc";
+        item.stats.forEach(line => {
+          const li = document.createElement("li");
+          li.innerText = line;
+          descList.appendChild(li);
+        });
+        content.appendChild(descList);
+      }
+
+      card.appendChild(content);
+      return card;
+    }
+
+    function createKeywordCard(item) {
+      const card = document.createElement("div");
+      card.className = "wiki-card";
+
+      const content = document.createElement("div");
+      content.className = "wiki-card-content";
+
+      const name = document.createElement("div");
+      name.className = "wiki-card-name";
+      name.innerText = item.name;
+      content.appendChild(name);
+
+      const def = document.createElement("div");
+      def.className = "keyword-def";
+      def.innerText = item.definition;
+      content.appendChild(def);
+
+      if (item.url) {
+        const link = document.createElement("a");
+        link.className = "external-link";
+        link.href = item.url;
+        link.target = "_blank";
+        link.innerHTML = `View poe2db Page ↗`;
+        content.appendChild(link);
+      }
+
+      card.appendChild(content);
+      return card;
+    }
+
+    function createGemCard(item) {
+      const card = document.createElement("div");
+      card.className = "wiki-card";
+
+      if (item.image) {
+        const img = document.createElement("img");
+        img.className = "wiki-card-image";
+        img.src = item.image;
+        img.alt = item.name;
+        img.onerror = () => img.style.display = "none";
+        card.appendChild(img);
+      }
+
+      const content = document.createElement("div");
+      content.className = "wiki-card-content";
+
+      const header = document.createElement("div");
+      header.className = "wiki-card-header";
+
+      const name = document.createElement("div");
+      name.className = "wiki-card-name";
+      name.innerText = item.name;
+      header.appendChild(name);
+
+      if (item.color) {
+        const colorBadge = document.createElement("span");
+        colorBadge.className = `tag-badge ${item.color.toLowerCase()}-gem`;
+        colorBadge.innerText = item.color;
+        header.appendChild(colorBadge);
+      }
+      content.appendChild(header);
+
+      if (item.tags && Array.isArray(item.tags)) {
+        const tagsDiv = document.createElement("div");
+        tagsDiv.className = "wiki-card-meta";
+        item.tags.forEach(tag => {
+          const t = document.createElement("span");
+          t.className = "tag-badge";
+          t.innerText = tag;
+          tagsDiv.appendChild(t);
+        });
+        content.appendChild(tagsDiv);
+      }
+
+      if (item.description) {
+        const desc = document.createElement("div");
+        desc.className = "keyword-def";
+        desc.style.fontStyle = "italic";
+        desc.style.marginTop = "6px";
+        desc.innerText = item.description;
+        content.appendChild(desc);
+      }
+
+      card.appendChild(content);
+      return card;
+    }
+
+    function createLinksTable(items) {
+      const tableWrapper = document.createElement("div");
+      tableWrapper.className = "wiki-table-container";
+
+      const table = document.createElement("table");
+      table.className = "wiki-table";
+
+      table.innerHTML = `
+        <thead>
+          <tr>
+            <th>Group</th>
+            <th>Name</th>
+            <th>Wiki URL</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${items.map(item => `
+            <tr>
+              <td><strong>${item.group || ''}</strong></td>
+              <td>${item.name || ''}</td>
+              <td><a href="${item.url}" target="_blank" class="external-link" style="margin:0;">${item.url} ↗</a></td>
+            </tr>
+          `).join('')}
+        </tbody>
+      `;
+      tableWrapper.appendChild(table);
+      return tableWrapper;
+    }
+
+    // Generic dynamic table generator
+    function createFallbackTable(items) {
+      const keys = Object.keys(items[0] || {});
+      const tableWrapper = document.createElement("div");
+      tableWrapper.className = "wiki-table-container";
+
+      const table = document.createElement("table");
+      table.className = "wiki-table";
+
+      let headerHTML = "<tr>";
+      keys.forEach(k => {
+        headerHTML += `<th>${k.toUpperCase()}</th>`;
+      });
+      headerHTML += "</tr>";
+
+      let bodyHTML = "";
+      items.forEach(item => {
+        bodyHTML += "<tr>";
+        keys.forEach(k => {
+          let val = item[k];
+          if (typeof val === 'object') {
+            val = JSON.stringify(val);
+          }
+          bodyHTML += `<td>${val === undefined ? '' : val}</td>`;
+        });
+        bodyHTML += "</tr>";
+      });
+
+      table.innerHTML = `
+        <thead>${headerHTML}</thead>
+        <tbody>${bodyHTML}</tbody>
+      `;
+      tableWrapper.appendChild(table);
+      return tableWrapper;
+    }
+
+    // Recursive object representation for generic JSON
+    function createFallbackJSONRenderer(obj) {
+      const container = document.createElement("div");
+      container.style.padding = "20px";
+      container.style.border = "1px solid var(--border-color)";
+      container.style.borderRadius = "8px";
+      container.style.backgroundColor = "#fafbfc";
+      
+      const pre = document.createElement("pre");
+      pre.style.fontFamily = "'JetBrains Mono', monospace";
+      pre.style.fontSize = "0.85rem";
+      pre.style.whiteSpace = "pre-wrap";
+      pre.innerText = JSON.stringify(obj, null, 2);
+      
+      container.appendChild(pre);
+      return container;
+    }
+
+    // Run initialization
+    initSidebar();
+  </script>
+</body>
+</html>
